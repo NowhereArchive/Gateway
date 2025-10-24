@@ -18,6 +18,7 @@ jobs:
         run: |
           git clone https://github.com/NowhereArchive/NowhereAudios2.git
           cd NowhereAudios2
+          Copy-Item "$env:GITHUB_WORKSPACE\vgmstream-cli.exe" .\
           
           $vgmstream = "$PWD\vgmstream-cli.exe"
           if (!(Test-Path $vgmstream)) {
