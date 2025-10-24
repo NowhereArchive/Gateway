@@ -20,8 +20,8 @@ jobs:
           cd NowhereAudios2
 
           # Copy vgmstream-cli.exe from workflow repo
-          Copy-Item "$env:GITHUB_WORKSPACE\vgmstream-cli.exe" .\
-          $vgmstream = ".\vgmstream-cli.exe"
+
+          $vgmstream = "..\vgmstream-cli.exe"
 
           if (!(Test-Path $vgmstream)) {
             Write-Host "❌ vgmstream-cli.exe not found at $vgmstream"
