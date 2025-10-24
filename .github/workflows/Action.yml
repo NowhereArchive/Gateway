@@ -56,8 +56,7 @@ jobs:
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
 
           # Point to new repo
-          git remote set-url origin https://github.com/NowhereArchive/NowhereAudios3.git
-
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios3.git
           git add .
           git commit -m "Convert WEM to AAC" || echo "No changes to commit"
           git push -u origin main --force
