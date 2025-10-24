@@ -12,8 +12,14 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg python3 python3-pip
-          pip3 install ww2ogg revorb
+          sudo apt-get install -y ffmpeg git
+          
+          # Download and setup ww2ogg
+          git clone https://github.com/hcs64/ww2ogg.git
+          cd ww2ogg
+          # Download packed codebooks
+          wget https://raw.githubusercontent.com/hcs64/ww2ogg/master/packed_codebooks_aoTuV_603.bin
+          cd ..
       
       - name: Clone and update repo
         run: |
@@ -24,19 +30,17 @@ jobs:
           find . -name "*.wem" -type f | while read wem_file; do
             echo "Processing: $wem_file"
             
-            # Get the base filename without extension
             base_name="${wem_file%.wem}"
             ogg_file="${base_name}.ogg"
             aac_file="${base_name}.aac"
             
             # WEM to OGG (using ww2ogg)
-            ww2ogg "$wem_file" -o "$ogg_file" --pcb packed_codebooks_aoTuV_603.bin || {
-              echo "Failed to convert $wem_file to OGG, trying alternative method..."
-              # Fallback: try direct ffmpeg conversion
+            ../ww2ogg/ww2ogg "$wem_file" -o "$ogg_file" --pcb ../ww2ogg/packed_codebooks_aoTuV_603.bin || {
+              echo "Failed with ww2ogg, trying ffmpeg directly..."
               ffmpeg -i "$wem_file" -acodec libvorbis "$ogg_file" -y || continue
             }
             
-            # OGG to AAC (using ffmpeg)
+            # OGG to AAC
             if [ -f "$ogg_file" ]; then
               ffmpeg -i "$ogg_file" -c:a aac -b:a 192k "$aac_file" -y
               
@@ -48,7 +52,6 @@ jobs:
             fi
           done
           
-          # Commit and push changes
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           git add .
