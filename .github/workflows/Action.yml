@@ -42,7 +42,7 @@ jobs:
             & $vgmstream "$wemFile" -o "$oggFile"
 
             if (Test-Path $oggFile) {
-              ffmpeg -i "$oggFile" -c:a aac -b:a 192k "$aacFile" -y
+              ffmpeg -i "$oggFile" "$aacFile"
               if (Test-Path $aacFile) {
                 Remove-Item $wemFile, $oggFile
                 Write-Host "✅ Converted: $aacFile"
