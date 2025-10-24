@@ -7,7 +7,7 @@ jobs:
   push_changes:
     runs-on: windows-latest
     steps:
-      - name: Checkout (with ww2ogg.exe in your repo)
+      - name: Checkout (with vgmstream-cli.exe in your repo)
         uses: actions/checkout@v4
 
       - name: Install ffmpeg
@@ -18,27 +18,29 @@ jobs:
         run: |
           git clone https://github.com/NowhereArchive/NowhereAudios2.git
           cd NowhereAudios2
+
+          # Copy vgmstream-cli.exe from workflow repo
           Copy-Item "$env:GITHUB_WORKSPACE\vgmstream-cli.exe" .\
-          
-          $vgmstream = "$env:GITHUB_WORKSPACE\vgmstream-cli.exe"
+          $vgmstream = ".\vgmstream-cli.exe"
 
           if (!(Test-Path $vgmstream)) {
             Write-Host "❌ vgmstream-cli.exe not found at $vgmstream"
             exit 1
           }
-          
+
           Write-Host "Using vgmstream at: $vgmstream"
           & $vgmstream --version
-          
+
+          # Convert all WEM files
           Get-ChildItem -Recurse -Filter "*.wem" | ForEach-Object {
             $wemFile = $_.FullName
             $baseName = $wemFile -replace '\.wem$', ''
             $oggFile = "$baseName.ogg"
             $aacFile = "$baseName.aac"
-            
+
             Write-Host "Processing: $wemFile"
             & $vgmstream "$wemFile" -o "$oggFile"
-            
+
             if (Test-Path $oggFile) {
               ffmpeg -i "$oggFile" -c:a aac -b:a 192k "$aacFile" -y
               if (Test-Path $aacFile) {
@@ -49,13 +51,13 @@ jobs:
               Write-Host "❌ Failed to convert: $wemFile"
             }
           }
-          
+
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
+
+          # Point to new repo
+          git remote set-url origin https://github.com/NowhereArchive/NowhereAudios3.git
+
           git add .
-          if (git diff --cached --quiet) {
-            Write-Host "No changes to commit."
-          } else {
-            git commit -m "Convert WEM to AAC"
-            git push --force https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios2.git HEAD:main
-          }
+          git commit -m "Convert WEM to AAC" || echo "No changes to commit"
+          git push -u origin main --force
