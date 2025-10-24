@@ -4,56 +4,43 @@ on:
     branches: [main]
 jobs:
   push_changes:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
-      - name: Checkout
+      - name: Checkout (with ww2ogg.exe in your repo)
         uses: actions/checkout@v4
       
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg git
-          
-          # Download and setup ww2ogg
-          git clone https://github.com/hcs64/ww2ogg.git
-          cd ww2ogg
-          # Download packed codebooks
-          wget https://raw.githubusercontent.com/hcs64/ww2ogg/master/packed_codebooks_aoTuV_603.bin
-          cd ..
+      - name: Install ffmpeg
+        run: choco install ffmpeg -y
       
       - name: Clone and update repo
         run: |
           git clone https://github.com/NowhereArchive/NowhereAudios2.git
           cd NowhereAudios2
           
-          # Convert WEM to OGG to AAC
-          find . -name "*.wem" -type f | while read wem_file; do
-            echo "Processing: $wem_file"
+          Get-ChildItem -Recurse -Filter "*.wem" | ForEach-Object {
+            $wemFile = $_.FullName
+            $baseName = $_.FullName -replace '\.wem$', ''
+            $oggFile = "$baseName.ogg"
+            $aacFile = "$baseName.aac"
             
-            base_name="${wem_file%.wem}"
-            ogg_file="${base_name}.ogg"
-            aac_file="${base_name}.aac"
+            Write-Host "Processing: $wemFile"
             
-            # WEM to OGG (using ww2ogg)
-            ../ww2ogg/ww2ogg "$wem_file" -o "$ogg_file" --pcb ../ww2ogg/packed_codebooks_aoTuV_603.bin || {
-              echo "Failed with ww2ogg, trying ffmpeg directly..."
-              ffmpeg -i "$wem_file" -acodec libvorbis "$ogg_file" -y || continue
-            }
+            # Use ww2ogg.exe from your repo (adjust path as needed)
+            & ..\ww2ogg.exe "$wemFile" -o "$oggFile"
             
-            # OGG to AAC
-            if [ -f "$ogg_file" ]; then
-              ffmpeg -i "$ogg_file" -c:a aac -b:a 192k "$aac_file" -y
+            if (Test-Path $oggFile) {
+              ffmpeg -i "$oggFile" -c:a aac -b:a 192k "$aacFile" -y
               
-              # Clean up intermediate files
-              if [ -f "$aac_file" ]; then
-                rm "$wem_file" "$ogg_file"
-                echo "✅ Converted: $aac_file"
-              fi
-            fi
-          done
+              if (Test-Path $aacFile) {
+                Remove-Item $wemFile, $oggFile
+                Write-Host "✅ Converted: $aacFile"
+              }
+            }
+          }
           
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           git add .
-          git commit -m "Convert WEM to AAC" || echo "No changes to commit"
+          git commit -m "Convert WEM to AAC"
           git push --force https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios2.git HEAD:main
+        shell: pwsh
