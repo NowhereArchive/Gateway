@@ -15,7 +15,7 @@ jobs:
         run: |
           git clone https://github.com/NowhereArchive/NowhereAudios3.git
           cd NowhereAudios3
-          Copy-Item ../* -Recurse -Force
+          Copy-Item ../* -Recurse -Force -Exclude ".git", ".github", "NowhereAudios3"
           
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
