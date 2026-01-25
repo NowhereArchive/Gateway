@@ -13,8 +13,8 @@ jobs:
           git clone https://github.com/NowhereArchive/nowherearchive.github.io.git
           git clone https://github.com/NowhereArchive/NowhereImages.git
 
-          md NowhereImages/logos
-          Copy-Item nowherearchive.github.io/characters/logos/* -Recurse -Force NowhereImages/logos
+          md NowhereImages/CgsThumbnails
+          Copy-Item nowherearchive.github.io/CGs/chapters/* -Recurse -Force NowhereImages/CgsThumbnails
           
           cd NowhereImages
           git config user.name "NowhereArchive"
