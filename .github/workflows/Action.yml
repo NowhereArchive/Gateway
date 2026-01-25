@@ -1,0 +1,26 @@
+name: Apply to Main repo
+on:
+  push:
+    branches: [main]
+
+jobs:
+  push_changes:
+    runs-on: windows-latest
+    steps:
+      - name: Clone and update repo
+        shell: pwsh
+        run: |
+          git clone https://github.com/NowhereArchive/nowherearchive.github.io.git
+          git clone https://github.com/NowhereArchive/NowhereImages.git
+
+          md NowhereImages/prison
+          Copy-Item nowherearchive.github.io/characters/images/* -Recurse -Force NowhereImages/prison
+          
+          cd NowhereImages
+          git config user.name "NowhereArchive"
+          git config user.email "178385478+NowhereArchive@users.noreply.github.com"
+
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereImages.git
+          git add .
+          git commit -m "Updates" || echo "No changes to commit"
+          git push -u origin main
