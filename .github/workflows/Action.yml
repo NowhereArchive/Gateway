@@ -29,7 +29,7 @@ jobs:
           
           # Set remote to your destination repo
           git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/AssetStudio.git
-          
+          git branch -M main
           git add .
           # Check if there are changes before committing to avoid errors
           if [ -n "$(git status --porcelain)" ]; then
