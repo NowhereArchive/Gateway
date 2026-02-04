@@ -1,26 +1,40 @@
-name: Apply to Main repo
+name: CodeChange
 on:
   push:
     branches: [main]
 
 jobs:
-  push_changes:
+  build:
     runs-on: windows-latest
     steps:
-      - name: Clone and update repo
-        shell: pwsh
-        run: |
-          git clone https://github.com/NowhereArchive/nowherearchive.github.io.git
-          git clone https://github.com/NowhereArchive/NowhereImages.git
+      - name: Checkout local files
+        uses: actions/checkout@v4
 
-          md NowhereImages/CgsThumbnails
-          Copy-Item nowherearchive.github.io/CGs/images/* -Recurse -Force NowhereImages/CgsThumbnails
-          
-          cd NowhereImages
+      - name: Clone target repo
+        run: git clone https://github.com/aelurum/AssetStudio.git target_repo
+
+      - name: Copy and Overwrite
+        shell: bash
+        run: |
+          cp -f BundleNameParser.cs target_repo/AssetStudioGUI/
+          cp -f Studio.cs target_repo/AssetStudioGUI/
+          cp -f Live2DModelGroupOption.cs target_repo/AssetStudioUtility/CubismLive2DExtractor/
+
+      - name: Repush
+        shell: bash
+        run: |
+          cd target_repo
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
-
-          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereImages.git
+          
+          # Set remote to your destination repo
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/AssetStudio.git
+          
           git add .
-          git commit -m "Updates" || echo "No changes to commit"
-          git push -u origin main
+          # Check if there are changes before committing to avoid errors
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Updates"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
