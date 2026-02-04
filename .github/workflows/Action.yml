@@ -20,6 +20,7 @@ jobs:
           cp -f Studio.cs target_repo/AssetStudioGUI/
           cp -f Live2DModelGroupOption.cs target_repo/AssetStudioUtility/CubismLive2DExtractor/
           cp -f build.yml target_repo/.github/workflows/
+          cp -f AssetStudioGUI.csproj target_repo/AssetStudioGUI/
 
       - name: Repush
         shell: bash
