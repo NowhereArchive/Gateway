@@ -14,10 +14,10 @@ jobs:
         run: git clone https://github.com/NowhereArchive/NowhereCGs.git target_repo
 
       - name: Add
-        shell: bash
+        shell: pwsh
         run: |
-          mkdir -p target_repo/CGs/2026
-          cp -r ./* target_repo/CGs/2026
+          mkdir target_repo/CGs/2026
+          cp -File * target_repo/CGs/2026
 
       - name: Repush
         shell: bash
