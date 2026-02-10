@@ -11,16 +11,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Clone target repo
-        run: git clone https://github.com/aelurum/AssetStudio.git target_repo
+        run: git clone https://github.com/NowhereArchive/NowhereCGs.git target_repo
 
-      - name: Copy and Overwrite
+      - name: Add
         shell: bash
         run: |
-          cp -f BundleNameParser.cs target_repo/AssetStudioGUI/
-          cp -f Studio.cs target_repo/AssetStudioGUI/
-          cp -f Live2DModelGroupOption.cs target_repo/AssetStudioUtility/CubismLive2DExtractor/
-          cp -f build.yml target_repo/.github/workflows/
-          cp -f AssetStudioGUI.csproj target_repo/AssetStudioGUI/
+          mkdir -p target_repo/CGs/2026
+          cp -r ./* target_repo/CGs/2026
 
       - name: Repush
         shell: bash
@@ -30,8 +27,7 @@ jobs:
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
           # Set remote to your destination repo
-          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/AssetStudio.git
-          git branch -M main
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereCGs.git
           git add .
           # Check if there are changes before committing to avoid errors
           if [ -n "$(git status --porcelain)" ]; then
