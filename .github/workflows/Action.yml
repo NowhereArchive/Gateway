@@ -17,7 +17,7 @@ jobs:
         shell: pwsh
         run: |
           mkdir target_repo/CGs/2026
-          rsync -av --exclude='target_repo' ./ target_repo/
+          Get-ChildItem . -Include *.png | Copy-Item -Destination 'target_repo/CGs/2026'
 
       - name: Repush
         shell: bash
