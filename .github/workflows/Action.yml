@@ -17,7 +17,7 @@ jobs:
         shell: pwsh
         run: |
           Get-ChildItem . -Dir | % { 
-              if ($_.Name -notlike "*.git*" && $_.Name -notlike "*NowhereImages*") { 
+              if ($_.Name -notlike "*.git*" -and $_.Name -notlike "*NowhereImages*") { 
                   Write-Host "Copying: $($_.Name)"
                   cp $_.FullName NowhereImages/CGs -r -Force 
               } 
