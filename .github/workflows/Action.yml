@@ -16,10 +16,11 @@ jobs:
       - name: Add files to destination repo
         shell: pwsh
         run: |
+          rm -r NowhereImages/CGs
           Get-ChildItem . -Dir | % { 
               if ($_.Name -notlike "*.git*" -and $_.Name -notlike "*NowhereImages*") { 
                   Write-Host "Copying: $($_.Name)"
-                  cp $_.FullName NowhereImages/CGs -r -Force 
+                  cp $_.FullName NowhereImages/CgsThumbnails -r -Force 
               } 
           }
 
