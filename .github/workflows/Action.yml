@@ -10,24 +10,27 @@ jobs:
       - name: Checkout local files
         uses: actions/checkout@v4
 
-      - name: Clone target repo
-        run: git clone https://github.com/NowhereArchive/NowhereCGs.git target_repo
+      - name: Clone main repo
+        run: git clone https://github.com/NowhereArchive/nowherearchive.github.io.git target_repo
 
-      - name: Add
+      - name: Clone destination repo
+        run: git clone https://github.com/NowhereArchive/NowhereDev.git
+
+      - name: Add files to destination repo
         shell: pwsh
         run: |
-          mkdir target_repo/CGs/2026
-          Get-ChildItem . -Filter *.png | Copy-Item -Destination 'target_repo/CGs/2026'
+          copy-item -Path "target_repo/characters/CharactersJson" -Destination "NowhereDev/" -Recurse -Force
+          copy-item -Path "target_repo/characters/characters.json" -Destination "NowhereDev/" -Force
 
       - name: Repush
         shell: bash
         run: |
-          cd target_repo
+          cd NowhereDev
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
           # Set remote to your destination repo
-          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereCGs.git
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev.git
           git add .
           # Check if there are changes before committing to avoid errors
           if [ -n "$(git status --porcelain)" ]; then
