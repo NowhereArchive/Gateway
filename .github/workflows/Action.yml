@@ -43,7 +43,7 @@ jobs:
       - name: Push renamed audio files to NowhereDev2
         if: ${{ inputs.dry_run == 'false' }}
         run: |
-          cp -r NowhereAudios4 NowhereDev2
+          cp -r NowhereAudios4/. NowhereDev2/
           cd NowhereDev2
           git config user.name  "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
