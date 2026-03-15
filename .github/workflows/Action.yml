@@ -11,28 +11,25 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Clone destination repo
-        run: git clone https://github.com/NowhereArchive/NowhereImages.git
+        run: git clone https://github.com/NowhereArchive/NowhereAudios.git
+        run: git clone https://github.com/NowhereArchive/NowhereDev.git
 
       - name: Add files to destination repo
         shell: pwsh
         run: |
-          rm -r NowhereImages/CGs
-          Get-ChildItem . -Dir | % { 
-              if ($_.Name -notlike "*.git*" -and $_.Name -notlike "*NowhereImages*") { 
-                  Write-Host "Copying: $($_.Name)"
-                  cp $_.FullName NowhereImages/CgsThumbnails -r -Force 
-              } 
-          }
+          md voicelines
+          cp -r NowhereAudios/audio voicelines
+          cp -r NowhereDev/CharactersJson voicelines
 
       - name: Repush
         shell: bash
         run: |
-          cd NowhereImages
+          cd voicelines
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
           # Set remote to your destination repo
-          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereImages.git
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios4.git
           git add .
           # Check if there are changes before committing to avoid errors
           if [ -n "$(git status --porcelain)" ]; then
