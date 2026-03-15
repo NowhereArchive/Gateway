@@ -43,7 +43,7 @@ jobs:
           cd NowhereAudios4
           git config user.name  "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
-
+          git pull origin main
           # Push to dev repo, not the real one — verify here before touching NowhereAudios4
           git remote add dev https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
           git add audio/
