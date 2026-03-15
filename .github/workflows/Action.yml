@@ -27,6 +27,7 @@ jobs:
         shell: bash
         run: |
           cd voicelines
+          git init
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
