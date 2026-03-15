@@ -37,15 +37,18 @@ jobs:
             --audio-dir ./NowhereAudios4/audio \
             --dry-run   "${{ inputs.dry_run }}"
 
+      - name: Clone NowhereDev2
+        run: git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
+
       - name: Push renamed audio files to NowhereDev2
         if: ${{ inputs.dry_run == 'false' }}
         run: |
-          cd NowhereAudios4
+          cp -r NowhereAudios4 NowhereDev2
+          cd NowhereDev2
           git config user.name  "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           # Push to dev repo, not the real one — verify here before touching NowhereAudios4
-          git remote add dev https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
-          git pull dev main
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
           git add audio/
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "chore: rename audio files and folders to match updated voiceline JSONs"
