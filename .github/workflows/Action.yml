@@ -22,7 +22,7 @@ jobs:
 
       - name: Clone audio repo
         run: |
-          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios.git
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios4.git
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,19 +32,19 @@ jobs:
       - name: Run rename script
         run: |
           python rename_audio.py \
-            --old-dir   ./NowhereAudios/CharactersJson \
+            --old-dir   ./NowhereAudios4/CharactersJson \
             --new-dir   ./newJson/voicelines \
-            --audio-dir ./NowhereAudios/audio \
+            --audio-dir ./NowhereAudios4/audio \
             --dry-run   "${{ inputs.dry_run }}"
 
       - name: Push renamed audio files to NowhereDev2
         if: ${{ inputs.dry_run == 'false' }}
         run: |
-          cd NowhereAudios
+          cd NowhereAudios4
           git config user.name  "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
 
-          # Push to dev repo, not the real one — verify here before touching NowhereAudios
+          # Push to dev repo, not the real one — verify here before touching NowhereAudios4
           git remote add dev https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
           git add audio/
           if [ -n "$(git status --porcelain)" ]; then
