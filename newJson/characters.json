@@ -2,6 +2,7 @@
     "characters": [
         {
             "name": "dimeng",
+            "slug": "demon",
             "displayName": "Demon",
             "rank": "S",
             "libram": "ANGER",
@@ -20,6 +21,7 @@
         },
         {
             "name": "owo",
+            "slug": "owo",
             "displayName": "OwO",
             "rank": "S",
             "libram": "SLOTH",
@@ -42,6 +44,7 @@
         },
         {
             "name": "rahu",
+            "slug": "rahu",
             "displayName": "Rahu",
             "rank": "S",
             "libram": "ANGER",
@@ -64,6 +67,7 @@
         },
         {
             "name": "vanilla",
+            "slug": "vanilla",
             "displayName": "Vanilla",
             "rank": "S",
             "libram": "IMMORTAL",
@@ -86,6 +90,7 @@
         },
         {
             "name": "moore",
+            "slug": "moore",
             "displayName": "Moore",
             "rank": "S",
             "libram": "PESTILENCE",
@@ -104,6 +109,7 @@
         },
         {
             "name": "yugu",
+            "slug": "yugu",
             "displayName": "Yugu",
             "rank": "S",
             "libram": "FRAUD",
@@ -122,6 +128,7 @@
         },
         {
             "name": "rust",
+            "slug": "rust",
             "displayName": "Rust",
             "rank": "S",
             "libram": "TREACHERY",
@@ -136,6 +143,7 @@
         },
         {
             "name": "zoya",
+            "slug": "zoya",
             "displayName": "Zoya",
             "rank": "S",
             "libram": "VIOLENCE",
@@ -162,6 +170,7 @@
         },
         {
             "name": "nuokesi",
+            "slug": "nox",
             "displayName": "NOX",
             "rank": "S",
             "libram": "LIMBO",
@@ -188,6 +197,7 @@
         },
         {
             "name": "deren",
+            "slug": "deren",
             "displayName": "Deren",
             "rank": "S",
             "libram": "FRAUD",
@@ -210,6 +220,7 @@
         },
         {
             "name": "don",
+            "slug": "donald",
             "displayName": "Donald",
             "rank": "S",
             "libram": "TREACHERY",
@@ -228,6 +239,7 @@
         },
         {
             "name": "yao",
+            "slug": "yao",
             "displayName": "Yao",
             "rank": "S",
             "libram": "LIMBO",
@@ -250,6 +262,7 @@
         },
         {
             "name": "pylgia",
+            "slug": "pylgia",
             "displayName": "Pylgia",
             "rank": "S",
             "libram": "IMMORTAL",
@@ -268,6 +281,7 @@
         },
         {
             "name": "jotaro",
+            "slug": "kujo_jotaro",
             "displayName": "Kujo Jotaro",
             "rank": "S",
             "libram": "INFINITE",
@@ -282,6 +296,7 @@
         },
         {
             "name": "jasmine",
+            "slug": "jasmine",
             "displayName": "Jasmine",
             "rank": "S",
             "libram": "WAR",
@@ -300,6 +315,7 @@
         },
         {
             "name": "synex",
+            "slug": "synex",
             "displayName": "Synex",
             "rank": "S",
             "libram": "FAMINE",
@@ -318,6 +334,7 @@
         },
         {
             "name": "linglan",
+            "slug": "bai_yi",
             "displayName": "Bai Yi",
             "rank": "S",
             "libram": "TREACHERY",
@@ -344,6 +361,7 @@
         },
         {
             "name": "crache",
+            "slug": "crache",
             "displayName": "Crache",
             "rank": "S",
             "libram": "LIMBO",
@@ -370,6 +388,7 @@
         },
         {
             "name": "snake",
+            "slug": "serpent",
             "displayName": "Serpent",
             "rank": "S",
             "libram": "LOVE",
@@ -396,6 +415,7 @@
         },
         {
             "name": "adela",
+            "slug": "adela",
             "displayName": "Adela",
             "rank": "S",
             "libram": "SLOTH",
@@ -418,6 +438,7 @@
         },
         {
             "name": "mantis",
+            "slug": "mantis",
             "displayName": "Mantis",
             "rank": "S",
             "libram": "IMMORTAL",
@@ -436,6 +457,7 @@
         },
         {
             "name": "angel",
+            "slug": "angell",
             "displayName": "Angell",
             "rank": "S",
             "libram": "PESTILENCE",
@@ -458,6 +480,7 @@
         },
         {
             "name": "jolyne",
+            "slug": "jolyne_cujoh",
             "displayName": "Jolyne Cujoh",
             "rank": "S",
             "libram": "INFINITE",
@@ -472,6 +495,7 @@
         },
         {
             "name": "zero",
+            "slug": "000",
             "displayName": "000",
             "rank": "S",
             "libram": "PESTILENCE",
@@ -494,6 +518,7 @@
         },
         {
             "name": "graves",
+            "slug": "graves",
             "displayName": "Graves",
             "rank": "S",
             "libram": "DEATH",
@@ -512,6 +537,7 @@
         },
         {
             "name": "hellasp",
+            "slug": "necrestahella",
             "displayName": "Necresta·Hella",
             "rank": "S",
             "libram": "FAMINE",
@@ -526,6 +552,7 @@
         },
         {
             "name": "ceto",
+            "slug": "ceto",
             "displayName": "Ceto",
             "rank": "S",
             "libram": "WAR",
@@ -540,6 +567,7 @@
         },
         {
             "name": "hitomi",
+            "slug": "kisugi_hitomi",
             "displayName": "Kisugi Hitomi",
             "rank": "S",
             "libram": "INFINITE",
@@ -558,6 +586,7 @@
         },
         {
             "name": "xiayin",
+            "slug": "summer",
             "displayName": "Summer",
             "rank": "S",
             "libram": "HERESY",
@@ -580,6 +609,7 @@
         },
         {
             "name": "lanli",
+            "slug": "langley",
             "displayName": "Langley",
             "rank": "S",
             "libram": "TREACHERY",
@@ -602,6 +632,7 @@
         },
         {
             "name": "oak",
+            "slug": "oak_casket",
             "displayName": "Oak Casket",
             "rank": "S",
             "libram": "SLOTH",
@@ -624,6 +655,7 @@
         },
         {
             "name": "dreya",
+            "slug": "dreya",
             "displayName": "Dreya",
             "rank": "S",
             "libram": "IMMORTAL",
@@ -646,6 +678,7 @@
         },
         {
             "name": "shalom",
+            "slug": "shalom",
             "displayName": "Shalom",
             "rank": "S",
             "libram": "SLOTH",
@@ -668,6 +701,7 @@
         },
         {
             "name": "pearl",
+            "slug": "lady_pearl",
             "displayName": "Lady Pearl",
             "rank": "S",
             "libram": "SLOTH",
@@ -690,6 +724,7 @@
         },
         {
             "name": "bianca",
+            "slug": "bianca",
             "displayName": "Bianca",
             "rank": "S",
             "libram": "PESTILENCE",
@@ -712,6 +747,7 @@
         },
         {
             "name": "korryn",
+            "slug": "korryn",
             "displayName": "Korryn",
             "rank": "S",
             "libram": "FAMINE",
@@ -730,6 +766,7 @@
         },
         {
             "name": "hypatia",
+            "slug": "hypatia",
             "displayName": "Hypatia",
             "rank": "S",
             "libram": "FAMINE",
@@ -748,6 +785,7 @@
         },
         {
             "name": "augustus",
+            "slug": "augustus",
             "displayName": "Augustus",
             "rank": "S",
             "libram": "WAR",
@@ -762,6 +800,7 @@
         },
         {
             "name": "heli",
+            "slug": "eirene",
             "displayName": "Eirene",
             "rank": "S",
             "libram": "GREED",
@@ -788,6 +827,7 @@
         },
         {
             "name": "anarkia",
+            "slug": "stargazer",
             "displayName": "Stargazer",
             "rank": "S",
             "libram": "HERESY",
@@ -810,6 +850,7 @@
         },
         {
             "name": "etti",
+            "slug": "etti",
             "displayName": "Etti",
             "rank": "S",
             "libram": "FRAUD",
@@ -832,6 +873,7 @@
         },
         {
             "name": "raven",
+            "slug": "raven",
             "displayName": "Raven",
             "rank": "S",
             "libram": "FRAUD",
@@ -854,6 +896,7 @@
         },
         {
             "name": "eleven",
+            "slug": "eleven",
             "displayName": "Eleven",
             "rank": "S",
             "libram": "SLOTH",
@@ -876,6 +919,7 @@
         },
         {
             "name": "hestia",
+            "slug": "hestia",
             "displayName": "Hestia",
             "rank": "S",
             "libram": "IMMORTAL",
@@ -898,6 +942,7 @@
         },
         {
             "name": "vautour",
+            "slug": "vautour_bleu",
             "displayName": "Vautour Bleu",
             "rank": "S",
             "libram": "FAMINE",
@@ -920,6 +965,7 @@
         },
         {
             "name": "yingying",
+            "slug": "yingying",
             "displayName": "Yingying",
             "rank": "S",
             "libram": "LOVE",
@@ -938,6 +984,7 @@
         },
         {
             "name": "milly",
+            "slug": "milly",
             "displayName": "Milly",
             "rank": "S",
             "libram": "DEATH",
@@ -956,6 +1003,7 @@
         },
         {
             "name": "hilda",
+            "slug": "hilda",
             "displayName": "Hilda",
             "rank": "S",
             "libram": "SEQUESTER",
@@ -970,6 +1018,7 @@
         },
         {
             "name": "rui",
+            "slug": "kisugi_rui",
             "displayName": "Kisugi Rui",
             "rank": "S",
             "libram": "INFINITE",
@@ -988,6 +1037,7 @@
         },
         {
             "name": "hameier",
+            "slug": "hamel",
             "displayName": "Hamel",
             "rank": "S",
             "libram": "LOVE",
@@ -1014,6 +1064,7 @@
         },
         {
             "name": "enfer",
+            "slug": "enfer",
             "displayName": "Enfer",
             "rank": "S",
             "libram": "LIMBO",
@@ -1036,6 +1087,7 @@
         },
         {
             "name": "cab",
+            "slug": "cabernet",
             "displayName": "Cabernet",
             "rank": "S",
             "libram": "SLOTH",
@@ -1062,6 +1114,7 @@
         },
         {
             "name": "coquelicot",
+            "slug": "coquelic",
             "displayName": "Coquelic",
             "rank": "S",
             "libram": "LIMBO",
@@ -1084,6 +1137,7 @@
         },
         {
             "name": "eve",
+            "slug": "eve",
             "displayName": "Eve",
             "rank": "S",
             "libram": "LOVE",
@@ -1106,6 +1160,7 @@
         },
         {
             "name": "duruo",
+            "slug": "du_ruo",
             "displayName": "Du Ruo",
             "rank": "S",
             "libram": "FRAUD",
@@ -1132,6 +1187,7 @@
         },
         {
             "name": "ll",
+            "slug": "ll",
             "displayName": "L.L.",
             "rank": "S",
             "libram": "PESTILENCE",
@@ -1150,6 +1206,7 @@
         },
         {
             "name": "jelena",
+            "slug": "jelena",
             "displayName": "Jelena",
             "rank": "S",
             "libram": "FAMINE",
@@ -1168,6 +1225,7 @@
         },
         {
             "name": "parfait",
+            "slug": "parfait",
             "displayName": "Parfait",
             "rank": "S",
             "libram": "DEATH",
@@ -1186,6 +1244,7 @@
         },
         {
             "name": "shin",
+            "slug": "shin",
             "displayName": "Shin",
             "rank": "S",
             "libram": "IMMORTAL",
@@ -1204,6 +1263,7 @@
         },
         {
             "name": "irrheia",
+            "slug": "irrheia",
             "displayName": "Irrheia",
             "rank": "S",
             "libram": "FRAUD",
@@ -1218,6 +1278,7 @@
         },
         {
             "name": "margaret",
+            "slug": "margaret",
             "displayName": "Margaret",
             "rank": "S",
             "libram": "DEATH",
@@ -1232,6 +1293,7 @@
         },
         {
             "name": "fupo",
+            "slug": "countess_chelsea",
             "displayName": "Countess Chelsea",
             "rank": "A",
             "libram": "GREED",
@@ -1254,6 +1316,7 @@
         },
         {
             "name": "beisefenni",
+            "slug": "cinnabar",
             "displayName": "Cinnabar",
             "rank": "A",
             "libram": "TREACHERY",
@@ -1276,6 +1339,7 @@
         },
         {
             "name": "kavakava",
+            "slug": "kawa-kawa",
             "displayName": "Kawa-kawa",
             "rank": "A",
             "libram": "HERESY",
@@ -1294,6 +1358,7 @@
         },
         {
             "name": "levy",
+            "slug": "levy",
             "displayName": "Levy",
             "rank": "A",
             "libram": "GREED",
@@ -1312,6 +1377,7 @@
         },
         {
             "name": "uni",
+            "slug": "uni",
             "displayName": "Uni",
             "rank": "A",
             "libram": "LOVE",
@@ -1330,6 +1396,7 @@
         },
         {
             "name": "nino",
+            "slug": "nino",
             "displayName": "Nino",
             "rank": "A",
             "libram": "LIMBO",
@@ -1348,6 +1415,7 @@
         },
         {
             "name": "golem",
+            "slug": "golan",
             "displayName": "Golan",
             "rank": "A",
             "libram": "PESTILENCE",
@@ -1366,6 +1434,7 @@
         },
         {
             "name": "dove",
+            "slug": "dove",
             "displayName": "Dove",
             "rank": "A",
             "libram": "FAMINE",
@@ -1380,6 +1449,7 @@
         },
         {
             "name": "anasui",
+            "slug": "narciso_anastasia",
             "displayName": "Narciso Anastasia",
             "rank": "A",
             "libram": "INFINITE",
@@ -1394,6 +1464,7 @@
         },
         {
             "name": "luminita",
+            "slug": "luminita",
             "displayName": "Luminita",
             "rank": "A",
             "libram": "SLOTH",
@@ -1408,6 +1479,7 @@
         },
         {
             "name": "siglinde",
+            "slug": "siglinde",
             "displayName": "Siglinde",
             "rank": "A",
             "libram": "WAR",
@@ -1422,6 +1494,7 @@
         },
         {
             "name": "rumina",
+            "slug": "rumina",
             "displayName": "Rumina",
             "rank": "A",
             "libram": "LOVE",
@@ -1436,6 +1509,7 @@
         },
         {
             "name": "jiushijiu",
+            "slug": "ninety-nine",
             "displayName": "Ninety-Nine",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -1458,6 +1532,7 @@
         },
         {
             "name": "wendy",
+            "slug": "wendy",
             "displayName": "Wendy",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -1480,6 +1555,7 @@
         },
         {
             "name": "pajiaxi",
+            "slug": "pacassi",
             "displayName": "Pacassi",
             "rank": "A",
             "libram": "LOVE",
@@ -1502,6 +1578,7 @@
         },
         {
             "name": "duoli",
+            "slug": "dolly",
             "displayName": "Dolly",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -1520,6 +1597,7 @@
         },
         {
             "name": "mojila",
+            "slug": "horo",
             "displayName": "Horo",
             "rank": "A",
             "libram": "ANGER",
@@ -1542,6 +1620,7 @@
         },
         {
             "name": "mess",
+            "slug": "mess",
             "displayName": "Mess",
             "rank": "A",
             "libram": "HERESY",
@@ -1560,6 +1639,7 @@
         },
         {
             "name": "corso",
+            "slug": "corso",
             "displayName": "Corso",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -1578,6 +1658,7 @@
         },
         {
             "name": "christina",
+            "slug": "christina",
             "displayName": "Christina",
             "rank": "A",
             "libram": "ANGER",
@@ -1596,6 +1677,7 @@
         },
         {
             "name": "rise",
+            "slug": "rise",
             "displayName": "Rise",
             "rank": "A",
             "libram": "PESTILENCE",
@@ -1614,6 +1696,7 @@
         },
         {
             "name": "mira",
+            "slug": "mira",
             "displayName": "Mira",
             "rank": "A",
             "libram": "FAMINE",
@@ -1628,6 +1711,7 @@
         },
         {
             "name": "ermes",
+            "slug": "ermes_costello",
             "displayName": "Ermes Costello",
             "rank": "S",
             "libram": "INFINITE",
@@ -1642,6 +1726,7 @@
         },
         {
             "name": "lysandra",
+            "slug": "lysandra",
             "displayName": "Lysandra",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -1656,6 +1741,7 @@
         },
         {
             "name": "ark",
+            "slug": "ark",
             "displayName": "Ark",
             "rank": "A",
             "libram": "LOVE",
@@ -1670,6 +1756,7 @@
         },
         {
             "name": "xinxiya",
+            "slug": "iron",
             "displayName": "Iron",
             "rank": "A",
             "libram": "ANGER",
@@ -1688,6 +1775,7 @@
         },
         {
             "name": "tetra",
+            "slug": "tetra",
             "displayName": "Tetra",
             "rank": "A",
             "libram": "GREED",
@@ -1706,6 +1794,7 @@
         },
         {
             "name": "jin",
+            "slug": "sumire",
             "displayName": "Sumire",
             "rank": "A",
             "libram": "LOVE",
@@ -1728,6 +1817,7 @@
         },
         {
             "name": "mcqueen",
+            "slug": "mcqueen",
             "displayName": "McQueen",
             "rank": "A",
             "libram": "TREACHERY",
@@ -1750,6 +1840,7 @@
         },
         {
             "name": "lynn",
+            "slug": "lynn",
             "displayName": "Lynn",
             "rank": "A",
             "libram": "SLOTH",
@@ -1768,6 +1859,7 @@
         },
         {
             "name": "garofano",
+            "slug": "garofano",
             "displayName": "Garofano",
             "rank": "A",
             "libram": "SLOTH",
@@ -1786,6 +1878,7 @@
         },
         {
             "name": "eureka",
+            "slug": "eureka",
             "displayName": "Eureka",
             "rank": "A",
             "libram": "LIMBO",
@@ -1804,6 +1897,7 @@
         },
         {
             "name": "thistle",
+            "slug": "thistle",
             "displayName": "Thistle",
             "rank": "A",
             "libram": "LOVE",
@@ -1826,6 +1920,7 @@
         },
         {
             "name": "shrooma",
+            "slug": "shrooma",
             "displayName": "Shrooma",
             "rank": "A",
             "libram": "PESTILENCE",
@@ -1844,6 +1939,7 @@
         },
         {
             "name": "poffy",
+            "slug": "poffy",
             "displayName": "Poffy",
             "rank": "A",
             "libram": "SLOTH",
@@ -1858,6 +1954,7 @@
         },
         {
             "name": "peggi",
+            "slug": "pricilla",
             "displayName": "Pricilla",
             "rank": "A",
             "libram": "GREED",
@@ -1880,6 +1977,7 @@
         },
         {
             "name": "kuangdu",
+            "slug": "roulecca",
             "displayName": "Roulecca",
             "rank": "A",
             "libram": "ANGER",
@@ -1902,6 +2000,7 @@
         },
         {
             "name": "langhuan",
+            "slug": "wolverine",
             "displayName": "Wolverine",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -1920,6 +2019,7 @@
         },
         {
             "name": "matilda",
+            "slug": "matilda",
             "displayName": "Matilda",
             "rank": "A",
             "libram": "SLOTH",
@@ -1938,6 +2038,7 @@
         },
         {
             "name": "yanyan",
+            "slug": "yanyan",
             "displayName": "Yanyan",
             "rank": "A",
             "libram": "HERESY",
@@ -1960,6 +2061,7 @@
         },
         {
             "name": "ff",
+            "slug": "ff",
             "displayName": "F.F.",
             "rank": "A",
             "libram": "INFINITE",
@@ -1974,6 +2076,7 @@
         },
         {
             "name": "jane",
+            "slug": "jane",
             "displayName": "Jane",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -1992,6 +2095,7 @@
         },
         {
             "name": "pine",
+            "slug": "pine",
             "displayName": "Pine",
             "rank": "A",
             "libram": "PESTILENCE",
@@ -2006,6 +2110,7 @@
         },
         {
             "name": "thalia",
+            "slug": "thalia",
             "displayName": "Thalia",
             "rank": "A",
             "libram": "GREED",
@@ -2020,6 +2125,7 @@
         },
         {
             "name": "heerjia",
+            "slug": "helga",
             "displayName": "Helga",
             "rank": "A",
             "libram": "FAMINE",
@@ -2034,6 +2140,7 @@
         },
         {
             "name": "bai",
+            "slug": "victoria",
             "displayName": "Victoria",
             "rank": "A",
             "libram": "LIMBO",
@@ -2056,6 +2163,7 @@
         },
         {
             "name": "eagle",
+            "slug": "ignis",
             "displayName": "Ignis",
             "rank": "A",
             "libram": "HERESY",
@@ -2078,6 +2186,7 @@
         },
         {
             "name": "luweiyalei",
+            "slug": "luvia_ray",
             "displayName": "Luvia Ray",
             "rank": "A",
             "libram": "LIMBO",
@@ -2100,6 +2209,7 @@
         },
         {
             "name": "hekadi",
+            "slug": "hecate",
             "displayName": "Hecate",
             "rank": "A",
             "libram": "LIMBO",
@@ -2126,6 +2236,7 @@
         },
         {
             "name": "olivier",
+            "slug": "oliver",
             "displayName": "Oliver",
             "rank": "A",
             "libram": "TREACHERY",
@@ -2144,6 +2255,7 @@
         },
         {
             "name": "lamia",
+            "slug": "lamia",
             "displayName": "Lamia",
             "rank": "A",
             "libram": "HERESY",
@@ -2166,6 +2278,7 @@
         },
         {
             "name": "echo",
+            "slug": "echo",
             "displayName": "Echo",
             "rank": "A",
             "libram": "FRAUD",
@@ -2184,6 +2297,7 @@
         },
         {
             "name": "weather",
+            "slug": "weather_forecast",
             "displayName": "Weather Forecast",
             "rank": "A",
             "libram": "INFINITE",
@@ -2198,6 +2312,7 @@
         },
         {
             "name": "wuhuanzi",
+            "slug": "wuhuanzi",
             "displayName": "Wuhuanzi",
             "rank": "A",
             "libram": "SLOTH",
@@ -2216,6 +2331,7 @@
         },
         {
             "name": "thani",
+            "slug": "thani",
             "displayName": "Thani",
             "rank": "A",
             "libram": "FAMINE",
@@ -2230,6 +2346,7 @@
         },
         {
             "name": "airuier",
+            "slug": "ariel",
             "displayName": "Ariel",
             "rank": "A",
             "libram": "LOVE",
@@ -2252,6 +2369,7 @@
         },
         {
             "name": "chameleon",
+            "slug": "chameleon",
             "displayName": "Chameleon",
             "rank": "A",
             "libram": "HERESY",
@@ -2274,6 +2392,7 @@
         },
         {
             "name": "tuoqier",
+            "slug": "anne",
             "displayName": "Anne",
             "rank": "A",
             "libram": "LOVE",
@@ -2296,6 +2415,7 @@
         },
         {
             "name": "kaier",
+            "slug": "mr_fox",
             "displayName": "Mr. Fox",
             "rank": "A",
             "libram": "GREED",
@@ -2314,6 +2434,7 @@
         },
         {
             "name": "dudu",
+            "slug": "dudu",
             "displayName": "Dudu",
             "rank": "A",
             "libram": "SLOTH",
@@ -2336,6 +2457,7 @@
         },
         {
             "name": "letta",
+            "slug": "letta",
             "displayName": "Letta",
             "rank": "A",
             "libram": "FRAUD",
@@ -2354,6 +2476,7 @@
         },
         {
             "name": "cassia",
+            "slug": "cassia",
             "displayName": "Cassia",
             "rank": "A",
             "libram": "LOVE",
@@ -2372,6 +2495,7 @@
         },
         {
             "name": "shawn",
+            "slug": "shawn",
             "displayName": "Shawn",
             "rank": "A",
             "libram": "FRAUD",
@@ -2390,6 +2514,7 @@
         },
         {
             "name": "zephyr",
+            "slug": "zephyr",
             "displayName": "Zephyr",
             "rank": "A",
             "libram": "LOVE",
@@ -2404,6 +2529,7 @@
         },
         {
             "name": "cassian",
+            "slug": "cassian",
             "displayName": "Cassian",
             "rank": "A",
             "libram": "SLOTH",
@@ -2418,6 +2544,7 @@
         },
         {
             "name": "ai",
+            "slug": "kisugi_ai",
             "displayName": "Kisugi Ai",
             "rank": "A",
             "libram": "INFINITE",
@@ -2436,6 +2563,7 @@
         },
         {
             "name": "kk",
+            "slug": "kk",
             "displayName": "K.K.",
             "rank": "B",
             "libram": "VIOLENCE",
@@ -2454,6 +2582,7 @@
         },
         {
             "name": "atlant",
+            "slug": "demolia",
             "displayName": "Demolia",
             "rank": "B",
             "libram": "LIMBO",
@@ -2472,6 +2601,7 @@
         },
         {
             "name": "qiao",
+            "slug": "peggy",
             "displayName": "Peggy",
             "rank": "B",
             "libram": "GREED",
@@ -2490,6 +2620,7 @@
         },
         {
             "name": "hella",
+            "slug": "hella",
             "displayName": "Hella",
             "rank": "B",
             "libram": "VIOLENCE",
@@ -2516,6 +2647,7 @@
         },
         {
             "name": "che",
+            "slug": "che",
             "displayName": "Che",
             "rank": "B",
             "libram": "LIMBO",
@@ -2534,6 +2666,7 @@
         },
         {
             "name": "jiekuilin",
+            "slug": "pepper",
             "displayName": "Pepper",
             "rank": "B",
             "libram": "GREED",
@@ -2552,6 +2685,7 @@
         },
         {
             "name": "renou",
+            "slug": "labyrinth",
             "displayName": "Labyrinth",
             "rank": "B",
             "libram": "ANGER",
@@ -2570,6 +2704,7 @@
         },
         {
             "name": "zuoyi",
+            "slug": "gekkabijin",
             "displayName": "Gekkabijin",
             "rank": "B",
             "libram": "LOVE",
@@ -2584,6 +2719,7 @@
         },
         {
             "name": "aimiliya",
+            "slug": "emp",
             "displayName": "EMP",
             "rank": "B",
             "libram": "TREACHERY",
@@ -2606,6 +2742,7 @@
         },
         {
             "name": "fuluola",
+            "slug": "flora",
             "displayName": "Flora",
             "rank": "B",
             "libram": "TREACHERY",
@@ -2624,6 +2761,7 @@
         },
         {
             "name": "dina",
+            "slug": "kelvin",
             "displayName": "Kelvin",
             "rank": "B",
             "libram": "TREACHERY",
@@ -2642,6 +2780,7 @@
         },
         {
             "name": "geji",
+            "slug": "joan",
             "displayName": "Joan",
             "rank": "B",
             "libram": "ANGER",
@@ -2660,6 +2799,7 @@
         },
         {
             "name": "aida",
+            "slug": "macchiato",
             "displayName": "Macchiato",
             "rank": "B",
             "libram": "HERESY",
@@ -2678,6 +2818,7 @@
         },
         {
             "name": "monalisa",
+            "slug": "lisa",
             "displayName": "Lisa",
             "rank": "B",
             "libram": "HERESY",
