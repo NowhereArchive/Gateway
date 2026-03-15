@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_irrheia_cacha_001.aac",
+            "text": "I'm weary of boredom and the predictable. Your arrival is far too ordinary. Why don't we... start over? I'll pretend this is our first meeting."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_irrheia_promotion_001.aac",
+            "text": "I eagerly await the next act you'll unveil for me."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_irrheia_promotion2_001.aac",
+            "text": "The clock hands have begun to turn, and the curtain has risen... Come, I'll be waiting for you at the story's end!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_irrheia_battlebegin_001.aac",
+            "text": "I'm ready. Let the cycle begin."
+        },
+        {
+            "title": "Success",
+            "filename": "File:vo_irrheia_battlewin_001.aac",
+            "text": "I hope the next round surprises me just as much."
+        },
+        {
+            "title": "Failed",
+            "filename": "File:vo_irrheia_battlelose_001.aac",
+            "text": "Heh, I suppose that was an interesting ending."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_irrheia_uniqueskill_001.aac",
+            "text": "The end and the rebirth, all in the matter of a single breath!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_irrheia_dead_001.aac",
+            "text": "At least this time... it was my own choice..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_irrheia_greeting_001.aac",
+            "text": "Let me guess... is your visit today a predestined event, or an unexpected twist?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_irrheia_talk1_001.aac",
+            "text": "When the water grows too still, I always drop in a stone. Whether it creates mere ripples or an explosion, that always depends on the fish's choice, or an act of betrayal."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_irrheia_talk1_002.aac",
+            "text": "Most people enter the stage with their predetermined scripts. Their backgrounds serve as the opening lines, their experiences the chapter titles. Flip through a few pages... and you can already predict their endings. So boring it makes me yawn."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_irrheia_talk1_003.aac",
+            "text": "My dear Chief, keep going, don't stop. I've long grown tired of those docile tales that submit to rules and tropes. Following you is the more interesting choice. You won't disappoint me, will you?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_irrheia_talk2_001.aac",
+            "text": "On the stage I've built, some people always take the same dull path, time and time again, becoming such miserable wretches unworthy of saving... But I never expected you could lead them toward a different ending."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_irrheia_talk2_002.aac",
+            "text": "My world was once confined by red tubes and perfect graphs, as monotonous as the daily test reports... until I witnessed someone willingly tear themselves apart in defiance of rules. After that, I could no longer ignore these restraints."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_irrheia_talk2_003.aac",
+            "text": "The so-called family of mine was all about \"family tradition,\" binding me with blood relations, making me willingly sacrifice myself. How absurd... But I've already made it clear to them that, now, I am the one who makes the rules in this family."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_irrheia_obeyfull_001.aac",
+            "text": "I had a dream last night. In the cycle of fate, I passed countless exits. They were pitch black, bottomless voids. But in one of them, I saw you... I walked toward you without hesitation, only to die in your arms at the end. Strangely enough, when I woke up, I felt happy... I think I finally understand what kind of ending would satisfy me in this endless loop."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_irrheia_idle_001.aac",
+            "text": "Spacing out like this from time to time is quite a novel experience."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_irrheia_clicking_001.aac",
+            "text": "Your methods of probing people are so unoriginal. Care to try something more... thrilling?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_irrheia_specialattention_001.aac",
+            "text": "In stories, I'm the being people fear to face, yet you dare to gaze at me so boldly... Do you have a thing for witches? Crave excitement? Or perhaps you simply... like me?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_irrheia_dispatch_001.aac",
+            "text": "I don't take on boring assignments. Don't disappoint me."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_irrheia_dispatch2_001.aac",
+            "text": "Just some trivial things. Take them if you want. I have no interest in keeping them."
+        },
+        {
+            "title": "Upgrade",
+            "filename": "File:vo_irrheia_levelup_002.aac",
+            "text": "Playing by the rules is so dull. Great, I happen to be craving some new variables."
+        }
+    ],
+    "irrheia_-_rank_up": [
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_irrheia_head_001.aac",
+            "text": "You always manage to come up with a surprising move. Fortunately, I don't mind your touch."
+        }
+    ]
+}

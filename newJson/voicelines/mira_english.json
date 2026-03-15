@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mira_cacha_001.aac",
+            "text": "\"It must have been a tough journey... You can relax now.\" That's usually my line, but this time, it looks like it's my turn to be welcomed. Where I'm from, offering a cup of cool mint tea to a guest is the ultimate token of hospitality and respect. How do you welcome guests in DisCity?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_mira_promotion_001.aac",
+            "text": "Payment received. Enjoy your stay!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_mira_promotion2_001.aac",
+            "text": "Yes, sunsets are the most beautiful... because, for some of us, it's the last glimpse of sunlight we'll ever see."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_mira_battlebegin_001.aac",
+            "text": "Oh dear, oh dear, stop fighting, at least not here!"
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_mira_battlewin_001.aac",
+            "text": "Hehe, it was a team effort. I didn't do much."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_mira_battlelose_001.aac",
+            "text": "...Which part went wrong? Or... they saw through me? Interesting."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_mira_uniqueskill_001.aac",
+            "text": "Time to reap the harvest!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_mira_dead_001.aac",
+            "text": "The white sand... will bury it all..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mira_greeting_001.aac",
+            "text": "Hey there, did you rest well? Want a sip of my special cactus pick-me-up to refresh yourself?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_mira_talk1_001.aac",
+            "text": "As an innkeeper, I've dealt with all kinds of guests. No matter where they come from, once we're under the same roof, we're pretty much like family. And when you're family, a little mutual tolerance is often all it takes to resolve most quarrels."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_mira_talk1_002.aac",
+            "text": "I do quite enjoy tidying up rooms. It's not a difficult task and doesn't take much effort. Everything in the room must be where it should be, especially those little \"surprises\" I've carefully prepared for my guests. They mustn't be messed up..."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_mira_talk1_003.aac",
+            "text": "The only rule in my inn is this: No fighting under this roof. Hmm? How do I get them to listen? Hehe, it's nothing special. You'd know it if you'd ever been an innkeeper for long."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_mira_talk2_001.aac",
+            "text": "No matter how busy work gets, never skip a meal. Here, take a break and try the desert lamb chops I've made! By the way, it seems managing the MBCC is a bit like running an inn. If you ever run into trouble, feel free to come and talk to me!"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_mira_talk2_002.aac",
+            "text": "When I was little, my parents always told me that there were no annoying desert bandits or harsh weather in DisCity, and that everything would be better once we got there... But that wasn't true. It's the same everywhere. No matter where you go, the only way to protect yourself from bullies is to become stronger—strong enough to truly find your place in the world."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_mira_talk2_003.aac",
+            "text": "In my hometown, people love to sing and dance, and drink around the campfire at night. The hardships of life never break our enthusiasm and fighting spirit. Even in the toughest times, we still laugh and sing with all our hearts... You should come with me sometime. You'll love it there."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_mira_obeyfull_001.aac",
+            "text": "If you choose to be a well-behaved guest, this inn and I would treat you with all the comfort and pleasantries. But, you want more than that, don't you? In that case, I'll trust you once and reveal everything I've hidden. Let me show you those less pretty things lurking in the shadows."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mira_idle_001.aac",
+            "text": "...Let me sing you a little hometown tune. My mother used to lull me to sleep this way."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mira_clicking_001.aac",
+            "text": "Hahaha, alright, be careful. I just polished these jewelry pieces last night. They might hurt you, if you are careless."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mira_specialattention_001.aac",
+            "text": "Many of my guests stare at me like this when they stay in my inn, and I see all kinds of intentions in their eyes... But why can't I see what you're thinking...? Can you tell me?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_mira_dispatch_001.aac",
+            "text": "Back in the desert, I was responsible for stocking my inn! So, you can trust me with errands!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_mira_dispatch2_001.aac",
+            "text": "While I was shopping, I noticed you might have missed a few things on your list, so I went ahead and picked them up for you. No need to thank me, it was no trouble at all."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mira_levelup_002.aac",
+            "text": "If you need room service, just let me know anytime."
+        }
+    ]
+}

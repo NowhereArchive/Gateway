@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_korryn_cacha_001.aac",
+            "text": "Whoa, talk about a welcome party... So you're that legendary hero Chief the little mouse kept talking about, the one who's saved DisCity and the loaded big shot backer? Haha. Cool. Looks like you'll be the one who's got my back in DisCity~"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_korryn_promotion_001.aac",
+            "text": "Fair and square? You must be kidding. This is a \"duel,\" y'know what I'm sayin'?"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_korryn_promotion2_001.aac",
+            "text": "Get in the car, sweetheart. Don't mind about your luggage. What really matters is who you're wandering the world with."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_korryn_battlebegin_001.aac",
+            "text": "Be patient, darling... Get in line. We've got enough ammo."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_korryn_battlewin_001.aac",
+            "text": "Look at all this fancy stuff. Sorry, all mine now."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_korryn_battlelose_001.aac",
+            "text": "Stop freezing up like a statue! Hurry and run!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_korryn_uniqueskill_001.aac",
+            "text": "I wish you... a safe journey!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_korryn_dead_001.aac",
+            "text": "Please take me back... to my WhiteSands..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_korryn_greeting_001.aac",
+            "text": "Working? At this hour? Pff, c'mon. Let's go for a ride in WhiteSands! Oh, I-I mean, let's take on a patrol in WhiteSands, Chief."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_korryn_talk1_001.aac",
+            "text": "Hmph, I wonder which genius made this wanted poster. The face doesn't match the name at all! No wonder they can never catch anyone. Can't blame me for that."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_korryn_talk1_002.aac",
+            "text": "It's nice here in DisCity. No storms. No desert bandits. You don't even have to skimp on Hypercubes. Do we need more people in the Bureau, Chief? I know a few friends who might wanna work here."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_korryn_talk1_003.aac",
+            "text": "Let me see... Korryn. Wanted fugitive in WhiteSands. Active around the route... Extremely dangerous. Reward: Thirty million DisCoins? Wow, they upped it again!"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_korryn_talk2_001.aac",
+            "text": "To make it in WhiteSands, you need a weapon that's not just powerful but looks badass too... Check this out—way cooler than a revolver, right? Want me to hook you up with a pair?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_korryn_talk2_002.aac",
+            "text": "I've seen plenty of folks say, \"Just one last job, then I'm done.\" But it's never the last. And they all ended up losing their money and their lives. Sigh, poor old pal. At least he got to be buried with his precious treasure in the WhiteSands."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_korryn_talk2_003.aac",
+            "text": "Have you ever seen a clear night in WhiteSands? The storm stops and there's no one around. The world is just the shifting sands beneath your feet and the vast starry sky above... For me, being in that world is true freedom."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_korryn_obeyfull_001.aac",
+            "text": "Stop right there! Leave your valuables. Wallet, jewelry, luggage... Huh? Haven't got anything? Then I'll have no choice but to take you with me!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_korryn_idle_001.aac",
+            "text": "Sheriff, once we conquer the WhiteSands, what do you say we give you... a new hat to lie on. How about that?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_korryn_clicking_001.aac",
+            "text": "Bored, huh? Why don't we play a game? Do you know how many bullets it takes to trace the shape of a human?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_korryn_specialattention_001.aac",
+            "text": "Want some alone time with me? Don't just stare... you'll have to try harder than that."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_korryn_dispatch_001.aac",
+            "text": "I'm expensive, little Chief. Got your payment ready?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_korryn_dispatch2_001.aac",
+            "text": "Come on, show me the money and you'll get what you ask for."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_korryn_levelup_002.aac",
+            "text": "Wow, DisCity technology!"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_korryn_head_001.aac",
+            "text": "I guess you don't know what happened to those people who touched my hair, they all... Haha. Relax, you're different."
+        }
+    ],
+    "aureate_ambush": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_korryn_huangjinku_cacha_001.aac",
+            "text": "Not bad, finding this place. You've got some skill. Just thirty seconds ago, this was a WhiteSands bandit treasure den. Now—it's Tuco territory."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_korryn_huangjinku_levelup_001.aac",
+            "text": "The best things always fall right into my lap."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_korryn_huangjinku_greeting_001.aac",
+            "text": "Oh? How surprising... the winds of this underground cavern rarely drag in such a distinguished guest. Tell me, Chief—are you here to be my big, juicy prize, or to become my partner in crime?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_korryn_huangjinku_body_001.aac",
+            "text": "Those petty desert bandits... risking their lives for treasure only to hide it away, letting it waste away in the sands. What a shame... Fortunately, these precious things found their way to me. I'd say they've finally found a proper home."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_korryn_huangjinku_body_002.aac",
+            "text": "Not to brag, but with this big fella and my furs, just sitting here is enough to keep every desert bandit and outlaw at bay... Oh, and don't forget to keep your MBCC badge out on your jacket."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_korryn_huangjinku_idle_001.aac",
+            "text": "Hey Sheriff, before these gold coins get confiscated, let me get you fitted with a gold chain. Then you'll be the most dazzling lizard in all of WhiteSands!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_korryn_huangjinku_clicking_001.aac",
+            "text": "Darling, according to the rules, before you get handsy with me, you have to say \"Please, Boss Korryn, I'm begging you.\" Hmm? Since when is that a rule? Since I made it up just now!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_korryn_huangjinku_specialattention_001.aac",
+            "text": "Oho, you're so forward darling! Did you want to have a heart-to-heart with me, or maybe—something more adult? I'm talking about splitting these treasures, of course. What on earth did you think I meant?"
+        }
+    ]
+}

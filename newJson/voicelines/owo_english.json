@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_owo_cacha_001.aac",
+            "text": "I knew it! No one can say no to OwO the lion dancer! Even folks from the Bureau came to see me. What's so great about DisCity? <i>There's nothing special about it.</i>"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_owo_promotion_001.aac",
+            "text": "Yup! That's OwO for you!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_owo_promotion2_001.aac",
+            "text": "OwO will never forget your support! ...I won't forget it... for at least this month!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_owo_battlebegin_001.aac",
+            "text": "Hey DisCity chump, it's your lucky day! Most people don't get the chance to be OwO's lion tail."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_owo_battlewin_001.aac",
+            "text": "Haha! That's what you get for looking down upon the invincible lion dancing queen! Run with your tail between your legs!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_owo_battlelose_001.aac",
+            "text": "Damn it! Just you wait! I'll be back! OwO will be back!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_owo_uniqueskill_001.aac",
+            "text": "Behold, the grand entrance of the mighty lion queen!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_owo_dead_001.aac",
+            "text": "OwO is strong... It's their fault... Sob... They cheated..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_owo_greeting_001.aac",
+            "text": "Save your breath, you DisCity simpleton. The gap between you and this genius lion dancer can never be bridged!"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_owo_talk1_001.aac",
+            "text": "♪In the ancient outlands, there is a little lion, and she is known as OwO."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_owo_talk1_002.aac",
+            "text": "Who said lion dancing is out of fashion? Who said lion dancing is outdated? Who?! Sob... Tell those bastards to show themselves! Sob... <i>I... I'll bite them!</i>"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_owo_talk1_003.aac",
+            "text": "<i>In the world of kung-fu, speed defines the winner...</i> Oh, those are movie lines. No one's stupid enough to mistake them for lion dancing tips, right? Hahaha! Idiot!"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_owo_talk2_001.aac",
+            "text": "Hey, you! Didn't you forget something? Think harder! Did you remember? Sob... You forgot to praise OwO's big film today!"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_owo_talk2_002.aac",
+            "text": "Your skeletal frame is quite unique. Want to become the eighteenth-generation heir to lion dancing? ...Wait, is it eighteenth or nineteenth... What generation am I again? ...One, two, three..."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_owo_talk2_003.aac",
+            "text": "There's a saying where I come from: \"The awakened lion rousts, and brings in the God of Wealth!\" I'll make sure to put on a rowdy show for you!"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_owo_obeyfull_001.aac",
+            "text": "Lion dancing is hard work! It takes years to hone, and injuries are common! You really want to learn? Seriously? No takebacks? ...OwO has an apprentice! OwO has an apprentice! OwO has an apprentice!!!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_owo_idle_001.aac",
+            "text": "Time to get up!!! <i>No way!</i> You really got scared? Hahahaha! People from DisCity are so funny!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_owo_clicking_001.aac",
+            "text": "I-I-I'm warning you! Those who disrespect lions won't be protected! I won't lift a finger when the monster comes to e-e-eat you! D-don't come over here!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_owo_specialattention_001.aac",
+            "text": "Feast your eyes upon the performance of the world's most amazing, majestic, and invincible little genius OwO! Don't blink!"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_owo_dispatch_001.aac",
+            "text": "When it comes to fun, how can DisCity compare to my hometown? If you weren't so understaffed, I wouldn't go out at all!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_owo_dispatch2_001.aac",
+            "text": "You're not allowed to take these away! I worked so hard to rob these!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_owo_levelup_002.aac",
+            "text": "Awoooo!"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_owo_head_001.aac",
+            "text": "Doesn't this lion's head look beautiful? Isn't it grand? Isn't it majestic? Don't you want to touch it? Haha... In your dreams!"
+        }
+    ],
+    "king_of_lion_dance": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_owo_wushizhiwang_cacha_001.aac",
+            "text": "One bite of a burger!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_owo_wushizhiwang_levelup_001.aac",
+            "text": "Awwww - big bite of meat! Body awesome!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_owo_wushizhiwang_greeting_001.aac",
+            "text": "Deesman, hurry up and help Ouch move this store back to the MBCC cafeteria! The fries here are so good, I have to eat them every day!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_owo_wushizhiwang_talk_001.aac",
+            "text": "I'm the Forbidden Owl, I've been affected by the Black Circle Rift and am now homeless, in order to eradicate the Black Circle and maintain peace in the world, please v me 50 to eat a big meal or else I won't be able to fight the death service!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_owo_wushizhiwang_talk_002.aac",
+            "text": "Camera! Must have been used to film me! Hmph, I didn't realize that my reputation as the world's number one invincible breakdancing lion cub genius had actually spread here! You guys wait, I'll come to the show after I finish gnawing on this chicken leg!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_owo_wushizhiwang_idle_001.aac",
+            "text": "......! Ketchup is dripping onto the skirt! ...... Dees Man! You hurry up and come help Owl wipe it off!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_owo_wushizhiwang_clicking_001.aac",
+            "text": "No can do! It's Owl's burger! Eat your own! You're too old to be taking food from people. Shame on you! Hmph! If I get mad, I'll bite you like a big burger!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_owo_wushizhiwang_specialattention_001.aac",
+            "text": "Burger, fries, chicken wings, egg tart, all of them again! ...... Why are you looking at me like that? I can eat a lot more! Don't underestimate me!"
+        }
+    ],
+    "auspicious_prancer": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_owo_xishiyingmen_cacha_001.aac",
+            "text": "Hey here—Over here! Heads up! The world's greatest, happiest, and baddest residential lion dance is about to begin! Listen up, everyone, I wish you health and wealth, and happiness every day!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_owo_xishiyingmen_levelup_001.aac",
+            "text": "Hey, you're roar-some! Come on, let's roar and roll!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_owo_xishiyingmen_greeting_001.aac",
+            "text": "I, OwO, the unparalleled Door God, will protect everyone for the whole new year! With OwO here, all evildoers will be swept out of my way!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_owo_xishiyingmen_talk_001.aac",
+            "text": "The gongs and drums might drown out my voice; the firecrackers might outshine my hilloa. So, right this moment, I'm going to wish you a year of peaceful sleep and fine food every day!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_owo_xishiyingmen_talk_002.aac",
+            "text": "Wow, look at those laterns, the fireworks—are they prepared for me? Good job, you Dis-spaz! Rest assured, I'll never let you down! OwO and her lion are gonna throw a show to everyone everywhere!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_owo_xishiyingmen_idle_001.aac",
+            "text": "I practiced on the plum-blossom pillars! Hopping on your gate is just easy-peasy! I could never fall—ohhhh! My, that was close!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_owo_xishiyingmen_clicking_001.aac",
+            "text": "Oi, you DisCity chump! Dare you touch the armor of the Door God? Alright, today's a Lucky Day, so I might spare you just this once... And I grant you permission to touch it now, just for once!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_owo_xishiyingmen_specialattention_001.aac",
+            "text": "This, is the new custome OwO prepared for the show; and this, is the new lion head the folks at Drifter Camp made with me. There, there, Dis-pal, you can flatter me now~"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_augustus_cacha_001.aac",
+            "text": "You're quite the elusive one. My men spent months failing to drag you back, so here I am myself. So Chief, what'll it be? Will you come quietly... or shall I make myself at home right here in your quarters?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_augustus_promotion_001.aac",
+            "text": "Your hunger for power surpasses even mine... I like that."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_augustus_promotion2_001.aac",
+            "text": "Kings rise by my edge, and by it fall. So tell me, Chief, will you still let me be your sword?"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_augustus_battlebegin_001.aac",
+            "text": "An elite squad on covert ops—this is standard Bureau procedure, I take it?"
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_augustus_battlewin_001.aac",
+            "text": "This little win pleases you? Cute. Save that smile; you'll wear it out after the next thousand."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_augustus_battlelose_001.aac",
+            "text": "Strategic retreat. Mark my words, this war continues. Victory delays her kiss, but never denies the worthy."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_augustus_uniqueskill_001.aac",
+            "text": "Crush them all!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_augustus_dead_001.aac",
+            "text": "A fitting end..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_augustus_greeting_001.aac",
+            "text": "Seeing you here, Chief... must mean it's another peaceful day. How dull. Care to liven things up? A banquet or a battlefield, I can arrange either."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_augustus_talk1_001.aac",
+            "text": "Does anyone still remember \"DisCorps\"? Not those FAC pretenders—I mean the true soldiers who stared down the barrel and broke battlefields beneath their boots. Heh. Tell me... is it forgetfulness? Or cowardice? I can only imagine how they tremble now that I've returned."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_augustus_talk1_002.aac",
+            "text": "Back then, the old regime wasn't all zealots and glory-hounds. There were also plenty of... \"pragmatists.\" That massive military budget? Redirect just a fraction, and you could bankroll quite a few noble houses. Yes, the Andohars played the game too. Surprised? Even I hail from rotten aristocracy."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_augustus_talk1_003.aac",
+            "text": "They say when war ends, the fiercest soldiers who cheat death don't find peace. Instead, they become ghosts, exiled by peacetime, haunted by battlefields, reduced to weapons... And I am the one wielding these living blades."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_augustus_talk2_001.aac",
+            "text": "There was this magnificent pre-Nightfall painting—a general on horseback, conquering mountain passes. Pity I never found a real steed in all my campaigns, let alone here in DisCity. Well, so much for my childhood dream."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_augustus_talk2_002.aac",
+            "text": "How about a trade? I'll share the Commander-in-Chief's most mortifying youthful blunders, or your dear spymaster's juicy little secrets. We've got time to burn, after all. And you? You can tell me... exactly how much trust those Paradeisos brass actually place in you. I'm very interested."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_augustus_talk2_003.aac",
+            "text": "I've attended enough funerals to perfect my own design, and you'll be the one to execute it. Oh? Of course, you'll outlive me. While I breathe, death dares not take you first."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_augustus_obeyfull_001.aac",
+            "text": "War has never left me, and I never imagined an end to it. Not until you. Now I finally start to see the full picture... a future with you in it. For the first time, peace seems worth fighting for. So we fight harder. We end this war. And we survive, both of us. That's an order."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_augustus_idle_001.aac",
+            "text": "To let your guard down while standing so close... How reckless, Chief. Shall I teach you why that's unwise?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_augustus_clicking_001.aac",
+            "text": "Hah, you kept your hands to yourself when I wore an evening gown, but now you can't resist? What is it—you have a thing for uniforms?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_augustus_specialattention_001.aac",
+            "text": "Did another \"important person\" order you to watch me? Hah, relax, I've no interest in decapitating hiding rats. You're why I'm here. And this... suits me just fine."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_augustus_dispatch_001.aac",
+            "text": "Zero casualties required... Now that's a challenge worth taking."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_augustus_dispatch2_001.aac",
+            "text": "Another objective complete. I trust you'll reward my service appropriately, Chief."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_augustus_levelup_002.aac",
+            "text": "Excellent. I'm beginning to feel like my old self again."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_augustus_head_001.aac",
+            "text": "This hat still bears the old DisCorps insignia, quite a rare sight these days. Should I replace it with your MBCC logo instead?"
+        }
+    ]
+}

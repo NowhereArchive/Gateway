@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_poffy_cacha_001.aac",
+            "text": "You guys are from that... Bureau place, right? I've been waiting for you forever! Hehe... I hear you can eat as many meals as you want there, all for free! Is that really true?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_poffy_promotion_001.aac",
+            "text": "Oh! Rice! Warm, fluffy rice!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_poffy_promotion2_001.aac",
+            "text": "Filling the stomach is a basic human need, but after that... of course you need to try all kinds of delicious food! Eating alone can get boring though. Be my dining buddy and let's go taste all the amazing food around the world together!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_poffy_battlebegin_001.aac",
+            "text": "Hmm... What should I have for dinner today..."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_poffy_battlewin_001.aac",
+            "text": "Work's done! Let's celebrate with some good food, yeah?"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_poffy_battlelose_001.aac",
+            "text": "Oops, I failed... Chin up! I'll try again after a big meal!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_poffy_uniqueskill_001.aac",
+            "text": "Taste this!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_poffy_dead_001.aac",
+            "text": "I won't get hungry... anymore..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_poffy_greeting_001.aac",
+            "text": "Chief, perfect timing! I'm so hungry I could eat a cow right now! Guess what, the restaurant I collabed with last time gave me some discount coupons, hehe... Since you're already here... why don't we just go?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_poffy_talk1_001.aac",
+            "text": "...How am I hungry again? Hasn't it only been two hours? ...I guess you really can't survive on snacks. I need to eat proper meals!"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_poffy_talk1_002.aac",
+            "text": "Chief! Apparently this is the best donut in Eastside! Want a bite? Just like the reviews said, it's not too sweet! That's the highest compliment you can give a dessert!"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_poffy_talk1_003.aac",
+            "text": "A nice dish should appeal to all the senses: aroma, taste, and appearance. The person enjoying it should dress up to lift their spirits too! That's right! Dopamine is the secret to happiness! Chief, you should totally try wearing something other than gray!"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_poffy_talk2_001.aac",
+            "text": "Of course I have my own worries too! My snacks are always expiring. I can't keep up with all the trendy restaurants. My clothes get stained constantly... But well, nothing feels worse than being hungry! Adulting is hard, but I'll work harder until I get good at it!"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_poffy_talk2_002.aac",
+            "text": "When I was little, Mom made every decision for me. I just had to be her puppet and obey. But... the suppressed emotions didn't just vanish. They got hidden somewhere deeper. Mania ripped open my fears, and I don't want to become some insane monster... I have to learn to control myself."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_poffy_talk2_003.aac",
+            "text": "Okay, okay, got it! I'll remember to come to you when my bowl's empty! Geez, if you're that worried, then just don't let me leave... I didn't know a better way to handle things before, so I could only run away from Mom. But perhaps... I can go back and see her now?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_poffy_obeyfull_001.aac",
+            "text": "Ever since I came to the Bureau, I haven't gone hungry for a long time. It's wonderful! I hope no children in this world will ever have to feel hunger. They should all get to eat their fill! Aren't you a bit underweight, Chief? Your complexion doesn't look great either. You should eat more, and stay healthy and strong. Someone as kind as you... deserves to live a long life."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_poffy_idle_001.aac",
+            "text": "You've been so quiet, Chief, are you eating something? Can I have a bite?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_poffy_clicking_001.aac",
+            "text": "Hey! Who says you can poke my belly? Alright, alright, I know. Hehe, it's just so soft and squishy, right? When I'm feeling down, I squeeze my own tummy too, and all my worries will soon be gone!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_poffy_specialattention_001.aac",
+            "text": "Do you really have to keep staring so hard? Um, I mean, not saying you can't look at me... But how am I supposed to steal midnight snacks from the fridge now..."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_poffy_dispatch_001.aac",
+            "text": "Huh? We doing a restaurant visit today? Sure, sure, I'll take tons of nice photos!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_poffy_dispatch2_001.aac",
+            "text": "Chief! Here, I got you a tasty takeout!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_poffy_levelup_002.aac",
+            "text": "Thank you for the meal! Haah~"
+        }
+    ]
+}

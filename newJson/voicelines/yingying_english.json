@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_yingying_cacha_001.aac",
+            "text": "Within your embrace, spring dwells, where petals softly descend... Get ready, here comes your Wisteria Fairy! Open your arms wide and be sure to catch me properly!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_yingying_promotion_001.aac",
+            "text": "In my homeland, people often say this you see—when you truly care for someone, you can't help but save all the best things for them."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_yingying_promotion2_001.aac",
+            "text": "Seeing the stars dance across the sky and lanterns paint the night in a dazzle... This is the moment I've been dreaming of sharing with you."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_yingying_battlebegin_001.aac",
+            "text": "Keen for some action, aren't we? Very well, I shall bravely risk my life to keep you company!"
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_yingying_battlewin_001.aac",
+            "text": "Behave a little better next time, and I won't have to be so rough with you. I might even treat you to some sweets!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_yingying_battlelose_001.aac",
+            "text": "There, there... Don't be disheartened. Like flowers in spring, new opportunities will bloom. I'll make sure they learn it the hard way next time."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_yingying_uniqueskill_001.aac",
+            "text": "As wisteria blooms, behold the splendor!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_yingying_dead_001.aac",
+            "text": "The fete... is over..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_yingying_greeting_001.aac",
+            "text": "My, you're in such a hurry! Missing me that much? Easy now, I'm not going anywhere. I promised to stay by your side, didn't I?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_yingying_talk1_001.aac",
+            "text": "Oh, sweetheart! I just came across a saying: \"A fated encounter may lead to shared happiness.\" And then... I walked out and found you right here. Destiny at work, wouldn't you agree?"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_yingying_talk1_002.aac",
+            "text": "If ever I disappear, look for me by the old wisteria tree! I'll be hiding among the flowers, watching the wish plaques tied there through the ages. When the wind blows, they always weave a melody so beautiful, just like those hushed prayers..."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_yingying_talk1_003.aac",
+            "text": "Let me tell you about making wishes! It's all about sincerity, sweetheart... Yes, close your eyes and imagine your wish coming true—Oh, don't knit your brow so much! Take it easy, alright?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_yingying_talk2_001.aac",
+            "text": "I love the lights here, ever-glowing in such radiant colors... Do people here also make wishes upon dazzling lights like these? Tell me, what would your heart's desire be?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_yingying_talk2_002.aac",
+            "text": "In that street of my memories lived the dearest souls. They took me in, raised me with care, taught me to sing, dressed me in beauty, and showered me with all their love and kindness... For all those years, every wish they made was for my happiness. So now, I make my own wish—to watch over them all, for eternity."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_yingying_talk2_003.aac",
+            "text": "I once dwelled in a dream for so long, waiting for a hero who would protect the lights of countless homes and keep my flowers blooming even when the world's collapsing. I couldn't find them, and I dared not wake, so I kept sleeping, and sleeping... You really made me wait, you know?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_yingying_obeyfull_001.aac",
+            "text": "Mmm... The wisteria has heard your wish, ready to make it bloom into reality. She will stay by your side always, never parting ways. Now then... would you like to hear my wish? It's just a tiny one, all about you, sweetheart."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_yingying_idle_001.aac",
+            "text": "\"In the balmy breeze, her lips part in grace. Her form, ethereal, stirs the flowers in place...\" Oh, will a charming companion linger with me till the dead of night, till the break of dawn?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_yingying_clicking_001.aac",
+            "text": "Huh?! Not so rough—that hurts. Be gentle, will you?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_yingying_specialattention_001.aac",
+            "text": "Hehe, I see your darting glances and blushing ears... What's with the shyness? Look at me properly—don't you know how much I enjoy gazing at you too?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_yingying_dispatch_001.aac",
+            "text": "I'd love to go for a walk, but... won't you join me, sweetheart?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_yingying_dispatch2_001.aac",
+            "text": "Mmm... That was absolutely delightful. Until we meet again!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_yingying_levelup_002.aac",
+            "text": "All of these... are they meant just for me?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_yingying_head_001.aac",
+            "text": "Happy with just touching my hair? Here, I'll close my eyes and give you a few more seconds... Where else would you like to touch? My eyelashes? My nose? Or perhaps... my lips?"
+        }
+    ],
+    "fluttered_heartstrings": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",
+            "text": "The breeze caressing the ship's rail, moonlight dancing on my pipa... Sweetheart, tonight's melody is dedicated to you. If you find yourself enchanted, your heart stirred... Just remember, it's all because of me."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_yingying_xiaoxianchushang_levelup_001.aac",
+            "text": "Listen, don't you find this melody more captivating than before?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_yingying_xiaoxianchushang_greeting_001.aac",
+            "text": "Sweetheart, can you smell the floral fragrance carried by tonight's breeze? I was just thinking that if you came by, I'd play you a newly learned melody, letting you savor the sweetness of this moment beneath the lotus blossoms."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_yingying_xiaoxianchushang_head_001.aac",
+            "text": "Oh my, you've knocked my hairpin crooked! I carefully arranged it just for today's performance."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_yingying_xiaoxianchushang_body_001.aac",
+            "text": "It seems you truly enjoy my music, sweetheart... Have you heard of the Eastian legend of \"High Mountains Flowing Waters,\" about finding one's kindred spirit through music? How surprising to learn that my soulmate was right before my eyes all along."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_yingying_xiaoxianchushang_body_002.aac",
+            "text": "Any art form takes a minute to perform but a decade to master. The ladies who taught me to play the pipa were truly extraordinary—with just a flick of their fingers, even the wind seemed to dance to their rhythm. The storytellers in the nearby teahouse would pause their tales just to eavesdrop for a few moments."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_yingying_xiaoxianchushang_hand_001.aac",
+            "text": "Hmm. You may be enjoying the music, but my fingers are getting sore from all this plucking! Sweetheart, won't you come massage them for me?"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_yingying_xiaoxianchushang_background_001.aac",
+            "text": "This type of vessel is called a painted pleasure boat. Back in Eastia, whenever dusk fell and lanterns were lit, the crystal lamps aboard would reflect on the river, as if stars had been crushed and scattered across the water's surface... When I used to watch the ladies play their pipas from the shore, I always felt they were sitting in boats made of moonlight."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_yingying_xiaoxianchushang_idle_001.aac",
+            "text": "The pleasure boat is so quiet now, as if even the wind is holding its breath... Sometimes, you know, silence can be more moving than any melody—especially when you're sitting beside someone dear to your heart."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_yingying_xiaoxianchushang_specialattention_001.aac",
+            "text": "My attire is styled after figures in ancient paintings. Do you like it, sweetheart? Hmm? Why are you just staring without saying anything? Could it be you're so enchanted by me that you've forgotten how to offer a compliment? If that's the case, you'd better keep your eyes on me, or I might just disappear back into the painting!"
+        }
+    ]
+}

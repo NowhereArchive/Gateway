@@ -1,0 +1,173 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hypatia_cacha_001.aac",
+            "text": "Hypatia Campbell, Fraser researcher. The purpose of my visit is to exchange disaster defense technologies and explore possibilities of coexistence... I hope our collaboration will be fruitful, Chief."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hypatia_promotion_001.aac",
+            "text": "Unchecked power will only lead to destruction."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hypatia_promotion2_001.aac",
+            "text": "If the decision's already made... then don't regret it, and don't look back."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hypatia_battlebegin_001.aac",
+            "text": "Keep a low profile, and don't drag your feet."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_hypatia_battlewin_001.aac",
+            "text": "Everything shall be as you wish."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hypatia_battlelose_001.aac",
+            "text": "If we try again, we can do better."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hypatia_uniqueskill_001.aac",
+            "text": "Roses bloom in sight."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hypatia_dead_001.aac",
+            "text": "I should have... stopped while I had the chance..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hypatia_greeting_001.aac",
+            "text": "Greetings, Chief. Before we begin today's work, would you care for a cup of Campbell herbal tea?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hypatia_talk1_001.aac",
+            "text": "Using Mania to transmute metals, we can decompose, transfer, and rebuild matter until it's perfect. By mastering Ash Crystals, we will gain the power to resist disasters."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hypatia_talk1_002.aac",
+            "text": "The use of shackles, constraining Mania, and devouring Black Rings, all these technologies the Campbells seek but have never obtained somehow converged in a single person. What cruel past forged you into who you are today?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hypatia_talk1_003.aac",
+            "text": "There was a young girl from DisCity who insisted I bring you some things. A few letters, some mementos, and a stack of... IOUs with your name on them?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hypatia_talk2_001.aac",
+            "text": "Every member of the Campbell family receives their own golden rose at their coming-of-age ceremony. It represents honor, but more importantly, obligation."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hypatia_talk2_002.aac",
+            "text": "Turning stone into gold isn't difficult. It's the price that's typically more expensive than the result."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hypatia_talk2_003.aac",
+            "text": "I hear the cries of those who've lost their homes and come seeking shelter, yet they're barred by gilded gates until the winds erase all their voices... Chief, tell me, is this truly the right path forward? I... I can't find the answer."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_hypatia_obeyfull_001.aac",
+            "text": "I hope one day I can be as brave as you, defying rules and choosing your own path freely and adamantly. Until that day comes, please stay by my side and be my source of courage."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hypatia_idle_001.aac",
+            "text": "Once the principles are understood, one can reverse-engineer a substance and reproduce it. But you're different. The mysteries around you are far too complex... Analysis might take time..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hypatia_clicking_001.aac",
+            "text": "DisCity's idea of hospitality leaves much to be desired."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hypatia_specialattention_001.aac",
+            "text": "Sometimes, a gaze conveys more than words ever could. For instance... when you look at me, are you thinking of me?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hypatia_dispatch_001.aac",
+            "text": "Who will do the deed?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_hypatia_dispatch2_001.aac",
+            "text": "Hmm? Is this really all we need?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hypatia_levelup_002.aac",
+            "text": "Your support has been most valuable to me. Thank you."
+        }
+    ],
+    "hypatia_-_rank_up": [
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hypatia_head_001.aac",
+            "text": "Elaborate hairstyles can hinder movement, but... maintaining one's appearance is also a noble's obligation."
+        }
+    ],
+    "crepuscular_bloom": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hypatia_yeyinjinqiang_cacha_001.aac",
+            "text": "\"Where the quicksilver ring glows, there the Golden Rose blooms.\" Since you solved my riddle and arrived on time... I should repay you with courage and determination. Take me with you, let's go somewhere far, far away."
+        },
+        {
+            "title": "Upgrade",
+            "filename": "File:vo_hypatia_yeyinjinqiang_levelup_001.aac",
+            "text": "The night wind goes wherever it wants..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hypatia_yeyinjinqiang_greeting_001.aac",
+            "text": "I knew from the start that you'd find this place without any hints or directions. After all... this is where we first met."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hypatia_yeyinjinqiang_head_001.aac",
+            "text": "I've never attended a ball with my hair styled like this, but things are different now. After tonight, my hair will no longer be a tool for my family. Instead, it'll be a canvas for you and me."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hypatia_yeyinjinqiang_body_001.aac",
+            "text": "I've often wondered, why you? Why, of all people, you? The two of us are like heaven and earth, like oil and water. We shouldn't have chosen each other. But when I think of you, all the \"duties\" I was bound to fade from my mind... Perhaps that's the answer I sought all along."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hypatia_yeyinjinqiang_body_002.aac",
+            "text": "As a child, I often got lost in the mansion. I slowly realized this place wasn't made to guide people home. Yet you... always found me, leaping past walls wreathed in thorns to take my hand."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hypatia_yeyinjinqiang_leg_001.aac",
+            "text": "Long dresses and high heels hinder movement, yet they symbolize status. My family never allowed me to go anywhere deemed unsuitable for such attire. I foolishly believed this was because they loved me—until I met you. Only then did I realize that a jail was not the only way to protect."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hypatia_yeyinjinqiang_background_001.aac",
+            "text": "This mansion has contained my entire life. Leaving it is no easy decision for me... But you've made me believe that a rose by any other name would smell as sweet, and that even without my family, I can still fulfill my true potential."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hypatia_yeyinjinqiang_idle_001.aac",
+            "text": "The guards will be back soon. Are you sure we should just keep staring at the sky like this?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hypatia_yeyinjinqiang_specialattention_001.aac",
+            "text": "The look in your eyes tells me you would protect me no matter what. If I were to leap from here, I know you would catch me in your warm embrace..."
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_kavakava_cacha_001.aac",
+            "text": "I can sleep here all the time, right? Wow! It's got so much space inside. Not even a breath of wind can get in! It's much better than camping. Great, I finally have a place to stay!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_kavakava_promotion_001.aac",
+            "text": "Thank you! This will allow me to finish the map quicker!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_kavakava_promotion2_001.aac",
+            "text": "One day, I will place beacons in every corner of WhiteSands. I'm confident of it now!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_kavakava_battlebegin_001.aac",
+            "text": "Don't worry. Fieldwork is my strong suit."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_kavakava_battlewin_001.aac",
+            "text": "Great! Now a safety beacon can be placed here too!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_kavakava_battlelose_001.aac",
+            "text": "Hurry! This way! We can duck through."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_kavakava_uniqueskill_001.aac",
+            "text": "Hide beside it!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_kavakava_dead_001.aac",
+            "text": "I don't... feel well..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_kavakava_greeting_001.aac",
+            "text": "Hello! I thought you got lost and was about to look for you."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_kavakava_talk1_001.aac",
+            "text": "If you encounter a sandstorm, look for a beacon nearby... like this one in my hand. Hide next to it, then you should be able to survive it."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_kavakava_talk1_002.aac",
+            "text": "Why do you keep catching those... they are called desert bandits, right? They hardly ever hit me with a gun. Sometimes they would ask me to be their guide and give me fresh water after getting them to places. I think they are nice people."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_kavakava_talk1_003.aac",
+            "text": "Hehehe, I'm not as impressive as you said, at least not as good as Dad and Grandpa. I learned all my geography knowledge from the book grandpa wrote."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_kavakava_talk2_001.aac",
+            "text": "Your food here is so delicious. Especially the broth—I would never have thought putting large chunks of meat and water together would taste so much better than roasting scorpions and lizards!"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_kavakava_talk2_002.aac",
+            "text": "There are a few very strange places in WhiteSands with people looking stern and carrying guns everywhere. I get kicked out every time I go in for a break—but it's so spacious inside. How mean."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_kavakava_talk2_003.aac",
+            "text": "I always thought if I placed beacons all over WhiteSands, my dad would come back. But it's been seven years... I will finish his and Grandpa's plan, then I will go find him."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_kavakava_obeyfull_001.aac",
+            "text": "The starry sky over WhiteSands is incredibly stunning, especially when there's a meteor shower... Let's go see it together when we have the chance. There's an awesome viewing spot that only I'd know."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_kavakava_idle_001.aac",
+            "text": "When Johnny Comes Marching Home"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_kavakava_clicking_001.aac",
+            "text": "Do you want my hat? But this one is very worn-out. Let me make a new one for you."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_kavakava_specialattention_001.aac",
+            "text": "You want me to stay here with you? Sure! By the way, when are we going back to WhiteSands? I have a lot of work to do there."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_kavakava_dispatch_001.aac",
+            "text": "Oh, did someone get lost?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_kavakava_dispatch2_001.aac",
+            "text": "No need to pay me. I don't need it. I'm glad I can help."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_kavakava_levelup_002.aac",
+            "text": "Wind and sand can't stop me!"
+        }
+    ],
+    "down_the_rabbit_hole": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_kavakava_tuzidong_cacha_001.aac",
+            "text": "Late? Late for what? Mr. Pocket Watch, what are you talking about? It's awful enough I've had butterflies in my stomach all morning, and now you are broken too! What's next? Me being hit by a newcomer falling from the sky? ...Ouch!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_kavakava_tuzidong_levelup_001.aac",
+            "text": "The rabbit hole has a new guest!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_kavakava_tuzidong_greeting_001.aac",
+            "text": "Thank you, newcomer! You falling on me helped me remember what I need to do—going to the tea party! It's a rare chance to take in some calories!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_kavakava_tuzidong_body_001.aac",
+            "text": "Well well well, everyone in my burrow is my guest! But I not quite ready for the tea party... Oh, I've got it! Let's dash off to the Queen of Hearts' palace—it's ever so grand, and the food is delightful! Just mind that red-eyed rabbit, it does give one a fright!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_kavakava_tuzidong_body_002.aac",
+            "text": "Do you have a sweet tooth? Like jam, butter, scones... If you do, come to the tea party with me! Here, you must take this spoon so that you can say, \"I'll only have a spoonful!\""
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_kavakava_tuzidong_idle_001.aac",
+            "text": "Hmm... This flower will make a lovely gift... Oh, and this mushroom—quite handy! And this herb, yes, yes! Just what we need to get through the week!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_kavakava_tuzidong_clicking_001.aac",
+            "text": "Oh my whiskers! Careful, careful! My suitcase is packed with all the essentials we need to survive here. If anything happens to them, we'll be doomed!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_kavakava_tuzidong_specialattention_001.aac",
+            "text": "Yes, you're doing good. Stay close to me! It's not quite like the ground up here, and one wrong step could have me searching for hours to get you back!"
+        }
+    ]
+}

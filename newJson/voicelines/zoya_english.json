@@ -1,0 +1,335 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_zoya_cacha_001.aac",
+            "text": "Sending out so many cops just to catch a Syndican gangster. Your subordinates are honestly... beyond useless."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_zoya_promotion_001.aac",
+            "text": "It's not enough to simply possess power. You must also put it to good use."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_zoya_promotion2_001.aac",
+            "text": "What do they say, that these are humanity's limits? What a joke. Humans will never stop pushing beyond their limits."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_zoya_battlebegin_001.aac",
+            "text": "I've been waiting for so long."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_zoya_battlewin_001.aac",
+            "text": "You messed with the wrong person."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_zoya_battlelose_001.aac",
+            "text": "This is not the end. Don't give in!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_zoya_uniqueskill_001.aac",
+            "text": "I, am the Legion!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_zoya_dead_001.aac",
+            "text": "I can't... go down like this..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_zoya_greeting_001.aac",
+            "text": "Hey, looks like you're free. How about taking a trip to the Syndicate with me? Quite a few people are eager to meet you."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_zoya_talk1_001.aac",
+            "text": "Your boss keeps switching my guards. Are they really so scared? Scared of an imprisoned Sinner, or a mediocre Syndican gangster?"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_zoya_talk1_002.aac",
+            "text": "My subordinates are not all muscle freaks. The brainy type is equally welcomed, too. Hmm... You seem qualified. Quit working for the government and join the Legion!"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_zoya_talk1_003.aac",
+            "text": "Guns? We don't rely on them in fights. A warrior trusts only their fists and their will. What's more, Syndicate's <i>guns</i> have long been tainted."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_zoya_talk2_001.aac",
+            "text": "Only violence can end violence. That's the only answer Syndicate has given us. Those who once had dreams have all died for nothing."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_zoya_talk2_002.aac",
+            "text": "Those abandoned factories are remnants of the city's golden era. That's the glory Syndicans must reclaim."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_zoya_talk2_003.aac",
+            "text": "\"No matter who they've lost, the Legion's commander must remain calm.\" But if something happened to you, I can't imagine what I would do..."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_zoya_obeyfull_001.aac",
+            "text": "When we first met, you were just a rookie I could easily lift with a single arm. It surprises me... how you haven't changed a bit. But you're also the strongest person I've ever met. I'll keep counting on you in the future, Chief."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_zoya_idle_001.aac",
+            "text": "It does look like there are a few people here... I can have a bout with."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_zoya_clicking_001.aac",
+            "text": "Are you... provoking me?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_zoya_specialattention_001.aac",
+            "text": "Are you just gonna watch? Why don't we have a bout instead? I'll stand there without moving, and I won't even use my hands."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_zoya_dispatch_001.aac",
+            "text": "A piece of cake. My guys in the Legion will get it done in no time."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_zoya_dispatch2_001.aac",
+            "text": "See? Told you it was easy."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_zoya_levelup_002.aac",
+            "text": "Hmm... That's not enough."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_zoya_head_001.aac",
+            "text": "Wow, you're pretty brave..."
+        }
+    ],
+    "wolves_strike_soon": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_zoya_langxijiangzhi_cacha_001.aac",
+            "text": "Tell those gangs that the Legion is here—to declare war on all of you!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_zoya_langxijiangzhi_levelup_001.aac",
+            "text": "Humph. I look forward to the battle."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_zoya_langxijiangzhi_greeting_001.aac",
+            "text": "Ha, you're late. Keep up. Didn't you say you want to witness the reformation of Syndicate? Stay with me at all times then."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_zoya_langxijiangzhi_head_001.aac",
+            "text": "I feel like you've... got a lot more guts lately."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_zoya_langxijiangzhi_body_001.aac",
+            "text": "Who will be our first opponent? Ted? Yagyu? Why don't they all come at once? It will be the same."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_zoya_langxijiangzhi_body_002.aac",
+            "text": "I'll leave the planning to Earl. I just need to open the way ahead—which is what he needs most."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_zoya_langxijiangzhi_hand_001.aac",
+            "text": "Rust, smoke, and endless violence. Syndicate never changes. I'm sick of it... Go. Destroy everything. It's time for a change."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_zoya_langxijiangzhi_background_001.aac",
+            "text": "The Legion doesn't need a stronghold. The whole of Syndicate is the territory of the wolves."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_zoya_langxijiangzhi_idle_001.aac",
+            "text": "We have more enemies than this, but as long as those guys in the gutter dare to show up..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_zoya_langxijiangzhi_specialattention_001.aac",
+            "text": "Oh? Have you finally decided to join the Legion?"
+        }
+    ],
+    "supreme_negotiation": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.aac",
+            "text": "As you can see, the negotiation was a huge success."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_zoya_zhigaojiaoshe_levelup_001.aac",
+            "text": "Your words carry weight only when you have the power."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_zoya_zhigaojiaoshe_greeting_001.aac",
+            "text": "You came. Unfortunately, the negotiation has ended prematurely. This place looks quite impressive, doesn't it? As good a place for conversation as any."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_zoya_zhigaojiaoshe_head_001.aac",
+            "text": "Your bravery never ceases to amaze."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_zoya_zhigaojiaoshe_body_001.aac",
+            "text": "Hehe, to tame a beast, you must become more ferocious and savage than them."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_zoya_zhigaojiaoshe_body_002.aac",
+            "text": "The future of Syndicate? Sigh, I don't have the answer to that yet, but I will find it, in my own way."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_zoya_zhigaojiaoshe_hand_001.aac",
+            "text": "Do you envy them? I can tell that you do by the look in your eyes."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_zoya_zhigaojiaoshe_leg_001.aac",
+            "text": "The fire of violence has died, but the embers remain in our heart, smoldering in every dark corner and waiting to be reignited."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_zoya_zhigaojiaoshe_idle_001.aac",
+            "text": "You did a great job guarding this place. Good doggy."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_zoya_zhigaojiaoshe_specialattention_001.aac",
+            "text": "This outfit is not bad for a negotiation meeting, but I'm not going to move as freely in this if things get physical... Sigh...Well, it's a nice gift from you guys, after all."
+        }
+    ],
+    "lord_of_rimehowl": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_zoya_bingfengwangzuo_cacha_001.aac",
+            "text": "Before the moon dons its blood-red veil, the snow wolves sense footsteps across the ice. Come and witness the final change upon those frozen plains."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_zoya_bingfengwangzuo_levelup_001.aac",
+            "text": "With you here, the snowstorm holds no fear."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_zoya_bingfengwangzuo_greeting_001.aac",
+            "text": "Stand by my side, stay sharp. We'll be here for a while, until everything is settled..."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_zoya_bingfengwangzuo_head_001.aac",
+            "text": "Heh, I've always admired those with courage. So tell me, is this really as far as your ambition can take you?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_zoya_bingfengwangzuo_talk_001.aac",
+            "text": "The wind sweeping across glaciers sounds different to everyone. Some hear the blessings of the departed, while others hear... the growl of death."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_zoya_bingfengwangzuo_talk_002.aac",
+            "text": "I've carved the names of everyone I've lost into the glaciers. They deserve to be remembered. Unless, of course, the ice melts in millennia. But by then, I suppose all of us will have been forgotten in time anyway."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_zoya_bingfengwangzuo_lefthand_001.aac",
+            "text": "These snow plains have endured countless wars. Pristine snow was trampled. Glaciers were melted. Even the moon was stained with blood... But fortunately, we now possess the power to bring stability and peace to these frozen lands."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_zoya_bingfengwangzuo_righthand_001.aac",
+            "text": "Snow wolves are the most loyal of creatures. They never betray their pack or their mates, and will forever protect and trust those they've chosen."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_zoya_bingfengwangzuo_idle_001.aac",
+            "text": "After tonight, the dawn that everyone has been longing for will surely rise."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_zoya_bingfengwangzuo_clicking_001.aac",
+            "text": "This better be just an accidental pat. You've got that big fluffy thing there for petting purposes, haven't you?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_zoya_bingfengwangzuo_specialattention_001.aac",
+            "text": "No need to look so surprised. I'll rule over these snow plains, or did you expect less?"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlebegin_001.aac",
+            "text": "Ready? Let's fight."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlewin_001.aac",
+            "text": "This glory belongs to the pack."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlelose_001.aac",
+            "text": "The blizzard... is coming..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_zoya_bingfengwangzuo_uniqueskill_001.aac",
+            "text": "I will end this darkness!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_zoya_bingfengwangzuo_dead_001.aac",
+            "text": "The lone wolf may die, but the pack lives on..."
+        },
+        {
+            "title": "Interaction 1",
+            "filename": "File:vo_zoya_bingfengwangzuo_drag_001.aac",
+            "text": "It's no sign of danger. It only means acceptance, for both me and you."
+        },
+        {
+            "title": "Interaction 2",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragback_001.aac",
+            "text": "Seems like you've taken a liking to this one."
+        },
+        {
+            "title": "Interaction 3",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragbody_001.aac",
+            "text": "Where're you looking at? Over here!"
+        },
+        {
+            "title": "Interaction 4",
+            "filename": "File:vo_zoya_bingfengwangzuo_draghand_001.aac",
+            "text": "Where are you going?"
+        },
+        {
+            "title": "Interaction 5",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragleg_001.aac",
+            "text": "I, and the one I've chosen, take this oath together."
+        },
+        {
+            "title": "Exit Interaction",
+            "filename": "File:vo_zoya_dragreturn_001.aac",
+            "text": "The ritual is complete. The blood moon will fade. And we should... head home now."
+        }
+    ]
+}

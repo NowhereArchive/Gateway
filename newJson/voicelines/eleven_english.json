@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_eleven_cacha_001.aac",
+            "text": "Hello, wandering souls. Come and pick up this \"Call at 3 AM.\" Wandering around on a lightless night, are you trying to say something to me?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_eleven_promotion_001.aac",
+            "text": "The midnight chime sounded. Come, stay with me..."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_eleven_promotion2_001.aac",
+            "text": "I will turn everything you give me into a cage that binds you...!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_eleven_battlebegin_001.aac",
+            "text": "The phone is ringing, my dear. I'm right behind you..."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_eleven_battlewin_001.aac",
+            "text": "Goodbye, my dear."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_eleven_battlelose_001.aac",
+            "text": "The phone keeps ringing non-stop... Gimme a break..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_eleven_uniqueskill_001.aac",
+            "text": "Thank you for tuning in."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_eleven_dead_001.aac",
+            "text": "No... No... Stop talking..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eleven_greeting_001.aac",
+            "text": "What story will you share with me today?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_eleven_talk1_001.aac",
+            "text": "If you can't sleep, why not tune in to my broadcast, \"Call at 3 AM\". I hope it can bring some gentleness into your night."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_eleven_talk1_002.aac",
+            "text": "People always look for something they desire, something that soothe them in me. How sad... Ah, but, I'm looking forward to you being a guest on my show."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_eleven_talk1_003.aac",
+            "text": "I can take all the emotions others flood me with, and grind them with my mind and heart into a smiling voice on the airwaves."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_eleven_talk2_001.aac",
+            "text": "Humans are such amazing creatures. After that electrifying moment of locking eyes, you and I no longer look the same to each other."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_eleven_talk2_002.aac",
+            "text": "If it weren't for all those rumors and legends, I could read poems or tell a story to the sound of the midnight rain... then greet the first ray of dawn after a rainy night..."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_eleven_talk2_003.aac",
+            "text": "\"Her silhouette slowly approaches you from behind, envelops you, and finally... embraces you...!\" Oops, did I startle you? Don't be scared... it's just me."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_eleven_obeyfull_001.aac",
+            "text": "My views have been overturned, and my world has been changed, but I know... this is not misfortune. Thank you for becoming the fissure in this world to free me from my shackles..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eleven_idle_001.aac",
+            "text": "A Little Poem, line 27: \"If the world could be changed by dreaming, then I would sleep in this dream and never wake up, until the joyous world of my imagination has been created.\""
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eleven_clicking_001.aac",
+            "text": "You want me to stay with you this much...? Don't worry... I'll call you tonight."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eleven_specialattention_001.aac",
+            "text": "Don't be so nervous. I can stay on the line with you. You just continue with what you're doing, and I'll be here with you. If you still feel ill at ease... how about I sing a song for you?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_eleven_dispatch_001.aac",
+            "text": "Let me see, what's different about your world."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_eleven_dispatch2_001.aac",
+            "text": "This is all that I can give you."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eleven_levelup_002.aac",
+            "text": "Come, come closer... a little bit more."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eleven_head_001.aac",
+            "text": "Do you want to know how much I've missed you?"
+        }
+    ],
+    "rippling_heartthrobs": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_eleven_xinchaomanxia_cacha_001.aac",
+            "text": "You finally woke up! How do you feel right now? Still dizzy or nauseous? Thank goodness you're all right. You passed out from heatstroke. I was scared out of my wits... Luckily, I was close by, so I rushed to bring you back to rest."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eleven_xinchaomanxia_levelup_001.aac",
+            "text": "Thanks for the cold drink. Let's cool off together. Cheers!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eleven_xinchaomanxia_greeting_001.aac",
+            "text": "If you're still feeling unwell, how about I keep you company and talk to you for a while? My voice might make you feel better."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eleven_xinchaomanxia_head_001.aac",
+            "text": "Are you worried I might come down with heatstroke too? Hehe... don't worry about me. I'll be fine."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_eleven_xinchaomanxia_talk1_001.aac",
+            "text": "Have you ever heard of the \"inside-out cooling method\"? It's said that listening to creepy stories is a good way to cool down in summer. Let's give it a go. Well, I happen to have a story about this very beach. It's always bustling during daytime, but when night falls, strange things happen. Just the other night, a staff member was patrolling the grounds when..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_eleven_xinchaomanxia_talk1_002.aac",
+            "text": "Don't stray from the safe area while you're in the water, and remember to do a proper warm-up before going in for a dip. See those guys over there? Like you did earlier, they jumped into the water without warming up first and ended up with cramps in their legs. The other lifeguards are rescuing them now..."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_eleven_xinchaomanxia_hand_001.aac",
+            "text": "Still feeling hot? Okay, this towel may help. I've soaked it in cold water and wrung it out. Here, let me wipe your forehead and neck to cool you down... Feeling better now?"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_eleven_xinchaomanxia_rubberring_001.aac",
+            "text": "No. You're not fully recovered yet, so it's not a good idea for you to go back in the water, not even with a lifebuoy. If you're feeling bored, why don't you play with this little octopus plushie? You'll find it very satisfying to squeeze it."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eleven_xinchaomanxia_idle_001.aac",
+            "text": "Even though you can't go in the water for now, it's still nice to just lie here under a parasol, watching the clouds drift by, feeling the breeze on your cheeks, and listening to the waves, don't you think?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eleven_xinchaomanxia_specialattention_001.aac",
+            "text": "Why do you keep staring at me? You're at the seaside. Shouldn't you be enjoying the sea view? Well, if you really want to talk with me some more, we can take a walk along the beach after my shift. All right then, wait for my call."
+        }
+    ],
+    "trickling_heartstream": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_eleven_xinliuweilan_cacha_001.aac",
+            "text": "Now, please entrust every part of yourself to the scent of the incense, the flow of water, and the sound of my voice. Let me help you forget all your tiredness."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eleven_xinliuweilan_levelup_001.aac",
+            "text": "Every sound has drawn us even closer together."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eleven_xinliuweilan_greeting_001.aac",
+            "text": "I've been waiting for you. What would you like to hear today? A new melody, a verse, or a story that never ends..."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eleven_xinliuweilan_head_001.aac",
+            "text": "Oh sorry, is my hair tickling you? Hold on, let me fix it up with a claw clip."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_eleven_xinliuweilan_body_001.aac",
+            "text": "Close your eyes. Now, slowly bring your attention to breathing. Breathe in... and out... You're doing great, now once more... Hmm? You're not quite focused, are you? Is it because of me?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_eleven_xinliuweilan_body_002.aac",
+            "text": "Imagine you're lying in the center of a pond, surrounded by lotus leaves. Sunlight filters through the clouds, gently warming your eyelids. You can hear the soft tinkling of water beside you as it trickles down the stream. Surrender your thoughts—just let this tranquil scene come to life in your mind and savor the warmth and comfort of this peaceful moment..."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_eleven_xinliuweilan_clothes_001.aac",
+            "text": "I wanted to create a relaxing, gentle, and soothing space for you. So, I chose the softest clothes, warmed up the room a bit, and adjusted the humidity so you can hear every sound even more clearly... Feels like I'm here waiting for you to come home and open your heart to me, doesn't it?"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_eleven_xinliuweilan_candle_001.aac",
+            "text": "Do you like the scent of this candle? It's as if we're surrounded by a sea of late-spring flowers. And we're tucked away there, whispering little secrets that belong only to us, just like we're doing right now."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eleven_xinliuweilan_idle_001.aac",
+            "text": "What's on your mind? No, nothing... just a sudden urge to let you know that I am always here, by your side."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eleven_xinliuweilan_specialattention_001.aac",
+            "text": "If I'm the last person you see before you fall asleep, will I be in your dreams tonight?"
+        }
+    ]
+}

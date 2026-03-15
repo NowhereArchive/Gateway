@@ -1,0 +1,265 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_linglan_cacha_001.aac",
+            "text": "Alright, alright, I'll indulge you with a little fun. After all... the way you're trailing after me is just too adorable."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_linglan_promotion_001.aac",
+            "text": "It's only natural that the owner of Whitestone Industries is highly competent."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_linglan_promotion2_001.aac",
+            "text": "You've got to show what you're made of once in a while. Am I right, Chief?"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_linglan_battlebegin_001.aac",
+            "text": "Come grab a drink with me when it's done."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_linglan_battlewin_001.aac",
+            "text": "The job is done! Shall we sort out the pay?"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_linglan_battlelose_001.aac",
+            "text": "When there's a will, there's a—which way is the exit?"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_linglan_uniqueskill_001.aac",
+            "text": "You are all done for."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_linglan_dead_001.aac",
+            "text": "Take care of them... please..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_linglan_greeting_001.aac",
+            "text": "MBCC's Whitestone Branch at your service! If you drop by, I'll offer you a special 20% off. Shush... don't let K.K. know."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_linglan_talk1_001.aac",
+            "text": "Time for bed. I've earned it, haven't I? I've been working <i>so hard</i> for you, Chief."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_linglan_talk1_002.aac",
+            "text": "I'm faster than lightning when I want to be. You won't be able to stop me. Hmm, you think I'm bluffing? Try setting me free and see for yourself then."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_linglan_talk1_003.aac",
+            "text": "Whitestone is able to survive in Syndicate till today because I've poured my blood, sweat, and tears into this company. You really can't count on those two kids, for heaven's sake... Why are you looking at me like this? Am I not speaking the truth?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_linglan_talk2_001.aac",
+            "text": "I don't have any virtuous faith. I'm happy enough to be able to protect those around me. I don't want to lose anyone ever again."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_linglan_talk2_002.aac",
+            "text": "Half of those <i>scan code and save 10 DisCoins on your order</i> ads in the city are posted by me. I've been to every corner of the DisCity, and I know about the things you want to investigate. Wanna hear it? ...Well, pay up!"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_linglan_talk2_003.aac",
+            "text": "Underground city? Why on earth are you always looking into this sort of thing... Has anyone seen it? If no one has seen it, that means it's fake. Or... no one who's entered it has made it out alive."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_linglan_obeyfull_001.aac",
+            "text": "I don't like working hard, but I do like hard-working people. People like K.K., Che... and you. Trust me, your hard effort won't go to waste—I won't let that happen."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_linglan_idle_001.aac",
+            "text": "The meals here are pretty good. I don't need to repay my debts here. Also, the landlord can't just barge in. Nice, nice... It's decided, I'm not leaving!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_linglan_clicking_001.aac",
+            "text": "Oh? How unusual. Are you taking the lead today? In that case, let's have some fun..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_linglan_specialattention_001.aac",
+            "text": "Are you so eager to be close to me? Oh my, such an honest kid."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_linglan_dispatch_001.aac",
+            "text": "Does this count as a job? You know the drill, I don't work for free."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_linglan_dispatch2_001.aac",
+            "text": "Phew... Should have asked K.K. to settle this for me..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_linglan_levelup_002.aac",
+            "text": "Whatever you say, whatever you need."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_linglan_head_001.aac",
+            "text": "Handsy. Fancy going for a ride with me, Chief?"
+        }
+    ],
+    "blade_of_night": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_linglan_yeyoushen_cacha_001.aac",
+            "text": "So you finally found out. Don't be shocked. Syndicate has quite a few dank rats lurking in the dark. Someone's got to deal with them. It's really no trouble for me."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_linglan_yeyoushen_levelup_001.aac",
+            "text": "The faster the blade, the fewer problems there are."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_linglan_yeyoushen_greeting_001.aac",
+            "text": "You're finally back. I stayed here and didn't go out all this time when you were gone... Oh, you want to know about the stain on my cloak? Che accidentally spilled water on it. Yeah, that must be it."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_linglan_yeyoushen_head_001.aac",
+            "text": "These hair accessories all have their own purposes. Be careful not to cut your hands."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_linglan_yeyoushen_body_001.aac",
+            "text": "Errands? What errands would a decent person have this late... I simply enjoy walking around at night. Yup, that's all."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_linglan_yeyoushen_body_002.aac",
+            "text": "There is a restaurant nearby. Their braised beef goes well with wine. Let's grab a drink together?"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_linglan_yeyoushen_hand_001.aac",
+            "text": "With how sad steps, O Moon, thou climb'st in the skies... What a beautiful night to sweep away vice."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_linglan_yeyoushen_leg_001.aac",
+            "text": "If you slash a blade fast enough, an afterimage will linger in its place. Beautiful, isn't it?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_linglan_yeyoushen_idle_001.aac",
+            "text": "Hmm, this familiar stench... Is it coming from over there?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_linglan_yeyoushen_specialattention_001.aac",
+            "text": "Is this meant to... surveil me? Which do you think is faster, the speed of my movement or the blink of your eye?"
+        }
+    ],
+    "wave_rider": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_linglan_langlibaitiao_cacha_001.aac",
+            "text": "Believe me, I've really been to the sea! I chartered a luxury yacht and found a lot of treasures there... (Chuckles) K.K. and Che were there, too! They can vouch for me!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_linglan_langlibaitiao_levelup_001.aac",
+            "text": "Hehe, afterwards, I found even more treasures."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_linglan_langlibaitiao_greeting_001.aac",
+            "text": "Done resting? Let's head out, then. There are still lots of treasures at the bottom of the sea waiting for us to salvage."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_linglan_langlibaitiao_head_001.aac",
+            "text": "When you're alone on a boat with a hot babe like me, your imagination is bound to run wild. It's fine, I forgive you."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_linglan_langlibaitiao_body_001.aac",
+            "text": "You know, my boat back then was unparalleled. Powerful, luxurious, and decked out with every gadget you can possibly imagine... What's that look? Don't believe that I used to be rich?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_linglan_langlibaitiao_body_002.aac",
+            "text": "It can get dangerous at times on the sea. There are storms, pirates, and sharks. But fear not. To me, those are just little hiccups on the road to fortune."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_linglan_langlibaitiao_hand_001.aac",
+            "text": "Can I swim? Ha! I can swim like a little mermaid, so fast, so graceful! Anyone sees that should pay me. You'll understand once I get into the water."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_linglan_langlibaitiao_leg_001.aac",
+            "text": "Phew, the sun is scorching. I'm getting all hot and sweaty... Aww, how come you're blushing?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_linglan_langlibaitiao_idle_001.aac",
+            "text": "Ah... Take a nap on the deck if you're tired. The sun is so warm, and the sea breeze feels so nice..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_linglan_langlibaitiao_specialattention_001.aac",
+            "text": "All right, all hands on deck. We're heading to deeper waters!"
+        }
+    ],
+    "aeon's_vanguard": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_linglan_suianjiangjun_cacha_001.aac",
+            "text": "\nI wielded lightning, swift and bold,\nwith ambitions that never grow cold.\nAs long as I guard your sacred door,\nNo evil shall threaten you anymore.\nYep, there are indeed evils lurking around your place. But don't worry, my mere presence is enough to send them running for cover."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_linglan_suianjiangjun_levelup_001.aac",
+            "text": "Yep, still got it."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_linglan_suianjiangjun_greeting_001.aac",
+            "text": "There you are! Grab a drink and take in the view with me: the depots are packed, and everyone's living the good life. Those years I spent fighting? Totally worth it. A massive toast to that!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_linglan_suianjiangjun_body_001.aac",
+            "text": "This security gig is a breeze compared to what I used to do. If it's a respectful visitor, I'll simply step aside; if it's someone bold enough to test their luck, well, my sword could use a little entertainment every now and then."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_linglan_suianjiangjun_body_002.aac",
+            "text": "Yeah, I know they call me the \"general of mass destruction,\" and let's just say, that's not all rumors. But nowadays, my job's more about keeping goblins and poltergeists in check to ensure a peaceful new year for the common folks."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_linglan_suianjiangjun_idle_001.aac",
+            "text": "The winter's breath still chills the air, while willows dance with vernal flair... A fine sight of early spring, yet here you are, snoozing away. Well, as they say, \"What can't be done today can wait until tomorrow\"—for now, enjoy your dreams."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_linglan_suianjiangjun_clicking_001.aac",
+            "text": "Fumble all you like, it's no skin off my back. But just so you know, the painting's not gonna look quite as majestic with all the colors gone!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_linglan_suianjiangjun_specialattention_001.aac",
+            "text": "Hey there, it's been ages! You're looking as spry as ever. Don't just stand there—go ahead and slather my armor in vermilion and ink, toss in a fine bottle of wine, and I'll make sure to keep another year safe for you. Deal?"
+        }
+    ]
+}

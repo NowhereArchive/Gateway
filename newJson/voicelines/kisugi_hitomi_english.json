@@ -1,0 +1,163 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hitomi_cacha_001.aac",
+            "text": "I'm Hitomi. I look forward to working with you!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hitomi_promotion_001.aac",
+            "text": "Not by a long shot! The real show is just starting!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hitomi_promotion2_001.aac",
+            "text": "I've never felt more ready! Nothing can stop us this time!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hitomi_battlebegin_001.aac",
+            "text": "Let's stay sharp, okay?"
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_hitomi_battlewin_001.aac",
+            "text": "Quite the team, aren't we?"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hitomi_battlelose_001.aac",
+            "text": "It's not over... Next time, I will get it right."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hitomi_uniqueskill_001.aac",
+            "text": "Try and keep up if you can!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hitomi_dead_001.aac",
+            "text": "Everyone... I'm so sorry..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hitomi_greeting_001.aac",
+            "text": "Feeling great! Nothing will slip by me now."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hitomi_talk1_001.aac",
+            "text": "Someone's cheerful. Everything's going your way today?"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hitomi_talk1_002.aac",
+            "text": "Quite the team, aren't we?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hitomi_talk1_003.aac",
+            "text": "You can count on me. I won't let you down!"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hitomi_talk2_001.aac",
+            "text": "Feeling like we're in sync?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hitomi_talk2_002.aac",
+            "text": "There’s never a dull moment when I'm with you."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hitomi_talk2_003.aac",
+            "text": "Let's stay sharp, okay?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_hitomi_obeyfull_001.aac",
+            "text": "Have I earned a bit more of your trust now?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hitomi_idle_001.aac",
+            "text": "It's boring just waiting around, you know."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hitomi_clicking_001.aac",
+            "text": "Seriously... you're so clingy!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hitomi_specialattention_001.aac",
+            "text": "That means a lot. I promise, I won't let you down."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hitomi_dispatch_001.aac",
+            "text": "You can count on me. I won't let you down!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_hitomi_dispatch2_001.aac",
+            "text": "I'm back! So, did I live up to your expectations?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hitomi_levelup_002.aac",
+            "text": "Feeling great! Nothing will slip by me now."
+        }
+    ],
+    "kisugi_hitomi_-_rank_up": [
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hitomi_head_001.aac",
+            "text": "Hmm? Do you need something?"
+        }
+    ],
+    "neon_raindrops": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hitomi_yumunihong_cacha_001.aac",
+            "text": "Well? Does it suit me? Don't just stand there staring..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hitomi_yumunihong_levelup_001.aac",
+            "text": "You can place your trust in my strength."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hitomi_yumunihong_greeting_001.aac",
+            "text": "There you are. I've been waiting. So, what's our plan for today?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hitomi_yumunihong_talk_001.aac",
+            "text": "Wow... Look at that... It takes me back. Dad used to show me beautiful views just like this."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hitomi_yumunihong_talk_002.aac",
+            "text": "Hey, listen! You won't believe what happened!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hitomi_yumunihong_idle_001.aac",
+            "text": "Hmph. And here I am, being ignored because someone is too busy."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hitomi_yumunihong_clicking_001.aac",
+            "text": "Sigh... You're teasing me again, aren't you?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hitomi_yumunihong_specialattention_001.aac",
+            "text": "...Thank you. You're making me blush."
+        }
+    ]
+}

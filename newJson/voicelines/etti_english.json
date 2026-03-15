@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_etti_cacha_001.aac",
+            "text": "The mission has been judged as a success! Hero, time to celebrate. You can take me away now."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_etti_promotion_001.aac",
+            "text": "Aha, that's more like it! This is what the \"Game Master\" deserves!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_etti_promotion2_001.aac",
+            "text": "From now on, I shall dictate the rules of the game!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_etti_battlebegin_001.aac",
+            "text": "The game has begun! Come pick out a way to change your fate!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_etti_battlewin_001.aac",
+            "text": "Congratulations on clearing the level! Heroes, go claim your bounty!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_etti_battlelose_001.aac",
+            "text": "Ouch... It hurts... I knew that team would be hard to lead..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_etti_uniqueskill_001.aac",
+            "text": "Obey my rules!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_etti_dead_001.aac",
+            "text": "Everything has been... shattered..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_greeting_001.aac",
+            "text": "The forces of darkness are about to descend upon the world... Hero, it's time to embark on your journey!"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_etti_talk1_001.aac",
+            "text": "Have no fear! Tell me what you want to do next."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_etti_talk1_002.aac",
+            "text": "Everything \"interesting\" in this world comes from \"imagination,\" so you don't need to restrain yourself in front of me. Do you understand?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_etti_talk1_003.aac",
+            "text": "Not everyone can complete my games... But you look like someone with potential. Want to try it out?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_etti_talk2_001.aac",
+            "text": "\"Good,\" \"neutral,\" and \"evil\"... Which one do you think I am? Or rather, which one do you want me to be?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_etti_talk2_002.aac",
+            "text": "They all say that dragons are selfish and greedy, but I think... It's just because no one dares to become close with them..."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_etti_talk2_003.aac",
+            "text": "As long as you hold a dragon-slaying gun in your hand, it's a symbol of justice, even if the gun is broken. So... what are you going to do to an evil dragon like me?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_etti_obeyfull_001.aac",
+            "text": "I'm addicted to dark and thrilling imagination, yet I fear the frosty loneliness there... Thank you for defeating me... Thank you, for being by my side."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_idle_001.aac",
+            "text": "Sometimes, the \"world\" wants to take a break, too... Let's get some rest."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_clicking_001.aac",
+            "text": "You acted without approval... This world will punish you."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_specialattention_001.aac",
+            "text": "Are the treasures you seek in my eyes?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_etti_dispatch_001.aac",
+            "text": "Time for our spring trip!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_etti_dispatch2_001.aac",
+            "text": "I got a lot of items! Want to see what they are? As long as I'm here, nothing bad will happen."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_levelup_002.aac",
+            "text": "It's only fun when you have trade-offs for your base attributes."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_etti_head_001.aac",
+            "text": "You like my horn, too? Let me tell you about it! It was during a harsh, cold winter... Hey! Where are you going?"
+        }
+    ],
+    "noctivagation": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_etti_guiyeqilv_cacha_001.aac",
+            "text": "As night falls, ghostly lanterns flicker to life. The ancient castle of the dragon will reopen its dusty gates, beckoning the chosen warriors with its secrets and treasures... Hehe, how's that? Immersive enough?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_guiyeqilv_levelup_001.aac",
+            "text": "Gaze from the Devil takes effect, Luck +1!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_guiyeqilv_greeting_001.aac",
+            "text": "The clock has struck midnight. No time to dawdle! Embark on a brand new adventure alongside the dark demon from the Land of Oblivion! Uh-huh, that means me, your guide!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_etti_guiyeqilv_talk1_001.aac",
+            "text": "These pumpkins are too cute? Umm, maybe they do look a little... Hold on! The game we're playing today is horror themed! They are obviously appalling! How can they be cute!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_etti_guiyeqilv_talk1_002.aac",
+            "text": "Hmm? Candy? D-don't think you can buy me off with a measly two pieces of candy! I'm a demon, and demons are meant to cause trouble! You know that, right?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_guiyeqilv_idle_001.aac",
+            "text": "Dear traveler, please don't let your guard down. The rocky path is full of temptations and traps, and the red-winged demon will eventually reveal her dragon's claws and teeth."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_guiyeqilv_clicking_001.aac",
+            "text": "Ahh! Don't pull my tail! Acting without permission is not allowed! Not even to your guide! ...What kind of punishment you'll face, you ask? Hmph, take... a... guess?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_guiyeqilv_specialattention_001.aac",
+            "text": "What are you looking at me for? Hurry up! Huh? You're not really scared, are you? Relax, if you're in any danger, I'll make an exception and provide you with a little extra help... but don't tell anyone about this!"
+        }
+    ],
+    "dances_&_dragons": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_etti_longyuyuanwuqu_cacha_001.aac",
+            "text": "You stand in the presence of Etti the Dragon of Domination—rightful ruler of the plundered Grandeur Palace, ever-reveling Queen of the Ravening Realm, dancing Avatar of cursed Love and Fury, and mighty Lord of all gold-filled caves... Countless warriors met afoul of me yet survived not. But I know... a Prophetic One shall come, and waltz with me in battle!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_longyuyuanwuqu_levelup_001.aac",
+            "text": "See my gown swirl with grace. Let's dance wild!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_longyuyuanwuqu_greeting_001.aac",
+            "text": "Oh, looks like someone is waiting to take my hand. So, Sir Armour, guess it's time for you to stand down. Off you go!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_etti_longyuyuanwuqu_body_001.aac",
+            "text": "I admire those brave souls who fall before dragons. Noble hearts, drawing their swords against giant dragons even in fear, just to protect what they hold dear. You too have the \"scent\"! Hmm... wanna know what you smell like? A knight, or a dragon?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_etti_longyuyuanwuqu_body_002.aac",
+            "text": "Twirl, sway, and spin! Wow, you can really dance! Wait, hold your shackles. It's been centuries since a mortal graced my cave. How about you dance with me to my heart's content before we cross blades, my Prophetic One?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_longyuyuanwuqu_idle_001.aac",
+            "text": "Falling asleep? Hehe, let me tell you something: never drop your guard around me, whether on the battlefield or at a ball. I am, and always will be, your dearest enemy~"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_longyuyuanwuqu_clicking_001.aac",
+            "text": "Hehe, admiring my dragon horns, are you? If you like them that much, how about you grow your own?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_longyuyuanwuqu_specialattention_001.aac",
+            "text": "I love seeing myself in your eyes—it's like drowning in the molten lava that gave birth to me... Perhaps, the prophecy will eventually come true! Your eyes will slit, your spine will sprout wings, your arms become claws, and your stomach begets raging fire... Through our eternal dance, the warrior who fights dragons shall become the dragon itself."
+        }
+    ]
+}
