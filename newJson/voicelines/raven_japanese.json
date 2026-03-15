@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_raven_cacha_001.aac",
+            "text": "おやおや、私はしがない記者だ。捕まるいわれはないが？もしや……お前の秘密を記事にしてしまったせいか？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_raven_promotion_001.aac",
+            "text": "ご依頼、承った。しっかり書かせてもらうよ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_raven_promotion2_001.aac",
+            "text": "ほう、歴史に残る瞬間だ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_raven_battlebegin_001.aac",
+            "text": "面白いネタに出会えると良いのだが。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_raven_battlewin_001.aac",
+            "text": "「MBCCコンビクト、完勝！」——いいタイトルだろう？"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_raven_battlelose_001.aac",
+            "text": "ゴホン……以前の取材相手と同じくらいやりにくい奴だな……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_raven_uniqueskill_001.aac",
+            "text": "Nevermore！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_raven_dead_001.aac",
+            "text": "ははっ……私の死は、人々の記憶に残るだろうか……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_raven_greeting_001.aac",
+            "text": "ん？ああ、徹夜していたわけではない。朝一番にお前に会いたかっただけだ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_raven_talk1_001.aac",
+            "text": "私の執筆料は手頃だぞ。さあ、何を依頼したい？ゴシップか？それとも著名人の不祥事か？それとも……ラブレターとか？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_raven_talk1_002.aac",
+            "text": "狂人？お前は分かっているはずだ。我々詩人は、ほとんど狂っている。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_raven_talk1_003.aac",
+            "text": "記事に善悪はないのだよ。正しいかどうかなど、重要ではないだろう？今のシンジケートで……そんなものに価値はないのだから。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_raven_talk2_001.aac",
+            "text": "ここが日々変化していることは認識している。これからどこへ向かうのか……お前はどう思う？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_raven_talk2_002.aac",
+            "text": "犬猫探しのチラシなど書かない。どうしてもと言うなら、そうだな……「MBCCの局長が謎の美人に一目惚れ！？、小さな新聞社に押しかけ居候中」と書いてやろう。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_raven_talk2_003.aac",
+            "text": "言葉と文字には力がある。その響きの全ては、世界に対する私の反逆だ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_raven_obeyfull_001.aac",
+            "text": "私はこのペンでシンジケートの全てを刻み、やがてお前が現れる時に……駄目だな、この詩は失敗作だ。まあ、気持ちが伝わるなら構わないか。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_raven_idle_001.aac",
+            "text": "退屈な一日だ。この世界に捧ぐ詩でも詠もうか。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_raven_clicking_001.aac",
+            "text": "斬新な催促だな？もういい、お前の依頼は受けんよ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_raven_specialattention_001.aac",
+            "text": "おや——私にそこまで興味があったとは。自分がどう書かれているのか気になるか？心配するな。私の記事は完璧だ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_raven_dispatch_001.aac",
+            "text": "昔は取材で各地を飛び回るのが大好きだった。膝に銃弾を受けるまではね……"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_raven_dispatch2_001.aac",
+            "text": "疲れたな……だが、それに見合う収穫は得た。この世界には、まだまだ面白い事が溢れているようだ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_raven_levelup_002.aac",
+            "text": "「カラス」が喜んでいるな。ああ、私のことではない。この子のことだ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_raven_head_001.aac",
+            "text": "これは傷跡ではない……これは私の勲章。狂人となった勲章なのだ。"
+        }
+    ],
+    "arnheim_athenaeum": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_raven_aenhaimuzhiguan_cacha_001.aac",
+            "text": "おや、私をここで千年も待たせたのはお前か。私を慕う観察者なのか？それならサインをしてやろう。どうだ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_raven_aenhaimuzhiguan_levelup_001.aac",
+            "text": "教えてくれ。他にどんな秘密が欲しいんだ？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_raven_aenhaimuzhiguan_greeting_001.aac",
+            "text": "この世界の未来を知りたいのか、それとも過去の歴史が語る真理を知りたいのか、どちらだ？さぁ、探しに連れて行ってやろう……待て、前の持ち主はあの本をどこに置いただろうか……？え？前だと？あぁ、また「前の持ち主」と言ってしまったか？聞き間違いさ……あはは～"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_raven_aenhaimuzhiguan_talk_001.aac",
+            "text": "困った時、何か面倒が起きた時は、図書館に来るといい。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_raven_aenhaimuzhiguan_talk_002.aac",
+            "text": "ここで読書をしているカラスを見かけても驚かないでくれ。前の持ち主が宝を見に戻ってきたのかもしれないのだよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_raven_aenhaimuzhiguan_idle_001.aac",
+            "text": "ルールによると、この図書館が答えられる内容なら私は何でも答えるが、質問は1ターンにつき3回までだ。よく考えて質問するように～"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_raven_aenhaimuzhiguan_clicking_001.aac",
+            "text": "おやおや、これは世界のルールが仕立てた服だぞ。それをお前は……チッ、この服はアイティがレンタルしたものだ。高いから破かないよう気をつけてくれ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_raven_aenhaimuzhiguan_specialattention_001.aac",
+            "text": "私が誰なのか興味があるようだな？お前の「古い友人」とよく似ているのか？"
+        }
+    ],
+    "raven_in_the_box": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_raven_kehoujingxi_cacha_001.aac",
+            "text": "私の優秀な生徒たちが、コソコソと何かプレゼントを用意していると思っていたんだ。ほら、このぬいぐるみは可愛いだろう？羨ましく思わないでくれ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_raven_kehoujingxi_levelup_001.aac",
+            "text": "ありがとう。だが、それでもぬいぐるみは渡さない！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_raven_kehoujingxi_greeting_001.aac",
+            "text": "おや、来るのが遅かったな？祝いの会は終わってしまった。だが問題ない。生徒たちから貰った素敵なプレゼントを一緒に眺めようじゃないか。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_raven_kehoujingxi_talk_001.aac",
+            "text": "箱を開けた時は悪戯かと思ったが、まさかちゃんとしたプレゼントだったとはな。だが、子供たちの中で私はこんなに顔が長く頭が丸いイメージなのか？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_raven_kehoujingxi_talk_002.aac",
+            "text": "「暑く厳しい1日が終わり……もう明日の心配はない——」。ああ、先人の言葉は本当に正しい。プレゼントを開け、皆の笑顔を前にして、今この瞬間……幸せとはシンプルだが、全てを超越する喜びであると感じるよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_raven_kehoujingxi_idle_001.aac",
+            "text": "教室がこうなってしまうとは、子供たちは本当に元気がいいな……ふむ、悪ガキを2～3人捕まえて掃除でもさせよう。窓枠にしがみついて帰ろうとしない子たちが良さそうだな。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_raven_kehoujingxi_clicking_001.aac",
+            "text": "こらこら、これは大事な教え子から貰ったものだ。勝手に触られては困る！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_raven_kehoujingxi_specialattention_001.aac",
+            "text": "なぜそんな目で私を見ているんだ？あぁ、私が特別に揃えた教師用のスーツを初めて見たからか？ふむふむ、それならもうしばらく眺めていても構わない。"
+        }
+    ]
+}

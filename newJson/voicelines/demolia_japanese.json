@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_atlant_cacha_001.aac",
+            "text": "エムビーシーシー……だったっけ？いやぁ～聞いたことがあるよ。ここはたくさんコンビクトを受け入れてるってね。さあ、早く入って！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_atlant_promotion_001.aac",
+            "text": "いや～能力って、ゴミ拾いと同じやな。拾えば拾うほど強くなる！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_atlant_promotion2_001.aac",
+            "text": "ん～やっぱり強いほうがええわ～仕事が早く終われば、睡眠の質も上がるし。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_atlant_battlebegin_001.aac",
+            "text": "今回は色々拾えそう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_atlant_battlewin_001.aac",
+            "text": "あれ、なんて言うんだっけ……そうそう！力はすべてを……ねじ伏せるってな！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_atlant_battlelose_001.aac",
+            "text": "逃げろ！追ってくるよ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_atlant_uniqueskill_001.aac",
+            "text": "とま……れ——！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_atlant_dead_001.aac",
+            "text": "あんたたち……行かないで……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_atlant_greeting_001.aac",
+            "text": "今日はどこにコンビクトを拾っ……じゃなくて、捕まえに行く？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_atlant_talk1_001.aac",
+            "text": "調達部門はみんな金使いが荒いなあ。ちょっと説教してくるわ。お金を稼ぐのは大変なんやで～ってな。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_atlant_talk1_002.aac",
+            "text": "ディスチェスをやらない？あいつらはいないみたいだし、二人でやろう——…… 局長？どこ行くんだよ局長！物は試しだって。面白いから！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_atlant_talk1_003.aac",
+            "text": "「他人のくだらない話を贈り物として受け取らないこと。あなたはゴミを集める人じゃないんだから。」ん？局長！この本に書いてあるこの言葉ってあたいへの皮肉じゃない？違うか……それならいいや。でもメモっとこーっと。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_atlant_talk2_001.aac",
+            "text": "死瞳との戦いはただの仕事。人生を楽しむことこそが一番大事！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_atlant_talk2_002.aac",
+            "text": "あれ、局長！また夜更かしした？あかん！それはあかんで！若者はちゃんと寝んと。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_atlant_talk2_003.aac",
+            "text": "前に住んでたとこと比べたら、ここは豪華すぎるわ～できることなら、あたいは廊下で寝て、シンジケートの子供たちにベッドを譲りたいな……。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_atlant_obeyfull_001.aac",
+            "text": "局長とあたいの仲だから、直接言うよ。前に申請したベランダの承認はいつおりるん？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_atlant_idle_001.aac",
+            "text": "また錆の川に行きたいな～。あそこにまたなんか新しいものが入ったらしくて……。ライトレールの素材とかもあるんやって。こっちやったらいくらぐらいで売れるんやろ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_atlant_clicking_001.aac",
+            "text": "そうそう！そこ！もっと強く揉んで！はあ～ええもんやな～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_atlant_specialattention_001.aac",
+            "text": "え？あたい一人だけここに立つの？そんな！つまらんわ！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_atlant_dispatch_001.aac",
+            "text": "今日は天気がいいよ、局長。一緒に行かない？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_atlant_dispatch2_001.aac",
+            "text": "ふう～大量大量！三輪車に乗り切らない！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_atlant_levelup_002.aac",
+            "text": "あれ？ハンマーが軽くなった！"
+        }
+    ],
+    "gritty_detour": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_atlant_shahaijiongtu_cacha_001.aac",
+            "text": "局長！？ここであんたと会えるなんて、すごい偶然。あたい？暑すぎて車がエンストしちゃって……でも心配しないで。ここに座って待ちながら、誰かが通りかかったらヒッチハイクすればいいから。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_atlant_shahaijiongtu_greeting_001.aac",
+            "text": "起きた？大丈夫、疲れて眠くなったら寝ていいよ。車が通ったら起こすから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_atlant_shahaijiongtu_talk_001.aac",
+            "text": "ヘーイ——そこの車の優しそうな兄ちゃん！こっちこっち！乗せてくれへん？おぉい！……また通り過ぎてった。最近の人はほんま冷たいなぁ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_atlant_shahaijiongtu_talk_002.aac",
+            "text": "お腹空いたり、喉が渇いたら言って。我慢したらダメだよ。車は壊れたけど、中のもんは全部大丈夫やから。漬け物とか食料は十分あるし、水も大きなバケツ2つ分持ってきたから、長時間持つよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_atlant_shahaijiongtu_idle_001.aac",
+            "text": "局長、局長？寝たの？いや……まさか熱中症！？待って、動いたらあかんよ。濡れタオル持ってくるから。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_atlant_shahaijiongtu_clicking_001.aac",
+            "text": "つまり……ボードをもうちょっと大きくした方がいいってこと？ナイスアイデア、そうする！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_atlant_shahaijiongtu_specialattention_001.aac",
+            "text": "戻ってきたの？こんな荒野に町なんてないって言ったじゃん。暑いし、身体も弱いんだから、無理して動かず休んだ方がいいよ。あたいが全部やるから。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_atlant_shahaijiongtu_levelup_001.aac",
+            "text": "えっ、局長これは……悪いやん。"
+        }
+    ]
+}

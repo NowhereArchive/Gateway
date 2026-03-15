@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_matilda_cacha_001.aac",
+            "text": "단순한 인사이동이라고 하지 않으셨습니까? 이게 대체 뭡니까? 수감자… 수용?! 제대로 설명해 주십시오, 제가 도대체 뭘 잘못 했습니까?!"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_matilda_promotion_001.aac",
+            "text": "선발해 주셔서 감사합니다. 더욱 노력하겠습니다."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_matilda_promotion2_001.aac",
+            "text": "이게 지금 제 능력의 한계일지도 모르겠습니다. 어쨌든 저를 신임해 주시고 함께해 주셔서 감사합니다."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_matilda_battlebegin_001.aac",
+            "text": "팀에 화력을 지원하겠습니다."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_matilda_battlewin_001.aac",
+            "text": "영상 녹화 완료. 잠시 후 영상으로 이번 전투의 결과를 확인하실 수 있습니다."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_matilda_battlelose_001.aac",
+            "text": "다들 멈추지 마세요! 국장님이 철수할 수 있도록 엄호를 부탁합니다!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_matilda_uniqueskill_001.aac",
+            "text": "화력 진압!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_matilda_dead_001.aac",
+            "text": "다들 전선을 유지하십시오… 저는… 신경 쓰지 말고…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_matilda_greeting_001.aac",
+            "text": "국장님, 안녕하세요. 오늘 서류는 이미 정리해 두었습니다. 대부분 일반적인 결재 신청서와 작전 보고서였으니 간단히 확인해 주시면 됩니다. 상급 부서에서 보낸 기밀문서는 따로 정리해 두었는데 최대한 빨리 확인해 주셔야 할 것 같습니다."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_matilda_talk1_001.aac",
+            "text": "'사전에 준비할 수 있는 기회가 있다면 절대로 놓치지 마라.' 어머니께서 해주신 이 말씀 덕분에 그동안 많은 난관을 이겨낼 수 있었습니다."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_matilda_talk1_002.aac",
+            "text": "나이팅게일 선배님을 보면 아직도 제게 부족한 점이 많다는 걸 깨닫게 됩니다. 국장님이 그렇게 믿음직한 부관의 지지를 받을 수 있다니, 정말 부럽습니다."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_matilda_talk1_003.aac",
+            "text": "'10점은 과녁 점수의 한계일 뿐, 제 능력의 한계가 아닙니다.' 허세 가득한 소리인 거 압니다. 평소의 저… 음… 답지 않죠. 하지만 사격만큼은 자신 있습니다."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_matilda_talk2_001.aac",
+            "text": "집행 위원회는 확실히 여러 문제가 있습니다. 통제를 잃은 내부 관리와 체계를 잃은 인원들… 집행 위원회가 제대로 작동한다는 건 오히려 기적에 가깝죠… 하지만 저는 여전히 그 속에서 많은 것을 배웠습니다. 이런 경험들이 MBCC 업무에 도움이 되길 바랍니다."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_matilda_talk2_002.aac",
+            "text": "깨끗한 업무 환경은 심신 건강에 좋습니다. 가능하다면 시간을 정해두고 사무실을 정리해 보십시오… 바쁘신 거 아니까 제게 시키셔도 됩니다."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_matilda_talk2_003.aac",
+            "text": "업무와 휴식 사이엔 적당한 밸런스가 필요하니 제때 쉬셔야 합니다. 너무 무리하지 마시고, 중요하지 않은 업무는 부하들에게 맡기십시오. 아무래도… 당신의 몸 상태가 나빠지면 관리국 전체의 운영에 문제가 생길 수도 있잖습니까."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_matilda_obeyfull_001.aac",
+            "text": "과거의 전, 뛰어난 엘리트들을 보며 제 노력이 헛된 건 아닌지 의심했습니다. 하지만 지금은 다릅니다. 그들과 비교할 필요 없이 제가 할 수 있는 일을 해낸다면 그걸로 된 거죠. 전부 나이팅게일 선배님, 돈, MBCC 여러분, 그리고… 국장님 덕분입니다. 다들 감사합니다. 국장님께도 감사해요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_matilda_idle_001.aac",
+            "text": "커피 드시겠습니까? 제가 직접 간 원두입니다. 원두는 집에서… 아니 신성에서 가져온 건데, 떫지 않아서 맛이 아주 좋습니다… 정말 안 드실 겁니까?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_matilda_clicking_001.aac",
+            "text": "이런 행위를 당장 멈춰주십시오!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_matilda_specialattention_001.aac",
+            "text": "코드 넘버 MBCC-S-745, 수감자 마틸다 보고드립니다. 명령을 내려주십시오."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_matilda_dispatch_001.aac",
+            "text": "임무 예상 소요 시간은 최소 8시간에서 최대 24시간, 실시간으로 진행 상황을 보고하겠습니다."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_matilda_dispatch2_001.aac",
+            "text": "잠시 후 행정처에 임무 보고서를 제출할 테니 확인 부탁드립니다."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_matilda_levelup_002.aac",
+            "text": "큰 힘에는 큰 책임이 따르는 법이죠."
+        }
+    ],
+    "elfin_siesta": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_matilda_huayexumeng_cacha_001.aac",
+            "text": "윽, 새들아, 내 머리는 쪼아대지 말아 줄래? 휴식을 취하는 사람을 방해하는 건 나쁜 어린이란다… 대장님?! 언제 오셨어요?! 또다시 숲이 어둠에 집어삼켜진 건가요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_matilda_huayexumeng_levelup_001.aac",
+            "text": "뿔의 감지 정확도가 상승했습니다."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_matilda_huayexumeng_greeting_001.aac",
+            "text": "아뇨, 제 휴식을 방해하지 않으셨습니다. 순찰 도중 어린 소녀를 공격하는 감염된 야생 동물을 발견해서 사살한 뒤, 소녀를 숲 밖으로 데려다줬습니다. 먼 길을 다녀와서 전 잠시 여기서 휴식을 취하고 캠프로 돌아갈 계획이에요. 제 도움이 필요하시다면 언제든지 말씀해 주세요."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_matilda_huayexumeng_head_001.aac",
+            "text": "머리가… 까치집이 되어버렸네요? 이런 안 좋은 모습을 보여드려 죄송합니다…!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_matilda_huayexumeng_body_001.aac",
+            "text": "가끔 숲에서 휴식을 취할 때면 따스한 햇볕과 맑은 초목에 감동을 받곤 해요. 아름다운 만물의 소리에 마음이 움직이죠… 저와 함께 이곳의 아름다움을 지켜주셔서 감사합니다."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_matilda_huayexumeng_body_002.aac",
+            "text": "그 빨간 모자 소녀는 절 사냥꾼이라고 불렀죠. 하지만 제가 숲속의 생명을 사냥하는 건 제 배를 채우려는 목적이 아니에요, 어둠에 잠식된 동물을 제때 해치우지 않으면 숲은 결국 악마의 소굴이 되고 말 거예요. 당신이 순찰대를 창설한 것도 이 때문이겠죠."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_matilda_huayexumeng_horn_001.aac",
+            "text": "앗! 죄송하지만 저희 종족의 뿔은 주변 상황을 감지하는 기관이라, 방금 하신 행동은 좀… 최대한 부드럽게 만져 주실래요?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_matilda_huayexumeng_background_001.aac",
+            "text": "이 녀석들은 제 오랜 친구예요. 작은 동물들은 활발한 편이라 저 같은… 고지식한 정령에게 가까이 다가오려고 하지 않죠. 하지만 이 다람쥐들은 달라요. 제가 그들이 잊고 지낸 식량 저장고를 찾아준 뒤로 줄곧 저와 친하게 지냈어요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_matilda_huayexumeng_idle_001.aac",
+            "text": "작은 동물들이 풀잎 위에서 뛰어다니는 사사삭 소리를 들으니까… 잠이 오네요…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_matilda_huayexumeng_specialattention_001.aac",
+            "text": "전 그냥 힘이 빠진 거지 다친 게 아니에요. 이렇게 조심히 돌봐 주실 필요 없어요. 하지만 오해는 마세요, 이런 관심은 정말 마음에 드니까요."
+        }
+    ]
+}

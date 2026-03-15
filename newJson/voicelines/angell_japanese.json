@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_angel_cacha_001.aac",
+            "text": "私に頼み事があるなら、ダークウェブで依頼し金を前払いして待て。強引な割り込み依頼は受け付けない。だが、もし私に喧嘩を売りたいだけなら……よく考えろ。その代償は支払えないだろう。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_angel_promotion_001.aac",
+            "text": "特殊なテクニックは必要ない。手を下す時は何も考えなければいいだけだ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_angel_promotion2_001.aac",
+            "text": "鋭い刃が鞘から抜ければ、必ず血が流れる。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_angel_battlebegin_001.aac",
+            "text": "場所の確認が必要か？了解。行ってくる。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_angel_battlewin_001.aac",
+            "text": "依頼完了。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_angel_battlelose_001.aac",
+            "text": "……まだ終わっていない。私が受けた依頼はこのままでは終わらない。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_angel_uniqueskill_001.aac",
+            "text": "その命貰った！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_angel_dead_001.aac",
+            "text": "はは……雇い主は失望するだろうな……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_angel_greeting_001.aac",
+            "text": "お前が来るとは思っていなかった。新しい依頼か？それとも、お前もここに隠れて休みたいのか？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_angel_talk1_001.aac",
+            "text": "……カーテンを動かすな。外の人間に見られたら危険だ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_angel_talk1_002.aac",
+            "text": "私は生活費を稼ぐためにダークウェブで依頼を受けている。猫も人間も探すし、殺しもそれ以外もする。依頼が金額に見合っていればな。個人的な好みは……重要ではない。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_angel_talk1_003.aac",
+            "text": "……私は孤独なのか？そうかもしれない。だが、一人でいることは安全を意味する。こちら側の世界では安全は貴重だ。だから、私は孤独であっても構わない。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_angel_talk2_001.aac",
+            "text": "自分の部屋が散らかっているとは思わない。必要な物が見つかれば十分だ。刀、おにぎり、パソコン、ドア、ベッド。どこに何があるかは明らかだろう？この部屋は仕事場よりずっと快適だし、満足している。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_angel_talk2_002.aac",
+            "text": "恐れられ、嫌われるような闇は、まさに私が慣れ親しんだ生活だ。私はそれを受け入れている。哀れだとは思わない。人にはそれぞれの運命があるからな。向こう側の人生は期待しない……お前が作るあずき汁以外は。あれは本当に気に入った。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_angel_talk2_003.aac",
+            "text": "希望や愛という温かく明るいものも見てきたが、最後には全て例外なく消えていった。こちら側の世界では、幻影より脆いものは留まることができないんだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_angel_obeyfull_001.aac",
+            "text": "お前を無理に引き留める気はない。私は暗闇に包まれる運命にあり、お前は光の中を歩むべき人間だ。こちら側でお前を守っていよう。深淵に落ちるのは私一人で十分だ。誰もお前を引きずり込むことはできない。これは……私が生涯をかけて自分に課した依頼だ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_angel_idle_001.aac",
+            "text": "……この刀と私、先に折れるのはどちらだろうな？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_angel_clicking_001.aac",
+            "text": "不安そうだな。何かしてほしいことはあるか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_angel_specialattention_001.aac",
+            "text": "そんな風に見つめても意味はない。私の動きについてこられないだろう。私が立ち去ろうとすれば、お前は引き留めることができないはずだ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_angel_dispatch_001.aac",
+            "text": "依頼を受注した。手付金はいつもの口座に。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_angel_dispatch2_001.aac",
+            "text": "確認を頼む。残金の支払いも忘れるな。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_angel_levelup_002.aac",
+            "text": "報酬を受け取った。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_angel_head_001.aac",
+            "text": "どうした、私に話があるのか？"
+        }
+    ],
+    "lurking_lotusblade": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_angel_gujianjinghe_cacha_001.aac",
+            "text": "お前の要望通り、周囲の脅威は一掃した。庭を借りて少し休みたいんだが、いいな？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_angel_gujianjinghe_levelup_001.aac",
+            "text": "切っ先が露わになれば、攻撃は必ず当たる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_angel_gujianjinghe_greeting_001.aac",
+            "text": "今日はあまり依頼がないから、また休憩場所を借りに来た……ここはとても静かで、気に入っている。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_angel_gujianjinghe_head_001.aac",
+            "text": "お前がまだそこで無傷のまま立っていられるのは、私がお前の気配を覚えているからだ。もし他の人間だったら、とっくにハスの池に沈んで、泥になっているだろう。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_angel_gujianjinghe_body_001.aac",
+            "text": "日光浴をしているだけで騒ぎが起きるなんて、お前は何を敵に回しているんだ？……まあいい、これは私が探るべきことじゃない。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_angel_gujianjinghe_body_002.aac",
+            "text": "私はいわゆる真の正義ではない。誰かのために仕事をする以上の意味はないから、雇い主がどんな立場であれ、それに従う。気にするのはせいぜい……金額に見合うかどうかだ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_angel_gujianjinghe_righthand_001.aac",
+            "text": "私がお前の庭に隠れ、お前が私の後ろに隠れるように、刀の本当の意義は殺すことではなく隠れることだ。切っ先が鋭すぎると、かえって弱点になる。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_angel_gujianjinghe_lefthand_001.aac",
+            "text": "この庭をあまり入念に手入れする必要はない。今のままでいい。混沌とした中にも秩序がある……うん、家に帰ってきたような懐かしさだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_angel_gujianjinghe_idle_001.aac",
+            "text": "仕事があるなら行ってこい。私のことはあまり気にしなくていい。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_angel_gujianjinghe_specialattention_001.aac",
+            "text": "私たちの仕事は、顔を簡単に覚えられてはいけない。そうやって私をじっと見つめた人間が最後にどうなったか……知りたくないだろう。私と知り合ったことは墓まで持って行く。そうだな？私はお前の庭が気に入っているんだ。次に来た時、またお前に会えることを願っている。"
+        }
+    ],
+    "thunder_beat": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_angel_chenxiang_cacha_001.aac",
+            "text": "プログラムに好みの曲が入っていたから、彼女たちに加わることにした。ヘッドフォンで聴くのと、自分で演奏するのとでは全く違うな。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_angel_chenxiang_levelup_001.aac",
+            "text": "手応えがあった。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_angel_chenxiang_greeting_001.aac",
+            "text": "色々な依頼を受けてきたが、こうして誰かと肩を並べて協力するのは……恐らく初めてだ。ああ、仲間が近くにいる感覚は、それほど悪くない。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_angel_chenxiang_talk1_001.aac",
+            "text": "ドラムを叩くのとナイフを扱うのには共通点がある。それは、どちらも極限の精度が求められることだ。タイミングを合わせ、標的を正確に捉える必要がある。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_angel_chenxiang_talk1_002.aac",
+            "text": "以前の生活には「リズム」がなかった。任務を遂行する時も音を立てない方がいいからな。だが今回は音をはっきり伝える必要があるから、少し新鮮だ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_angel_chenxiang_idle_001.aac",
+            "text": "……私のことは気にするな。ただ適当に叩いているだけだからな。依頼されたターゲットを相手にする時と比べれば、ずっと優しい叩き方だ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_angel_chenxiang_clicking_001.aac",
+            "text": "お前も試してみるか？だが力加減には気を付けろ。このドラムはあまり丈夫ではない。この前の練習中、うっかり何セットか壊してしまったんだ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_angel_chenxiang_specialattention_001.aac",
+            "text": "こんな風にスポットライトを浴びることは滅多にない——だが、お前が客席から私を見ていると知っているから、冷静に演奏を終え、お前の期待に応えることができる。"
+        }
+    ]
+}

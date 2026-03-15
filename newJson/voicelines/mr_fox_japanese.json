@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_kaier_cacha_001.aac",
+            "text": "今は法律に基づいて大人しく逮捕されるしかありませんね。けれど、その気になったら、私はいつでも脱出できますよ。そのことはしっかり覚えておいてください。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_kaier_promotion_001.aac",
+            "text": "さてと、私と話がしたいのでしょうか？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_kaier_promotion2_001.aac",
+            "text": "私を地獄の果てまで送っていただき、感謝いたします。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_kaier_battlebegin_001.aac",
+            "text": "法律に反することは、私にバレないようにしてくださいね。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_kaier_battlewin_001.aac",
+            "text": "弁護士の話はきちんと聞いてくださいね。全て勝ってみせますから。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_kaier_battlelose_001.aac",
+            "text": "いくら支払ったら、考えを改めていただけるのでしょうか……？"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_kaier_uniqueskill_001.aac",
+            "text": "私の言う通りにしてください。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_kaier_dead_001.aac",
+            "text": "これは私が受けるべき……罰です。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_kaier_greeting_001.aac",
+            "text": "弁護士とは、争いと共に現れる存在です。ですので、朝一番に弁護士と出会っても平然としていられるのは、あなただけでしょうね。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_kaier_talk1_001.aac",
+            "text": "天秤は法の象徴です。そして私はその天秤をあなたの方へ傾ける力を持っているのです。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_kaier_talk1_002.aac",
+            "text": "Mr.Foxという名前について？私はけっこう気に入っていますよ。狐は、最も賢い動物のひとつですから。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_kaier_talk1_003.aac",
+            "text": "誰もが正義を求める権利を持っています。たとえどんな手を使おうとも、ね。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_kaier_talk2_001.aac",
+            "text": "お金を人の目の前に積み上げると、大体の人間は魂を売ります……そうして、私は正義を手に入れるのです。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_kaier_talk2_002.aac",
+            "text": "私が本気を出せば、あなたにどんなことでもさせられますよ……ふふ、今はまだ惜しいのでやりませんけど。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_kaier_talk2_003.aac",
+            "text": "か弱いつぼみが他人に潰されたら、その人間が誰だろうと、地獄に送り込むべきなのです。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_kaier_obeyfull_001.aac",
+            "text": "あなたはいずれ私に罰を与えるでしょう。そして私は、その罪状の前にひれ伏して、全てを受け入れるのです。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_kaier_idle_001.aac",
+            "text": "ちょうど良かった。まだ確認しなければならない文書が何通かありまして……。また後で一緒にコーヒーを飲みましょう。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_kaier_clicking_001.aac",
+            "text": "私は弁護士として38件のセクハラ裁判で勝訴判決を勝ち取っています。あなたは……ご存知のはずですよね？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_kaier_specialattention_001.aac",
+            "text": "ここへ来た時には、こうやって……あなたとじっくり向かい合う機会はもうないのだと思っていましたよ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_kaier_dispatch_001.aac",
+            "text": "外勤の場合は、1時間単位で料金を頂きます。相談料は別途となりますのでお気を付けください。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_kaier_dispatch2_001.aac",
+            "text": "仕事が完了しました。後で請求書をメールでお送りします。きちんとお支払いくださいね。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_kaier_levelup_002.aac",
+            "text": "私の弁舌がさらに巧みになったかどうか、局長さんで試してみましょうか？"
+        }
+    ],
+    "twilight_game": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_kaier_chenhunyouxi_cacha_001.aac",
+            "text": "境界を越えて、私の宮殿へようこそ——親愛なる友人さん。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_kaier_chenhunyouxi_levelup_001.aac",
+            "text": "あなたの意見を聞かせてください。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_kaier_chenhunyouxi_greeting_001.aac",
+            "text": "親愛なる友人さん、あなたに私の善意を差し上げましょう。ただし……あまり信じないことをお勧めします。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_kaier_chenhunyouxi_talk1_001.aac",
+            "text": "雄大な詩に、心地良い歌声。それらは、私の口から湧き出ると鋭利な三日月となります。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_kaier_chenhunyouxi_talk1_002.aac",
+            "text": "ここにある公平、正義、度量、そして詩は全て私の支配下にあります……あなたは……私を覆そうと思いますか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_kaier_chenhunyouxi_idle_001.aac",
+            "text": "ご心配なく。私からどのように勝利を奪うか考える時間は、たっぷりありますよ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_kaier_chenhunyouxi_clicking_001.aac",
+            "text": "このやり方では、火をつけられませんね。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_kaier_chenhunyouxi_specialattention_001.aac",
+            "text": "ずっと私を見ていれば、あなたの欲しい答えが見つかるのでしょうか？"
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_zoya_cacha_001.aac",
+            "text": "出动那么多警力，居然只为抓一个辛迪加黑帮。你的部下实在……弱得不像话啊。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_zoya_promotion_001.aac",
+            "text": "徒有力量是不够的，你得让它发挥该有的作用。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_zoya_promotion2_001.aac",
+            "text": "他们说，这是人类的极限? 笑话，人只会不断突破极限。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_zoya_battlebegin_001.aac",
+            "text": "我等很久了。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_zoya_battlewin_001.aac",
+            "text": "你们找错了对手。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_zoya_battlelose_001.aac",
+            "text": "这不是结束，别认输！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_zoya_uniqueskill_001.aac",
+            "text": "我，即是军团！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_zoya_dead_001.aac",
+            "text": "我不能……倒在这里……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zoya_greeting_001.aac",
+            "text": "嘿，你看起来挺悠哉，跟我回趟辛迪加如何？有不少人想见你呢。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_zoya_talk1_001.aac",
+            "text": "你的上级每天换着人来盯我，怎么，他们就这么害怕吗？怕一个被囚的禁闭者，还是怕辛迪加不成气候的黑帮？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_zoya_talk1_002.aac",
+            "text": "我的部下可不全是肌肉狂，脑筋好的人也一样受欢迎。嗯……我看你就不错，别给当局跑腿了，加入军团吧！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_zoya_talk1_003.aac",
+            "text": "枪？我们可不靠那种东西战斗，战士只信赖自己的拳头和意志。何况，辛迪加的“枪”早就不干净了。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_zoya_talk2_001.aac",
+            "text": "你很像我认识的一个人，正直，天真，有勇气也有冲劲。呵呵，那个人已经抱着幻想白白丧命了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_zoya_talk2_002.aac",
+            "text": "那些被废弃的工厂，记录了这座城市的黄金时代。这才是辛迪加人必须夺回的荣耀。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_zoya_talk2_003.aac",
+            "text": "“不管失去谁，军团长都必须保持冷静。”可如果出事的人是你，我也不知道自己会做出什么……"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_zoya_obeyfull_001.aac",
+            "text": "刚见面的时候，你是我单手就能提起的菜鸟，没想到……现在还是一样。但你也是我见过的最强大的人。以后，很多事就都交给你了，局长。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zoya_idle_001.aac",
+            "text": "看起来，这里倒是有几个人……能陪我练练手。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_zoya_clicking_001.aac",
+            "text": "你……在挑衅我？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zoya_specialattention_001.aac",
+            "text": "你就这么看着吗？那不如过来比划两下，我站着不动，再让你两只手。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_zoya_dispatch_001.aac",
+            "text": "这点小活儿，军团的伙计们很快就能解决。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_zoya_dispatch2_001.aac",
+            "text": "看，很轻松吧？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zoya_levelup_002.aac",
+            "text": "嗯……还不够。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_zoya_head_001.aac",
+            "text": "呵呵，胆子还挺大……"
+        }
+    ],
+    "wolves_strike_soon": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_zoya_langxijiangzhi_cacha_001.aac",
+            "text": "告诉那些黑帮，军团来了——对你们所有人宣战！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zoya_langxijiangzhi_levelup_001.aac",
+            "text": "哼，接下来的战斗，我很期待。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zoya_langxijiangzhi_greeting_001.aac",
+            "text": "呵呵，你来晚了，跟紧点。不是想亲眼见证辛迪加的变革吗？那就时刻待在我身边。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_zoya_langxijiangzhi_head_001.aac",
+            "text": "我感觉你最近……胆子大了不少。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_zoya_langxijiangzhi_body_001.aac",
+            "text": "谁来做我们第一个对手？泰德？柳生？不如让他们一起上吧，反正结果都一样。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_zoya_langxijiangzhi_body_002.aac",
+            "text": "谋划的事就交给厄尔希，我只要在前方开辟道路——这才是他最需要的。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_zoya_langxijiangzhi_hand_001.aac",
+            "text": "铁锈、硝烟、没有尽头的暴力。辛迪加从未变过，我已经厌倦了……去把这一切破坏殆尽，该变天了。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_zoya_langxijiangzhi_background_001.aac",
+            "text": "军团不需要据点。整个辛迪加，都是狼群的领地。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zoya_langxijiangzhi_idle_001.aac",
+            "text": "敌人绝不止眼前的这些，但只要那些阴沟里的家伙敢露面……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zoya_langxijiangzhi_specialattention_001.aac",
+            "text": "哦？你终于想好，要加入军团了？"
+        }
+    ],
+    "supreme_negotiation": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.aac",
+            "text": "如你所见，这次的会面很成功。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zoya_zhigaojiaoshe_levelup_001.aac",
+            "text": "当你够强时，才有人愿意听你说话。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zoya_zhigaojiaoshe_greeting_001.aac",
+            "text": "你来了？很可惜，谈判提前结束了。不过这儿也还算气派，挺适合我们俩聊聊天的。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_zoya_zhigaojiaoshe_head_001.aac",
+            "text": "你的勇气还是那么令人赞叹。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_zoya_zhigaojiaoshe_body_001.aac",
+            "text": "呵呵，想要驯服猛兽，就得比它更凶狠，更有野心。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_zoya_zhigaojiaoshe_body_002.aac",
+            "text": "辛迪加的未来么？呵，我不知道，但……我会用自己的方式去寻找答案。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_zoya_zhigaojiaoshe_hand_001.aac",
+            "text": "看你的眼神，是在羡慕它们吗？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_zoya_zhigaojiaoshe_leg_001.aac",
+            "text": "铁锈和硝烟没有消失，而是藏在了人的心里，这些遗留的痕迹在每个角落悄然滋生。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zoya_zhigaojiaoshe_idle_001.aac",
+            "text": "警戒工作做得不错，真乖。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zoya_zhigaojiaoshe_specialattention_001.aac",
+            "text": "这身衣服虽然适合坐在谈判桌前，但施展起来还是有点阻碍，罢了……好歹是大家的一番心意。"
+        }
+    ],
+    "lord_of_rimehowl": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_zoya_bingfengwangzuo_cacha_001.aac",
+            "text": "月亮镀上血色前，雪狼感应到了有人踏冰而至。欢迎来见证，雪原上最后的更迭。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zoya_bingfengwangzuo_levelup_001.aac",
+            "text": "有你一起，足够抵御风雪。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zoya_bingfengwangzuo_greeting_001.aac",
+            "text": "站到我身边，打起精神来，我们还要在这里待上一段时间，直到一切都了结……"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_zoya_bingfengwangzuo_head_001.aac",
+            "text": "呵，我一向欣赏胆子大的人，所以，你的野心，只能驱使你的动作停留在这个地方吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_zoya_bingfengwangzuo_talk_001.aac",
+            "text": "风吹过冰川的声音在每个人听来，都是不一样的，有的人听见逝者对他们的祝福，有的人则听见……死亡在对他们低吼。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_zoya_bingfengwangzuo_talk_002.aac",
+            "text": "我将我失去的每一个人的名字，都刻在了冰川上，他们值得被铭记——除非千万年后，冰川消融。不过这样的话，我们所有人也早就随着时间被遗忘得一干二净了吧。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_zoya_bingfengwangzuo_lefthand_001.aac",
+            "text": "这片雪原经历了无数的斗争，白雪被踏黑，冰川被融化，就连月光也被染成鲜血一般的红色……但好在，我们已经拥有了力量，能为这片雪原，带来安定与和平。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_zoya_bingfengwangzuo_righthand_001.aac",
+            "text": "雪狼是最为忠诚的动物，它不会背叛族群，不会背叛伴侣，会对认定之人永远地保护和信任。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zoya_bingfengwangzuo_idle_001.aac",
+            "text": "今夜过后，一定会升起所有人盼望的曙光。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_zoya_bingfengwangzuo_clicking_001.aac",
+            "text": "你最好只是不小心摸错人了——旁边这个大家伙还不够你摸的吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zoya_bingfengwangzuo_specialattention_001.aac",
+            "text": "不必这么惊讶地看着我，我将统领这片雪原，难道不是你意料之中的事？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlebegin_001.aac",
+            "text": "准备好了？开始战斗吧。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlewin_001.aac",
+            "text": "这是属于狼群的荣耀。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlelose_001.aac",
+            "text": "暴风雪……要来了……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_zoya_bingfengwangzuo_uniqueskill_001.aac",
+            "text": "由我来终结黑暗！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_zoya_bingfengwangzuo_dead_001.aac",
+            "text": "孤狼死去，但狼群永存……"
+        },
+        {
+            "title": "互动1",
+            "filename": "File:vo_zoya_bingfengwangzuo_drag_001.aac",
+            "text": "用不着警戒，这是对我、对你认可的意思。"
+        },
+        {
+            "title": "互动2",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragback_001.aac",
+            "text": "看来你很中意这家伙嘛。"
+        },
+        {
+            "title": "互动3",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragbody_001.aac",
+            "text": "往哪儿看呢？在这边！"
+        },
+        {
+            "title": "互动4",
+            "filename": "File:vo_zoya_bingfengwangzuo_draghand_001.aac",
+            "text": "要去哪？"
+        },
+        {
+            "title": "互动5",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragleg_001.aac",
+            "text": "我，以及我所认可之人，一同起誓。"
+        },
+        {
+            "title": "退出互动",
+            "filename": "File:vo_zoya_dragreturn_001.aac",
+            "text": "仪式已经完成，血月将会褪去，我们也该……回家了。"
+        }
+    ]
+}

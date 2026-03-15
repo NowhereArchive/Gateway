@@ -1,0 +1,260 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_hekadi_cacha_001.aac",
+            "text": "저는 줄곧 당신을 기다렸습니다."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_hekadi_promotion_001.aac",
+            "text": "당신이 필요로 하는 한 저는 항상 당신 곁에 있을 것입니다."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_hekadi_promotion2_001.aac",
+            "text": "저의 모든 것은 당신을 위해 사용될 것입니다. 이것이 '헤카테'의 존재의 의미입니다."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_hekadi_battlebegin_001.aac",
+            "text": "제 뒤에서 따라오세요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_hekadi_battlewin_001.aac",
+            "text": "이제 어떻게 해야 합니까?"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_hekadi_battlelose_001.aac",
+            "text": "괜찮습니다. 저는 통증을 느끼지 못합니다."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_hekadi_uniqueskill_001.aac",
+            "text": "당신은… 그의 가까이에 가지 말았어야 합니다!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_hekadi_dead_001.aac",
+            "text": "괜찮습니다… 또 다음의 제가 있을 것입니다."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hekadi_greeting_001.aac",
+            "text": "안녕히 주무셨습니까, 국장님? 오늘의 명령을 내려 주십시오."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_hekadi_talk1_001.aac",
+            "text": "…당신을 잘 보호하기만 하면 되는 것이죠?"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_hekadi_talk1_002.aac",
+            "text": "'수감자'와 그 '괴변체'들은 뭐가 다릅니까? 똑같이 피를 흘리고 죽는 생명체입니다. 당신은 왜 우리가 다르다고 생각하시는 겁니까?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_hekadi_talk1_003.aac",
+            "text": "제가 사라지면 또 다른 '헤카테'가 나타날 것입니다. 그러니 신경 쓰지 않으셔도 됩니다."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_hekadi_talk2_001.aac",
+            "text": "저에게 좀 더 엄격하게 대하셔도 됩니다, 저에게 친절했던 사람들은… 다…"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_hekadi_talk2_002.aac",
+            "text": "당신을 만난 후 저는 더 이상 헤카테가 아닌 것 같습니다. 도대체 제가 뭐가 될지 모르겠습니다. 그날이 오면… 제가 어떻게 해야 할지 알려주실 겁니까?"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_hekadi_talk2_003.aac",
+            "text": "국장님, 만약 어느 날… 제가 더 이상 '헤카테'로 살지 않는다면, 그때도 제가 당신 곁에 서 있을 수 있게 해주실 건가요?"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_hekadi_obeyfull_001.aac",
+            "text": "저는 더 이상 명령이 필요 없습니다, 국장님. 저를 잘 지켜봐 주세요, 남은 길은 제 의지에 따라 당신과 함께 가겠습니다."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hekadi_idle_001.aac",
+            "text": "좋은 꿈 꾸십시오."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_hekadi_clicking_001.aac",
+            "text": "입에 담기 어려운 명령이라면 주저하지 마시고 저를 사용해 주십시오."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hekadi_specialattention_001.aac",
+            "text": "그렇게 하지 않으셔도, 저는 항상 당신과 함께 있을 겁니다."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_hekadi_dispatch_001.aac",
+            "text": "명령입니까? 알겠습니다, 최선을 다하겠습니다."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_hekadi_dispatch2_001.aac",
+            "text": "명령을 완수하고 돌아왔습니다."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hekadi_levelup_002.aac",
+            "text": "만약 이것이 당신이 원하는 것이라면 저는 할 것입니다."
+        }
+    ],
+    "yesterday_revisits": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_hekadi_zuorichongxian_cacha_001.aac",
+            "text": "당신의 요구가 아니었다면…저는 이 옷을 입을 기회가 없었을 겁니다."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hekadi_zuorichongxian_levelup_001.aac",
+            "text": "쉴 때도 저는 긴장을 늦추지 않습니다."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hekadi_zuorichongxian_greeting_001.aac",
+            "text": "오늘은 제가 뭘 하면 될까요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_hekadi_zuorichongxian_head_001.aac",
+            "text": "제 모자가 신경 쓰이나요? 사람들이 화가만 쓸 수 있는 것이라고 하던데… 화가가 뭡니까?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_hekadi_zuorichongxian_body_001.aac",
+            "text": "이 옷을 입을 때마다 반드시 사진을 찍어주는 사람이 있었습니다. 그런데, 이걸 입어달라고 하는 사람은 없어진 지 오래됐습니다."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_hekadi_zuorichongxian_body_002.aac",
+            "text": "기회가 된다면… 전장 이외의 곳도 데리고 가 달라고 하고 싶습니다."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_hekadi_zuorichongxian_lefthand_001.aac",
+            "text": "예전에는 잠들기 전 전화기 너머로 이야기가 들려왔어요. 그러다 제가 갑자기 이야기의 내용을 다 잊어버린 거죠, 전화는... 그 후로 다신 울리지 않았어요."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_hekadi_zuorichongxian_righthand_001.aac",
+            "text": "나이팅게일 부관님께서 제 그림책이 너무 위험하다고, 사람들에게 보여져서는 안 된다고 해서 이 상자에 넣어 뒀습니다."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hekadi_zuorichongxian_idle_001.aac",
+            "text": "국장님과 관련된 그림들을 그려봤는데, 사람들이 절대 국장님에게 보여주면 안 된다고 하더군요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hekadi_zuorichongxian_specialattention_001.aac",
+            "text": "만약 당신이 이런 스타일을 좋아하신다면… 이걸 관리국의 유니폼으로 만드는 게 어떻습니까?"
+        }
+    ],
+    "traveler's_tale": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_cacha_001.aac",
+            "text": "안녕하십니까. 저는 이세계에서 온 마법사로, 꿈과 환상을 조종하는 힘을 가지고 있습니다… 이 대사가 맞습니까?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_levelup_001.aac",
+            "text": "마력이 강화되었습니다."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_greeting_001.aac",
+            "text": "국장님, 저희와 함께하고 싶습니까? 좋습니다, 게임 속에 있더라도 제가 지켜드리겠습니다."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_head_001.aac",
+            "text": "메스가 이건 마법사 전용 장비라며… 모자가 클수록 스페셜 보너스가 높다고 했습니다. 국장님도 하나 하시겠습니까?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_body_001.aac",
+            "text": "가끔은 명령 외의 일을 하는 것도 좋은 것 같네요… 긴장을 푼다는 게 이런 거였군요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_body_002.aac",
+            "text": "모두가 환상 속의 모습이 되어, 현실에서 할 수 없는 일을 하는 가상 세계… 이게 바로 게임의 매력입니까?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_righthand_001.aac",
+            "text": "새로운 장비를 교체한 악몽의 기분이 매우 좋아 보입니다."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_lefthand_001.aac",
+            "text": "므랑고라도… 아… EMP가 게임을 할 때는 마법책에 나온 스킬 이름을 제대로 다 읽어야 몰입감이 높다고 했습니다."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_idle_001.aac",
+            "text": "'멀리서 온 용감한 자는 하늘과 별의 이끌림 속에 알 수 없는 여행길에 올라 그 신비한 보물을 찾아 나설 것이다…'"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_specialattention_001.aac",
+            "text": "국장님, 어떤 곳에서 임무를 하고 싶으십니까? 명령을 내려 주시면 제가 같이 가겠습니다."
+        }
+    ],
+    "darkwing_eclipse": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_hekadi_anyushaguang_cacha_001.aac",
+            "text": "헤카테 스킨 폐기"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hekadi_anyushaguang_levelup_001.aac",
+            "text": "헤카테 스킨 폐기"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hekadi_anyushaguang_greeting_001.aac",
+            "text": "헤카테 스킨 폐기"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_hekadi_anyushaguang_body_001.aac",
+            "text": "헤카테 스킨 폐기"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_hekadi_anyushaguang_body_002.aac",
+            "text": "헤카테 스킨 폐기"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hekadi_anyushaguang_idle_001.aac",
+            "text": "헤카테 스킨 폐기"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_hekadi_anyushaguang_clicking_001.aac",
+            "text": "헤카테 스킨 폐기"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hekadi_anyushaguang_specialattention_001.aac",
+            "text": "헤카테 스킨 폐기"
+        }
+    ]
+}

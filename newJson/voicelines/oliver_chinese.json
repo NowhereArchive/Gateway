@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_olivier_cacha_001.aac",
+            "text": "我，我不知道什么禁闭者……奥利弗是好孩子哦，一定是你们搞错啦。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_olivier_promotion_001.aac",
+            "text": "这是乖孩子才有的奖励，对吧？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_olivier_promotion2_001.aac",
+            "text": "局长想把谁变成玩偶呢？奥利弗都可以做到哦！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_olivier_battlebegin_001.aac",
+            "text": "局长要好好保护奥利弗啊~"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_olivier_battlewin_001.aac",
+            "text": "诶——我只是轻轻挥了挥手而已，他们怎么不动了？"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_olivier_battlelose_001.aac",
+            "text": "哇——他们好厉害，居然敢反抗奥利弗的控制。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_olivier_uniqueskill_001.aac",
+            "text": "玩偶们，要乖乖听话哦！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_olivier_dead_001.aac",
+            "text": "奇怪……奥利弗感觉不到自己的身体了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_olivier_greeting_001_01.aac",
+            "text": "局长哥哥~局长哥哥~局长哥哥！你喜欢听奥利弗这样叫你，对吧！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_olivier_talk1_001.aac",
+            "text": "身上的伤……是、是奥利弗自己不小心摔倒的！管理局的大家都、都对我很好……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_olivier_talk1_002.aac",
+            "text": "你别听他们瞎说。奥利弗这么可爱，这么乖巧，怎么会欺负别人呢？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_olivier_talk1_003_01.aac",
+            "text": "哥哥~他们不让奥利弗自己一个人出去玩……越、越狱？那是什么，奥利弗听不懂。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_olivier_talk2_001.aac",
+            "text": "好羡慕辛迪加的“流浪儿”啊，他们靠自己就可以在那么危险的地方活下去。不像奥利弗，离开局长什么都做不好~"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_olivier_talk2_002.aac",
+            "text": "你看，这个娃娃是不是和奥利弗一样可爱？可是……它的心脏被坏人割破了，不管我怎么努力都修不好它……局长能帮帮我吗？"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_olivier_talk2_003.aac",
+            "text": "是不是只要把局长做成玩偶，我们就永远不会分开了……嗯？奥利弗这次说的是真心话哦~"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_olivier_obeyfull_001.aac",
+            "text": "如果有个小孩做过很多很多坏事，但他已经知道错了，局长会讨厌他吗？……奥利弗，不想被讨厌，尤其是你。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_olivier_idle_001.aac",
+            "text": "又有讨厌鬼说奥利弗不是“乖孩子”，该怎么办呢……嗯，趁局长不在，去处理一下他们吧~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_olivier_clicking_001.aac",
+            "text": "你找死吗！……哈哈，局长吓到啦！刚刚是奥利弗跟你开玩笑的，是不是演得很像？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_olivier_specialattention_001.aac",
+            "text": "局长为什么这样盯着奥利弗？是奥利弗做了什么坏事，让局长不开心了吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_olivier_dispatch_001.aac",
+            "text": "这种体力活交给大人去做不好吗？奥利弗只想陪在局长身边。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_olivier_dispatch2_001.aac",
+            "text": "奥利弗为了局长那——么努力，局长都不夸夸我吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_olivier_levelup_002.aac",
+            "text": "我就知道，局长最喜欢奥利弗了！"
+        }
+    ],
+    "haloed_refrain": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_olivier_shiyuyuyin_cacha_001.aac",
+            "text": "奥利弗一定会用歌声帮大家洗去罪孽，净化心灵~让大家成为乖巧幸福的羔羊，心中充满感谢！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_olivier_shiyuyuyin_levelup_001.aac",
+            "text": "就连白鸽也喜欢奥利弗唱的赞歌呀！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_olivier_shiyuyuyin_greeting_001.aac",
+            "text": "局长是听说了奥利弗要参加舞台剧演出，所以特地赶来的吗？别担心，奥利弗这次演的角色，是和奥利弗一样乖巧可爱的唱诗班小朋友，局长一定会喜欢的！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_olivier_shiyuyuyin_body_001.aac",
+            "text": "不是奥利弗争着要演的，是他们觉得奥利弗实在是太适合这个角色啦，奥利弗怎么舍得让哥哥姐姐们为难呢？所以就答应啦！怎么样，奥利弗是不是很乖呀？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_olivier_shiyuyuyin_body_002.aac",
+            "text": "“我要跟随那人，不论那人去向何方。我要永远留在那人身边，没有什么能够将我阻挡。”嘿嘿，奥利弗唱得好吧！这可是奥利弗想着局长表演的呢，大家都夸奥利弗可有感情了~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_olivier_shiyuyuyin_idle_001.aac",
+            "text": "你们刚刚飞的弧度不太好看哦，要再来一次。这可关系到奥利弗的惊艳亮相呢，你们是乖孩子，不会坏事的对吧~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_olivier_shiyuyuyin_clicking_001.aac",
+            "text": "啊呀~局长为什么老扯奥利弗的飘带呀……难道，局长是那种“喜欢他就欺负他”的小学生类型吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_olivier_shiyuyuyin_specialattention_001.aac",
+            "text": "一分钟两分钟……局长，你盯了奥利弗这么久，原来是想一直欣赏奥利弗的演出啊～"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_eve_cacha_001.aac",
+            "text": "这里就是米诺斯危机管理局吗？这一次，名为“伊芙”的累赘还会遇到不一样的故事吗？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_eve_promotion_001.aac",
+            "text": "我的身上，早就不会发生奇迹了吧？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_eve_promotion2_001.aac",
+            "text": "破碎的身体都能突破新的极限，那破碎的相片呢？为什么不能复原……"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_eve_battlebegin_001.aac",
+            "text": "何必带上我呢，我只会拖累各位。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_eve_battlewin_001.aac",
+            "text": "它们的不幸，终于结束了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_eve_battlelose_001.aac",
+            "text": "又见面了……残酷的「现实」。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_eve_uniqueskill_001.aac",
+            "text": "去吧——"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_eve_dead_001.aac",
+            "text": "终于……可以团聚了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_eve_greeting_001.aac",
+            "text": "原来你也在这里……不用顾虑我，我只是想找个安心的地方待着。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_eve_talk1_001.aac",
+            "text": "我的轮椅总是趁我不注意的时候，带我“走”出很远……它大概是在找一个叫做“家”的地方。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_eve_talk1_002.aac",
+            "text": "局长喜欢十二点之后的钟声吗？我很喜欢。只要敲响了它，就可以假装分不清梦境和现实。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_eve_talk1_003.aac",
+            "text": "我以为玩具能一直陪伴主人，可塑料会风化，陶瓷易碎，金属生锈，人会长大……原来只有“变”才是不变的。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_eve_talk2_001.aac",
+            "text": "我曾经有一颗世上最甜的糖果，可日子过去太久了，它尝起来却比药还苦。谢谢你，让我稍稍想起了一些甜味。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_eve_talk2_002.aac",
+            "text": "能把你的笑容和希望分给我一些吗？或许我也开始向往局长眼中的世界了……那么灿烂，那么热烈……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_eve_talk2_003.aac",
+            "text": "如果真的存在等不到天亮的夜晚，你会和我一起去吗？在没有尽头的深夜里，一起数星星，一起……做永不醒来的梦。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_eve_obeyfull_001.aac",
+            "text": "童话中说“最爱的人一直都在身边，只是你看不到他”……童话又在骗人了，因为这次我看见了你。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_eve_idle_001.aac",
+            "text": "小熊别怕，伊芙在这里，永远都在……可惜，伊芙却听不到别人对她说同样的话了……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_eve_clicking_001.aac",
+            "text": "如果这样的触摸能满足你的好奇，请便吧。不用同情我，在我失去的所有东西里，双腿是最不重要的一部分。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_eve_specialattention_001.aac",
+            "text": "谢谢你来陪我，不介意的话，能推我出去走走吗？外面的空气能帮我暂时忘记一些事情。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_eve_dispatch_001.aac",
+            "text": "轮椅能去的地方有限，不建议你对我抱有什么期待。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_eve_dispatch2_001.aac",
+            "text": "我回来了。如果没有别的事，请让我一个人休息一会吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_eve_levelup_002.aac",
+            "text": "为什么还不肯放弃这副没用的身体……"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_eve_head_001.aac",
+            "text": "你的手，能再多停留一会儿吗？我怕这份温暖又像从前那样，转瞬即逝……"
+        }
+    ],
+    "agleam_escapade": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_eve_xinghuizhiye_cacha_001.aac",
+            "text": "原来真的会有一位勇者不害怕邪恶女巫的报复，在水晶球的另一边和我一同努力，想要打破这层透明的障壁……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_eve_xinghuizhiye_levelup_001.aac",
+            "text": "束缚我的诅咒，消失了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_eve_xinghuizhiye_greeting_001.aac",
+            "text": "我很感谢你的帮助，但被封进水晶球这么长时间，我的公主头衔早已有名无实了，恐怕给不出合适的报酬……也许，你愿意收下这些珠宝？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_eve_xinghuizhiye_head_001.aac",
+            "text": "无数个停滞的日夜里，我一直戴着这顶冠冕。它的重量，就像加冕仪式时民众们那期盼的视线一样，让我舍不得放下……你也会觉得我傻吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_eve_xinghuizhiye_body_001.aac",
+            "text": "无论是预言中人人羡慕的美貌，还是女巫求而不得的清澈灵魂，对我来说都是无关紧要的东西。可命运却将这些强塞给我，要换走我重要的家人……勇者大人，游历大陆的你，见过比这更荒唐的交易吗？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_eve_xinghuizhiye_body_002.aac",
+            "text": "在童话里，只要勇者拯救了公主，他们就能过上幸福快乐的生活，迎来圆满的结局，可我的故事却好像没有结局……“幸福快乐的生活”在哪儿呢？是你已经将它带到我面前，我却失去了看到它的能力吗？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_eve_xinghuizhiye_hand_001.aac",
+            "text": "女巫的诅咒凝固了一切，也让我的身体像塑料娃娃一样僵硬麻木……但刚才，我好像感知到了你双手的温度。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_eve_xinghuizhiye_background_001.aac",
+            "text": "我的骑士们说过，无论付出什么代价，它们都会为我带来勇者。当时，我以为这又是一个童话一样美好的谎言……可事实证明我错了。原来塑料的剑刃也能守护我，童话里的勇者，也真的存在。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_eve_xinghuizhiye_idle_001.aac",
+            "text": "马儿呀马儿，快带伊芙回家吧……富饶的平原，成片的红松，静静流淌的长河，带伊芙回到那美丽又陌生的故土吧……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_eve_xinghuizhiye_specialattention_001.aac",
+            "text": "为什么这样看着我？如果还有更坏的消息要告诉我的话，就请直说吧。不用担心，没有什么能比被囚禁在水晶球里这么久还要糟的了。"
+        }
+    ],
+    "frostling_whisper": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_eve_cangjimilin_cacha_001.aac",
+            "text": "这座无人踏足的花园已渐渐陷入冰封，却没想到会有意外的访客……反正你暂时也走不出去，那就留下来吧，加入这万物冬眠前的最后一场宴会。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_eve_cangjimilin_levelup_001.aac",
+            "text": "小熊小熊，快快长大……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_eve_cangjimilin_greeting_001.aac",
+            "text": "落雪的森林并不好走，请到我身边坐下，喝一杯热茶。如果可以的话……和我说说吧，冰封之外的世界，现在是什么样的呢。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_eve_cangjimilin_talk1_001.aac",
+            "text": "这场宴会一直都只有我和小熊参加，我们会在冰雪中彼此陪伴，彼此取暖，直到……你加入了我们。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_eve_cangjimilin_talk1_002.aac",
+            "text": "这里实在寂静寒冷，苍白单调，却被他们传成是童话中的雪国……假如真有我这样的童话主角，那这个故事，未免也太可悲了吧。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_eve_cangjimilin_idle_001.aac",
+            "text": "听，那是寒风掠过树梢的声音……也是冬日甜梦的安眠曲。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_eve_cangjimilin_clicking_001.aac",
+            "text": "我的小熊虽然只是幼崽，但它已经有足够的力量，成为我忠诚勇猛的守卫。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_eve_cangjimilin_specialattention_001.aac",
+            "text": "宴会还没有结束，我也不会轻易离开。但或许下一个春天，会有人领着我，走出这片尘封的冰雪呢。"
+        }
+    ]
+}

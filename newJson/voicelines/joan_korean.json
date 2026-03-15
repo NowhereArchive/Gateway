@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_geji_cacha_001.aac",
+            "text": "흥, 결국 나를 찾아냈구만. 뭐 됐어, 기타만 있다면 어디든 좋으니까."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_geji_promotion_001.aac",
+            "text": "바로 이거야! 어서 펜이랑 종이 좀 갖다 줘, 새로운 멜로디 영감이 떠올랐어, 빨리 적어놔야 해."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_geji_promotion2_001.aac",
+            "text": "나는 현악기로도 무대를 찢어놓을 수 있다고."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_geji_battlebegin_001.aac",
+            "text": "Go, Krist."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_geji_battlewin_001.aac",
+            "text": "끝!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_geji_battlelose_001.aac",
+            "text": "이번 공연은 정말 엉망이었어."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_geji_uniqueskill_001.aac",
+            "text": "Solo Time!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_geji_dead_001.aac",
+            "text": "아… 하하… 27세 클럽에도 못 가보다니…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_geji_greeting_001.aac",
+            "text": "어, 마침 잘 왔다. 이 데모 테이프 좀 들어봐줘."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_geji_talk1_001.aac",
+            "text": "내가 살아있는 한, 그 음반사 망나니들이 Anavrin의 음악을 가로챌 일은 절대 없을 거야."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_geji_talk1_002.aac",
+            "text": "가장 좋아하는 음식? 커피우유, 그리고 딸기 케이크… 아니 설마 내가 알코올만으로 살아갈 수 있을 줄 알았어?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_geji_talk1_003.aac",
+            "text": "우리 아버지가 예전에 신이 나에게 음악적 재능을 준 것은, 내가 잘못된 길로 들어서지 않기 위해서였는지도 모른다고 하셨어… 근데 안타깝게도 나는 신을 믿지 않았고, 딱히 바른길로 들어서지도 못했어."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_geji_talk2_001.aac",
+            "text": "예전에 우리 보컬이 맨날 이 도시를 태워 재로 만들겠다며 온종일 큰소리로 떠들었는데. 팀에서 가장 먼저 재가 되어버린 사람이 그 친구일 거라고는 생각도 못 했어."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_geji_talk2_002.aac",
+            "text": "시간이 많이 지나서 그런 걸까, 난 이미 그 녀석을 그렇게까지 미워하지 않아. Anavrin한테 시비만 걸지 않으면 걔가 뭘 하든 난 상관 안 해."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_geji_talk2_003.aac",
+            "text": "일이 다 끝나면… 만약 그런 날이 온다면, 난 계속 공연을 하고 싶어. 당연히 가장 좋은 자리는 널 위해 남겨둘 거야, 바람맞히지 말라고."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_geji_obeyfull_001.aac",
+            "text": "지난 몇 년 동안 나는 이 기타밖에 없었어. 이제 와서… 그렇게 오글거리는 말은 하고 싶지 않지만… 항상 옆에 있어줘서 고마워."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_geji_idle_001.aac",
+            "text": "[But I'm a creep, I'm a weirdo.What the hell am I doing here?I don't belong here.]"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_geji_clicking_001.aac",
+            "text": "꺼져!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_geji_specialattention_001.aac",
+            "text": "난 당연히 관중을 거절하지 않지, 하지만 곡이 완성되기 전에 이래라저래라 지적하지는 마. 알겠어?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_geji_dispatch_001.aac",
+            "text": "잘 됐네, 가는 김에 친구나 만나야겠다."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_geji_dispatch2_001.aac",
+            "text": "[Come as you are, as you were, as I want you to be]"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_geji_levelup_002.aac",
+            "text": "새로운 리프, 나쁘지 않군."
+        }
+    ],
+    "backstage_break": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_geji_houtaijianqi_cacha_001.aac",
+            "text": "백스테이지까지 따라온 거야? 흥, 날 걱정할 필요 없어."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_geji_houtaijianqi_greeting_001.aac",
+            "text": "아무 데나 앉아. 근데 저번에 싸울 때 망가진 의자가 어떤 건지 기억이 안 나네."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_geji_houtaijianqi_body_001.aac",
+            "text": "백스테이지는 어둡고, 비좁고, 지저분해. 그리고 음악이 귀가 아플 정도로 시끄럽지.\n하지만 여기에 있으면 내가 아직 살아있다는 걸 느낄 수 있어."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_geji_houtaijianqi_body_002.aac",
+            "text": "꽃 고마워, 국장. 언젠가 내가 월드 투어를 떠나게 되면 더 큰 꽃다발을 선물해 줘."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_geji_houtaijianqi_idle_001.aac",
+            "text": "휴식할 때 함께 이야기 나눌 사람이 있는 것도 나쁘지 않네."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_geji_houtaijianqi_clicking_001.aac",
+            "text": "흥, 여기 무대에 설 때 너처럼 단정하게 입을 필요 없어."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_geji_houtaijianqi_specialattention_001.aac",
+            "text": "자리가 꽤 괜찮지? 무대와 내가 제대로 보일 거야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_geji_houtaijianqi_levelup_001.aac",
+            "text": "다크 초콜릿이야, 너도 하나 먹을래?"
+        }
+    ]
+}

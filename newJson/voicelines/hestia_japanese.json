@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_hestia_cacha_001.aac",
+            "text": "あ……あなたなのですか！？火の明かりが見えましたよね？あなたには見えると思ったんです……ふふ、ずっと……待ってましたよ……"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_hestia_promotion_001.aac",
+            "text": "私は見ました……くすぶる火種を。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_hestia_promotion2_001.aac",
+            "text": "私は……この身で照らしました……よかった。彼らはようやく……戻ってこられるんですね……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_hestia_battlebegin_001.aac",
+            "text": "暗すぎますね……火を起こします。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_hestia_battlewin_001.aac",
+            "text": "そんなに……怖くなかったですね……"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_hestia_battlelose_001.aac",
+            "text": "こ……来ないで……あっちいって！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_hestia_uniqueskill_001.aac",
+            "text": "これが炎の導きです！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_hestia_dead_001.aac",
+            "text": "誰か……助けて……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hestia_greeting_001.aac",
+            "text": "戻ってきましたか……誰か見つけたんですか？いえ……ちょっと聞いただけです。そう緊張しないでください。少なくとも私は……まだここにいます……"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_hestia_talk1_001.aac",
+            "text": "私の目は……あなたたちが見ているものは見えません。ですが……あなたたちも私が見ているものは見えないのです……空に昇るあの赤い月、滅びゆく幻影……ここで生きていたいなら、私の導きに従ってください。いいですね……"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_hestia_talk1_002.aac",
+            "text": "「松明を灯せ」……そんな声が聞こえたんです……そうしなければあなたたちは戻ってこないと……神は嘘をつきませんでした。少なくともあなたは戻ってきたのですから。そうでしょう……？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_hestia_talk1_003.aac",
+            "text": "ここの人たちは……いつも……変なことを言っています。あなたは理解できますか？彼らは……何がしたいんでしょう？あなたは私を守ってくれますよね？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_hestia_talk2_001.aac",
+            "text": "あなたたちのように私を大切にしてくれる人は今までいませんでした……なぜですか？なぜそんなに簡単に見知らぬ人を受け入れ、無償で食べ物を分け与え、守ることができるんですか……私の言葉を信じていないくせに……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_hestia_talk2_002.aac",
+            "text": "私も……あの神は嫌いです……ですが、神は本当に存在します……この先、あなたが行こうとしている所にいます……どうしてですか……信じたくないんですか？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_hestia_talk2_003.aac",
+            "text": "これ以上進んではいけません……罠です。闇はあなたたち一人ひとりを飲み込むんです……あなたたちが嘘つきを信じないのは知っています……ですが、今回は嘘ではないんです……"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_hestia_obeyfull_001.aac",
+            "text": "全部あなたのせいですよ……私は一人で生きていく術さえ忘れてしまいました……あんな所に一人取り残されるのは……本当に……怖い……もう戻りたくない……二度と私を置いていかないでください。もう一人にはなりたくありません……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hestia_idle_001.aac",
+            "text": "しーっ……静かに……神は私たちを見ています……感じたんです。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hestia_clicking_001.aac",
+            "text": "こ……これはいじめです！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hestia_specialattention_001.aac",
+            "text": "またしても、あなたは暗闇を越えて私を見つけましたね。分かっていましたよ。これもまた神の定めなのですから……どんなに時が経っても、あなたは私のもとに戻ってくるのです……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hestia_dispatch_001.aac",
+            "text": "これもまた、神の御意志です……"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_hestia_dispatch2_001.aac",
+            "text": "私は迷子になったりしません。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hestia_levelup_002.aac",
+            "text": "炎が……更に明るくなりました……"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hestia_head_001.aac",
+            "text": "やめなさい……聖女を……冒涜することは許されませんよ！"
+        }
+    ],
+    "lambent_wishbearer": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hestia_qiandengyinyuan_cacha_001.aac",
+            "text": "願い事をする人よ、焦らないでください。祈りの儀式の時間はもうすぐです。願いの火を掲げれば……すぐに灯されますから。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hestia_qiandengyinyuan_levelup_001.aac",
+            "text": "願いの火を乗せた提灯が……浮かび上がります……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hestia_qiandengyinyuan_greeting_001.aac",
+            "text": "来たんですか……？大丈夫です、まだ間に合います……あなたが大事に準備した提灯を渡してください……うーん……形がちょっと「特殊」ですが……心配しないでください。ちゃんと高く飛ぶはずです。私が手伝いますから……"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hestia_qiandengyinyuan_head_001.aac",
+            "text": "これは……人間同士が親しみを表す時の動作ですよね？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hestia_qiandengyinyuan_body_001.aac",
+            "text": "試練を受けるために人間界に来たばかりの頃は、私も少し混乱しました……ですが気付いたんです。目は見えなくても、心は盲目ではないと……そのおかげで、村の人たちの優しさや、人間の善意を感じ取ることができました……仙帝陛下が私に見せたかったのは、これなのかもしれません……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hestia_qiandengyinyuan_body_002.aac",
+            "text": "人間の身体は確かに不便です……毒に侵されることもありますし、永遠に若さを保つこともできない。まるで、この灯火がひと吹きで消えてしまうように……ですが、彼らはその儚い「火」で他の人を温めています。私のような、どこから来たかも分からない孤独な者を温めてくれたんです……だから、その火に消えてほしくありません……"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hestia_qiandengyinyuan_hand_001.aac",
+            "text": "これらの提灯は村人たちの手作りなんです……そこに書かれた願いも、彼らが一筆一筆したため、真摯な気持ちを込めて藤の木に吊るしました……そして、その心をずっと変わらず抱き続けています。きっと私の「特別な計らい」がなくても、想いの力だけで、願いが天に届くでしょう……"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hestia_qiandengyinyuan_background_001.aac",
+            "text": "灯火は時に明るく、時に暗く、提灯は精緻なものもあれば、粗末なものもあります……ですが、この一年に一度の賑わいと、人々の祈りの熱意は永遠に変わりません……「人の命は短いが、願う心は長い」というのは、その通りですね……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hestia_qiandengyinyuan_idle_001.aac",
+            "text": "怖がらないでください……火はあなたを傷つけません……これはただ、あなたを温め、遠くへと運んでくれるのです……あなたの主が望む場所へと……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hestia_qiandengyinyuan_specialattention_001.aac",
+            "text": "あなたの視線は、この提灯よりも熱いですね……焚き火のような、トーチのような……人間の世界で生まれ、仙人たちすら心惹かれてしまう火種のようです……"
+        }
+    ],
+    "dusk_aglow": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hestia_yehuohuanghun_cacha_001.aac",
+            "text": "私はかまどの神に仕える聖女。神殿のかまどの火を守る役目を担っています。さあ、あなたの迷える願いを私に託してください。聖なる炎の光を借りて、その願いが進む道を照らしてあげましょう。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hestia_yehuohuanghun_levelup_001.aac",
+            "text": "その御意志がこの地を照らしますように。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hestia_yehuohuanghun_greeting_001.aac",
+            "text": "あなたが近づくと、トーチからパチパチという音が聞こえてきます。火花が嬉しそうに跳ねているんです。かまどの神の聖火が、あなたの訪れを喜んでいるんですよ……私と同じように。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hestia_yehuohuanghun_talk_001.aac",
+            "text": "私は神殿に留まり、昼も夜も祈りを捧げています。あの伝説の世界が、一日も早く戻ってきますようにと——それは、子供が怖がる必要なく、絶望の中で勇気を振り絞る必要もない世界……大人に守られて、安心して暮らせる世界です！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hestia_yehuohuanghun_talk_002.aac",
+            "text": "本当は、聖火の姿はよく見えないんです。でも、その温もりは感じられます。きっと……太陽みたいに金色に輝いているんじゃないでしょうか。もしかすると、聖火が金色の小人になって、かまどの神のご加護を届けてくれるかもしれませんね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hestia_yehuohuanghun_idle_001.aac",
+            "text": "どうして音がしないんでしょう？寝ちゃったんですか？……あなたの夢の中に、威厳たっぷりの立派な聖女様が現れたんでしょうか？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hestia_yehuohuanghun_clicking_001.aac",
+            "text": "ここここれは……神に捧げた手なので！むやみに触っちゃダメ……きゃっ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hestia_yehuohuanghun_specialattention_001.aac",
+            "text": "廊下から足音が聞こえます……あなたは私の傍に立っているんですか？何も言わないということは、日が沈んだ後もこっそり残って、一緒にいてくれるということですよね。"
+        }
+    ]
+}

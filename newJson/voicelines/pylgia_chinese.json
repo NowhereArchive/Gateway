@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_pylgia_cacha_001.aac",
+            "text": "你……照亮了最深邃黑暗的海床……唤醒我……和我那些遥远的记忆……人类同伴啊……我等待你……已经太久……太久了……"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_pylgia_promotion_001.aac",
+            "text": "只要环境还在改变……演化就不会停止……"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_pylgia_promotion2_001.aac",
+            "text": "我会……抵达最深的海底……"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_pylgia_battlebegin_001.aac",
+            "text": "开始探索……这片海域……"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_pylgia_battlewin_001.aac",
+            "text": "威胁……解决了……可以继续下潜……"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_pylgia_battlelose_001.aac",
+            "text": "深渊……会吞噬一切……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_pylgia_uniqueskill_001.aac",
+            "text": "刺穿……撕裂……沉入深海！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_pylgia_dead_001.aac",
+            "text": "这也是……循环的一部分……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pylgia_greeting_001.aac",
+            "text": "洋流交汇……鱼群洄游……你……又回到了我身边……"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_pylgia_talk1_001.aac",
+            "text": "杀戮、捕食，或是死亡…与诞生、成长、爱一样，是生命循环的阶段……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_pylgia_talk1_002.aac",
+            "text": "我们都是这片海洋孕育的孩子……终将交汇融合……成为彼此的一部分……"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_pylgia_talk1_003.aac",
+            "text": "无论怎么下潜……也总会有上浮的一天……人类……终究不属于深邃冰冷的海底……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_pylgia_talk2_001.aac",
+            "text": "自有记忆起……我，就生活在海里……陆地太遥远……人类的情感……很复杂……我……难以靠近……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_pylgia_talk2_002.aac",
+            "text": "……真相……是比深渊尽头的海水……更冰冷的……一束光……看见祂的生命……明知危险，却都无法拒绝……因为那片黑暗之中……再没有别的可追寻的东西了……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_pylgia_talk2_003.aac",
+            "text": "我喜欢……夏天的海浪……照进海底的阳光……候鸟和水面的鱼……你也想看看吗？"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_pylgia_obeyfull_001.aac",
+            "text": "人类……会衰老……会死去……我不喜欢……如果有一天，你走到了生命的终点……那来见我吧，融于我身，与我共存……直到永远……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pylgia_idle_001.aac",
+            "text": "风暴暂歇的间隙……一切都那么平静……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pylgia_clicking_001.aac",
+            "text": "停下……藤壶和甲壳……很锋利，要小心……我不希望你受伤……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pylgia_specialattention_001.aac",
+            "text": "因为你……我从深渊返回至此……果然……没有让我失望……是你……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_pylgia_dispatch_001.aac",
+            "text": "那里……是海吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_pylgia_dispatch2_001.aac",
+            "text": "潮水……把它们送回了岸边……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pylgia_levelup_002.aac",
+            "text": "更深……更冷……"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_pylgia_head_001.aac",
+            "text": "柔软的……触感……像是成团的海藻掠过头顶……有些奇怪……但是……不讨厌……"
+        }
+    ],
+    "shackled_dream_in_aqua": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_pylgia_shuixingzhiguan_cacha_001.aac",
+            "text": "我曾是潮汐中的泡沫、深渊里的蓝光，是洋流交汇中诞生的生物……但如今失去自由，成为一件没有生机、等待死亡降临的展览品。究竟还有什么能够吸引你在此流连？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pylgia_shuixingzhiguan_levelup_001.aac",
+            "text": "这样……就能让我穿越屏障，去你身边么？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pylgia_shuixingzhiguan_greeting_001.aac",
+            "text": "这里……是一道被黑暗凝固的幽深海沟……海水不会流动，时间仿佛停滞，像个巨大又空旷的囚笼……唯独你，能带来希望与改变……"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_pylgia_shuixingzhiguan_talk_001.aac",
+            "text": "这座公馆的游客，几乎都不会在我这里驻足，像是海洋深处的那些生灵，冷漠又疏离。可你不一样……不，并不是讨厌，只是感觉……很奇妙。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_pylgia_shuixingzhiguan_talk_002.aac",
+            "text": "我曾经远望过人类的世界，流连于远洋的渔船，期待每晚港口的星光……我迷恋过那些遥远又无法忽视的东西，就像……我总会期待你眼底的光亮。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pylgia_shuixingzhiguan_idle_001.aac",
+            "text": "听，水流敲击玻璃的声音，和海浪拍打岩滩很像……很容易让人陷入睡梦……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pylgia_shuixingzhiguan_clicking_001.aac",
+            "text": "这人造的透明隔阂，是你我永远无法跨越的距离……比海洋到陆地，更加遥远。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pylgia_shuixingzhiguan_specialattention_001.aac",
+            "text": "游客们来来往往，停留、审视，挑选钟爱的展品。而我们，也同样在观察着你们……真幸运，我和你，能够相互选择。或许，这就是你们所说的，“灵魂的契合”吧。"
+        }
+    ]
+}

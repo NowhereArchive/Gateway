@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_ai_cacha_001.aac",
+            "text": "我是小爱哦！关于机械的事，就交给我吧！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_ai_promotion_001.aac",
+            "text": "系统升级完成！这样的话，说不定能做出更厉害的发明！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_ai_promotion2_001.aac",
+            "text": "我要开发更更更——帅气的武器哦！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_ai_battlebegin_001.aac",
+            "text": "嗯——看起来是个有趣的地方啊。有能入侵的系统吗？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_ai_battlewin_001.aac",
+            "text": "不是说过了吗？这种小事轻而易举！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_ai_battlelose_001.aac",
+            "text": "唔……！下次一定会成功的！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_ai_uniqueskill_001.aac",
+            "text": "锵——！给你看看我的发明！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_ai_dead_001.aac",
+            "text": "诶，过热了！？为什么！？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_ai_greeting_001.aac",
+            "text": "早安！ 一起吃早餐吧~"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_ai_talk1_001.aac",
+            "text": "最近我想到了一个很棒的发明！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_ai_talk1_002.aac",
+            "text": "好饿啊——！！喂，给我做点吃的！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_ai_talk1_003.aac",
+            "text": "有没有什么有趣的事情啊……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_ai_talk2_001.aac",
+            "text": "能合得来真高兴！"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_ai_talk2_002.aac",
+            "text": "和你在一起，就会有新的点子冒出来！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_ai_talk2_003.aac",
+            "text": "能帮我一起测试发明品吗？"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_ai_obeyfull_001.aac",
+            "text": "好像能玩得很开心呢"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_ai_idle_001.aac",
+            "text": "哈——啊。泪姐叫我快去睡觉，还凶我呢"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_ai_clicking_001.aac",
+            "text": "我才不是小孩子！不过……稍微松了口气就是了！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_ai_specialattention_001.aac",
+            "text": "诶，选我吗？真是没办法啊～"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_ai_dispatch_001.aac",
+            "text": "我出发啦！"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_ai_dispatch2_001.aac",
+            "text": "顺利完成啦！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_ai_levelup_002.aac",
+            "text": "好嘞！干劲十足地上吧！"
+        }
+    ],
+    "tender_signal": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_ai_aiyiyinxun_cacha_001.aac",
+            "text": "啊哈！新衣服！不仅性能重要，外观也很重要呢！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_ai_aiyiyinxun_levelup_001.aac",
+            "text": "好嘞！加油上吧！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_ai_aiyiyinxun_greeting_001.aac",
+            "text": "早安！今天会有什么有趣的事呢！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_ai_aiyiyinxun_body_001.aac",
+            "text": "只有我没见过爸爸的脸……好想见一见啊"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_ai_aiyiyinxun_body_002.aac",
+            "text": "“我也有不输给姐姐们的魅力哦！\n……开玩笑的啦！”"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_ai_aiyiyinxun_idle_001.aac",
+            "text": "这个地方安静又让人放松，我能超级专心。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_ai_aiyiyinxun_clicking_001.aac",
+            "text": "嘿嘿……这么在意我吗？嗯，感觉还不错哦。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_ai_aiyiyinxun_specialattention_001.aac",
+            "text": "没事吧！？把工作丢下跑来找我。不过我很开心。"
+        }
+    ]
+}

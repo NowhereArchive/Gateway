@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_duruo_cacha_001.aac",
+            "text": "국장님, 그동안 별일 없으셨는지요? 이곳에서 당신을 만난 건 하늘의 뜻, 인연이자 우연일까요… 아니면 인위적인 만남일까요?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_duruo_promotion_001.aac",
+            "text": "저를 이렇게까지 도와주시다니… 제가 어떻게 보답해 드리면 될까요?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_duruo_promotion2_001.aac",
+            "text": "종이 천지를 울리면, 연주하는 것은 백성의 예, 칭송하는 것은 사람의 목소리이니라… '신의 흔적'은 사실 이미 당신과 저 사이에 있어요."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_duruo_battlebegin_001.aac",
+            "text": "딱 맞춰 왔네요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_duruo_battlewin_001.aac",
+            "text": "양보해 주셔서 감사합니다~"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_duruo_battlelose_001.aac",
+            "text": "저 같은 학자가 하늘에 맞서는 건 무리였나 봐요."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_duruo_uniqueskill_001.aac",
+            "text": "안개와 노을이 피어올랐으니, 이제는 너희의 차례야!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_duruo_dead_001.aac",
+            "text": "하늘의 뜻을 따르라고…? 하하, 정말 마음에 들지 않군요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_duruo_greeting_001.aac",
+            "text": "좋은 소식이 있는데, 한번 들어보실래요? 제가 국장님의 운세를 봤는데, 오늘 귀인을 만나게 될 거예요… 누굴 찾아요? 제가 바로 눈앞에 있잖아요."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_duruo_talk1_001.aac",
+            "text": "신께선 당신의 짐을 나눠주지 못하죠. 하지만 저라면 할 수 있을지도 몰라요. 제게 한 번 부탁해 보실래요?"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_duruo_talk1_002.aac",
+            "text": "누군가는 그런 기괴한 이야기를 동경하고, 누군가는 그런 통제력을 초월한 기적을 두려워하죠… 국장님은 어떤 부류인가요?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_duruo_talk1_003.aac",
+            "text": "한 줄기 푸른 연기, 하나의 묘책, 진실을 추구하는 탐구심… 신화학자에겐 이 정도면 충분합니다."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_duruo_talk2_001.aac",
+            "text": "세상에 정말 귀신이 있다면 왜 아무도 경건한 소원에 답해주지 않는 거죠? 만약 그들이 애초에 존재하지 않는 거라면… 사람들의 기도는 또 어디로 가는 걸까요…"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_duruo_talk2_002.aac",
+            "text": "보셨나요? 해가 동쪽에서 뜨고 서쪽으로 지는 것을… 그들이 가지지 못했던 평범한 일상이 여기에 있었네요…"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_duruo_talk2_003.aac",
+            "text": "제가 정말 많은 신화 이야기를 들려드렸네요. 이제 당신 차례에요. 저는 속이 좁은 사람이니 다른 사람에겐 들려주지 않았던 이야기를 듣고 싶어요. 하늘과 땅, 국장님, 그리고 저만 아는 이야기를 말이죠~"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_duruo_obeyfull_001.aac",
+            "text": "당신은 저에게 진실, 믿음, 힘 그리고 귀착점을 주었습니다. 당신에게 많은 빚을 졌네요. 앞으로 조금씩 갚아나가겠습니다."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_duruo_idle_001.aac",
+            "text": "그거 아시나요? 사실 금오는 수영을 할 수 있어요… 쉿! 이건 정말 천기누설이라, 다른 사람에겐 절대 말해선 안 돼요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_duruo_clicking_001.aac",
+            "text": "그만해요~ 제 향로가 귀신이 되어 당신을 삼켜버릴지도 몰라요!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_duruo_specialattention_001.aac",
+            "text": "해가 지는 방향으로 세 번 절을 하면 소원이 이루어진다고 해요… 이런, 속지 않는다니, 의외인데요?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_duruo_dispatch_001.aac",
+            "text": "떠들썩한 곳이군요. 이 시끌벅적한 세상에서 저를 잃어버릴까 봐 걱정되지 않으세요?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_duruo_dispatch2_001.aac",
+            "text": "빈손으로 돌아올 순 없죠~"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_duruo_levelup_002.aac",
+            "text": "이게 바로 말로만 듣던 디스의 기술인가요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_duruo_head_001.aac",
+            "text": "제 고향에선 다른 사람의 머리를 함부로 만지면… 아닙니다. 역시 말씀드리지 않는 게 좋겠군요."
+        }
+    ],
+    "lunaria_enigma": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_duruo_jingyechangxi_cacha_001.aac",
+            "text": "파도 몽환경을 뚫고 저를 찾아왔다는 건 당신이 달과 인연이 있다는 것을 의미하죠. 이곳에 남아 달빛의 정화를 받고 저의 사자가 되어 보는 건 어떤가요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_duruo_jingyechangxi_levelup_001.aac",
+            "text": "밀물이 서쪽에서 밀려오는 걸 보니, 달빛이 더욱 밝아지겠군요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_duruo_jingyechangxi_greeting_001.aac",
+            "text": "하늘에 둥근달이 떠오르면, 한자리에 모이는 사람들… 이렇게 낭만적이고 따뜻한 순간이 올 때마다, 저 역시 이곳을 떠나 인간 세상으로 가 직접 느껴보고 싶어요."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_duruo_jingyechangxi_head_001.aac",
+            "text": "인간 세상에서 행하는 축복 의식인가요? 전 이런 표면적인 예절에는 관심이 없어요. 믿음이 경건하고 순수하기만 하면, 자연히 달의 신의 축복을 받을 수 있겠죠."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_duruo_jingyechangxi_body_001.aac",
+            "text": "치맛자락의 물 자국이 신경 쓰이나 보군요… 평범한 물은 신의 몸을 적실 수 없답니다. 여기 이 물결은 신의 강림을 느끼고, 스스로 경건함을 바쳐 저의 힘이 되었을 뿐이에요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_duruo_jingyechangxi_body_002.aac",
+            "text": "세상 사람들은 태양이 눈 부신 빛을 가졌다고들 하죠. 달은 그런 태양으로부터 빛을 나누어 받아서 태양과 대적할 힘을 얻었다고 하고요. 하지만 만약 달이 태양의 그 작열하는 힘을 변환시키지 않았다면, 이 우아하고 고요한 속세의 아름다움이 과연 존재할 수 있었을까요?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_duruo_jingyechangxi_righthand_001.aac",
+            "text": "보름달이 어두운 밤을 헤치고 나왔군요. 당신의 혈액 속 파도의 힘이 저와 공명하고, 연결고리를 맺었어요… 물에 비친 당신을 확인해 보세요, 혈색이 전보다 좋아지지 않았나요?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_duruo_jingyechangxi_lefthand_001.aac",
+            "text": "인간 세상에는 어느 한 노부부가 갈라진 대나무 속에서 저를 발견했다는 이야기도 있고, 불사의 신약을 탐낸 제가 신선 세계로 올라가 신이 되었다는 비화도 있더군요… 흥미로운 이야기들이죠. 제 사자인 당신도 제게 어울리는 전설을 하나 만들어 주실래요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_duruo_jingyechangxi_idle_001.aac",
+            "text": "밝고 맑은 달은 종종 구름에 가려지곤 하죠… 하지만 그것도 잠시일 뿐, 밝은 달은 결국 구름을 뚫고 인간 세상을 비출 테니까요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_duruo_jingyechangxi_specialattention_001.aac",
+            "text": "달이 당신의 소원을 제게 전해줬어요. 신은 충실한 사자에게 상을 내릴 거예요. 이제 이 배에 올라 신의 지시를 들어보세요."
+        }
+    ],
+    "breezy_embrace": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_duruo_qingfengruhuai_cacha_001.aac",
+            "text": "아침에 보니, 연기가 학의 목을 감싸 피어올라 귀한 손님께서 오시리라는 조짐이 보이더군요. 그래서 다탁을 준비하고 좋은 소식을 기다렸더니, 역시나 오셨네요… 후후, 비단옷으로 갈아입고 봄차를 준비한 보람이 있군요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_duruo_qingfengruhuai_levelup_001.aac",
+            "text": "음~ 차색이 맑고 투명하니 가장 좋은 때예요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_duruo_qingfengruhuai_greeting_001.aac",
+            "text": "향기는 맑은 바람에 실리고, 차는 옛 추억과 함께 진하게 우러나지요. 국장님께서 공무가 바쁘신 걸 알지만, 이왕 오신 김에 앉으셔서 향긋한 차 한 잔 어떠신가요? 제가 동방 대륙의 차도에 대해 들려드리겠습니다."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_duruo_qingfengruhuai_head_001.aac",
+            "text": "차가 식지도 않았는데 벌써 안절부절못하시다뇨. 좀 더 기다려 주세요. 서두르면 차의 오묘한 맛을 제대로 느낄 수 없답니다~"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_duruo_qingfengruhuai_body_001.aac",
+            "text": "이 옷은 옛 양식대로 새로 만든 거예요. 저도 한때는 구식이라 생각했지만, 이제 와 돌이켜 보니 전통이란 것이 정말 차와 닮았다는 생각이 드는군요. 세월이 묻은 옛 물건에는, 그 나름의 깊은 맛과 운치가 깃들어 있으니까요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_duruo_qingfengruhuai_body_002.aac",
+            "text": "동방 대륙은 차를 즐겨 마셔요. 그리고 유명한 차도 많답니다. 은침이라든가, 과편, 벽라춘 등, 이름 하나하나가 풍아하고 그 명성 또한 자자하답니다. 그러나 차를 마실 때 풍류만 즐기고, 그 뒤에 깃든 산길과 장작불의 수고로움까지 음미하지 않는다면, 그 격이 떨어지는 법이지요."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_duruo_qingfengruhuai_hand_001.aac",
+            "text": "이 작은 찻잔을 가볍게 여겨서는 안 됩니다. 동방 대륙의 다도에서는 찻잔 하나에도 온갖 정성이 담기지요. 손끝에 전해지는 온기, 모래결의 세밀한 질감, 사계절에 맞춰 달리하는 모양새까지… 봄에는 우목, 여름에는 율자, 가을에는 하엽, 겨울에는 앙종의 잔을 들게 됩니다. 하지만 이렇게 세세하게 잔을 바꿔가며 대접하는 일은, 아무에게나 해주진 않아요."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_duruo_qingfengruhuai_background_001.aac",
+            "text": "창밖의 대나무가 마음에 드시나요? 후후, 대나무는 굳세면서도 고요하고, 겸허하면서도 높은 절개를 지녔죠. 저도 그 빼어나고 청아한 모습이 좋답니다… 당신과 꽤나 닮았죠."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_duruo_qingfengruhuai_idle_001.aac",
+            "text": "좋은 차와 좋은 풍경, 본래 더없이 좋은 순간이지만… 이야기를 나눌 사람이 없다면, 뭔가 부족하게 느껴져요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_duruo_qingfengruhuai_specialattention_001.aac",
+            "text": "어머, 물이 데워지기도 전에 찻잔이 먼저 따뜻해졌네요? 혹시 누군가의 시선이 너무 뜨거운 건 아닐까요?"
+        }
+    ]
+}

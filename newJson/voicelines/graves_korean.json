@@ -1,0 +1,173 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_graves_cacha_001.aac",
+            "text": "서약했으니까 오늘부터 우린 동반자야… 이제 새집에서 매일 너랑 같이 밥을 먹고, 춤추고, 별을 세며, 소소한 즐거움을 나누고, 다시는 헤어지지 않는 거 맞지?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_graves_promotion_001.aac",
+            "text": "우리의 영원을 위해 네 축복을 소중히 간직할게."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_graves_promotion2_001.aac",
+            "text": "약속할게. 좋을 때나 나쁠 때나, 부유할 때나 가난할 때나, 건강할 때나 병들 때나, 기쁠 때나 슬플 때나, 항상 널 지지하고 사랑할 거야. 고통을 함께 나누고 영원히 널 떠나지 않을 거야."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_graves_battlebegin_001.aac",
+            "text": "우리 같이 성대한 결혼식을 구경하자."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_graves_battlewin_001.aac",
+            "text": "계속 이렇게 내 곁에 있어 줄 수 있어? 나도 너의 피난처와 항구가 되고 싶어."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_graves_battlelose_001.aac",
+            "text": "약속이라는 게 시들 수도 있는 거였구나…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_graves_uniqueskill_001.aac",
+            "text": "사랑과 아픔은 함께하는 법이야."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_graves_dead_001.aac",
+            "text": "죽음이… 우리를 갈라놓을 때까지…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_graves_greeting_001.aac",
+            "text": "나는 이렇게 부드럽게 집중하는 시선으로 사랑하는 사람을 맞이하는 의식이 좋아… 너도 날 이렇게 바라봐줬으면 좋겠어…"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_graves_talk1_001.aac",
+            "text": "사람들이 왜 반지를 교환할까? 약속이란 걸 실체화시키고 싶어서 그런 거 아닐까? 그렇게 하면… 쉽게 사라지지 않을 테니까."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_graves_talk1_002.aac",
+            "text": "성 밖의 세상은 어때? 전에 하객들이 얘기하는 걸 들었는데, 신성에는 공기에서도 돈 냄새가 나고, 거리에는 황금이 가득하고, 심지어 거기 고양이 강아지는 노래도 부를 수 있다던데… 정말이야?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_graves_talk1_003.aac",
+            "text": "사랑의 신이 보는 앞에서 부부가 된 사람들은 지금 어떻게 살고 있을까? 애틋한 마음으로 진지하게 서약했으니까, 평생을 행복하게 살고 있겠지?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_graves_talk2_001.aac",
+            "text": "성에 커다란 파이프 오르간이 있었어. 연주하시는 선생님께서 내게 연주하는 법을 조금 알려주셔서 그분이 다른 일이 있을 때면 내가 대신 결혼식 곡을 연주하곤 했지… 그렇게 꽤 많은 사람들의 인생에서 가장 중요한 순간을 함께했어. 존재감 하나 없이, 감사 인사 한번 듣지 못했지만 상관없어. 내가 도움이 된 것만으로도 난 무척 기쁘거든."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_graves_talk2_002.aac",
+            "text": "신부가 던진 부케는 축복과 새로운 시작을 의미해. 그걸 받은 사람은 곧 자신만의 행복과 행운을 맞이할 수 있대. 난 결혼식장에서 한 번도 환영받지 못했지만, 매번 문 뒤에 숨어서 부케를 받고 기뻐하는 사람들의 얼굴을 보면 나도 모르게 웃음이 나오더라… 나도 그걸 받을 수 있었으면 얼마나 좋았을까."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_graves_talk2_003.aac",
+            "text": "실제로 해본 적은 없지만… 나도 꽤 괜찮은 결혼식 사회자가 될 수 있을 것 같아. 디스의 풍습뿐만 아니라 외부의 풍습도 잘 알고 있거든. 넌… 어떤 식으로 결혼하고 싶어?"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_graves_obeyfull_001.aac",
+            "text": "난 이 웨딩드레스만 입으면, 다른 신부들처럼 운명의 짝을 만나서 행복해질 줄 알았어. 그런데 널 만나고 나서 진정한 행복은 웨딩드레스나 의식에서 오는 게 아니라, 더 깊은 내면에서 오는 거라는 걸 알게 됐어… 하지만 아직 잘 모르겠어, 네가 좀 더 가르쳐줄 수 있을까?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_graves_idle_001.aac",
+            "text": "그녀가 무덤에서 깨어났고 웨딩드레스에서는 서리가 피어났다. 서약은 사라지고, 사랑하는 이는 영원히 잠들었다…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_graves_clicking_001.aac",
+            "text": "손이 따뜻하네. 사랑하는 사람의 손길도 이런 온도겠지?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_graves_specialattention_001.aac",
+            "text": "난 이제껏 서약을 맺을 때만 이런 눈빛을 받을 수 있을 거라고 생각했어… 날 이렇게 부드러운 눈빛으로 바라봐주는 사람은 네가 처음이야. 마치 내가 무서운 괴물이 아닌, 평범한 사람이 된 것 같아."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_graves_dispatch_001.aac",
+            "text": "결혼식에 늦어선 안 돼. 소중한 순간을 놓칠 순 없잖아?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_graves_dispatch2_001.aac",
+            "text": "자, 이건 결혼식에서 가져온 선물이야… 아름다운 축복을 상징하는 거니까 거절하지 말아줘, 알겠지?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_graves_levelup_002.aac",
+            "text": "이거 혹시 나에게 주는 예물이야?"
+        }
+    ],
+    "graves_-_rank_up": [
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_graves_head_001.aac",
+            "text": "면사포를 걷어내고 내가 얼마나 끔찍하게 생겼는지 봤잖아… 그, 그런데도 나한테 뽀뽀하고 싶다고?"
+        }
+    ],
+    "reverie_belle": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_graves_youtingmeiying_cacha_001.aac",
+            "text": "요정님이 내게 말씀하셨어. 편히 자라고, 두려워하지 말라고. 언젠가 한 용사가 산과 강을 건너, 가시덤불을 헤치고 와서 날 깨워줄 거라고. 굿모닝, 나의 용사님."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_graves_youtingmeiying_levelup_001.aac",
+            "text": "축복해 줘서 고마워~ 이제는 물레가 하나도 두렵지 않아!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_graves_youtingmeiying_greeting_001.aac",
+            "text": "깨어나자마자 나의 용사님을 볼 수 있다니, 세상에 이보다 행복한 일은 없을 거야."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_graves_youtingmeiying_head_001.aac",
+            "text": "동화책에서 봤는데, 어른들은 아이들을 이렇게 재워준다고 했지. 이런 기분이었구나, 음… 멈추지 마, 너무 좋아…"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_graves_youtingmeiying_body_001.aac",
+            "text": "어떤 세상이길래 당신같이 선하고 용감한 사람을 만들어낼 수 있었을까? 가능하다면… 나도 보러 가고 싶다~"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_graves_youtingmeiying_body_002.aac",
+            "text": "난 같은 꿈을 셀 수 없이 많이 꿨어. 나의 용사님과 나란히 기대어 앉아, 바람이 꽃잎을 날리는 소리를 듣는 꿈. 앗, 지금 우리의 모습이 꿈에서 본 것과 똑같아! 설마… 난 아직도 꿈속에 있는 걸까?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_graves_youtingmeiying_leg_001.aac",
+            "text": "평소엔 얌전히 자는 편인데, 오늘은 꿈에서 네가 다가오는 걸 보고, 달려가 맞이하고 싶었어…"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_graves_youtingmeiying_background_001.aac",
+            "text": "난 이 침대가 정말 좋아! 따뜻하고, 부드러워서 오래오래 잘 수 있어… 하지만 지금은, 네 품에서 자고 싶네…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_graves_youtingmeiying_idle_001.aac",
+            "text": "하암… 바람이 선선하고 햇살도 따스해서 조금 졸리네… 하지만 네가 같이 있어 주니까 눈을 감기가 아까워…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_graves_youtingmeiying_specialattention_001.aac",
+            "text": "난 믿어, 너의 시선이 저주로부터 나를 지켜줄 거라는 걸… 계속 나를 바라봐 줘, 용사님."
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_etti_cacha_001.aac",
+            "text": "行動判定成功。おめでとう、勇者殿。あなたはアタシを連れ帰っていい。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_etti_promotion_001.aac",
+            "text": "ふふん。これこそ「ゲームマスター」にふさわしい！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_etti_promotion2_001.aac",
+            "text": "今日からゲームのルールはアタシが決めるわ！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_etti_battlebegin_001.aac",
+            "text": "ゲームスタート。運命を回す方法を選びなさい！"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_etti_battlewin_001.aac",
+            "text": "クリアおめでとう～！勇者たち～、早くあなたたちの宝物を開けてみなさい～"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_etti_battlelose_001.aac",
+            "text": "は……痛い痛い痛い。だから突撃隊を率いるのは難しいって言ったのに……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_etti_uniqueskill_001.aac",
+            "text": "アタシのルールに従いなさい！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_etti_dead_001.aac",
+            "text": "全てが……引き裂かれる……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_etti_greeting_001.aac",
+            "text": "暗黒の力が間もなく世界に降臨する……勇者よ、すぐに旅に出よう～！"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_etti_talk1_001.aac",
+            "text": "怖がらないで。次の一手、どんな行動に出たいか教えて。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_etti_talk1_002.aac",
+            "text": "この世界の「面白さ」は、全て「想像」から来たもの。だから、アタシの前で自分を縛りつける必要はない。分かった～？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_etti_talk1_003.aac",
+            "text": "アタシのゲームは誰でもクリアできるものじゃないの～。でもあなたは……才能ありそうに見えるけど、試してみる？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_etti_talk2_001.aac",
+            "text": "「善良」「中立」「邪悪」。あなたから見て、アタシはどれに入る？……あるいは、どれに入ってほしいと思う？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_etti_talk2_002.aac",
+            "text": "みんな、ドラゴンは自分勝手で欲張りだと言うけど、アタシは……彼に寄り添う者が誰もいないせいだと思うわ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_etti_talk2_003.aac",
+            "text": "折れたドラゴン殺しの槍だとしても、握っていれば正義の代表者になる。じゃあ……この悪のドラゴンに……アタシに何をするつもり？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_etti_obeyfull_001.aac",
+            "text": "アタシは暗くて刺激的な想像に夢中になっているけど、そこの冷たさと孤独に怯えてもいる……アタシを負かしてくれてありがとう。そばにいてくれて……ありがとう。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_etti_idle_001.aac",
+            "text": "「世界」もたまにはサボりたくなるのよ～。ひと休み～、ひと休み～"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_etti_clicking_001.aac",
+            "text": "判定せずに勝手に行動するなんて……この世界から罰を受けてしまうわよ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_etti_specialattention_001.aac",
+            "text": "アタシの瞳には～……あなたが求める宝物がある？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_etti_dispatch_001.aac",
+            "text": "遠足チーム出発～"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_etti_dispatch2_001.aac",
+            "text": "アイテム、たくさんゲットしたわ～。開けて中を見たくない？アタシがいるから、何も起きないって～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_etti_levelup_002.aac",
+            "text": "基本ステータスは、取捨選択があってこそ楽しめるのよ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_etti_head_001.aac",
+            "text": "あなたもこの角が好きなの？じゃあ、由来を教えてあげるわね！それは、とあるとても寒い冬の日だった……って、ちょっと！どこ行くの！"
+        }
+    ],
+    "noctivagation": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_etti_guiyeqilv_cacha_001.aac",
+            "text": "夜のとばりが下り、ほのかに明かりが灯る。巨竜の城もその埃にまみれた門を再び開き、秘密と財宝を携え、恐れを知らぬ選ばれし勇者たちを迎える……どう？没入感はバッチリよね？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_etti_guiyeqilv_levelup_001.aac",
+            "text": "悪魔の視線が発動。幸運値+1～"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_etti_guiyeqilv_greeting_001.aac",
+            "text": "0時の鐘が鳴ったわ。グズグズしないで、忘却の地から来た夜の悪魔について来なさい。ゴホン。つまり、あなたのガイドであるこのアタシと新しい冒険に出るのよ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_etti_guiyeqilv_talk1_001.aac",
+            "text": "……このカボチャが可愛すぎる？うーん、言われてみれば確かに……って、違う違う！今日やるのはホラーゲーム！どう見たって怖いじゃない！どこが可愛いのよ！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_etti_guiyeqilv_talk1_002.aac",
+            "text": "えっ？……キャンディー？た、たったキャンディー2個でアタシを買収できると思わないで！アタシの設定は悪魔なんだから。悪魔はイタズラするものでしょ？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_etti_guiyeqilv_idle_001.aac",
+            "text": "親愛なる旅人よ、油断してはならない。砂利道は誘惑と罠に満ちており、赤い翼の悪魔がやがて巨竜の爪と牙を現すのだ～"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_etti_guiyeqilv_clicking_001.aac",
+            "text": "わっ！尻尾を引っ張らないで！ダイスの判定もなしに行動すると罰を受けるわよ！ガイドに対してもダメ！……どんな罰かって？ふふん。あ、て、て、み、て？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_etti_guiyeqilv_specialattention_001.aac",
+            "text": "なんでアタシを見てるの？早くついて来て……あれ？本当に怖くなっちゃった？落ち着いて。もし本当に危険な目に遭ったら、例外として特別にちょっと助けてあげる……でも、このことは誰にも言わないでね！"
+        }
+    ],
+    "dances_&_dragons": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_etti_longyuyuanwuqu_cacha_001.aac",
+            "text": "アタシは全ての頂点に立つドラゴン。略奪した金銀の山で洞窟を満たし、煌めく宮殿を我が物にし、貪欲な飢えた鬼のように酒を飲み、極度の欲望に呪われたかのように延々と踊り続ける……数え切れないほどのドラゴン殺しの剣がアタシの鋭い爪で折られてきたけど……予言の勇者が剣を持ってやって来て、アタシと踊ることをずっと前から知っていたわ～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_etti_longyuyuanwuqu_levelup_001.aac",
+            "text": "スカートが揺れる。もっと早く回ろう～！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_etti_longyuyuanwuqu_greeting_001.aac",
+            "text": "あら？次のダンスパートナーがもうご到着？それじゃあ鎧さん、この曲が終わったらあなたとはさよならね～！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_etti_longyuyuanwuqu_body_001.aac",
+            "text": "アタシはドラゴンの足元で死んでいった勇者たちを気に入っているの。彼らは崇高な魂を持っている??人を守るため、震えながらもドラゴンに向かって剣を抜いたんだから。あなたも同じ匂いがするわ！うーん……勇者の匂いか、ドラゴンの匂いか、どっちだと思う？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_etti_longyuyuanwuqu_body_002.aac",
+            "text": "ターン、ゆらゆら～、そしてスーッと滑る～よく踊れてるわよ……ん～慌てて剣を抜かないで。長い間生きている人間を見ていないから、アタシは何百年も孤独だったの。だから戦い始める前にまずは楽しくダンスをしましょう、予言の勇者さん？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_etti_longyuyuanwuqu_idle_001.aac",
+            "text": "寝ちゃったの？ふふ、じゃあこっそり教えてあげる。アタシに対して絶対油断しちゃダメよ。戦場でもダンスフロアでも、アタシはあなたの大切な……て、き、だ、か、ら～"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_etti_longyuyuanwuqu_clicking_001.aac",
+            "text": "このドラゴンの角、綺麗でしょ？とっても特別でしょ？そんなに気に入ったなら、自分にも生やしてみたらどう？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_etti_longyuyuanwuqu_specialattention_001.aac",
+            "text": "アタシを見つめるその目が好きよ。かつてアタシを育んだ溶岩みたい……きっと、あの予言の後半は最終的に実現するでしょうね。あなたの瞳孔は縦長に収束し、背中には翼が生え、腕は鋭い爪となり、腹の中には熱い炎が湧き上がり、終わりのないダンスの中で、ドラゴンを屠る者はやがて闇に落ちて悪竜となる……"
+        }
+    ]
+}

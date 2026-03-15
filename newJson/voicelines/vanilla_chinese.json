@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_vanilla_cacha_001.aac",
+            "text": "机械运作出现偏差……是你造成的么……你会给未来……带去怎样的改变？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_vanilla_promotion_001.aac",
+            "text": "调试完成……我能走得更远了……"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_vanilla_promotion2_001.aac",
+            "text": "改变的终点……就是永恒……"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_vanilla_battlebegin_001.aac",
+            "text": "这是必须经历的过程……"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_vanilla_battlewin_001.aac",
+            "text": "制造机械就是为协助你们。去吧，我永远都在。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_vanilla_battlelose_001.aac",
+            "text": "一次失败而已。带大家回去吧，我会修复所有损耗。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_vanilla_uniqueskill_001.aac",
+            "text": "到此为止！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_vanilla_dead_001.aac",
+            "text": "停摆的一天终将到来……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_vanilla_greeting_001.aac",
+            "text": "你看起来有些不一样……时间带来偏差，距离我们上一次见面……过去多久了？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_vanilla_talk1_001.aac",
+            "text": "行为……需要标尺……坏掉的机器……只会让人陷入永恒的偏航……我来替你……修好它……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_vanilla_talk1_002.aac",
+            "text": "不要改变……不要否定……保持精确……保持……稳定……我不会损坏……我的存在将抵达最后的边界……"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_vanilla_talk1_003.aac",
+            "text": "从发条和齿轮……到轴承和内燃机……再到电路和半导体……如今的人类，百年后的技术……又是怎样的光景……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_vanilla_talk2_001.aac",
+            "text": "内海之中，一切法则都被篡改……时间、空间，包括记忆……都不再值得信任……我执着的，也许是这洪流中可以依靠的东西。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_vanilla_talk2_002.aac",
+            "text": "时间不会扭曲一个人的心智……绝望才会……记住你的目的，记住最初的承诺，这样的话……就算被绝望追上……你也不会被它吞噬……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_vanilla_talk2_003.aac",
+            "text": "内海外的世界……原来已经是这副模样了……我本以为……那里的景象、不息的灾难、我的哨塔……直到永恒来临前……都不会改变……"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_vanilla_obeyfull_001.aac",
+            "text": "以前我并不知道，与你的相遇意味着什么……但现在，我明白了……就像不朽的齿轮被磨平，错向的电流回归原点……你的到来告诉我……永恒的第一秒，已经过去。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_vanilla_idle_001.aac",
+            "text": "时间……正常的流速……还真是……不习惯……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_vanilla_clicking_001.aac",
+            "text": "为什么重复这种动作？你的肢体大概出了故障……我这就帮你检修……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_vanilla_specialattention_001.aac",
+            "text": "同伴感到迷茫时，常常来找我……大概人都会在动荡中寻求不变的东西作为锚点……你也是如此吗？你……感到不安吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_vanilla_dispatch_001.aac",
+            "text": "这就是我的方向……"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_vanilla_dispatch2_001.aac",
+            "text": "返程的道路没有偏离……我回来了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_vanilla_levelup_002.aac",
+            "text": "更加稳定了……"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_vanilla_head_001.aac",
+            "text": "这里没有开关，你无法关闭……我……"
+        }
+    ],
+    "aether_runner": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_vanilla_cheyeliuming_cacha_001.aac",
+            "text": "你喜欢……这些光芒？它们……是我的飞行轨迹……你愿意的话，可以和我一起……体验一下……飞行。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_vanilla_cheyeliuming_levelup_001.aac",
+            "text": "攻击模块已强化。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_vanilla_cheyeliuming_greeting_001.aac",
+            "text": "感谢你协助我进行数据记录……来吧，我们一起飞往城市的最高处……我知道那里有个最佳观测点。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_vanilla_cheyeliuming_talk1_001.aac",
+            "text": "从这里看去，整座城市就像一台庞大复杂的机器……灯光从不熄灭……仿佛永远也不会停止运作……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_vanilla_cheyeliuming_talk1_002.aac",
+            "text": "经测试……机械臂在机动性、灵活性和续航性上，皆取得了不错的实测数据……目前已达到预期标准……但，仍可继续优化。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_vanilla_cheyeliuming_idle_001.aac",
+            "text": "滞空性能优良……可以进行下一项测试。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_vanilla_cheyeliuming_clicking_001.aac",
+            "text": "别担心……你可以，完全信任我……我不会让你坠落下去。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_vanilla_cheyeliuming_specialattention_001.aac",
+            "text": "你想……飞到更高的地方？没问题……虽然只是测试机，但其性能完全可以满足你的需求……只要你想……我都可以带你去。"
+        }
+    ]
+}

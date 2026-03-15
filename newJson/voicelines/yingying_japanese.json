@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_yingying_cacha_001.aac",
+            "text": "春はどこにあるのかと問えば、胸で花のかんざしが落ちる……さぁ～花の神がやって来たよ。手を広げて、しっかり受け止めておくれ！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_yingying_promotion_001.aac",
+            "text": "あたいのところには、こんな言い伝えがあるんだよ。相手を好きにならなければ、その人にいいものを全部与えようとは思わないってね。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_yingying_promotion2_001.aac",
+            "text": "星の川が流れ、華やかな明かりが輝く……これを日々待ち望んでいたんだよ。お前様と過ごすべき素晴らしい時間と美しい景色をね。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_yingying_battlebegin_001.aac",
+            "text": "坊ちゃん、なかなか楽しんでいるみたいだね～それなら、あたいも付き合うよ！"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_yingying_battlewin_001.aac",
+            "text": "次は大人しくしておくんだね。そうすれば手加減するし、もしかしたらタンフールーをあげるかもしれないよ～"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_yingying_battlelose_001.aac",
+            "text": "うう～～怒らないでおくれ。花はまた咲くさ。次は必ずあたいが懲らしめてやるよ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_yingying_uniqueskill_001.aac",
+            "text": "藤が咲き、絶景が訪れる——"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_yingying_dead_001.aac",
+            "text": "祭りが……終わった……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_yingying_greeting_001.aac",
+            "text": "おや、随分早く走ってきたね。そんなにあたいが恋しかったのかい？焦らなくていいよ、あたいは逃げないさ。ずっと一緒にいるって約束したからね。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_yingying_talk1_001.aac",
+            "text": "旦那～さっき「予期せぬ出会い、麗しき時もたらす」って詩を聞いたんだけどね……外に出たら、すぐにお前様を見かけたのさ。これはもう運命だよねぇ？どうだい？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_yingying_talk1_002.aac",
+            "text": "もしあたいが突然いなくなったら、千年藤の木まで行ってみるといいよ！花の間に隠れて、人々が願い事をして結びつけた札を見守っているだろうから。風が吹くと、札がカラカラ音を立てて、祈りの囁きのように心地良く響くのさ……"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_yingying_talk1_003.aac",
+            "text": "言っておくけどね～願い事は、心を込めないとダメだよ。さぁ、目を閉じて、願いが叶った時のことを思い浮かべるんだ——そんなに眉をひそめなくていいよ。力を抜いてみな！"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_yingying_talk2_001.aac",
+            "text": "あんたたちの灯火が好きだよ。ずっと消えずに、色とりどりに輝いている……あんたたちもこういう灯火に願い事をするのかい？どんなことを願うのか、あたいに教えておくれ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_yingying_talk2_002.aac",
+            "text": "あたいの記憶にあるあの通りには、世界で一番素敵な人たちが住んでいたんだ。彼らはあたいを家に迎えて育ててくれて、歌や化粧を教えてくれて、あらゆる愛と素晴らしいことを与えてくれた……何年も経った今でも、彼らの願いは全部あたいへの祝福だよ。だから、あたいも願い事をするのさ。みんなをずっと守り続けられますようにってね。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_yingying_talk2_003.aac",
+            "text": "あたいは長い間夢の中で彷徨っていた。終末の日、家々に明かりを灯し、1本の木に花を咲かせ続けるような英雄を待っていたのさ。でも英雄は来ず、あたいもそのまま眠り続けた。ずっと……お前様、本当に長い間待たせてくれたね。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_yingying_obeyfull_001.aac",
+            "text": "うん……藤の花がお前様の願いを聞いたから、すぐに叶うだろうね。彼女はこれからずっとお前様と一緒にいて、決して離れないよ。それじゃあ、今……あたいの願いを聞いてくれるかい？小さな、お前様にだけ関係ある願いを。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_yingying_idle_001.aac",
+            "text": "香る風、紅さし手繰る、花の群れ……ああ、あたいと夜遅くまで、朝が来るまで楽しんでくれる人はいないかねぇ？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_yingying_clicking_001.aac",
+            "text": "っ！？もうちょっと優しくしておくれ。そんなに力を入れるんじゃないよ。痛いじゃないか。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_yingying_specialattention_001.aac",
+            "text": "ふふ、目は逸らすし、耳も赤く熱くなっているねぇ……あたいを見たいなら、堂々と見ればいいさ。あたいも、こうやってお前様を見るのが好きなんだ。知らなかったのかい？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_yingying_dispatch_001.aac",
+            "text": "すごく出かけたいんだけどねぇ……坊ちゃん、一緒に行かないかい？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_yingying_dispatch2_001.aac",
+            "text": "う～ん今回は大満足だよ。それじゃあ、また。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_yingying_levelup_002.aac",
+            "text": "これ全部あたいだけのものなのかい？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_yingying_head_001.aac",
+            "text": "ただ髪の毛に触れるだけでいいのかい？よし、あたいは目を閉じてちょっと時間をあげよう。他に触れたいところは？まつ毛？鼻？それとも……唇かい？"
+        }
+    ],
+    "fluttered_heartstrings": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",
+            "text": "風が船べりを撫で、月が琵琶を照らす……坊ちゃん、今宵の一曲は、お前様のためだけに奏でるものだよ。もしも聞き惚れて、心を乱されでもしたら……それは全てあたいのせいだと忘れないでおくれよ～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_yingying_xiaoxianchushang_levelup_001.aac",
+            "text": "どうだい？この曲は、昔よりずっと心に響くと思わないかい？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_yingying_xiaoxianchushang_greeting_001.aac",
+            "text": "坊ちゃん～今夜の風に、花の香りが混じっているのに気付いたかい？さっきまで考えていたんだよ。もしお前様が来たら、新しく覚えた曲を奏でて、蓮の下に漂う甘い香りを味わわせてあげようってねぇ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_yingying_xiaoxianchushang_head_001.aac",
+            "text": "おやおや、かんざしがずれちゃったじゃないか。今日の演奏のために、丁寧に飾りつけたものなんだよ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_yingying_xiaoxianchushang_body_001.aac",
+            "text": "どうやら坊ちゃんは、本当にあたいの琵琶が好きみたいだねぇ……東洲には「高山流水」なんて故事があるけど、聞いたことはあるかい？まさかあたいの知音が、目の前にいたなんてね。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_yingying_xiaoxianchushang_body_002.aac",
+            "text": "どんな芸でも、舞台の一瞬の輝きの裏には、十年の鍛錬があるものさ。昔あたいに琵琶を教えてくれたママたちは、本当に凄かったんだよ。指先で一度弦を弾けば、風さえも彼女たちの旋律に合わせて舞い踊り、近くの茶屋の語り手も、語るのをやめてこっそり聴きに来ていたくらいだからねぇ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_yingying_xiaoxianchushang_hand_001.aac",
+            "text": "う～ん、お前様はご機嫌みたいだけど、あたいはずっと弾いていて手が疲れちゃったよ。坊ちゃん、揉んでおくれ！"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_yingying_xiaoxianchushang_background_001.aac",
+            "text": "この船は、画舫って言うんだよ。昔の東洲では、明かりが灯る頃になると、船に吊るされた瑠璃灯が川に映って、砕けた星が散らばったみたいでねぇ……あの頃のあたいは、岸辺で姐さんたちが琵琶を弾くのを見ながら、彼女たちは月の船に乗ってるんだってずっと思っていたよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_yingying_xiaoxianchushang_idle_001.aac",
+            "text": "画舫がしんと静まり返って、風さえ息をひそめているみたいだねぇ……時には音も旋律もない方が、楽器の音より心に響くものさ——だって、愛する人が傍にいるんだから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_yingying_xiaoxianchushang_specialattention_001.aac",
+            "text": "この衣装は、昔の絵を真似したものさ。坊ちゃんは気に入ってくれたかい？ん？なんでじっと見つめたまま、何も言わないんだい？もしかして、あたいに見惚れて褒め言葉も忘れたのかねぇ。本当にそうなら、目を離さないでおくれ。でないと、また絵の中に戻るかもしれないよ！"
+        }
+    ]
+}

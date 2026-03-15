@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_shalom_cacha_001.aac",
+            "text": "これまで険しい道のりを歩んできたんだろう。可哀想な子だ……ご苦労様。キミはいつも、とてもよくやっているよ。これからは私がいるから、安心したまえ。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_shalom_promotion_001.aac",
+            "text": "私の働きが不満か？なら、今後はもっと努力しよう。そう、キミのためにね。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_shalom_promotion2_001.aac",
+            "text": "さぁ、ここまでだ。キミは随分遠くまで来てしまった。もう戻りたまえ。今ならまだ間に合う。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_shalom_battlebegin_001.aac",
+            "text": "私に行ってほしいのか？いいだろう。キミとなら、喜んで。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_shalom_battlewin_001.aac",
+            "text": "さて、私の仕事はこれで終わりだ。キミたちの幸運を祈る。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_shalom_battlelose_001.aac",
+            "text": "心配ない。ちょっとしたミスをカバーするのは得意でね。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_shalom_uniqueskill_001.aac",
+            "text": "うるさい、静かにしたまえ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_shalom_dead_001.aac",
+            "text": "ふふ……先に行くよ……向こうで待っている……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_shalom_greeting_001.aac",
+            "text": "こんにちは、忙しい一日が始まるよ。私の助けが必要か？それとも、私からの励ましが欲しいのか？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_shalom_talk1_001.aac",
+            "text": "私の仕事は、他人の過失を補い、助けを求める声を受け、状況を分析。そして解決策を提案し、確実に実行することだ。この仕事は嫌いではない。ただ……皆がもう少し用心深くなってくれれば、余計なコストをかけずに済むと思っている。だから局長、慎重になりたまえ。キミに「スイーパー」を必要とする日が来ないことを祈っているよ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_shalom_talk1_002.aac",
+            "text": "私には特殊な能力もなければ、戦闘も不得手で、この小さな黒い三角で自分を守ることしかできない。もちろん、この子は今後キミのことも守る。この子の裏にいる人間を信用していないのは分かるが、キミはきっとこの力を利用する方法を見つける……そうだろう？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_shalom_talk1_003.aac",
+            "text": "キミのものになってほしいのか？ふふ、いいだろう。キミの要求を全て満たしてあげよう。代わりに……キミの全てを、あるいは咲いたばかりの花をくれないか。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_shalom_talk2_001.aac",
+            "text": "キミに求めるものはないが、強いて言うのなら……自分のことをもっと大切にしてほしいというところかな。キミを守るのは簡単ではないんだ。それが難しいなら……ふふ、その命が最も適切な時に最大の役割を果たせるよう、仕向けるしかない。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_shalom_talk2_002.aac",
+            "text": "しーっ……キミの鼓動を数えているんだ。16、17、18……うん、興味深いな。面白い感情で満ちている……キミは？キミなら、私の心が聞こえるか？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_shalom_talk2_003.aac",
+            "text": "私は多くの人のために働いてきた。私に忠誠を尽くす人も大勢いる。キミか？キミはもちろん彼らとは違う。キミができることは彼らより多く、最も特別で、私より遥かに重要な存在だ。だから……傍にいてくれ。遠くへ行かず、離れないでほしい。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_shalom_obeyfull_001.aac",
+            "text": "キミが好きな本、音楽、映画について話してくれないか。それと好きな場所や人についてもね。ああ、私はキミの話が聞きたいんだ。もっとキミの世界を見せてくれたまえ。キミが運命に飲み込まれ、あの寂寥とした終点に到着する前に……一目、見たいんだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_shalom_idle_001.aac",
+            "text": "（ハミング）"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_shalom_clicking_001.aac",
+            "text": "こらこら、それではあまりにも青臭いじゃないか……さぁ、私の手を取りたまえ。やり方を教えてあげよう。ちゃんと覚えておくように……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_shalom_specialattention_001.aac",
+            "text": "本当にそうして私のことをじっと見つめる気か？いいだろう、それなら私もずっと見なければな。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_shalom_dispatch_001.aac",
+            "text": "ふむ……新鮮だな。もう少し人手を増やせるか？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_shalom_dispatch2_001.aac",
+            "text": "安心したまえ、順調だ。皆いい子だよ。従順でよく働いてくれた。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_shalom_levelup_002.aac",
+            "text": "うん……懐かしい感覚だ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_shalom_head_001.aac",
+            "text": "なんだ、ご褒美でも欲しいのか？"
+        }
+    ],
+    "city_never_sleeps": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_shalom_yehuaruzhou_cacha_001.aac",
+            "text": "キミは確かに、こうした「社交の場」が苦手なようだ。心配ない、よくやった。続きは、私に任せたまえ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_shalom_yehuaruzhou_levelup_001.aac",
+            "text": "キミの努力を、しっかり覚えておこう。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_shalom_yehuaruzhou_greeting_001.aac",
+            "text": "ニューシティの夜、代わり映えしない開会の挨拶。全てが見慣れたものだ……もしそれぞれの思惑がなければ、誰が同じ過ちを何度も繰り返そうと思うだろうか？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_shalom_yehuaruzhou_head_001.aac",
+            "text": "こんな場でも、本当の気持ちを抑えられないのか？甘えん坊だな。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_shalom_yehuaruzhou_body_001.aac",
+            "text": "彼らがキミに恭しく発する賛美あるいは侮辱は、全て中身のない感嘆だ。深読みはしないように。なんといっても、キミは彼らの「同類」ではないのだから。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_shalom_yehuaruzhou_body_002.aac",
+            "text": "ニューシティの大半の人が、永遠に覚めない幻夢に溺れている。キミと私を除いて。「夢」という言葉は、遥か昔から私たちとは無縁なのだよ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_shalom_yehuaruzhou_righthand_001.aac",
+            "text": "このパーティー、あのスポットライトや花、権力者に名士……私を含めそれらは皆、脇役にすぎない。キミこそ今夜の唯一の主役だ。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_shalom_yehuaruzhou_lefthand_001.aac",
+            "text": "ディスシティでは、あまりに多くの過ちが起きている。私でも全てを顧みることはできない。だがキミ……キミは違う。全員の希望を背負っている……大丈夫だ、思い切りやりたまえ。失敗を恐れる必要はない。私がカバーしてあげよう……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_shalom_yehuaruzhou_idle_001.aac",
+            "text": "結局、誰であっても私を捨てるのだろう……キミを責めたりしないよ。それがキミの宿命なのだから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_shalom_yehuaruzhou_specialattention_001.aac",
+            "text": "私と一緒にいるのが好きか？うん……安心したまえ。私は離れたりしない。"
+        }
+    ],
+    "undawning_nighttide": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_shalom_anyetongxing_cacha_001.aac",
+            "text": "果樹が芽を出し、キミと私に傷を残した……たとえ楽園から追放され、永遠の夜に生きることになったとしても、私と一緒に歩んでくれるか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_shalom_anyetongxing_levelup_001.aac",
+            "text": "いい子だね、よくやった。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_shalom_anyetongxing_greeting_001.aac",
+            "text": "黒い月が紅海から昇り、目の前の道を照らす。私は知っているよ。キミがいつか私の元に来ることを。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_shalom_anyetongxing_head_001.aac",
+            "text": "ルールを守らない悪い子だ。さぁ、続けてみたまえ。どこまでできるか見せてくれるか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_shalom_anyetongxing_body_001.aac",
+            "text": "楽園の庇護を受けないということは、そのルールに縛られることもないということだ。私たちは最も狂った裏切り者であり、お互いにとって……最も忠実な仲間でもある。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_shalom_anyetongxing_body_002.aac",
+            "text": "楽園と比べて、この海は「不浄」な存在しか育むことができない——壊れていて混沌としているが、それでも生き生きとしている。皮を剥ぎ取り、血肉を作り変え、キミも私も光に背を向け、永遠の夜の中で新たに生まれ変わるんだ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_shalom_anyetongxing_righthand_001.aac",
+            "text": "キミは魔女の眷属。私の声、私の言葉に従えばいい……そう、今のように何もせず、何も考えずに。罰が下る前に、もう少しだけ私と一緒にいてくれ。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_shalom_anyetongxing_lefthand_001.aac",
+            "text": "誓いや約束は永遠ではない。記憶に刻むべきなのは現在だけだ。例えば……この月明かり。そしてこの瞬間のキミと私。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_shalom_anyetongxing_idle_001.aac",
+            "text": "しーっ、目を閉じて、よく聞きたまえ……感じたか？海水がうねり、心拍が蘇る。これが自由の呼吸だ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_shalom_anyetongxing_specialattention_001.aac",
+            "text": "どこへ行こうとも、私はキミと共にいよう——たとえそれが世界の果てであっても。"
+        }
+    ]
+}

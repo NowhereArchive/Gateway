@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_kuangdu_cacha_001.aac",
+            "text": "居然能抓到露莉，你运气不错嘛！不如来和露莉玩点什么吧？反正……最后肯定是露莉赢！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_kuangdu_promotion_001.aac",
+            "text": "Lucky——难道今天也是露莉的幸运日吗？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_kuangdu_promotion2_001.aac",
+            "text": "嘻嘻……让游戏再刺激一点吧！最好……让所有人都知道露莉的厉害！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_kuangdu_battlebegin_001.aac",
+            "text": "出去玩咯——"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_kuangdu_battlewin_001.aac",
+            "text": "露莉这次还没玩尽兴呢——"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_kuangdu_battlelose_001.aac",
+            "text": "输了？露莉居然输了？！哈哈，哈哈哈！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_kuangdu_uniqueskill_001.aac",
+            "text": "哈哈哈哈，哈哈哈哈哈！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_kuangdu_dead_001.aac",
+            "text": "你们终于……来接我了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_kuangdu_greeting_001.aac",
+            "text": "一个人真的好无聊……局长要和露莉玩点什么吗？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_kuangdu_talk1_001.aac",
+            "text": "听说点45的子弹穿过脑袋的时间只需要0.45秒，嗯……找谁来试一试呢？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_kuangdu_talk1_002.aac",
+            "text": "技巧？战术？情报？嗨呀，倒霉蛋才需要那些东西。露莉盯上谁，老天就不会放过他！运气——才是露莉最强大的武器！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_kuangdu_talk1_003.aac",
+            "text": "从小到大，不管什么游戏，露莉都没输过呢。不用作弊，也不用努力，因为大家都超——级宠爱露莉。对吧？局长，你也是的吧？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_kuangdu_talk2_001.aac",
+            "text": "复仇从来都不是露莉的目的，嘿嘿，是露莉活下去的理由哦。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_kuangdu_talk2_002.aac",
+            "text": "炸弹也是，敌人也是，什么黑水、邪教徒、杀人的怪物，露莉都不怕！我会把背后的一切都揪出来。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_kuangdu_talk2_003.aac",
+            "text": "露莉可是在你身上下了重注的，不要随随便便把命输给别人。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_kuangdu_obeyfull_001.aac",
+            "text": "露莉又找到四叶草了！哼哼，像局长运气这么差的人，恐怕这辈子都找不到一株吧。算了…这株就送给你吧，作为回报，局长要再多陪露莉玩一会儿。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_kuangdu_idle_001.aac",
+            "text": "piapia，piapiapiapia！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_kuangdu_clicking_001.aac",
+            "text": "局长看起来好闲呀，要和露莉玩点什么吗？比如——猜猜弹巢里有几颗子弹？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_kuangdu_specialattention_001.aac",
+            "text": "哦哦，局长要来陪露莉玩了吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_kuangdu_dispatch_001.aac",
+            "text": "出发咯~"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_kuangdu_dispatch2_001.aac",
+            "text": "露莉回来啦！这次露莉没有到处乱跑哦。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_kuangdu_levelup_002.aac",
+            "text": "诶？原来露莉还能变强的呀——"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_kuangdu_head_001.aac",
+            "text": "不许摸头！我又不是小孩子！哇啊啊啊住手！"
+        }
+    ],
+    "seaside_dessert_stand": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_cacha_001.aac",
+            "text": "biubiubiu——！嘿嘿，吓了一跳吗？这是水枪啦局长！快来跟露莉一起玩呀！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_levelup_001.aac",
+            "text": "露莉要赢更多更多的冰淇淋！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_greeting_001.aac",
+            "text": "局长——今天有认真准备好和露莉的赌局么？输的人可是要买三份蜜瓜冰棍！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_talk_001.aac",
+            "text": "露莉很喜欢去伊琳娜的那艘大船上玩，那里的人就算是被赢走了好多好多东西也不会生气，而且他们还会冲过来和露莉合影。说是什么“赌王在世”……真是搞不懂这群家伙。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_talk_002.aac",
+            "text": "Lucky——今天又赢了这么多蛋糕，好开心！不过，之前有许多人也会送甜点给露莉吃，是……是谁来着？嗯……糟糕，露莉想不起来了……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_idle_001.aac",
+            "text": "嗯——好棒的天气。局长不来和露莉玩点什么游戏么？不管是冲浪，还是沙滩排球，露莉都可以！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_clicking_001.aac",
+            "text": "哈哈……局长，好痒啊！啊——露莉也不能输！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_specialattention_001.aac",
+            "text": "局长……你怎么一直在盯着露莉呀。难道说……局长也喜欢露莉的鲨鱼玩偶么？哼，这可是露莉好不容易赢来的东西，才不会借给你躺！"
+        }
+    ],
+    "puerile_maniac": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_cacha_001.aac",
+            "text": "露莉今天早上吃了一块奇怪的蛋糕就变成这样了，嗯……好像是夏音姐姐放在桌子上的，因为看起来实在太好吃了……露莉就没忍住……嘿嘿……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_levelup_001.aac",
+            "text": "露莉感觉自己又长高了！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_greeting_001.aac",
+            "text": "捉迷藏？我不要……不能因为露莉身体变小了就跟露莉玩这么幼稚的游戏呀！或者，局长你让露莉躲到你怀里怎么样？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_talk_001.aac",
+            "text": "啊……？睡前……不可以吃零食么？就……就吃一口！露莉那么幸运一定不会有蛀牙的！嗯！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_talk_002.aac",
+            "text": "嗯……露莉有点困了……局长可以帮露莉拿几个小熊玩偶吗……露莉要像小时候一样抱着它们睡觉……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_idle_001.aac",
+            "text": "如果当时露莉有现在这么强就好了……就算用这把枪也能把那些家伙们统统干掉！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_clicking_001.aac",
+            "text": "不许把露莉当小孩子！虽然露莉的身体变小了，但头脑还是很聪明的！赢下局长轻轻松松！看招！Biubiubiubiubiu！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_specialattention_001.aac",
+            "text": "哼哼，是不是觉得露莉这一身特别合适呀~作为露莉的家人，局长也要来夸夸露莉！"
+        }
+    ]
+}

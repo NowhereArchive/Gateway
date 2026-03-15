@@ -1,0 +1,198 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_pajiaxi_cacha_001.aac",
+            "text": "我是帕加茜……是旧时代的遗孤，行走着的污染，请与我保持距离。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_pajiaxi_promotion_001.aac",
+            "text": "能级提升，请注意调整辐射防护等级"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_pajiaxi_promotion2_001.aac",
+            "text": "还是没放弃吗……那就，触碰我吧……做好被辐射贯穿的准备。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_pajiaxi_battlebegin_001.aac",
+            "text": "我不会让您失望的。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_pajiaxi_battlewin_001.aac",
+            "text": "我做到了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_pajiaxi_battlelose_001.aac",
+            "text": "对不起……对不起……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_pajiaxi_uniqueskill_001.aac",
+            "text": "离我……远点！！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_pajiaxi_dead_001.aac",
+            "text": "终于……结束了"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pajiaxi_greeting_001.aac",
+            "text": "您好，局长，今天有什么工作需要交给我的么？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_pajiaxi_talk1_001.aac",
+            "text": "局长，有什么是我能做的吗？就这样待着，什么都不做的话，我不太习惯。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_pajiaxi_talk1_002.aac",
+            "text": "这支手臂上的改装，是用来辅助肌肉发力的……抱歉，请不要触碰它。不，并不是有什么忌讳，只是……它吸收了太多的辐射了。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_pajiaxi_talk1_003.aac",
+            "text": "我必须活下去，记住镇上发生的事情。否则，我们经历的一切，就失去意义了……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_pajiaxi_talk2_001.aac",
+            "text": "我还记得电站最后一次事故：那年冬天，积雪摧毁了大半个电网。三十天里，镇上少了四分之一的人口。直到第二年开春，我们才在融化的积雪下找到他们……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_pajiaxi_talk2_002.aac",
+            "text": "马耶克是灯塔的意思，即便在最黑暗的时候，它也能给予漂泊者指引和希望。可没人知道，就连灯塔本身，都会被黑暗吞没……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_pajiaxi_talk2_003.aac",
+            "text": "我从不奢求他人的怜悯，甚至是您的怜悯。我……不想失去尊严，作为实验品，或是观赏动物活着……"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_pajiaxi_obeyfull_001.aac",
+            "text": "从来没有人告诉我朋友是什么……我在书上读到过，朋友，是可以为之赴死的人……如果它是对的，那么，局长，你就是我的朋友，我唯一的朋友。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pajiaxi_idle_001.aac",
+            "text": "……局长，您已经工作很久了。不用休息一会儿吗？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pajiaxi_clicking_001.aac",
+            "text": "局长……这……这是狄斯城的人表达友善的方式么……好……好吧。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pajiaxi_specialattention_001.aac",
+            "text": "可以……不要总是盯着我么。 我……不是很习惯。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_pajiaxi_dispatch_001.aac",
+            "text": "我会做到的。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_pajiaxi_dispatch2_001.aac",
+            "text": "工作完成，请给我新的任务吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pajiaxi_levelup_002.aac",
+            "text": "辐射，变强了。"
+        }
+    ],
+    "winter_night": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_pajiaxi_dongye_cacha_001.aac",
+            "text": "局长，请再靠近火堆一些。即使是马耶克镇的外围，也要比狄斯城内冷上许多，一定要注意保暖。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pajiaxi_dongye_levelup_002.aac",
+            "text": "嗯，很暖和。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pajiaxi_dongye_greeting_001.aac",
+            "text": "局长，暖和一些了么？如果您还冷的话……可以喝一点我刚煮好的罗宋汤。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_pajiaxi_dongye_talk_001.aac",
+            "text": "“一百年过去了，年轻的城，成了北国的明珠和奇迹……”这本诗集是我在管理局的藏书室里找到的，很有趣……局长要读读看么？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_pajiaxi_dongye_talk_002.aac",
+            "text": "曾经，这里是我离马耶克镇最远的地方，也是现在……距离它最近的地方。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pajiaxi_dongye_idle_001.aac",
+            "text": "在小时候，我盼着冬天能快点过去。可如今，我却希望它能留得再久一些……人，还真是奇怪呢。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pajiaxi_dongye_clicking_001.aac",
+            "text": "我……我只是在制服上加了一些马耶克风格的剪裁和用料，应该……没有违反管理局的规定吧……？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pajiaxi_dongye_specialattention_001.aac",
+            "text": "寒风与雪夜是马耶克镇独一无二的特点，而身着寒衣坚守在冬夜里的人，也同样值得我们永远铭记……"
+        }
+    ],
+    "frostforged_maiden": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_pajiaxi_lindongxiushi_cacha_001.aac",
+            "text": "你好，新来的劳动者。我是凛冬的女儿，诞生于这片冰雪的特殊存在，每年冬天，我都会在此祝福所有辛勤工作的劳动者。因此，大家习惯称呼我为“冬姑娘”。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pajiaxi_lindongxiushi_levelup_001.aac",
+            "text": "积雪，似乎更厚实了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pajiaxi_lindongxiushi_greeting_001.aac",
+            "text": "你来了，是今年的收尾工作也顺利结束了吗？那么接下来，请好好休息，静候春天来临吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_pajiaxi_lindongxiushi_body_001.aac",
+            "text": "我曾听钢铁厂的劳动者提起过，当灼热的铁水注入高压冷却仓，大量的水蒸汽就会从烟囱里滚滚冒出，场面就和节日的烟火一样壮观。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_pajiaxi_lindongxiushi_body_002.aac",
+            "text": "不必为我的离去而感到悲伤，劳动者们。如果哪天，你们发现我消融殆尽了，那就证明春天来了，新的生机再度来临了……到那时，我会融入高炉，化入土壤，以另一种存在的方式继续陪伴着大家。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pajiaxi_lindongxiushi_idle_001.aac",
+            "text": "嗯，你也听说了产量目标超额完成的捷报吗？真好，看来今年冬天，大家都能享受一段踏实愉快的节日时光了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pajiaxi_lindongxiushi_clicking_001.aac",
+            "text": "谢谢，但我并不需要这条厚围巾。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pajiaxi_lindongxiushi_specialattention_001.aac",
+            "text": "谢谢你愿意一直注视着我，但我的消失是必然的，劳动者们也一定会在冬日里获得胜利。"
+        }
+    ]
+}

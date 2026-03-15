@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_coquelicot_cacha_001.aac",
+            "text": "我愿意走进这里是你的荣幸，希望我的房间外能有一个小花园，辛苦你啦~"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_coquelicot_promotion_001.aac",
+            "text": "努力的孩子，我会认可你的。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_coquelicot_promotion2_001.aac",
+            "text": "享受被花儿们簇拥的时刻吧。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_coquelicot_battlebegin_001.aac",
+            "text": "今天将会是谁在我的剑下绽放呢？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_coquelicot_battlewin_001.aac",
+            "text": "这一地的花瓣，真是美得无与伦比。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_coquelicot_battlelose_001.aac",
+            "text": "暂时放你一条生路……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_coquelicot_uniqueskill_001.aac",
+            "text": "于此绽放，直至荼蘼。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_coquelicot_dead_001.aac",
+            "text": "这将是……最美的花雨……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_coquelicot_greeting_001.aac",
+            "text": "希望今天我们都没有委托，能在这里……好好地休息一整天~"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_coquelicot_talk1_001.aac",
+            "text": "我珍惜怜爱着花园里的每一朵花，希望在我的养育下，她们能让枝叶变得锋利，划开苦难，让灵魂绽放成最漂亮的花儿……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_coquelicot_talk1_002.aac",
+            "text": "条条框框无法困住想要盛放的愿望，在黑暗中生长的枝叶，迟早会将这些边框击碎。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_coquelicot_talk1_003.aac",
+            "text": "拿钱办事，最正常不过的生活方式~顾客获得方便，我获得快乐~比起那些为了空泛和不切实际的目标就往前冲的家伙，我还是更喜欢现在的生活~"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_coquelicot_talk2_001.aac",
+            "text": "喜欢花的人会将花摘下，爱花的人才会为她们浇水……但我不介意，你将我摘下带走~"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_coquelicot_talk2_002.aac",
+            "text": "不要总跟我说那些乱七八糟的大道理，这个世界上，没有任何道理比得过“我乐意”这三个字。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_coquelicot_talk2_003.aac",
+            "text": "像我这样善良又美丽的人，是会将那些污秽好好教导，再冲刷干净，让他们的下一世，有机会成为美丽的花……啊~我真是太伟大了~"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_coquelicot_obeyfull_001.aac",
+            "text": "鲜花盛放总会凋零，等到那一天，我希望能沉睡在你这道永不安息的，湛蓝色的深渊里……让虞美人盛开在你的心口，彤红地燃烧……那是我为你留下的真心，洒下的痕迹……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_coquelicot_idle_001.aac",
+            "text": "无人触碰也无人喜爱，尽管寂寞难挨，却能更加灿烂地盛放。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_coquelicot_clicking_001.aac",
+            "text": "别仗着我的宠爱乱来哦？否则……你也是我花园泥土里躺着的那几个之一了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_coquelicot_specialattention_001.aac",
+            "text": "哎~我知道，我很漂亮，所以你才想每时每刻都看着我。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_coquelicot_dispatch_001.aac",
+            "text": "我拿不起我的外套，能麻烦你帮我披上吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_coquelicot_dispatch2_001.aac",
+            "text": "下次这种事，交给别人吧，不适合我。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_coquelicot_levelup_002.aac",
+            "text": "现在的我，还不能让你满意吗？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_coquelicot_head_001.aac",
+            "text": "喜欢这朵花？或者……想看看它是如何被染红的？"
+        }
+    ],
+    "blossom": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_coquelicot_shengfang_cacha_001.aac",
+            "text": "我一睁开眼睛，就看见你向我奔来的身影。我知道，你一直以来的坚守，让这次的盛放有了不一样的意义。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_coquelicot_shengfang_levelup_001.aac",
+            "text": "来吧，盛大地绽放吧！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_coquelicot_shengfang_greeting_001.aac",
+            "text": "一段时间不见，你怎么和那群孩子一样这么黏我呢？哎呀，我这不是好好的嘛！你留给我的这口气，还久着呢。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_coquelicot_shengfang_talk_001.aac",
+            "text": "这片曾经困住我的地方，现在已经变成了花团锦簇的花园。繁花不是我的葬礼，而是我的新生。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_coquelicot_shengfang_talk_002.aac",
+            "text": "别在我的花园里愁眉苦脸的，弄得花儿都不开心了。放心吧，我不会再不告而别了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_coquelicot_shengfang_idle_001.aac",
+            "text": "我总是想着一个人解决所有问题，但在经历了这么多之后，我感觉……还是有你们在身边，能让我稍微安心一点。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_coquelicot_shengfang_clicking_001.aac",
+            "text": "怎么，你也想试试？那来吧，只不过……你的双腿，就是我的新座位咯。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_coquelicot_shengfang_specialattention_001.aac",
+            "text": "新开辟的花园里有很多狄斯城也见不到的稀有花儿，紫睡莲，龙须兰……嗯？只想看虞美人？那……你就多看看我吧~"
+        }
+    ],
+    "crimson_hunt": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_coquelicot_feisemilin_cacha_001.aac",
+            "text": "哦？又一个自己送上门来的小可爱……我不介意你的加入，但掠食者的森林比你想象中危险得多。宴会已经开始，就让我期待一下——你能不能从这场盛宴里，拿走自己想要的东西吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_coquelicot_feisemilin_levelup_001.aac",
+            "text": "还算懂得赴宴的规矩，不错。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_coquelicot_feisemilin_greeting_001.aac",
+            "text": "每天都来这里见我……是迷恋林中的温柔夜色，还是贪恋餐桌上的美味佳肴？又或者……是我这杯掺了谎言的酒，让你上了瘾？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_coquelicot_feisemilin_talk_001.aac",
+            "text": "森林深处耸立的古堡，没有灯火，了无生机，连宴会的客人都不愿踏足，可窗后的影子每到深夜便会蠢蠢欲动。有人说，那是沉睡的吸血鬼在等待下一场舞会……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_coquelicot_feisemilin_talk_002.aac",
+            "text": "林中宴会的规矩一点也不复杂，就像玩捉迷藏——抓到猎物的人大快朵颐，藏不住的人沦为盘中餐……放心，今晚的小甜点已经足够了，我可不想让你这么快就变成“小猫儿”的饭后消遣~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_coquelicot_feisemilin_idle_001.aac",
+            "text": "那就安静地再待一会儿吧。反正宴会还未散场，而这片森林……也一直都很乐意招待像你这样的客人。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_coquelicot_feisemilin_clicking_001.aac",
+            "text": "我的酒里或许需要加上点新的材料，比如你不安分的手指。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_coquelicot_feisemilin_specialattention_001.aac",
+            "text": "……我喜欢你现在的眼神，直白、坦率，充斥着生存、胜利或是征服的欲望……外面的世界有太多自以为是的规则，但密林深处可没有这种束缚。你若想跳一支舞，就不必等音乐响起。"
+        }
+    ]
+}

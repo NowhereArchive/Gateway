@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_oak_cacha_001.aac",
+            "text": "심문실보다는 묘지에서 당신과 이야기를 나누고 싶은걸… 당신이 묘안에 있고, 내가 밖에 있으면 분명 더 즐거운 이야기를 나눌 수 있을 거야."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_oak_promotion_001.aac",
+            "text": "쉿… 망자의 속삭임이 들려."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_oak_promotion2_001.aac",
+            "text": "우리의 티파티에… 함께 하지 않을래?"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_oak_battlebegin_001.aac",
+            "text": "종이 울렸으니, 이제 식을 치를 차례야."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_oak_battlewin_001.aac",
+            "text": "걱정하지 마, 당신을 위한 추도문은 이미 준비해놨으니까."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_oak_battlelose_001.aac",
+            "text": "괜찮아, 아직 관뚜껑을 덮을 때는 아니야."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_oak_uniqueskill_001.aac",
+            "text": "평안히 잠들길!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_oak_dead_001.aac",
+            "text": "인간은 결국… 관 속을 향해 가고 있지…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_oak_greeting_001.aac",
+            "text": "안녕, 국장. 오늘도 우리가 아직 살아있음에 감사하고, 또 아직 살아있음에 애도하자."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_oak_talk1_001.aac",
+            "text": "악단이 필요하다면… 토토를 찾아가 봐, 내 이름을 대면 할인 받을 수 있을지도 몰라."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_oak_talk1_002.aac",
+            "text": "신디케이트의 완벽한 부활을 맞이하기 위해선, 그만큼 성대한 장례식이 필요해."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_oak_talk1_003.aac",
+            "text": "매장? 화장? 아니면 자연 친화적인 조장은 어때? 뭐든 상관없어, 친구. 이건 모두 구원을 향한 필연적인 한 걸음일 뿐이니까."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_oak_talk2_001.aac",
+            "text": "죽음이란 건 결코 관 속의 망자가 세상 사람의 눈물을 구걸하기 위한 수단이 아니야. 그건 그저 그들의 흔적을 지우고, 그들의 목소리를 틀어막을 뿐이지."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_oak_talk2_002.aac",
+            "text": "사람은 생명을 잃어야만 그의 어리석음, 지루함, 비열함을… 구원 받고 흥미로운 자가 될 수 있어… 하지만 어쩐지 당신은 조금 다른 것 같네."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_oak_talk2_003.aac",
+            "text": "내 장례를 직접 치르지는 못하겠지만, 당신에게 내 마지막 메세지를 남길 수는 있지. 기꺼이 받아주겠어?"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_oak_obeyfull_001.aac",
+            "text": "당신은 망령보다도 흥미로워. 나의 어둠과 외로움, 우울을 당신에게 나눠서 미안해. 죽음이 찾아온다고 해도… 나는 계속 당신 곁을 지킬 거야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_oak_idle_001.aac",
+            "text": "기도? 그런 지루한 짓은… 하지 않아."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_oak_clicking_001.aac",
+            "text": "내가 그렇게 좋니? 미안하지만 내 머리는 건드리면 터지는 비눗방울이 아니야."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_oak_specialattention_001.aac",
+            "text": "나의 눈동자 너머로, 당신은 무엇을 보고 있지?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_oak_dispatch_001.aac",
+            "text": "함께 묘지를 산책하지 않을래?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_oak_dispatch2_001.aac",
+            "text": "으흠, 흠… 꽤 많은 비밀을 알게 된 것 같아."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_oak_levelup_002.aac",
+            "text": "당신 내가 필요하지? 다 알아."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_oak_head_001.aac",
+            "text": "두개골에는 가장 많은 정보가 남아있어. 사람이란 죽음이 임박하면 아직 이루지 못한 일을 떠올리기 때문이지."
+        }
+    ],
+    "forest_of_enthrallment": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_oak_chenlunzhisen_cacha_001.aac",
+            "text": "당신이 숲에 발을 내딛는 순간, 바로 내 것이 되는 거지. 난 너에게 영원한 잠을 선사하고, 난 내가 원하는 모든 것을 얻게 될 거야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_oak_chenlunzhisen_levelup_001.aac",
+            "text": "당신에게 향기가 더 짙은 열매를 줄게."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_oak_chenlunzhisen_greeting_001.aac",
+            "text": "좋아, 이리 와서 내 열매를 먹도록해… 가장 달콤한 구원을 얻게 될 거야."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_oak_chenlunzhisen_head_001.aac",
+            "text": "하늘에는 일곱 빛깔의 무지개가 있고, 성스러운 자는 7일을 거쳐 세상을 창조했지. 그리고 내 왕관의 보석 일곱 개는 육체를 떠난 소리를 들리게 하지. 당신도 원한다면… 내 왕관을 뺏어 봐."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_oak_chenlunzhisen_body_001.aac",
+            "text": "전에 누군가가 내게 진실만 말하는 마법의 거울을 줬지. 내가 그 거울로 누구의 존재를 알게 됐는지 맞혀볼래?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_oak_chenlunzhisen_body_002.aac",
+            "text": "난 이곳의 통치자가 아니야. 단지 길을 잃은 이들을 위해 영원히 잠들 수 있는 휴식처를 제공할 뿐이지."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_oak_chenlunzhisen_leg_001.aac",
+            "text": "하얀 눈은 흔적을 감추고, 사과는 욕망을 끌어내며, 흑단은 비밀을 지켜주지… 어떤 장식으로 당신이 잠들 곳에 꾸며주기를 원해?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_oak_chenlunzhisen_hand_001.aac",
+            "text": "눈을 감으면 끝없이 어두운 금기의 숲이 보일 거야… 하지만 두려워할 것 없어. 내게 손을 내밀면, 당신이 가야 할 곳으로 이끌어 줄게."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_oak_chenlunzhisen_idle_001.aac",
+            "text": "이 숲은 그렇게 조용하지 않아, 다들 땅 속 6피트 깊이에서 나와 대화를 나누고 있으니까."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_oak_chenlunzhisen_specialattention_001.aac",
+            "text": "나에 대해 이렇게나 궁금해하다니… 그럼 남아서 내 소장품이 되는 게 어때?"
+        }
+    ],
+    "sepulchral_ride": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_oak_heiyedezangyi_cacha_001.aac",
+            "text": "난 작은 목소리로 노래하는 밤하늘을 누비며 평안한 망령들을 마차로 삼지. 그렇게 묘지를 돌아다니며 길을 잃은 영혼에게 죽음을 선고해. 내가 밤길을 달리는 고삐를 멈추고 너의 이름을 부르게 되면, 하하… 그건 바로 네가 고이 잠들기 전 듣게 되는 마지막 찬가가 될 거야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_oak_heiyedezangyi_levelup_001.aac",
+            "text": "내게 답하는 울음소리가 점점 더 많아지고 있어…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_oak_heiyedezangyi_greeting_001.aac",
+            "text": "'그대의 시선은 마치 안개에 가려진 듯, 신비로운 두 눈은 부드럽고, 흐릿하며, 처참하게 변해, 하늘의 무감각함과 칠흑 같은 어둠을 비추고 있네.' …망자에게서 들은 이 시 구절이 지금 우리의 만남을 그리고 있는 것 같지 않아?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_oak_heiyedezangyi_body_001.aac",
+            "text": "오직 죽어가는 자만이 나의 슬픈 노래를 들을 수 있고, 요정의 장례 마차를 볼 수 있어. 넌 아직 죽지 않았는데 무슨 이유로 망자의 귀로에 뛰어든 거지? 날 보고 싶었던 거야? 아니면… 죽음을 보고 싶었던 거야?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_oak_heiyedezangyi_body_002.aac",
+            "text": "내가 마차를 끌고 네 영혼을 데려가 버린다면, 과연 널 위해 울부짖으며 돌아와 달라고 외치는 사람은 누구일까? 먼 곳에서 들려오는 너를 부르는 소리를 듣게 되면, 넌 내 품속을 떠나게 될까?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_oak_heiyedezangyi_idle_001.aac",
+            "text": "밤하늘을 스쳐 지나가는 까마귀도, 촘촘히 그물을 치는 독거미도, 모두 죽음을 알리는 요정과 함께했었어. 기괴한 흐느낌만이 불길한 징조가 아니야, 까마귀 울음소리, 바스락거리는 곤충 소리 역시 죽음이 다가오는 것을 알리는 발소리야."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_oak_heiyedezangyi_clicking_001.aac",
+            "text": "예전에도 이렇게 두개골을 두드리던 사람이 있었어, 어떻게 됐는지 궁금해? 내가 약속대로 죽음으로 안내해 줬어."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_oak_heiyedezangyi_specialattention_001.aac",
+            "text": "날 훔쳐보는 거야? 그 반짝이는 유리구슬이 채찍에 휘감기지 않도록 조심해."
+        }
+    ]
+}

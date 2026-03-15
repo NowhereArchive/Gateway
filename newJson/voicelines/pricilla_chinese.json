@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_peggi_cacha_001.aac",
+            "text": "哎呀呀~对侠盗兔穷追不舍的警察有那么多，你可是唯一一个抓得住我的呢~"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_peggi_promotion_001.aac",
+            "text": "下一场演出会更精彩哦~"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_peggi_promotion2_001.aac",
+            "text": "灯光完美，舞台完美！准备好了吗？盛大的怪盗演出即将开始！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_peggi_battlebegin_001.aac",
+            "text": "预告一下，待会儿我可是会逃跑的~加油追上我吧！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_peggi_battlewin_001.aac",
+            "text": "预告函回收！这次的行动反响也很热烈呢~"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_peggi_battlelose_001.aac",
+            "text": "对不起……对不起……我不该这么做的……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_peggi_uniqueskill_001.aac",
+            "text": "替天行道，行侠仗义！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_peggi_dead_001.aac",
+            "text": "现在……你能原谅我吗……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_peggi_greeting_001.aac",
+            "text": "早安~午安~晚安~哈哈哈，这说明我想一整天都见到你呀！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_peggi_talk1_001.aac",
+            "text": "管理局真是心大，就这么把自家的宝贝局长放在我眼前……不怕被我装进行李箱里带走吗？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_peggi_talk1_002.aac",
+            "text": "夜幕降临时，整个狄斯城都是我的舞台！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_peggi_talk1_003.aac",
+            "text": "我是正义的侠盗兔，劫富济贫，才不是什么小偷呢！别把我跟那只偷窃癖的臭狐狸相提并论，跟她组队只是机缘巧合罢了。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_peggi_talk2_001.aac",
+            "text": "其实我也不是完全为了贯彻正义……只能说是迟来的赎罪吧。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_peggi_talk2_002.aac",
+            "text": "局长有空也管管那只臭狐狸吧！和她搭档我可吃亏了~"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_peggi_talk2_003.aac",
+            "text": "退隐江湖也不是不行~毕竟……局长会带我们继续伸张正义，对吧~"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_peggi_obeyfull_001.aac",
+            "text": "总有一天我们也会分别吧，自由的怪盗可不会永远留在谁的身边……诶，伤心了？好啦好啦我不走，多陪你一会儿。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_peggi_idle_001.aac",
+            "text": "这根钢管质量还挺不错的……要是无聊的话，我给你跳个舞怎么样？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_peggi_clicking_001.aac",
+            "text": "啊——局长，你再捣乱，我就要……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_peggi_specialattention_001.aac",
+            "text": "怪盗可是会随时消失的哦。所以，你要好好看着我，不要眨眼~"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_peggi_dispatch_001.aac",
+            "text": "放我出去的话……你确定还能抓得回来吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_peggi_dispatch2_001.aac",
+            "text": "唔，那儿也没什么值钱的东西……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_peggi_levelup_002.aac",
+            "text": "我的行李箱，能装下整个世界！"
+        }
+    ],
+    "night_of_petals": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_peggi_wuyeguiyu_cacha_001.aac",
+            "text": "预告函回收~怎么样，满意我为你降下的这场玫瑰之雨吗？……嘻嘻，既然喜欢，那么你的这颗心，我就不客气地收下咯~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_peggi_wuyeguiyu_levelup_001.aac",
+            "text": "偷心作战成功~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_peggi_wuyeguiyu_greeting_001.aac",
+            "text": "嘘——别出声~你也不想招来无关紧要的人打扰我们吧~来~这朵玫瑰就送给你~"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_peggi_wuyeguiyu_talk1_001.aac",
+            "text": "面具是怪盗的乔装，绝不会轻易摘下。不过呢，既然你已经看见了我的真面目，那我也不能就这样随便放你走了~"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_peggi_wuyeguiyu_talk1_002.aac",
+            "text": "从宴会上逃走的，不只有丢了水晶鞋的公主，还有满载而归的偷心怪盗~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_peggi_wuyeguiyu_idle_001.aac",
+            "text": "真是无聊……一片花瓣……两片花瓣……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_peggi_wuyeguiyu_clicking_001.aac",
+            "text": "哎呀，别乱动呀，嗯？你说你要找我的破绽？哼……怎么像那只臭狐狸一样！反正我的变装是完美的~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_peggi_wuyeguiyu_specialattention_001.aac",
+            "text": "不用惊讶~怪盗为了想要的宝物，也是会自投罗网的哦~"
+        }
+    ],
+    "private_mischief": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_peggi_luanshijiaren_cacha_001.aac",
+            "text": "嗨，局长，要和我开一场睡衣派对吗？主题么，我想想……“怪盗收藏交流夜”怎么样！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_peggi_luanshijiaren_levelup_002.aac",
+            "text": "漂亮小东西越来越多，家里都要放不下啦~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_peggi_luanshijiaren_greeting_001.aac",
+            "text": "终于来啦？快，过来看看我珍藏的宝贝们~有喜欢的，送给你也可以呀~"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_peggi_luanshijiaren_head_001.aac",
+            "text": "我知道这对兔耳毛茸茸的手感很好，但你是不是摸得太过分了！哼，身为怪盗可不能在这里失手……看招！让我摸摸你的耳朵！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_peggi_luanshijiaren_talk1_001.aac",
+            "text": "我房间哪里乱啦，就是摆件有些多……你瞧，它们多么别致，多么可爱~"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_peggi_luanshijiaren_talk1_002.aac",
+            "text": "贵重？它们倒也说不上有多贵重吧，在我的怪盗生涯里，比这更漂亮更昂贵的珠宝我都见得多啦~我留下它们，只是看它们长得可爱而已~"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_peggi_luanshijiaren_hand_001.aac",
+            "text": "嗯，你也想吃糖吗？嘻嘻，草莓味儿的确很甜……但可惜，这是最后一支了~真想要的话，试试从怪盗手里偷走它，如何？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_peggi_luanshijiaren_leg_001.aac",
+            "text": "看你哈欠连天的，这就困了？算啦……那我这儿就借你眯一会儿吧~嗯？怎么又突然不困了？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_peggi_luanshijiaren_idle_001.aac",
+            "text": "嘿，别走神，夜晚……还长着呢~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_peggi_luanshijiaren_specialattention_001.aac",
+            "text": "来pick一下你心中这房间里最可爱的第一名吧！看你目不转睛的样子……难道是， 我？"
+        }
+    ]
+}

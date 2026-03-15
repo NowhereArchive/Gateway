@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_thistle_cacha_001.aac",
+            "text": "我们好不容易才护住花园，又被你这家伙搞得天翻地覆！你、你拿什么赔我！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_thistle_promotion_001.aac",
+            "text": "这样……我就可以不拖大家后腿了。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_thistle_promotion2_001.aac",
+            "text": "花园，由我来保护！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_thistle_battlebegin_001.aac",
+            "text": "好了好了，这次肯定不绕路了。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_thistle_battlewin_001.aac",
+            "text": "这么一来，业师也会为我骄傲的吧。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_thistle_battlelose_001.aac",
+            "text": "又给花园丢脸了……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_thistle_uniqueskill_001.aac",
+            "text": "燃尽于此！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_thistle_dead_001.aac",
+            "text": "带我……回花园……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_thistle_greeting_001.aac",
+            "text": "你来啦，找业师吗？……找我？我、我可没什么能帮上你的。当然，你要是不怕我搞砸，我也可以试着帮忙。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_thistle_talk1_001.aac",
+            "text": "别以为你骗到了业师的信任，就能让我们都对你俯首帖耳！我在盯着你呢，做事小心点！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_thistle_talk1_002.aac",
+            "text": "哼，原来MBCC的局长上了一天班，也就吃个连生菜都不加的三明治？饮食不规律外带营养不均衡，怪不得只剩一把骨头。……你在感动什么？难道以为我在关心你吗？啊？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_thistle_talk1_003.aac",
+            "text": "业师说，没有一朵花是生来就该被弯折蹂躏的。但总有人只是因为自己上不得台面的贪欲，就肆意践踏毁坏别人的生活……这些人，活该尝尝烈火焚烧的滋味。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_thistle_talk2_001.aac",
+            "text": "下次再碰到去商店街的任务，记得早点出发。娃娃机？不是，娃娃机上新还要很久。我是想说你出任务老被那些街溜子看不起，可以多去买点带铆钉的挂上。实测有用，信我。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_thistle_talk2_002.aac",
+            "text": "这一页的边框很漂亮？是我妈妈设计的。她说手账里只能写好的东西，坏的都留给风去磨灭……业师离开后，我看什么都是灰色，还以为自己已经失去了再写手账的机会。好在，她又把颜色带回了我身边。……啊，还有你，你也是把颜色带回给我的功臣，行了吧！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_thistle_talk2_003.aac",
+            "text": "成天对着终端和文件，你不累吗？抽点时间出来喘口气吧。不知道该做什么？去街上逛逛也行啊，我就经常这么干。看看花树摇摆，人流交错，店铺喧闹……那才叫过日子呢。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_thistle_obeyfull_001.aac",
+            "text": "我们一直在找能让花园安心的归宿，没想到最后会在这里……咳！我是想说，既然花园都整个搬到这儿来了，那我保护花园和业师的时候，也可以顺带保护一下你。反、反正保护好你，业师也会开心……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_thistle_idle_001.aac",
+            "text": "总算睡了……真是的，这家伙怎么跟业师一模一样，怎么劝都不听、不休息。至少停下来看看我们吧……可有好多人，在担心你呢……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_thistle_clicking_001.aac",
+            "text": "哈~？你居然想摘带刺的花？那就做好把手留下来的准备吧！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_thistle_specialattention_001.aac",
+            "text": "看什么看？是我看起来好欺负吗？再看、再看小心你的眼珠子！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_thistle_dispatch_001.aac",
+            "text": "出门跑腿？可以。我在花园练过，不会出问题的！"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_thistle_dispatch2_001.aac",
+            "text": "你要的东西。……应、应该没错吧？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_thistle_levelup_002.aac",
+            "text": "挥刀百遍，其义自见。"
+        }
+    ],
+    "oneiric_flexagon": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_thistle_huaxintianmeng_cacha_001.aac",
+            "text": "哼，想不到吧，你的神秘礼物是自带花园的精灵娃娃！哎！等等！你那是什么眼神啊！你包装都拆了这么久，早就不能退了，给我好好收下！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_thistle_huaxintianmeng_levelup_001.aac",
+            "text": "又有小纸鹤带信来了！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_thistle_huaxintianmeng_greeting_001.aac",
+            "text": "花园里……开满花……快快长……齐天高……嗯……这样，这样就能飞到天上去啦……"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_thistle_huaxintianmeng_body_001.aac",
+            "text": "初次见面？哼，跟你这种把别人塞进书橱里就不管了的大忙人不一样，我可是天天看着你呢！你什么时候会忘关窗，什么时候懒得叠被子，这些糗事我都知道！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_thistle_huaxintianmeng_body_002.aac",
+            "text": "哎、哎呀，你也是有优点的！比如……嗯……比如……哦对，比起那些一天要给娃娃换七八次衣服拍完照就乱放的巨人，你已经好很多了！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_thistle_huaxintianmeng_idle_001.aac",
+            "text": "……耐寒，怕热，喜沙壤土……这本书真好，不仅有折纸花看，还把种法写得这么清楚！感觉……我是不是也能好好地培育那些刚种下的花儿了呢？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_thistle_huaxintianmeng_clicking_001.aac",
+            "text": "倒是知道只用一根手指头碰我，还挺温柔的……嗯，你确实是不错的巨人！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_thistle_huaxintianmeng_specialattention_001.aac",
+            "text": "干、干嘛这样看着我？你该不会想玩换装游戏了吧？"
+        }
+    ]
+}

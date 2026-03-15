@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_corso_cacha_001.aac",
+            "text": "ははっ、アタシを鎖で繋ぐとは、お前やるじゃねぇか……なかなか新鮮な挑戦状だ。受け取ってやるぜ！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_corso_promotion_001.aac",
+            "text": "はっ！狂犬にバラバラにされんのを待ってな！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_corso_promotion2_001.aac",
+            "text": "今、アタシは頂点に立ち、全人類からの挑戦を待ってるぜ！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_corso_battlebegin_001.aac",
+            "text": "来い、決闘だ！"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_corso_battlewin_001.aac",
+            "text": "ああ……そうだ！跪け！命乞いしろ！それでいい！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_corso_battlelose_001.aac",
+            "text": "調子乗ってんじゃねぇぞ……次は勝ってやるからよ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_corso_uniqueskill_001.aac",
+            "text": "アタシの「デカブツ」を喰らいやがれ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_corso_dead_001.aac",
+            "text": "はっ……剣闘士が死ぬなら……戦場だろ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_corso_greeting_001.aac",
+            "text": "一勝負しようぜ！アンタが勝てば、スムーズに執務室まで行かせてやってもいいぞ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_corso_talk1_001.aac",
+            "text": "戦場で必死になる理由だと？ははっ、んなもんあるか。勝つのが好きなだけだ！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_corso_talk1_002.aac",
+            "text": "弱肉強食？はっ！馬鹿力なんざ意味ねぇぞ！戦いってのは、頭でやんだよ！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_corso_talk1_003.aac",
+            "text": "「シンジケート精神」だと？「勝てば官軍」ってのがシンジケート精神だろうが！バカは勝つための方法を気にしやがるが、アタシは結果しか見ねぇよ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_corso_talk2_001.aac",
+            "text": "ああ……お前は賢い。脳味噌筋肉だらけのバカ共より、よっぽどおもしれぇよ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_corso_talk2_002.aac",
+            "text": "昔アタシの取り巻きやってた連中は、肉の匂いに釣られた犬みてぇだったな。だからアタシも、犬みてぇにあしらってやったぜ……おい、顔しかめてんじゃねぇ。お前までそんな扱いするわけねぇだろ！"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_corso_talk2_003.aac",
+            "text": "闘技場じゃ、どいつもこいつもアタシを狂犬みてぇに見やがった。で、アタシを死ぬほど怖がってたぜ。でも、お前がアタシを見る目は気に入った……あいつらとは、ちげぇからよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_corso_obeyfull_001.aac",
+            "text": "アタシは常に自分のために戦ってる。だが、お前は頭がいいな。アタシを「束縛」したんだからよ。つまり……アタシの力が、お前に勝利をくれてやるってことだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_corso_idle_001.aac",
+            "text": "おい、こっちで一勝負しようぜ。骨が錆びてきちまう！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_corso_clicking_001.aac",
+            "text": "チッ、お前も釘の威力を味わいてぇのか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_corso_specialattention_001.aac",
+            "text": "何見てんだ。喧嘩してぇのか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_corso_dispatch_001.aac",
+            "text": "どこで喧嘩すんだ？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_corso_dispatch2_001.aac",
+            "text": "ほらよ、今日の戦利品だ。ああ、まだまだ物足りねぇな！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_corso_levelup_002.aac",
+            "text": "こんな感じで戦え、戦い続けろ！"
+        }
+    ],
+    "suit-up_outlaw": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_cacha_001.aac",
+            "text": "剣闘士を番犬として連れ出すとは、なかなか度胸あるじゃねぇか。噛み付いてほしくない人にアタシが噛み付かねぇよう……リードはしっかり持つんだな。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_levelup_002.aac",
+            "text": "まだ足りねぇ。もっと礼儀のなってねぇ奴らを見つけて殴らせろ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_greeting_001.aac",
+            "text": "おい、ここには派手な弱虫しかいねぇが、こいつら殴ってマジでスカッとすんのか？もしそうならなかったら、戻ってお前が埋め合わせしろよ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_body_001.aac",
+            "text": "この服は着心地わりぃし、あんまり物も持ち歩けねぇ……死を恐れる金持ちってのは、ある程度頭が働くんだな。だが、こんなことじゃ止められねぇぞ——アタシはまだダイヤモンドを砂として使ったことがねぇんだ。金持ちの装飾品が道具として利用する価値があるかどうか、見せてもらおうじゃねぇか！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_body_002.aac",
+            "text": "おい見ろ。あそこの男、妙な匂いを放ってやがる。多分、毒を盛りに来たんじゃねぇか。で、あそこにいる奴は先手を打ってお前を殺すつもりだったが、共犯者が同意しなかった……何で分かったかって？はっ、バカ言うな。犬の鼻と耳を当てにしてアタシを連れて来たんだろ？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_idle_001.aac",
+            "text": "逃げるならこの道が一番近いが、邪魔してる奴がいるな。向こうの道は、前に障害物がある……チッ、喧嘩が始まる前に逃げ道を考えるとは、こんなに情けねぇのは初めてだぜ……今回は特別だ。次は絶対付き合わねぇぞ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_clicking_001.aac",
+            "text": "おいおい、首輪緩めるだけで何慌ててやがる？そこの木偶の棒！てめぇは今どっちの手でアタシのボスに触りやがった？もう手はいらねぇってか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_specialattention_001.aac",
+            "text": "そんなに監視すんなって。逃げたり迷惑かけたりしねぇから。だいたいリードはずっとお前の手にあるってのに、何を心配してんだ？"
+        }
+    ]
+}

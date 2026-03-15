@@ -1,0 +1,163 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_hitomi_cacha_001.aac",
+            "text": "我是瞳。今后我们同心协力吧！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_hitomi_promotion_001.aac",
+            "text": "还早着呢！接下来才是开始！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_hitomi_promotion2_001.aac",
+            "text": "状态很好！这次一定会成功的！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_hitomi_battlebegin_001.aac",
+            "text": "要小心点前进哦！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_hitomi_battlewin_001.aac",
+            "text": "我们难道不是最强的团队吗？"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_hitomi_battlelose_001.aac",
+            "text": "不能就这样结束。下一次，一定成功！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_hitomi_uniqueskill_001.aac",
+            "text": "来吧，你能跟上吗？"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_hitomi_dead_001.aac",
+            "text": "大家……对不起……。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hitomi_greeting_001.aac",
+            "text": "状态不错！感官好像更敏锐了。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_hitomi_talk1_001.aac",
+            "text": "看你精神很好呢。是不是发生了什么好事？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_hitomi_talk1_002.aac",
+            "text": "我们难道不是最强的团队吗？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_hitomi_talk1_003.aac",
+            "text": "交给我吧。我会好好完成的！"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_hitomi_talk2_001.aac",
+            "text": "是不是已经有点默契了呢？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_hitomi_talk2_002.aac",
+            "text": "和你在一起，不会觉得无聊。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_hitomi_talk2_003.aac",
+            "text": "要小心点前进哦！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_hitomi_obeyfull_001.aac",
+            "text": "现在能稍微信任我一点了吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hitomi_idle_001.aac",
+            "text": "一直等着也挺无聊的呢。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hitomi_clicking_001.aac",
+            "text": "真是的！你可真缠人！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hitomi_specialattention_001.aac",
+            "text": "谢谢你。我会回应你的期待的。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hitomi_dispatch_001.aac",
+            "text": "交给我吧。我会好好完成的！"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_hitomi_dispatch2_001.aac",
+            "text": "我回来了！有回应上你的期待吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hitomi_levelup_002.aac",
+            "text": "状态不错！感官好像更敏锐了。"
+        }
+    ],
+    "kisugi_hitomi_-_rank_up": [
+        {
+            "title": "摸头",
+            "filename": "File:vo_hitomi_head_001.aac",
+            "text": "怎么了？有事想拜托我吗？"
+        }
+    ],
+    "neon_raindrops": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hitomi_yumunihong_cacha_001.aac",
+            "text": "适合我吗？别不出声，说点什么吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hitomi_yumunihong_levelup_001.aac",
+            "text": "相信我的力量吧。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hitomi_yumunihong_greeting_001.aac",
+            "text": "我等你很久了。今天该做些什么呢？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hitomi_yumunihong_talk_001.aac",
+            "text": "哇……看啊，好漂亮……。让我想起以前和爸爸一起看的风景。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hitomi_yumunihong_talk_002.aac",
+            "text": "喂，听我说！其实发生了很棒的事情！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hitomi_yumunihong_idle_001.aac",
+            "text": "哼，忙得连我都顾不上啊。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hitomi_yumunihong_clicking_001.aac",
+            "text": "真是的……又在逗我吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hitomi_yumunihong_specialattention_001.aac",
+            "text": "……谢谢。不过有点害羞呢。"
+        }
+    ]
+}

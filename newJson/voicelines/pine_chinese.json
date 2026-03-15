@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_pine_cacha_001.aac",
+            "text": "哼，我就知道迟早有一天会落在你们这些人手里，你跟那群老狐狸都是一丘之貉吧！不过这种能够深入探访的机会倒是难得……也好，你就等着我把这里见不得人的肮脏内幕通通曝光出去吧！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_pine_promotion_001.aac",
+            "text": "谢了，正好可以用来给我的发射器补一批弹药。这些都是消耗品，很难回收。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_pine_promotion2_001.aac",
+            "text": "控制世界经济的背后真相、操纵大选的隐形手段、见不得人的钱权勾结……在刺探者之眼的注视下，一切没人敢说的真相，都会呈现在你面前，怎么样，你敢看吗？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_pine_battlebegin_001.aac",
+            "text": "帽子压低，注意隐蔽。开工。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_pine_battlewin_001.aac",
+            "text": "怎么没声了？你们之前不是很会说的吗？"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_pine_battlelose_001.aac",
+            "text": "……啧，被发现了，先撤。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_pine_uniqueskill_001.aac",
+            "text": "刺探者之眼会洞悉一切！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_pine_dead_001.aac",
+            "text": "再见，这个浑浊的世界……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pine_greeting_001.aac",
+            "text": "又见面了局长，今天都要去见些什么大人物？回来之后记得给我分享点内幕消息啊。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_pine_talk1_001.aac",
+            "text": "最烦那些问我到底站哪边的人，两头都是些烂得半斤八两各有特点的货色……还不如问问他们打算什么时候同归于尽，那才是真正爆炸的新闻。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_pine_talk1_002.aac",
+            "text": "出门在外，身份都是自己给的，记者证、律师证、咨询师证、厨师证，需要哪张拿哪张，还有摄像头录音笔宣传单……呵，别找了，我身上那么多口袋，只有我清楚他们分别都有什么用。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_pine_talk1_003.aac",
+            "text": "又封号？呵，不是自己说的“欢迎批评建议”吗？搞半天还是只听得进好话，真没劲……算了，反正我号多得很，一个没了换另一个继续就是，看你们还能追着我咬多久。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_pine_talk2_001.aac",
+            "text": "我的频道logo当然是我自己设计的，当初做过好几版，最后选了这个驮着摄像头的刺猬……在这个混沌的世界里，只有把尖刺露在外面，才能做你想做的，说你想说的。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_pine_talk2_002.aac",
+            "text": "有人说我胡编乱造？笑话，那他们倒是拿出证据来证明我错了啊！会觉得这些阴谋离谱，是因为这些人根本就没有见过城市的阴暗面。在那种地方偷鸡摸狗才是常态，只是他们自己不敢承认罢了。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_pine_talk2_003.aac",
+            "text": "我没生气，只是脸天生长得臭而已。这样其实挺好，可以把那些讨厌的家伙吓走，避免一些麻烦……可你好像从第一次见我开始，就没有“知难而退”的觉悟……呵，当然，我也不觉得你讨厌。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_pine_obeyfull_001.aac",
+            "text": "过去的我一直坚信，无论是新城政坛还是这个被他们操纵着的世界，都已经彻彻底底烂透了、没救了。既然如此，不如由我来把最阴暗的东西揭开，大家一起完蛋……但后来，我的镜头捕捉到了你，你的真实让我产生了动摇……那么，你会让……至少让我的世界变好一些吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pine_idle_001.aac",
+            "text": "哈，真是开了眼了，现在猴子也能上网了？先把这些大人物的脸和名字对上了，再来我这发癫吧。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pine_clicking_001.aac",
+            "text": "明知刺猬浑身是刺你还非要一个劲的上手来薅，你是真不怕扎啊。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pine_specialattention_001.aac",
+            "text": "不用躲了，我知道你在看我。你可能天生不适合我们这行，你的视线太容易被注意到了……还是说……是我太关注你了？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_pine_dispatch_001.aac",
+            "text": "取材去了。这回带了三张内存卡，应该够用。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_pine_dispatch2_001.aac",
+            "text": "果然挖到好东西了……你猜等我把爆料发出去以后，那些家伙还笑得出来吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pine_levelup_002.aac",
+            "text": "爆料收到。"
+        }
+    ]
+}

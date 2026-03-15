@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_ll_cacha_001.aac",
+            "text": "你这里不见天日的，也太沉闷了吧？不如大家和我一起把身上的负担全扔掉，学学动物们，什么都不穿，什么都不想，尽情玩个痛快吧！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_ll_promotion_001.aac",
+            "text": "我希望我们的关系可以再牢固一点~"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_ll_promotion2_001.aac",
+            "text": "静静地睡着，静静地沉入海里……来唤醒这场虚幻美梦的会是谁呢？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_ll_battlebegin_001.aac",
+            "text": "你们是来取悦我的吗？那太好啦！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_ll_battlewin_001.aac",
+            "text": "真可怜哦，手手脚脚断这断那的，都变成一滩烂泥了……"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_ll_battlelose_001.aac",
+            "text": "居然在我的岛上胡作非为！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_ll_uniqueskill_001.aac",
+            "text": "尽情释放！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_ll_dead_001.aac",
+            "text": "再见了，属于我的一切……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_ll_greeting_001.aac",
+            "text": "我喜欢你绑在我身上的红线，只要我拉着它，就能带你去属于我们的极乐之地。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_ll_talk1_001.aac",
+            "text": "在极乐岛，不管你想腻歪黏糊、大吃大喝，还是无所事事、到处打架，都可以！随你心意！这里的一切都不受限制，唯一重要的就是大家开心！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_ll_talk1_002.aac",
+            "text": "外面有什么好的？有我这儿自由吗？有我这儿快乐吗？这里有这么多朋友陪着我，一点都不孤单，我才不想去外面呢，你也是，给我留下来。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_ll_talk1_003.aac",
+            "text": "如果你在海底睁开眼睛，就会发现……算了，没有人敢这么做的。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_ll_talk2_001.aac",
+            "text": "那些笨蛋，就算和我一起沉入海底玩得很开心，只要有人在岸上呼唤一声他们的名字，他们就会拼了命的往上游，直到回到岸上，然后留下我一个人在原地……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_ll_talk2_002.aac",
+            "text": "天和海都是没有边界的吧……可是为什么在极乐岛上，我能在天边海角摸到看不见的墙呢？是我的朋友还不够多吗？嗯，一定是！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_ll_talk2_003.aac",
+            "text": "和我一起潜入水里吧，就这么被水拥抱，融入其中，听我心跳，跟我融为一体……"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_ll_obeyfull_001.aac",
+            "text": "没有诱饵，没有铁钩，但你成功地钓起了一条漂亮的小鱼。她很开心，因为她现在不仅拥有了水中的世界，还拥有了一个微笑，一个怀抱，一个与她连接着的人。牵着我的手，和我一起去看日出吧！我不会变成泡沫，也不会沉入海底，我会一直都在。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_ll_idle_001.aac",
+            "text": "“反抗和战斗都有意义。”“……这一次，换我保护你们”……你的数据可真有意思，就让我收藏一下吧~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_ll_clicking_001.aac",
+            "text": "嗯~怎么不再按得用力一点？试试嘛？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_ll_specialattention_001.aac",
+            "text": "你真的好喜欢我哦！那就这样一直看着我，好不好？"
+        },
+        {
+            "title": "它们的不幸，终于结束了。",
+            "filename": "File:vo_ll_dispatch_001.aac",
+            "text": "派小瑶去就可以啦！寻岛任务还是它比较擅长~"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_ll_dispatch2_001.aac",
+            "text": "小瑶回来了！还给你也带了礼物！嗯，看样子它和我一样喜欢你~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_ll_levelup_002.aac",
+            "text": "我喜欢你这样对我，再多来点！"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_ll_head_001.aac",
+            "text": "悄悄告诉你，我早就把你囚禁在我的脑海里啦~"
+        }
+    ],
+    "astral_rhapsody": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_LL_wanlaiqingyin_cacha_001.aac",
+            "text": "被我的歌唱吸引，因我的声音驻足，然后……随我一起，永远地停留在这里，再也不要回去。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_LL_wanlaiqingyin_levelup_001.aac",
+            "text": "我的歌声，原来可以传达到更远的地方呀！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_LL_wanlaiqingyin_greeting_001.aac",
+            "text": "麦克风，音响，test，te——既然来了，你的目光就只能落在我的身上。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_LL_wanlaiqingyin_head_001.aac",
+            "text": "嘿嘿……怎么，想要跟我贴面合唱，把我们的声音传播到宇宙尽头吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_LL_wanlaiqingyin_body_001.aac",
+            "text": "快来，我给了你这里的最高权限，我们一起大叫、扮鬼脸、唱跑调，在这片无人之境拥抱，不光彩也好不体面也好，总之能做一切你想做的事！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_LL_wanlaiqingyin_body_002.aac",
+            "text": "时间不重要，黑暗也不可怕，只要你想，只要你能永远留在我身边，我就会一直一直，站在这里，为你歌唱。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_LL_wanlaiqingyin_ear_001.aac",
+            "text": "嗯……耳膜震动，美妙的歌声自双耳流入脑内，撩拨着意识，共鸣着灵魂……在这精神享受中诞生出的愉悦又会顺着脊骨蔓延各处……嘻嘻……这样的感觉，只要体验过一次，就会想要更多，对吗？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_LL_wanlaiqingyin_microphone_001.aac",
+            "text": "其实，这支麦克风可以连接到管理局的广播线路，也就是说，我们在这里所做的一切都会被整个管理局听到哦！……好吧好吧，我就知道这种程度的玩笑吓不到你……不对，我知道了，一定是你太了解我，才会知道我在开玩笑！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_LL_wanlaiqingyin_idle_001.aac",
+            "text": "……没关系，哪怕只有你会为了我而停留……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_LL_wanlaiqingyin_specialattention_001.aac",
+            "text": "你想要就直说呀，直接告诉我：想试试我的歌声和你的心跳，能不能共鸣出同样的节奏？"
+        }
+    ]
+}

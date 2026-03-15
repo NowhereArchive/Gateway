@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_dimeng_cacha_001.aac",
+            "text": "我不是第一次被关进这种地方……来吧，这次要如何拷问我？那些蛆虫又给我安排了什么罪名？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_dimeng_promotion_001.aac",
+            "text": "代价早已偿清，这是我应得的力量。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_dimeng_promotion2_001.aac",
+            "text": "是时候了，我必须兑现承诺。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_dimeng_battlebegin_001.aac",
+            "text": "行动开始，全员警戒。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_dimeng_battlewin_001.aac",
+            "text": "敌对目标清除，行动继续，不要放松警惕。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_dimeng_battlelose_001.aac",
+            "text": "哈哈…我果然还是什么都没能守住…"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_dimeng_uniqueskill_001.aac",
+            "text": "休想跨过我！！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_dimeng_dead_001.aac",
+            "text": "我……辜负了你……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_dimeng_greeting_001.aac",
+            "text": "死役、暴徒和阴谋家还在这座城市中横行无忌……你，该行动了。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_dimeng_talk1_001.aac",
+            "text": "蛆虫渗透了这座城市，把所有人玩弄于股掌。我，要它们死。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_dimeng_talk1_002.aac",
+            "text": "不要轻视蛰伏在这座城市之下的黑暗。这是我用曾经的一切换来的教训。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_dimeng_talk1_003.aac",
+            "text": "我本该和其他辛迪加人一样死在街头。但亚伯带我离开了那里。现在看来，这也许是个错误……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_dimeng_talk2_001.aac",
+            "text": "八年了，狄斯城还是这副样子。亚伯，连同他的梦想，已经被人忘得一干二净。有时候我会怀疑，他们究竟能记住什么？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_dimeng_talk2_002.aac",
+            "text": "亲手杀死自己的……父亲、多年的下属，葬送珍视的一切……你问那是种什么感觉？哈哈哈，你不会喜欢的。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_dimeng_talk2_003.aac",
+            "text": "和你并肩作战，或许是我这辈子，唯一一个没做错的选择。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_dimeng_obeyfull_001.aac",
+            "text": "那些我能称之为朋友的人，都已经不在了。你……活久一点，不要死在我前面。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_dimeng_idle_001.aac",
+            "text": "亚伯，薇拉……我不会让你们失望的……不再会了……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_dimeng_clicking_001.aac",
+            "text": "碳化钨装甲的确很好用。你喜欢的话，不妨自己也找一套穿上。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_dimeng_specialattention_001.aac",
+            "text": "你这是要监视我？还是说……希望有人来保护你的安全？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_dimeng_dispatch_001.aac",
+            "text": "任务收到，正在制定作战计划。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_dimeng_dispatch2_001.aac",
+            "text": "任务完成，作战报告已提交。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_dimeng_levelup_002.aac",
+            "text": "我还能承受更多。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_dimeng_head_001.aac",
+            "text": "我……不喜欢这样。"
+        }
+    ],
+    "under_the_neon_lights": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_dimeng_nihongzhixia_cacha_001.aac",
+            "text": "我们还要在这里待多久？“需要等待答复？”唉，好吧……要是有紧急情况的话，你可以对我下达任何命令。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_dimeng_nihongzhixia_levelup_001.aac",
+            "text": "我不需要太显眼。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_dimeng_nihongzhixia_greeting_001.aac",
+            "text": "该行动了，这样的玩乐会让人迷失，我不希望你也沉溺于此。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_dimeng_nihongzhixia_talk_001.aac",
+            "text": "“最肮脏的地方，有最珍贵的情报。”在这一点上，我与你的意见一致。但……我还要一些时间，去适应这刺眼的霓虹灯光。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_dimeng_nihongzhixia_talk_002.aac",
+            "text": "并肩作战么？不过这里空间狭小，万一有特别情况的话，还是交给我来处理。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_dimeng_nihongzhixia_idle_001.aac",
+            "text": "……你们不要随意靠近，我在等我的……同伴回来。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_dimeng_nihongzhixia_clicking_001.aac",
+            "text": "……我们还在执行任务，不要做这种多余的动作。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_dimeng_nihongzhixia_specialattention_001.aac",
+            "text": "我会保护你安然无恙地完成任务，所以希望你不要畏首畏尾，浪费太多时间。"
+        }
+    ]
+}

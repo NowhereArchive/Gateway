@@ -1,0 +1,255 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_snake_cacha_001.aac",
+            "text": "나를 집에 데려가려고? 후후후~ 날 펫으로 삼으면 끝이 안 좋을 텐데~"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_snake_promotion_001.aac",
+            "text": "음… 왠지 우로보로스가 떠오르는걸."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_snake_promotion2_001.aac",
+            "text": "널 칭칭 감아버릴 거야~"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_snake_battlebegin_001.aac",
+            "text": "사냥감 포착! 쉬이익~"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_snake_battlewin_001.aac",
+            "text": "내가 아직 살아있다는 사실을 느끼게 해줘서, 고마워."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_snake_battlelose_001.aac",
+            "text": "하하… 고통은 어쩐지 안심이 돼."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_snake_uniqueskill_001.aac",
+            "text": "이곳에서 잠드는 것을 감사하게 생각할 거야."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_snake_dead_001.aac",
+            "text": "난… 즐거웠던가?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_snake_greeting_001.aac",
+            "text": "어, 무슨 일이야. 또 날 보러 온 거야~?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_snake_talk1_001.aac",
+            "text": "난 사람은 아니지만, 그렇다고 괴물도 아니야. 음… 아마도 난 한 마리의 독사인 것 같아."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_snake_talk1_002.aac",
+            "text": "내가 내 혀를 깨물어도 중독이 되냐고…? 너 되게 재미있네, 머리에 뱀독이라도 오른 거야?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_snake_talk1_003.aac",
+            "text": "모두에겐 즐거워질 권리가 있어. 그걸 방해하는 자는 지옥에 떨어질 거야."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_snake_talk2_001.aac",
+            "text": "난 뱀을 싫어하는 사람이 있는 것도 이해해. 그러니 내가 일부 사람들을 싫어하는 것도 이해해줄 수 있겠지?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_snake_talk2_002.aac",
+            "text": "고통은 즐거움을 파멸시키는 원흉이지만, 그와 동시에 세계가 되살아나는 징조이기도 해. 네 생각은 어때?"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_snake_talk2_003.aac",
+            "text": "네가 즐거워하는 모습을 보는 게 좋아. 만약 그게 나로 인해 즐거운 거라면 더더욱 좋겠지."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_snake_obeyfull_001.aac",
+            "text": "나 좀 안아줄래? 네 체온은 따스한 봄날 같거든. 만물이 잠에서 깨어나, 새로이 탄생하는 계절 말이야… 우리 둘의 심장이 함께 뛰고 있는 게 느껴져."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_snake_idle_001.aac",
+            "text": "조용하네… 마치 세상의 종말 같아. 푹 잘 수 있을 것 같네."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_snake_clicking_001.aac",
+            "text": "음… 나한테 물리고 싶은 거야?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_snake_specialattention_001.aac",
+            "text": "괴물 무리 속에서 단 한 명의 괴물만 바라보고 있다니, 그야말로 사막에서 바늘 찾기 수준인데. 집중력이 꽤 좋구나?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_snake_dispatch_001.aac",
+            "text": "이렇게 해서 네가 즐거워진다면 기꺼이~"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_snake_dispatch2_001.aac",
+            "text": "이번 공연, 만족해?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_snake_levelup_002.aac",
+            "text": "즐거운 시간이길 바래~"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_snake_head_001.aac",
+            "text": "용사는 사악한 뱀의 정수리를 꿰뚫었지. 정수리가 어디인 줄 알아? 네가 방금 쓰다듬은 곳이야."
+        }
+    ],
+    "awake_from_slumber": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_snake_hanmianchuxing_cacha_001.aac",
+            "text": "엄청 긴 꿈을 꿨어. 행복을 좇아… 다시 태어나는 꿈이었어."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_snake_hanmianchuxing_levelup_002.aac",
+            "text": "음… 좀 더 잘래…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_snake_hanmianchuxing_greeting_001.aac",
+            "text": "으으… 봄이야? 곧 일어날게… 곧… 2분만 더 줘…"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_snake_hanmianchuxing_head_001.aac",
+            "text": "당신 손은… 여전히 따뜻하네…"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_snake_hanmianchuxing_body_001.aac",
+            "text": "이불이 너무 따뜻해… 국장이 함께해주면… 더 행복할 텐데…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_snake_hanmianchuxing_body_002.aac",
+            "text": "행복한 기념일에 내가 빠지면 안 되지… 다만, 시간을 조금만 더 줘…"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_snake_hanmianchuxing_hand_001.aac",
+            "text": "그 누구도 나와 이불을… 나와 국장을…떨어뜨려 놓을 수 없어… 히히… 후… 후…"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_snake_hanmianchuxing_leg_001.aac",
+            "text": "음… 대청소하려고? 그렇지만 여기는 엄청 깨끗하… 진 않네. 좀 도와줄래?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_snake_hanmianchuxing_idle_001.aac",
+            "text": "아… 창밖의 폭죽 소리 때문에… 잘 수가 없네…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_snake_hanmianchuxing_specialattention_001.aac",
+            "text": "아이참, 금방 다 입을 거야! 또 재촉하면… 확 물어버린다!"
+        }
+    ],
+    "source_of_happiness": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_snake_kuailezhiyuan_cacha_001.aac",
+            "text": "국장, 이곳에는 음식 말고도 사람에게 영원한 즐거움을 줄 수 있는 음료를 판다고 해! 진짜야?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_snake_kuailezhiyuan_levelup_001.aac",
+            "text": "음… 역시 명불허전이네…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_snake_kuailezhiyuan_greeting_001.aac",
+            "text": "국장, 내가 2인분 세트를 시켰어, 어서 와서 나랑 즐거운 시간을 보내자고~"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_snake_kuailezhiyuan_talk_001.aac",
+            "text": "회사에 있을 때는 항상 내 식단을 컨트롤하라는 요구를 받았어, 저녁에 쿠키 한 개 먹는 게 다인 날이 많았지… 오늘 같은 체험은, 아마 머프가 만든 환상적인 꿈에서만 존재할걸."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_snake_kuailezhiyuan_talk_002.aac",
+            "text": "음료에 얼음을 넣는 행위는, 정말 천재적인 발상이야! 특히 날씨가 엄청 더울 때! 한 입을 먹게 되면… 아……차갑고 시원하고, 정말 마음이 놓여지는 느낌이야…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_snake_kuailezhiyuan_idle_001.aac",
+            "text": "어라, 내 즐거움은… 왜 이렇게 빨리 없어졌지… 역시. 디스시티가 아니라도 즐거움은 이렇게 짧은 건가…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_snake_kuailezhiyuan_clicking_001.aac",
+            "text": "왜 그래? 내 손 안의 이 잔을 원하는 거야?… 후훗~ 당연하지, 나는 국장에게 즐거움을 나눠주는 것에 대해 거리낌 업어~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_snake_kuailezhiyuan_specialattention_001.aac",
+            "text": "이곳에 이미 온 이상, 이유를 알아차리기 전에, 즐거운 시간을 만끽하자고, 안 그래, 국장?"
+        }
+    ],
+    "elixir_of_euphoria": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_snake_mizhimoyao_cacha_001.aac",
+            "text": "드디어 내 가게가 명성을 얻게 되었군, 미노스의 국장마저 쾌락을 가져다주는 포션을 얻기 위해 직접 찾아오다니!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_snake_mizhimoyao_levelup_001.aac",
+            "text": "음… 품질이 좋은데?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_snake_mizhimoyao_greeting_001.aac",
+            "text": "또 왔어? 국장~ 내 장사를 이렇게나 챙겨주다니, 이럴 거면 그냥… 내 가게에서 지내는 건 어때?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_snake_mizhimoyao_talk_001.aac",
+            "text": "어머, 다크서클이 더 심해진 것 같은데? '태만의 포션'을 써보는 건 어때? 이걸 마시면 고무 오리나 멍한 표정의 인형으로 변할 수 있을 거야… 싫다고? 어째서? 이건 분명 휴가를 내고 같이 놀… 내가 너를 챙겨줄 수 있는 좋은 기회라고!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_snake_mizhimoyao_talk_002.aac",
+            "text": "우리 가게에서는 포션 말고 사탕도 판매하거든. 복숭아나 오렌지 맛일 수도 있고… 아, 머스타드나 세제 맛일 수도 있어. 어때, 한번 먹어볼래? 이런 미지에 대한 도전도 재밌는 일이잖아?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_snake_mizhimoyao_idle_001.aac",
+            "text": "침향목, 살구나무, 복숭아꽃, 수국화, 카르다몬… 이 정도면 충분하겠지? 음… 색이 별로 안 예쁜 것 같은데. 산사나무와 샤프란을 섞어 봐야겠어…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_snake_mizhimoyao_clicking_001.aac",
+            "text": "하하, 가게 주인은 판매 불가라고, 한 번만 더 건드리면 손가락을 확! 깨물어 버린다~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_snake_mizhimoyao_specialattention_001.aac",
+            "text": "그래, 계속 그렇게 쳐다봐, 네 눈길이 바로 이 포션을 완성시키는 마지막 절차니까."
+        }
+    ]
+}

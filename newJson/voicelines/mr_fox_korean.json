@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_kaier_cacha_001.aac",
+            "text": "법규에 따라 당신의 체포에 반항할 수 없음을 알고 있지만, 내가 가고 싶은 한, 당신은 영원히 날 가둘 수 없다는 걸 알고 계셨으면 합니다."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_kaier_promotion_001.aac",
+            "text": "자, 이제 나랑 얘기 좀 할래요?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_kaier_promotion2_001.aac",
+            "text": "나를 지옥 끝까지 데려다주셔서 감사합니다."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_kaier_battlebegin_001.aac",
+            "text": "나에게 당신의 법률 허점을 보이지 마세요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_kaier_battlewin_001.aac",
+            "text": "변호사의 말을 잘 들어요, 내가 당신을 위해 모든 걸 이겨줄 테니까요."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_kaier_battlelose_001.aac",
+            "text": "얼마면 당신의 생각을 바꿀 수 있나요?"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_kaier_uniqueskill_001.aac",
+            "text": "내가 시키는 대로 하세요."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_kaier_dead_001.aac",
+            "text": "내가 응당 받아야 할… 제재야."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_kaier_greeting_001.aac",
+            "text": "변호사의 등장은 분쟁이 존재함을 뜻합니다. 매일 맨 처음 마주하는 사람이 변호사인 사람 중, 당신만이 이런 좋은 마음을 가질 수 있겠죠."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_kaier_talk1_001.aac",
+            "text": "저울은 법의 상징이지만, 나는 그것을 당신에게 기울게 할 수 있어요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_kaier_talk1_002.aac",
+            "text": "미스터 폭스요? 난 이 이름이 마음에 들어요, 가장 똑똑한 동물 중 하나니까요."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_kaier_talk1_003.aac",
+            "text": "모든 사람은 태어나서 정의를 추구할 권리가 있어요. 어떤 방법을 쓰던 간에요."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_kaier_talk2_001.aac",
+            "text": "금화를 사람 앞에 쌓아두면 수많은 사람들이 영혼을 팔죠… 나는 그로 인해 정의를 얻습니다."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_kaier_talk2_002.aac",
+            "text": "내 능력으로 당신이 날 위해 무엇이든 하게 할 수 있어요… 단지 아직은 아까워서요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_kaier_talk2_003.aac",
+            "text": "앳된 꽃봉오리가 옆 사람에 의해 파괴되고 시들어버렸다면, 그게 누구든 지옥에 가야겠죠."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_kaier_obeyfull_001.aac",
+            "text": "언젠가는 네 손으로 내게 벌을 내리리라, 나는 네 발아래서 이 모든 것을 겸허히 받아들이리라."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_kaier_idle_001.aac",
+            "text": "마침 나도 봐야 할 문서가 좀 더 있어서요. 이따 늦게 같이 커피 마시러 가요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_kaier_clicking_001.aac",
+            "text": "나는 일찍이 서른여덟 건의 성희롱 사건을 승소한 기록이 있어요. 이 일에 대해서는 잘 알고 있죠?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_kaier_specialattention_001.aac",
+            "text": "여기 와서는 더 이상 이런… 남들의 주목을 받는 느낌을 경험할 수 없을 줄 알았는데."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_kaier_dispatch_001.aac",
+            "text": "외근은 시간당 요금이 적용되며 상담료 등 추가 비용은 별도입니다."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_kaier_dispatch2_001.aac",
+            "text": "업무 종료, 계산서는 잠시 후 당신의 메일로 보내드립니다. 제시간에 지급하는 걸 잊지 마십시오."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_kaier_levelup_002.aac",
+            "text": "음, 내 혀가 더 세졌는지는 당신이 직접 시험해 보시면 알 수 있잖아요?"
+        }
+    ],
+    "twilight_game": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_kaier_chenhunyouxi_cacha_001.aac",
+            "text": "사랑하는 친구여, 경계선을 넘어 나의 궁전에 온 걸 환영해요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_kaier_chenhunyouxi_levelup_001.aac",
+            "text": "당신의 의견은 어떤가요?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_kaier_chenhunyouxi_greeting_001.aac",
+            "text": "사랑하는 친구여, 당신에게 나의 선의를 바치지만, 그래도… 너무 믿지 않는 게 좋을 거예요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_kaier_chenhunyouxi_talk1_001.aac",
+            "text": "한 편의 긴 시, 듣기 좋은 노랫소리, 내 입에서 흘러나온 그것들은 날카로운 초승달이 되었죠."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_kaier_chenhunyouxi_talk1_002.aac",
+            "text": "이곳의 공평과 정의, 아량, 그리고 시는 모두 내가 지배하고 있죠… 당신… 날 무너뜨리고 싶나요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_kaier_chenhunyouxi_idle_001.aac",
+            "text": "걱정하지 마요. 우리에겐 아직 시간이 많이 있어요. 당신이 나에게서 승리를 빼앗아 갈 방법을 찾을 만큼요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_kaier_chenhunyouxi_clicking_001.aac",
+            "text": "이러면 불을 붙일 수가 없어요~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_kaier_chenhunyouxi_specialattention_001.aac",
+            "text": "나를 계속 쳐다보면 당신이 원하는 답을 찾을 수가 있을까요?"
+        }
+    ]
+}

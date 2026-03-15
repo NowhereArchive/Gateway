@@ -1,0 +1,255 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_snake_cacha_001.aac",
+            "text": "你这是想接我回家？呵呵呵~把我当宠物的话可是不会有好下场的~"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_snake_promotion_001.aac",
+            "text": "嗯……这让我想起了衔尾蛇。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_snake_promotion2_001.aac",
+            "text": "我会~紧紧地缠住你的~"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_snake_battlebegin_001.aac",
+            "text": "我已经锁定好猎物了，嘶~"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_snake_battlewin_001.aac",
+            "text": "谢谢你让我感受到，我还活着。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_snake_battlelose_001.aac",
+            "text": "哈哈……疼痛也是让人安心的感觉。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_snake_uniqueskill_001.aac",
+            "text": "在此长眠，你会感激我的。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_snake_dead_001.aac",
+            "text": "我有感受到……快乐吗？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_snake_greeting_001.aac",
+            "text": "呀，真难得，你又来看我啦~？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_snake_talk1_001.aac",
+            "text": "我既不是人类，也不是怪物，嗯……我想我可能是一条毒蛇吧？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_snake_talk1_002.aac",
+            "text": "我咬到自己的舌头会不会中毒……？你可真有意思，看上去像脑子中了蛇毒一样。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_snake_talk1_003.aac",
+            "text": "每个人都有欢笑的权利，剥夺它的人都不会有好下场的。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_snake_talk2_001.aac",
+            "text": "我能理解有些人不喜欢蛇，那你应该也能理解我不喜欢有些人吧？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_snake_talk2_002.aac",
+            "text": "苦难是毁灭欢笑的罪魁祸首，但也是让世界重生的前摇，你觉得呢？"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_snake_talk2_003.aac",
+            "text": "我喜欢看你笑起来的样子，如果是因为我而感到开心，那就更好了。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_snake_obeyfull_001.aac",
+            "text": "可以给我一个拥抱吗？你的温度让我想起了春天，苏醒的时间，重生的季节……我能听到我们两个的心脏在一起跳动。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_snake_idle_001.aac",
+            "text": "好安静啊……就像世界末日一样，看来能睡个好觉了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_snake_clicking_001.aac",
+            "text": "唔……看来，你想让我咬你一口？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_snake_specialattention_001.aac",
+            "text": "在一座森林里寻找一片叶子，在一群怪物中紧盯一只怪物，你的精力可真不错。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_snake_dispatch_001.aac",
+            "text": "如果这样能让你开心的话~"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_snake_dispatch2_001.aac",
+            "text": "这趟表演，你还满意吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_snake_levelup_002.aac",
+            "text": "希望你玩得开心~"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_snake_head_001.aac",
+            "text": "勇者用剑穿过蛇的颅顶，斩杀了凶恶的巨蛇，知道颅顶是哪里吗？就是你刚才抚摸的地方。"
+        }
+    ],
+    "awake_from_slumber": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_snake_hanmianchuxing_cacha_001.aac",
+            "text": "我做了一个很长的梦，一个追逐快乐的梦，一个……重生的梦。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_snake_hanmianchuxing_levelup_002.aac",
+            "text": "嗯……再让我睡一会儿……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_snake_hanmianchuxing_greeting_001.aac",
+            "text": "唔……春天啦？我马上就醒……马上……再给我两分钟……"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_snake_hanmianchuxing_head_001.aac",
+            "text": "你的手……还是那么温暖……"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_snake_hanmianchuxing_body_001.aac",
+            "text": "被子好暖和好暖和……要是局长能陪我一起……我会觉得更快乐的……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_snake_hanmianchuxing_body_002.aac",
+            "text": "这快乐的节日，少了我可不行……只是，需要再给我一点准备时间……"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_snake_hanmianchuxing_hand_001.aac",
+            "text": "哪里来的小妖精都不能分开我和被……被……分开我和局长……嘿嘿……呼……呼……"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_snake_hanmianchuxing_leg_001.aac",
+            "text": "嗯……要大扫除？可我这里不是挺整洁的……或者，你帮帮我嘛？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_snake_hanmianchuxing_idle_001.aac",
+            "text": "唔……窗外的烟花声……还真是扰人清梦呢……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_snake_hanmianchuxing_specialattention_001.aac",
+            "text": "哎呀，我马上就穿戴好了！再催我……我可就咬你了！"
+        }
+    ],
+    "source_of_happiness": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_snake_kuailezhiyuan_cacha_001.aac",
+            "text": "局长，听说这里除了食品以外，还会卖一种能给人带来无限快乐的饮料！是真的么！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_snake_kuailezhiyuan_levelup_001.aac",
+            "text": "嗯……名不虚传呢……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_snake_kuailezhiyuan_greeting_001.aac",
+            "text": "局长，我点了双人套餐，来和我一起度过快乐的时光吧~"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_snake_kuailezhiyuan_talk_001.aac",
+            "text": "在公司的时候我总是被要求控制饮食，很多时候我的晚餐只有一块饼干……像今天这样的体验，或许只会出现在玛芙制造的幻梦之中吧。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_snake_kuailezhiyuan_talk_002.aac",
+            "text": "向饮品里放进冰块的行为，简直就是天才一样的创造！尤其是天气炎热的时候！喝一口……啊……冰冰凉凉，真是让人安心的感觉……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_snake_kuailezhiyuan_idle_001.aac",
+            "text": "咦，我的快乐呢……怎么这么快就没了……果然，就算不在狄斯城，快乐也如此短暂么……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_snake_kuailezhiyuan_clicking_001.aac",
+            "text": "怎么了？是想要我手中这杯么……呵呵~当然，我不介意把快乐，分享给局长你哦——"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_snake_kuailezhiyuan_specialattention_001.aac",
+            "text": "既然已经来到了这里，在弄清楚原委之前，不如尽情享受欢愉的时间，你说对么，亲爱的局长？"
+        }
+    ],
+    "elixir_of_euphoria": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_snake_mizhimoyao_cacha_001.aac",
+            "text": "看来我的商铺终于声名远扬，就连米诺斯的局长也不惜亲自前来，只为寻找一瓶能够带来快乐的魔药。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_snake_mizhimoyao_levelup_001.aac",
+            "text": "嗯……成色不错~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_snake_mizhimoyao_greeting_001.aac",
+            "text": "又来啦？小局长~既然这么照顾我的生意，不如……就在我的店里住下算了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_snake_mizhimoyao_talk_001.aac",
+            "text": "哎呀你的黑眼圈好像又重了不少，不如试试“摸鱼魔药”吧？喝下去之后立刻会变成QQ橡胶小鸭子或者是毛绒豆豆眼小玩偶……诶！为什么不要呀，这明明是可以请假摸鱼还能让我来玩……照顾你的好机会诶！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_snake_mizhimoyao_talk_002.aac",
+            "text": "除了魔药之外，本店还会出售一些糖果。它们可能是桃子、甜橙味……当然，也可能是芥末、洗洁精的味道。要来试试么，局长？这种对未知的尝试，也是快乐的一种哦！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_snake_mizhimoyao_idle_001.aac",
+            "text": "沉香，杏桃，矢车菊，血根草，小豆蔻……加这么多应该够了吧？嗯……感觉颜色不是很好看，再加点山楂和番红花调调色……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_snake_mizhimoyao_clicking_001.aac",
+            "text": "呵呵，本店的老板可是非卖品哦，再乱动小心手被吃掉哦~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_snake_mizhimoyao_specialattention_001.aac",
+            "text": "对，就这样继续盯着我吧，你的注视可是完成这道魔药的最后步骤哦。"
+        }
+    ]
+}

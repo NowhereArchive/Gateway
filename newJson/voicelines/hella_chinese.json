@@ -1,0 +1,240 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_hella_cacha_001.aac",
+            "text": "救命啊，放我出去，绑架美少女啦！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_hella_promotion_001.aac",
+            "text": "我好像更能打了耶。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_hella_promotion2_001.aac",
+            "text": "我觉得我已经无敌了。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_hella_battlebegin_001.aac",
+            "text": "GOGOGO！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_hella_battlewin_001.aac",
+            "text": "呼，总算赢了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_hella_battlelose_001.aac",
+            "text": "唉，我明明还能……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_hella_uniqueskill_001.aac",
+            "text": "还没结束呢！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_hella_dead_001.aac",
+            "text": "好痛……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hella_greeting_001.aac",
+            "text": "局长大人～能不能给世界上最可爱的海拉一点点零花钱呢？好吗，好吗——局长最好了——"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_hella_talk1_001.aac",
+            "text": "什么事啊局长？呃……钱包？诶嘿嘿，还你还你，职业习惯，职业习惯……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_hella_talk1_002.aac",
+            "text": "我？装可爱？谁说的？！人家难道不可爱吗？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_hella_talk1_003.aac",
+            "text": "别再跟我提过去那些破事儿了。我可不是成天哭哭啼啼找人安慰的小姑娘。我能活到今天，靠的是**的自己。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_hella_talk2_001.aac",
+            "text": "这根水管的重量、大小还有手感，简直就是为我量身打造的，所以以后别跟我提换武器这件事了，我是绝对不会抛弃它的！"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_hella_talk2_002.aac",
+            "text": "有机会我带你跟九十九一块儿玩吧，别看她长得那么凶，其实人挺好的。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_hella_talk2_003.aac",
+            "text": "其实我不太喜欢打架。虽然不容易死，但是会痛啊，又很麻烦……放心放心，替你做事我还是很乐意的啦，不用有什么负担。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_hella_obeyfull_001.aac",
+            "text": "我决定了，鉴于你成天粘着我，踹都踹不走，那我就大发慈悲收下你这个小弟吧。你可永远都不许背叛我，知道了吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hella_idle_001.aac",
+            "text": "困死了……你过来，让我靠着你睡一会儿……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hella_clicking_001.aac",
+            "text": "你这是在给我按摩吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hella_specialattention_001.aac",
+            "text": "哈，我就知道你要来找我。怎么，又想我了？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hella_dispatch_001.aac",
+            "text": "终于轮到我出门啦！局长，能不能多给我批点经费啊~"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_hella_dispatch2_001.aac",
+            "text": "活儿干完咯，局长，有没有给我准备犒劳品啊？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hella_levelup_002.aac",
+            "text": "好耶！"
+        }
+    ],
+    "queen_of_hearts": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hella_hongxinnvwang_cacha_001.aac",
+            "text": "又*文明狄斯*是谁想来打扰本皇后的午睡时间？还不快给我跪下！诶……这不是局长么？太好了！这样我的板球赛就能如期举行了！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hella_hongxinnvwang_levelup_001.aac",
+            "text": "啊——！这些小动物都怎么回事，整天都在给我添麻烦！算了，要不是看你们可爱，我早就……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hella_hongxinnvwang_greeting_001.aac",
+            "text": "别拿着白色的花来见我，我更喜欢红色的玫瑰。再有下次，我……就在你的脑袋上打一百个包！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hella_hongxinnvwang_talk_001.aac",
+            "text": "这根权杖的重量、大小、手感，还有这“布灵布灵”的光泽……简直就是为我量身打造的！而且……最重要的是，它的头很大！大得很有美感！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hella_hongxinnvwang_talk_002.aac",
+            "text": "我想吃那个面皮上都是水果和奶油的东西！叫什么……塔来着……？对对对！就是果塔！我想吃~快做给我吃！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hella_hongxinnvwang_idle_001.aac",
+            "text": "马上就要到茶会时间了~局长赶紧去布置一下会场吧……为什么？因为这里闲得没事干的仆从只有你一个了啊。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hella_hongxinnvwang_clicking_001.aac",
+            "text": "再多试几次的话，你可要护好自己的脑袋哦……局长~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hella_hongxinnvwang_specialattention_001.aac",
+            "text": "咳咳，为了维持我们之间的平等关系，我以皇后的名义命令你……喂！你这家伙又在用枷锁做奇怪的事！"
+        }
+    ],
+    "food_tour": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hella_meishizhilv_cacha_001.aac",
+            "text": "嘿嘿，这边点吃的真是方便，只需要看图就行！*文明狄斯*你干嘛用这种眼神看我，哼……告诉你，我现在认识不少字了！别动不动就提这事！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hella_meishizhilv_levelup_001.aac",
+            "text": "……还挺好吃的。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hella_meishizhilv_greeting_001.aac",
+            "text": "我还担心出来又要和什么怪物大战一场了，结果一看全都是炸鸡薯条，你说这该不会是死役迷惑我们的陷阱吧！……算了不管了！要是每次都是这样的黑环该多好啊——"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hella_meishizhilv_talk_001.aac",
+            "text": "这不比你办公室那个苦不拉几的东西好喝多了？这样吧，要是求求我的话，给你尝尝……也不是不行。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hella_meishizhilv_talk_002.aac",
+            "text": "不知道九十九那家伙为什么只喜欢吃烤肉，明明汉堡也挺好吃的……等下次有机会我一定要带她来这里试试！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hella_meishizhilv_idle_001.aac",
+            "text": "喂，我问你，这边的星期四是有什么特别的地方吗？为什么每到这一天，来这里吃饭的人都在说些奇怪的话？什么……不来的也会说？真奇怪……搞不懂这个地方……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hella_meishizhilv_clicking_001.aac",
+            "text": "干嘛，吃饭的时候不要和我说话！薯条要沾番茄酱不是糖醋酱？啊……不听不听，局长念经！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hella_meishizhilv_specialattention_001.aac",
+            "text": "怎么样，这叉子是不是很帅！而且……最重要的是，这是那些人给我拍完照片之后直接送给我的！哼哼，免费的东西永远都是最好的！"
+        }
+    ],
+    "northward_to_whitesands": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hella_shahaiqilv_cacha_001.aac",
+            "text": "指针朝向正北，目标砂海中心！都给让让道，海拉大人的伟大冒险就要启航啦——"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hella_shahaiqilv_levelup_001.aac",
+            "text": "哇，冒险经费？再来点再来点！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hella_shahaiqilv_greeting_001.aac",
+            "text": "嘿！趁着阳光正好，赶紧上路，宝藏还在前头等着咱们呢！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hella_shahaiqilv_talk_001.aac",
+            "text": "之前路上遇到了好几个收保护费的坏蛋，我直接就是一棍子上去，揍得他们*文明狄斯*滚*文明狄斯*流嗷嗷大叫，一个人把他们都干翻了！怎么样，是不是超厉害？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hella_shahaiqilv_talk_002.aac",
+            "text": "我在赫卡蒂的话本里看过一个故事：传说在沙漠的最深处有一个被传奇砂盗什么什么巴巴藏起来的山洞，里面堆满了好东西，够全狄斯的人花一辈子也花不完！咳咳，刚好我趁出门历练顺路去看看，万一……这故事是真的呢？嘿嘿……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hella_shahaiqilv_idle_001.aac",
+            "text": "还好我临走前偷偷从局长口袋里“预支”了几个月零花钱，没想到外面钱这么不禁花……哎，不知道笨蛋局长和赫卡蒂现在在干嘛呢……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hella_shahaiqilv_clicking_001.aac",
+            "text": "干嘛？想跟传奇冒险家海拉大人握手？两百一次，先付再握哈。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hella_shahaiqilv_specialattention_001.aac",
+            "text": "我的冒险可比那些童话本子里的精彩多了！我把它们都写在日志里，等回去让你们挨个传阅——先说好，这次不许挑错字！"
+        }
+    ]
+}

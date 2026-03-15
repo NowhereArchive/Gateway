@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_jane_cacha_001.aac",
+            "text": "こんにちは、あたしはジェイン。見ての通りのコンビクトだ。あの……ここはコンビクトたちが仕事を見つけられる場所か？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_jane_promotion_001.aac",
+            "text": "強くなれば給料も上がるんだよな？上がらなかったら、もう1回金庫に取りに行くしかない。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_jane_promotion2_001.aac",
+            "text": "これで十分だ……犯した過ちは、自分で償わないと。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_jane_battlebegin_001.aac",
+            "text": "さぁ……ようやく戦いを楽しむ時間だ……"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_jane_battlewin_001.aac",
+            "text": "弱いな。数発撃っただけで動かなくなるなんて。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_jane_battlelose_001.aac",
+            "text": "次こそは……次こそは、死瞳たちをバラバラに吹き飛ばしてやる。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_jane_uniqueskill_001.aac",
+            "text": "じゃあな、虫けらども。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_jane_dead_001.aac",
+            "text": "これは……あたしへの罰だ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jane_greeting_001.aac",
+            "text": "あたしに合う任務はあるか？できればソロだとありがたい。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_jane_talk1_001.aac",
+            "text": "なぜこの武器を使うのかって？シンプルで効率的だからだ。まず特製の手榴弾を銃身に装填する。ボルトハンドルをロックした後、照準を合わせて発射したら、任務完了だ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_jane_talk1_002.aac",
+            "text": "この弾丸は家族が残してくれたものなんだ。あたしが弾丸のように勇敢になって、あらゆる困難を突破できるようにって。もちろん、自分のコントロールがきかなくなった時の最後の保険でもある。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_jane_talk1_003.aac",
+            "text": "任務中、あたしは武器にも道具にもなれる。あなたが思いつくものなら何でも……法に触れず、報酬が妥当であればな。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_jane_talk2_001.aac",
+            "text": "どんなに傷ついても、それがあたしの贖罪であって、誰のせいでもない。あなたは……あたしみたいな人間をそこまで気にしなくていい……あたしは全部上手くいくように頑張る。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_jane_talk2_002.aac",
+            "text": "あたしは本当にダメな人間だ……いつも破壊と破滅から満足感を得ている。あなたはきっと……あたしを変な奴だと思ってるよな。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_jane_talk2_003.aac",
+            "text": "MBCCと局長に助けてもらったおかげで、あたしの家族は無事にニューシティに戻れた……2～3日したら、会いに行こうと思ってる。え！？あ、あなたも行くのか？それは……ちょっと……早すぎないか？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_jane_obeyfull_001.aac",
+            "text": "もしあの時あたしがもっと理性的だったら、全部違っていたと思うか？あぁ……また考えすぎたな。分かってる。この世の選択肢に「もしも」なんてない。あるのは結果だけ……でも幸い、あたしの選択の中であなたが一番正しい答えだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jane_idle_001.aac",
+            "text": "……8、9、10……これだけ用意すれば十分だろう。いや……念のため、もう少し他の弾丸も用意しておくか……前回の任務中、浴火の者を1体仕留めるのに時間がかかったからな。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jane_clicking_001.aac",
+            "text": "……ちょっとくすぐったい。 集中してる時はやめてくれ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jane_specialattention_001.aac",
+            "text": "あたしとは距離を置いてほしい……気になっても、そんなに近づかないでくれ……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_jane_dispatch_001.aac",
+            "text": "銀行以外の所なら問題ない。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_jane_dispatch2_001.aac",
+            "text": "予想よりも簡単だった。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jane_levelup_002.aac",
+            "text": "弾もあたしと一緒に強くなれたらいいのに。死瞳の中には皮がすごく硬い奴がいるんだ。"
+        }
+    ],
+    "off-duty_summer_civvies": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_jane_bianzhuanghuwei_cacha_001.aac",
+            "text": "プールの警備手配完了。今からは私服警備員として、洗濯物を干すふりをしながら、引き続きあなたの傍で護衛にあたる。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jane_bianzhuanghuwei_levelup_001.aac",
+            "text": "うん……なかなかいい仕事経験になりそうだ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jane_bianzhuanghuwei_greeting_001.aac",
+            "text": "巡回完了、異常なし。安心してパーティーを楽しんでくれ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_jane_bianzhuanghuwei_body_001.aac",
+            "text": "その身分になりきることが、最も効果的な変装だ。だから、局長の護衛だけじゃなく、調達部門の水着撮影も、ホテルのプール清掃も引き受けた。これらを同時にこなせば、借金の返済にもかなり役立つはずだ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_jane_bianzhuanghuwei_body_002.aac",
+            "text": "ホテルの修繕費用は35万ディスコイン、弾薬の消耗費は5万ディスコイン。つまり、今回の報酬は……たったの500ディスコイン？分かった、次回は気を付ける。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jane_bianzhuanghuwei_idle_001.aac",
+            "text": "よし、また一つ解決した……ん？言っておくけど、仕事の話だからな。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jane_bianzhuanghuwei_clicking_001.aac",
+            "text": "確かに休暇はリラックスできる……でも、集中している時にそんなことをしないでくれ……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jane_bianzhuanghuwei_specialattention_001.aac",
+            "text": "局長、一緒に写真を撮らないか？……この写真は調達部門には送らずに、あなたにだけ渡すから。"
+        }
+    ]
+}

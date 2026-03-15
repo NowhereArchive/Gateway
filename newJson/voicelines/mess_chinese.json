@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_mess_cacha_001.aac",
+            "text": "这就是你们的局长吗？怎么看着这么弱鸡，认真的吗？换我可忍不了被这么一个人骑在头上……诶，别扯我的包！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_mess_promotion_001.aac",
+            "text": "更好的武器，更高效的战斗~"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_mess_promotion2_001.aac",
+            "text": "好好看着，弑神的武器就要出炉了。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_mess_battlebegin_001.aac",
+            "text": "上过战场的武器才是好武器，不是吗？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_mess_battlewin_001.aac",
+            "text": "嘶，溅到身上了……下次还是你们打吧，我在边上看着就好。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_mess_battlelose_001.aac",
+            "text": "这都赢不了，去死吧。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_mess_uniqueskill_001.aac",
+            "text": "你们的恶意，我收下了……"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_mess_dead_001.aac",
+            "text": "噩梦，结束了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mess_greeting_001.aac",
+            "text": "别催我，做好了会给你送过去的……哦，是你啊。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_mess_talk1_001.aac",
+            "text": "呀！新出的这个巫毒娃娃好可爱~好想把它切碎了扔进炉子里当燃料。嗯……现在就下单！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_mess_talk1_002.aac",
+            "text": "我是绝对不会用锻压机这种不可爱的东西的！比起机打的大路货，用精心手打的武器战斗，心情也会不一样的吧。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_mess_talk1_003.aac",
+            "text": "我最看不起新城的那些律师经理和政客了。有空动嘴皮子，为什么不动手呢？买把刀也用不了几个钱吧。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_mess_talk2_001.aac",
+            "text": "虽然枪械也很好，但我还是更喜欢冷兵器。噗呲，啪叽，哗啦——人就没了……太浪漫了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_mess_talk2_002.aac",
+            "text": "我观察你很久了。你的身上真的没有那种……嗯，纯粹的恶意，一点都没有。太奇怪了，怎么会有人打心眼里不想伤害别人呢……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_mess_talk2_003.aac",
+            "text": "喜欢可爱的东西和喜欢暴力有冲突吗？倒不如说，他们抱着仇恨和恶意相互伤害的样子最可爱了，你不这么觉得吗？"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_mess_obeyfull_001.aac",
+            "text": "我要杀的东西，远比你想象得要可怕。人在它的面前，就像虫子一样……就算如此，你还是要与我同行吗？哼，你逞强的样子真可爱~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mess_idle_001.aac",
+            "text": "嗯，刀筋很正，平衡也很完美，接下来就是刀柄了……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_mess_clicking_001.aac",
+            "text": "停！再乱动把你扔进锻炉里当柴烧！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mess_specialattention_001.aac",
+            "text": "平时都是你的副官来下订单的，今天怎么亲自来了……难不成，你也想要一把充满恶意的武器？哼哼，你终于开窍了。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mess_dispatch_001.aac",
+            "text": "替你跑腿也可以，帮我看着工坊，不许别人进去。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_mess_dispatch2_001.aac",
+            "text": "事情办完了，可惜那两人没能打起来，哎……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mess_levelup_002.aac",
+            "text": "工艺升级！"
+        }
+    ],
+    "mystic_pawnshop": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_mess_wuqidiandang_cacha_001.aac",
+            "text": "客人深夜到访，是新得了什么好物件要急着出手吗？还是想置换些别的什么东西？……呵呵，我当然都能办妥当，只要你确定了不会后悔就行，毕竟我这里只有典进，没有赎出。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mess_wuqidiandang_levelup_001.aac",
+            "text": "这件宝贝成色尚可，我收下了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mess_wuqidiandang_greeting_001.aac",
+            "text": "我的衣服很特别？当然，它已经陪了我很久很久很久了~典当它的家伙也早就魂飞魄散了~哎，这种货真价实的老古董可不是天天都能看到的，要再靠近些仔细瞧瞧么？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_mess_wuqidiandang_talk1_001.aac",
+            "text": "哎，别乱动！这只章鱼纸扎认主的，脾气坏着呢……当铺规则第一条，管好你的手和嘴。不该问的不要问，不该碰的也不要去碰。要是不小心招惹上什么不好的东西，那可不是闹着玩的。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_mess_wuqidiandang_talk1_002.aac",
+            "text": "嗯？给我的？……什么！是糯米糖！？啊啊啊你别把它拿过来！你到底是想讨好我还是想害我！太坏了，你这家伙绝对是故意的！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mess_wuqidiandang_idle_001.aac",
+            "text": "在前厅随便逛逛没问题，不过千万别往柜子后面跑哦，你不会喜欢那里的东西的。好奇害死猫，可别怪我没提醒过你~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_mess_wuqidiandang_clicking_001.aac",
+            "text": "哦？你真的要把这张黄纸揭掉吗？呵呵，我也不知道会发生什么事呢，不如就来试试看吧？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mess_wuqidiandang_specialattention_001.aac",
+            "text": "从一进门开始你的眼睛就没有从我身上移开过呢~要是真这么想从当铺往外带走东西……就拿起地上那把铜钱剑，来收服我吧~！"
+        }
+    ]
+}

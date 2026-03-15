@@ -1,0 +1,198 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_pajiaxi_cacha_001.aac",
+            "text": "私はペガシ……旧世代の遺児。私の傍にいると汚染されてしまうので、離れていてください。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_pajiaxi_promotion_001.aac",
+            "text": "エネルギーレベルが上がっている。放射線防護レベルの調整をお願いします。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_pajiaxi_promotion2_001.aac",
+            "text": "まだあきらめていないのですか……では、触って……放射線に貫かれる準備をしてください。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_pajiaxi_battlebegin_001.aac",
+            "text": "あなたを失望させるようなことはしません。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_pajiaxi_battlewin_001.aac",
+            "text": "やりました。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_pajiaxi_battlelose_001.aac",
+            "text": "ゴホッ、ゴホゴホ……ごめんなさい……ごめんなさい……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_pajiaxi_uniqueskill_001.aac",
+            "text": "私から……離れて！！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_pajiaxi_dead_001.aac",
+            "text": "やっと……終わりました。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_pajiaxi_greeting_001.aac",
+            "text": "こんにちは、局長。今日は何か仕事はありますか？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_pajiaxi_talk1_001.aac",
+            "text": "何か私に仕事をください。じっとしたまま、何もしないことには、慣れてないんです。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_pajiaxi_talk1_002.aac",
+            "text": "この腕を改造したのは、筋力を補うため。……すみません、触らないでください。ダメと言うことはないのですが……放射線を吸収しすぎているのです。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_pajiaxi_talk1_003.aac",
+            "text": "生きて、町で起きたことをしっかり覚えておかなければ。そうでなければ、私たちが経験してきたすべてが、意味を失ってしまう……。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_pajiaxi_talk2_001.aac",
+            "text": "発電所の最後の事故を覚えています。あの冬、積雪で送電網の大半が破壊され、30日間で町の人口の4分の1が減りました。翌年の春になってようやく溶けた雪の下で、彼らを見つけることができました……。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_pajiaxi_talk2_002.aac",
+            "text": "マエクは灯台という意味で、最も暗い時でも漂流者を導き、希望を与えてくれるものです。でも、灯台そのものが闇に呑み込まれてしまう可能性があることを誰も気づいていません……。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_pajiaxi_talk2_003.aac",
+            "text": "私は他人やあなたに憐れみを求めていません。私は……尊厳を失いたくない。実験体として、あるいは観賞される動物としては生きていたくないんです……。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_pajiaxi_obeyfull_001.aac",
+            "text": "これまで私に「友達」が何かを教えてくれた人はいなかった。……「友達」とは、その相手のために死ぬことができるほどの存在だと、本で読んだことがあります……もしそれが間違っていないなら、局長、あなたは私の友達です。私の、唯一の友達。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_pajiaxi_idle_001.aac",
+            "text": "……局長、仕事もほどほどに。たまには休みませんか？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_pajiaxi_clicking_001.aac",
+            "text": "局長……これは……ディスシティの人たちの親しみの表現なのですか？……わ……わかりました。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_pajiaxi_specialattention_001.aac",
+            "text": "そんなに私を……見つめないでください。あまり……慣れていなくて。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_pajiaxi_dispatch_001.aac",
+            "text": "やってみせます。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_pajiaxi_dispatch2_001.aac",
+            "text": "終わりました。新しい任務をください。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_pajiaxi_levelup_002.aac",
+            "text": "放射線が、強くなりました。"
+        }
+    ],
+    "winter_night": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_pajiaxi_dongye_cacha_001.aac",
+            "text": "局長、たき火にもっと近づいてください。マエクタウンの外でも、ディスシティよりはかなり寒いですから、暖かくしないと。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_pajiaxi_dongye_levelup_002.aac",
+            "text": "うん、暖かい。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_pajiaxi_dongye_greeting_001.aac",
+            "text": "局長、暖かくなりましたか？まだ寒いようなら……出来立ての私のボルシチを飲んでください。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_pajiaxi_dongye_talk_001.aac",
+            "text": "「百年が経ち、若いお城は北国の宝玉と奇跡になった……」。これは私が管理局の図書室で見つけた詩集です。すごく面白かった……局長も読んでみますか？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_pajiaxi_dongye_talk_002.aac",
+            "text": "かつての私にとって、ここはマエクタウンから一番遠い場所でした。今は……一番近い場所になりました。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_pajiaxi_dongye_idle_001.aac",
+            "text": "小さい頃、冬が早く終わって欲しかった。でも今は、もっと長く続いてほしいと思っています……人って、変ですね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_pajiaxi_dongye_clicking_001.aac",
+            "text": "わ……私はただ、制服にマエク風のアレンジを加えてみただけ。これは……管理局のルールに違反してませんよね……？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_pajiaxi_dongye_specialattention_001.aac",
+            "text": "冷たい風と雪降る夜は、マエクタウン唯一無二の特徴です。そして防寒着を着て冬の夜からみんなを守っている人も、ずっと記憶に刻まれる……"
+        }
+    ],
+    "frostforged_maiden": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_pajiaxi_lindongxiushi_cacha_001.aac",
+            "text": "こんにちは、新人労働者。私は冬の娘。雪と氷から生まれた特別な存在で、ここで頑張って働く労働者を毎年冬に祝福しています。だからみんな私を「冬の娘」と呼んでいるんです。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_pajiaxi_lindongxiushi_levelup_001.aac",
+            "text": "雪が更に厚くなったようです。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_pajiaxi_lindongxiushi_greeting_001.aac",
+            "text": "来たんですね、今年の締めくくり作業も無事に終わりましたか？それなら、ゆっくり休んで春の訪れを待っていてください。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_pajiaxi_lindongxiushi_body_001.aac",
+            "text": "製鉄所で働く労働者から、こんな話を聞いたことがあります。高温の溶けた鉄が高圧冷却室に注入されると、煙突から大量の水蒸気が噴き出し、まるで祭りの花火のように壮観だと。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_pajiaxi_lindongxiushi_body_002.aac",
+            "text": "労働者の皆さん、私の旅立ちを嘆く必要はありません。もし私が完全に解けたとすれば、それは春が訪れ、また新たな命が生まれる証なのです……その時、私は溶鉱炉の中に溶け込み、土と一体化して、別の方法で皆さんの傍にいます。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_pajiaxi_lindongxiushi_idle_001.aac",
+            "text": "うん、あなたも生産目標を上回ったという朗報を聞いた？良かった、今年の冬は堅実で楽しい祝日を過ごせそう。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_pajiaxi_lindongxiushi_clicking_001.aac",
+            "text": "ありがとうございます。ですが、私にこんな厚いマフラーは必要ありません。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_pajiaxi_lindongxiushi_specialattention_001.aac",
+            "text": "私を見守り続けてくれてありがとうございます。ですが、私が消えるのは必然です。労働者たちも、きっと冬に打ち勝つでしょう。"
+        }
+    ]
+}

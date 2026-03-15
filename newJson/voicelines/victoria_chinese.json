@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_bai_cacha_001.aac",
+            "text": "我叫维多利亚，你是谁？你要带我去哪儿？我……我不能走太远……"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_bai_promotion_001.aac",
+            "text": "身体，暖洋洋的……这是局长的“祝福”吗？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_bai_promotion2_001.aac",
+            "text": "咳咳咳……这样的强度，对我的身体而言已经是极限了吧。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_bai_battlebegin_001.aac",
+            "text": "久违的新鲜空气么……"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_bai_battlewin_001.aac",
+            "text": "嘘——它们都睡着了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_bai_battlelose_001.aac",
+            "text": "我……我又受伤了？"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_bai_uniqueskill_001.aac",
+            "text": "好好休息吧！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_bai_dead_001.aac",
+            "text": "结束了么…"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_bai_greeting_001.aac",
+            "text": "局长是来看我的吗？我今天的身体状况很好，很有精神…咳咳咳…"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_bai_talk1_001.aac",
+            "text": "有人告诉我……玻璃罩隔绝了病菌和危险，罩子里是无忧无虑的世界……可为什么，那里的小鸟还想逃出去呢？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_bai_talk1_002.aac",
+            "text": "只要稍稍一用力，这些小虫子就睡着了。你说，它们什么时候会醒来呢？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_bai_talk1_003.aac",
+            "text": "白头发白皮肤白眼珠，我的样子吓到过不少彼岸的病人。但我不是怪物，研究室的哥哥姐姐们说过，这是维多利亚收到的“祝福”。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_bai_talk2_001.aac",
+            "text": "看见花朵枯萎，喉咙就像被堵住了一样难以呼吸……这是“悲伤”吗？还是说，我又生病了？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_bai_talk2_002.aac",
+            "text": "朋友、陪伴、坚强、独立、爱、生命……这些都是局长教给我的东西，是要好好珍藏的宝物。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_bai_talk2_003.aac",
+            "text": "我做了一个梦，梦里我不用戴着面罩，不用待在无菌房，我可以在草坪上和局长一起奔跑、游戏……这个梦要是能再长一点就好了。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_bai_obeyfull_001.aac",
+            "text": "管理局里许多人都不在父母的身边，但他们并不孤独。我知道，是因为他们都和维多利亚一样，有局长的陪伴，对吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_bai_idle_001.aac",
+            "text": "一只蝴蝶停留在窗边\n一朵玫瑰枯萎在花园\n父亲的相片变成了碎片\n只剩一人坐床前"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_bai_clicking_001.aac",
+            "text": "这是局长的“祝福”吗？我……我还不太习惯。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_bai_specialattention_001.aac",
+            "text": "以前医师们也经常这样关注着维多利亚呢……请放心，我一定会好起来的。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_bai_dispatch_001.aac",
+            "text": "可以……不去吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_bai_dispatch2_001.aac",
+            "text": "哈啊……哈……外面的世界，好危险……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_bai_levelup_002.aac",
+            "text": "呼……舒服多了。"
+        }
+    ],
+    "good_morning,_medison": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_bai_zaoan_cacha_001.aac",
+            "text": "咦？……早安，局长，我还是第一次见到有人来这里呢……那就陪我一起，留在这个漂亮又安全的地方吧？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_bai_zaoan_levelup_001.aac",
+            "text": "唔……今天太阳真好，浑身都暖洋洋的。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_bai_zaoan_greeting_001.aac",
+            "text": "局长，来一颗糖果吧，吃下去以后所有的难受和不开心就全都不见了哦。你喜欢哪个颜色的？红色？白色？黄色？绿色？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_bai_zaoan_talk_001.aac",
+            "text": "像这样，沿着刚刚的痕迹把纸压成正方形，再把两边的角往中间折，最后翻过来……大功告成啦！叠好的千纸鹤要赶紧放进玻璃罩里，不然会被弄坏的。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_bai_zaoan_talk_002.aac",
+            "text": "孤独？我怎么会孤独呢？我住在一间漂亮安全的玻璃房子里，这里有故事书、糖果、娃娃、千纸鹤，有……很多很多的爱。它们为我隔绝了所有危险，我是世界上最幸福快乐的小鸟。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_bai_zaoan_idle_001.aac",
+            "text": "一只千纸鹤，两只千纸鹤……三……呼……呼……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_bai_zaoan_clicking_001.aac",
+            "text": "局长要做什么……？我不想离开我的房间。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_bai_zaoan_specialattention_001.aac",
+            "text": "阳光照在玻璃和千纸鹤上，会散发出七彩的光芒……这是幸福和美好的颜色……局长一定也非常喜欢吧！"
+        }
+    ],
+    "cocooned_serenade": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_bai_jianzhongge_cacha_001.aac",
+            "text": "你就是传承记忆里所记载的……“人类”？看上去……比我还要脆弱疲惫，你也渴望在我的“茧”中入睡吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_bai_jianzhongge_levelup_001.aac",
+            "text": "太好了，这次的花儿比上次的更多....."
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_bai_jianzhongge_greeting_001.aac",
+            "text": "嘘……小声点儿，他们都睡着啦，他们在等待着一个美好，甜蜜的世界，然后苏醒过来~你……想不想一起呢？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_bai_jianzhongge_head_001.aac",
+            "text": "你也觉得我的光环很可爱吗？唔……虽然我也不知道它到底是什么，但它的颜色和我的“茧”很配，而且唱起歌来就会发光…我演示给你看看吧，你一定会喜欢的。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_bai_jianzhongge_body_001.aac",
+            "text": "我从孵化出来就一直在这里，按照传承记忆教我的方法，为在这儿睡着的人唱歌，一直唱，直到它们开出漂亮的花儿……孤独？痛苦？虚无？怎么会呢，这就是我存在的意义呀……人类没有这样的意义吗？那是真的很可怜呢。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_bai_jianzhongge_body_002.aac",
+            "text": "在你之前，这里唯一的色彩就是这些花儿。它们很挑剔的，如果不满意歌声，就不愿意放弃俗气脏乱的凡间来到这里长眠……你闻起来和它们很像……只要我按照你的喜好去唱，就能开出更多的花儿了吧？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_bai_jianzhongge_hand_001.aac",
+            "text": "你想帮我缠好绷带吗？那就拜托你啦……嗯？这些伤口？这是孵化的时候先天不足才会出现的痕迹……也是同族们努力救助我的痕迹，是我被爱的证明……"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_bai_jianzhongge_background_001.aac",
+            "text": "我的茧是最坚固最完美的庇护所，能把所有危险的东西都拦在外面……只要看到它还在头顶守护着我，我就会觉得很亲近，很安心……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_bai_jianzhongge_idle_001.aac",
+            "text": "地上灵魂脏兮兮，茧里花儿笑眯眯，痛苦痛苦别着急，歌声会助你安息……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_bai_jianzhongge_specialattention_001.aac",
+            "text": "人类的视线，原来是这么灼热的吗……？是闭着眼睛唱歌的时候，都能感觉到的温度和重量……好神奇……"
+        }
+    ]
+}

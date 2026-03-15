@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_ll_cacha_001.aac",
+            "text": "여기서는 햇빛을 볼 수 없으니까 너무 답답하잖아? 그냥 나처럼 걱정 근심 모두 떨쳐버리고 동물처럼 아무것도 걸치지 말고, 아무것도 생각하지 말고, 마음껏 즐겨보자고!"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_ll_promotion_001.aac",
+            "text": "난 우리 사이가 더 가까워졌으면 좋겠어~"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_ll_promotion2_001.aac",
+            "text": "스르르 잠에 들고, 가만히 바닷속에 빠져들고… 이 달콤한 꿈을 깨우는 사람은 누구일까?"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_ll_battlebegin_001.aac",
+            "text": "날 기쁘게 하려고 온 거야? 너무 좋아!"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_ll_battlewin_001.aac",
+            "text": "가여워라, 여기저기 부러져서 엉망진창이 돼 버렸네…"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_ll_battlelose_001.aac",
+            "text": "감히 내 섬에서 행패를 부리다니!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_ll_uniqueskill_001.aac",
+            "text": "마음껏 즐겨!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_ll_dead_001.aac",
+            "text": "안녕, 나의 모든 것이여…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_ll_greeting_001.aac",
+            "text": "후후, 네가 내 몸에 감은 빨간색 선이 마음에 들어. 이것만 당기면 널 우리만의 극락의 땅으로 데려갈 수 있잖아?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_ll_talk1_001.aac",
+            "text": "극락 랜드에서는 치근덕거리든, 실컷 먹고 마시든 다 상관없어. 가만히 있어도 되고, 여기저기 시비 걸고 다녀도 돼! 다 네 마음대로야! 이곳에서 뭐든 할 수 있어, 모두가 즐기는 거야말로 가장 중요하거든!"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_ll_talk1_002.aac",
+            "text": "바깥세상이 뭐가 좋아? 여기보다 자유로워? 여기보다 행복해? 여기에는 친구가 얼마나 많은데. 하나도 안 외로워. 난 밖으로 나갈 생각 없어. 너도 여기에 남아 나랑 같이 있자!"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_ll_talk1_003.aac",
+            "text": "바다 아래에서 눈을 뜨면 알 거야… 됐다, 어차피 다들 무서워서 못 할 테니까."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_ll_talk2_001.aac",
+            "text": "저 바보들은 나랑 바다 아래로 들어가 즐겁게 지내다가도 누가 뭍에서 부르면 죽기 살기로 헤엄쳐서 올라가. 날 바다 아래 내버려 둔 채로 말이야…"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_ll_talk2_002.aac",
+            "text": "하늘과 바다에는 경계가 없잖아…? 그런데 왜 극락 랜드에서는 하늘과 바다 사이에 보이지 않는 벽이 만져지지? 내가 아직 친구가 많지 않아서 그런가? 응, 틀림없어!"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_ll_talk2_003.aac",
+            "text": "나랑 물속으로 들어가자. 물의 품에 안기고 거기에 녹아들어서 내 심장 박동 소리를 들어 봐, 그렇게 나와 하나가 되는 거야…"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_ll_obeyfull_001.aac",
+            "text": "넌 미끼도, 낚싯바늘도 없지만 예쁜 물고기를 잡았어. 네가 잡은 물고기는 무척 행복해하고 있어. 물속 세상뿐만 아니라 미소, 포옹, 그리고 함께 교감할 수 있는 사람이 생겼으니까. 내 손잡고 함께 일출 보러 가자! 난 거품으로 변하거나 바다 밑으로 가라앉지 않을 거야. 난 항상 여기에 있을게."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_ll_idle_001.aac",
+            "text": "'반항과 전투는 모두 의미가 있다.', '…이번에는 내가 너희를 지켜줄게'… 데이터가 흥미로운데? 저장해야지~"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_ll_clicking_001.aac",
+            "text": "음~ 왜 더 세게 안 눌러? 세게 눌러봐!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_ll_specialattention_001.aac",
+            "text": "날 아주 좋아하나 보네? 그럼, 계속 날 그렇게 쳐다봐 줘, 알겠지?"
+        },
+        {
+            "title": "그들의 불행도 드디어 끝이군요.",
+            "filename": "File:vo_ll_dispatch_001.aac",
+            "text": "리오를 보내면 돼! 섬을 찾는 임무는 리오가 제격이지~"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_ll_dispatch2_001.aac",
+            "text": "리오가 돌아왔어! 너한테 줄 선물도 가져왔네! 음, 리오가 나처럼 널 좋아하나 봐~"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_ll_levelup_002.aac",
+            "text": "날 그렇게 대해 줘서 기뻐, 계속 이렇게 해줘!"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_ll_head_001.aac",
+            "text": "너한테만 알려주는 건데, 사실 나 아주 오래전부터 이미 널 내 머릿속에 가둬뒀어~"
+        }
+    ],
+    "astral_rhapsody": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_LL_wanlaiqingyin_cacha_001.aac",
+            "text": "내 노래에 이끌리고 내 목소리에 사로잡혀, 나와 함께… 영원히 이곳에 머무는 거야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_LL_wanlaiqingyin_levelup_001.aac",
+            "text": "내 노랫소리가 더 먼 곳까지 닿을 수 있다고?!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_LL_wanlaiqingyin_greeting_001.aac",
+            "text": "마이크 테스트, 아아… 여기까지 왔으니, 이제 너의 눈빛은 나에게만 머물러야 해."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_LL_wanlaiqingyin_head_001.aac",
+            "text": "헤헤… 왜? 나와 얼굴을 맞대고 노래를 불러, 우리 목소리를 우주 끝까지 전하고 싶은 거야?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_LL_wanlaiqingyin_body_001.aac",
+            "text": "빨리 와, 네게 이곳에서 가장 높은 권한을 줄게. 함께 소리를 지르며 익살스러운 표정을 짓고, 마음껏 음 이탈을 하는 거야! 아무도 없는 이곳에서 서로를 껴안고, 체면 따윈 잠시 내려놔도 괜찮아. 이곳에선 네가 원하는 모든 걸 할 수 있어!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_LL_wanlaiqingyin_body_002.aac",
+            "text": "시간은 중요하지 않아, 어둠도 두렵지 않아. 네가 원하고, 내 곁에 영원히 있을 수만 있다면, 앞으로도 영원히 내가 이곳에서 널 위해 노래를 불러 줄게."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_LL_wanlaiqingyin_ear_001.aac",
+            "text": "음… 고막이 떨리고, 아름다운 노랫소리가 귓속으로 들어와 머릿속으로 전해지는 느낌이야. 의식을 자극하고 영혼과 하나가 되는 것 같아… 이런 정신적인 즐거움 속에서 태어난 쾌락이 척추를 타고 내려와 여기저기 퍼지는 것 같아… 하하… 이런 감정을 한 번 경험하고 나면 더 많은 걸 원하게 되겠지?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_LL_wanlaiqingyin_microphone_001.aac",
+            "text": "사실, 이 마이크는 관리국 방송 회선에 연결되어 있어. 그러니까, 우리가 이곳에서 있었던 모든 일들을 관리국에서 전부 들었을 거라는 거지! …알았어, 이 정도 장난으론 널 놀라게 할 수 없나 보네… 아냐, 알겠다! 나에 대해 너무 잘 아는 나머지, 내가 농담하고 있다는 걸 이미 눈치챘던 거지?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_LL_wanlaiqingyin_idle_001.aac",
+            "text": "……괜찮아, 비록 나를 위해 남아 있는 사람은 오직 당신뿐이라 해도…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_LL_wanlaiqingyin_specialattention_001.aac",
+            "text": "하고 싶은 말이 있으면 그냥 내게 말해. 내 노랫소리와 네 심장 소리가 같은 리듬을 타고 있는지 시험해 보고 싶은 거야?"
+        }
+    ]
+}

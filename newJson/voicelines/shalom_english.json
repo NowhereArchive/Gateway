@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_shalom_cacha_001.aac",
+            "text": "It must have been very hard on you, you poor thing. You've done well. I'll take it from here, and everything will be all right."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_shalom_promotion_001.aac",
+            "text": "Not satisfied with my performance? I should work harder in the future? Sure, if it's what you want me to do."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_shalom_promotion2_001.aac",
+            "text": "Okay, that's enough, you've traveled too far. Go back, before it's too late."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_shalom_battlebegin_001.aac",
+            "text": "You want me to come along? Sure. I'd be glad to go with you."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_shalom_battlewin_001.aac",
+            "text": "My work here is done. I wish you good luck."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_shalom_battlelose_001.aac",
+            "text": "It's all right. Just a little mistake. I'm an expert at fixing things."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_shalom_uniqueskill_001.aac",
+            "text": "Too noisy. Quiet!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_shalom_dead_001.aac",
+            "text": "Heh, I'll take my leave... See you on the other side..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_shalom_greeting_001.aac",
+            "text": "Hello there, ready for the busy day ahead? Do you need my help, or do you want my encouragement instead?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_shalom_talk1_001.aac",
+            "text": "My job is to fix mistakes. I receive requests for help, analyze the situation, formulate plans, and execute them. I don't hate this job. It's just... many unnecessary costs could be avoided if everybody acted more cautiously. My point is, you should be cautious out there, Chief. I hope that you will never require my services as the \"Hush.\""
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_shalom_talk1_002.aac",
+            "text": "I'm neither a good fighter, nor do I have any special powers. The only thing that protects me from harm is my Schorl. Of course, from now on, it'll protect you too. I know you don't trust the ones behind it, but you'll find a way to take advantage of its power, right?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_shalom_talk1_003.aac",
+            "text": "You want me to work \"under\" you? I suppose I can do that. I can do whatever you want me to do, only at the cost of everything you have, or a flower that has freshly come out of its bud."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_shalom_talk2_001.aac",
+            "text": "I have nothing to ask of you, except that... you must take better care of yourself. Keeping you safe is no easy task. But, if push comes to shove, I might have to make the best use of your life in the right time and right place."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_shalom_talk2_002.aac",
+            "text": "Shh... I'm counting your heartbeats. Sixteen, seventeen, eighteen... Mm, it's fun. Your heart is full of fascinating emotions. How about you? Would you be able to understand the language of my heart?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_shalom_talk2_003.aac",
+            "text": "I've worked for many, and many have worked for me. But you... you are truly different, one of a kind. You can achieve more, you can make a much bigger difference than me. So... stay here with me, don't leave me, don't walk away."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_shalom_obeyfull_001.aac",
+            "text": "Tell me about the books you like, and music, movies, places, and the people you are fond of... Yes, I want to know more about you, learn more about your world. I want to have the image of you burned into my mind before your fate catches up with you, before you meet your solitary end."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_shalom_idle_001.aac",
+            "text": "*Humming"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_shalom_clicking_001.aac",
+            "text": "Okay, okay... This is a \"virgin\" territory for you, huh? Now, give me your hand. I'll teach you how to do it properly. Try to remember the steps."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_shalom_specialattention_001.aac",
+            "text": "Do you have to stare at me like that? All right then, I'm gonna do the same to you."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_shalom_dispatch_001.aac",
+            "text": "Hmm, that's new... Can you assign more people for me?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_shalom_dispatch2_001.aac",
+            "text": "Don't worry, it's been a smooth trip. These good lambs have done a wonderful job."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_shalom_levelup_002.aac",
+            "text": "Ah, this feels familiar..."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_shalom_head_001.aac",
+            "text": "Oh, you want a reward too?"
+        }
+    ],
+    "city_never_sleeps": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_shalom_yehuaruzhou_cacha_001.aac",
+            "text": "Seems like you're really not cut out for \"social events\" like this one. Don't worry, I know you've tried your best. Leave the rest to me."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_shalom_yehuaruzhou_levelup_001.aac",
+            "text": "I'll never forget what you've done for me."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_shalom_yehuaruzhou_greeting_001.aac",
+            "text": "Eastside nights all unfold like this one, I'm all too familiar with this scene. It's like deja vu, isn't it... Who'd want to get stuck in this limbo if they didn't have their hidden agendas?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_shalom_yehuaruzhou_head_001.aac",
+            "text": "Can't hold back your desires even at a time like this? My, aren't you an adorable child."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_shalom_yehuaruzhou_body_001.aac",
+            "text": "Both flattery and curses are but the frivolous chatter of those who look up to you. Don't let it get to your head. After all, you're not one of them."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_shalom_yehuaruzhou_body_002.aac",
+            "text": "Most Eastsiders are immersed in a dream they'll never wake up from. You and I are the only exceptions. The word \"dream\" has had nothing to do with us since a long time ago."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_shalom_yehuaruzhou_righthand_001.aac",
+            "text": "This soirée... these spotlights and flowers, celebrities and tycoons... and even myself... We're all just the side dishes. You're the only entrée of tonight."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_shalom_yehuaruzhou_lefthand_001.aac",
+            "text": "Too many mistakes have happened in DisCity. Even I can't deal with them all. But you... you're different. You shoulder everyone's hopes and dreams... Just go ahead and do what you have to do. Don't worry about making mistakes. I'll cover for you..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_shalom_yehuaruzhou_idle_001.aac",
+            "text": "In the end, regardless by whom, I'm bound to be abandoned... I won't blame you. After all, it's your destiny."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_shalom_yehuaruzhou_specialattention_001.aac",
+            "text": "You like being with me? Hehe... Don't worry. I won't leave."
+        }
+    ],
+    "undawning_nighttide": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_shalom_anyetongxing_cacha_001.aac",
+            "text": "The tree's tender sprouts left their marks on us... Will you forsake the garden and join me in this undawning night?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_shalom_anyetongxing_levelup_001.aac",
+            "text": "Nicely done, my dear."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_shalom_anyetongxing_greeting_001.aac",
+            "text": "The ebony moon rises from the crimson sea, casting its glow upon your path. I've always known you'd find your way to me."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_shalom_anyetongxing_head_001.aac",
+            "text": "Quite naughty, aren't we? Come, show me what you're really capable of."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_shalom_anyetongxing_body_001.aac",
+            "text": "To be banished from the garden is to be freed from all restraints. We are the wildest of rebels, yet bound by loyalty to none but the two of us."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_shalom_anyetongxing_body_002.aac",
+            "text": "Unlike the garden, these crimson waters birth only the \"unholy\"—broken, chaotic, yet brimming with life. We shed our brittle façades, reconstituting in defiance of the light, to be reborn in this eternal, undawning night."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_shalom_anyetongxing_righthand_001.aac",
+            "text": "You are my favorite, so listen to me when I speak... Yes, just like this—empty, still, unburdened by any thought. Stay with me a while longer, before the inevitable reckoning arrives."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_shalom_anyetongxing_lefthand_001.aac",
+            "text": "Oaths and promises are mere whispers in the wind. What endures is the present—like moonlight, and the two of us, here, in this fleeting moment."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_shalom_anyetongxing_idle_001.aac",
+            "text": "Shhh... close your eyes and listen. Do you feel it? The pulse of the sea, the rhythm of the heart. That, my dear, is the breath of freedom."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_shalom_anyetongxing_specialattention_001.aac",
+            "text": "Name your destination and I shall follow—right to the world's edge."
+        }
+    ]
+}

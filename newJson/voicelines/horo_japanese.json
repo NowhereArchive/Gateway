@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_mojila_cacha_001.aac",
+            "text": "またここか！あたしを出せ！軍団はあんたを許さないぞ！ボスが絶対見つけ出して、こんな所、めちゃくちゃにするんだからな！分かったか！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_mojila_promotion_001.aac",
+            "text": "うわー！この力……今すぐゾーヤさんと手合わせしてみたい！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_mojila_promotion2_001.aac",
+            "text": "軍団のことは、これからあたしに任せろ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_mojila_battlebegin_001.aac",
+            "text": "安心しろ。あたしが守ってやる。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_mojila_battlewin_001.aac",
+            "text": "ふん、このあたしの実力を思い知ったか。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_mojila_battlelose_001.aac",
+            "text": "大丈夫だって！生きてれば、勝つチャンスはある！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_mojila_uniqueskill_001.aac",
+            "text": "やぁあああああ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_mojila_dead_001.aac",
+            "text": "あたしたちは……負けない……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mojila_greeting_001.aac",
+            "text": "おっ、あんたか？今ウォーミングアップをしてるところなんだ。一緒にやろうぜ！ゆーしゅーな戦士たるもの、練習を怠るべからず。さもないと腕が鈍る。ゾーヤさんからの教えだ！"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_mojila_talk1_001.aac",
+            "text": "なんでケルシーはあんなに背が高いんだ……。同じ兄弟なのに……待ってろよ、絶対あいつより身長を伸ばしてやる！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_mojila_talk1_002.aac",
+            "text": "強くなる秘訣？そんなの休まず訓練することと、目標のためになんでもしてやるって気持ち、あとは、毎日1リットルの牛乳を飲むこと……笑うなよ！ 骨を伸ばすのに必要なんだぞ！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_mojila_talk1_003.aac",
+            "text": "この斧は軍団のみんなからもらったものだ。どうだ？勇猛果敢なあたしに似合ってるだろ？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_mojila_talk2_001.aac",
+            "text": "ゾーヤさんはすごく強くて、優しくて、頭もいいんだ！いつか、あの人みたいになれるといいなぁ。うん、全部じゃなくても、半分ぐらいになれれば十分だ……！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_mojila_talk2_002.aac",
+            "text": "スカート？そ、そんなものはくか！戦いにくいし、パンツが見えちゃうし……別にショーウィンドウのスカートなんて見てない……いいからもう何も言うなよ！"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_mojila_talk2_003.aac",
+            "text": "強くなった今のあたしは、もう誰の足手まといにもならない！でも、そう言いたい あの人は……もういないんだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_mojila_obeyfull_001.aac",
+            "text": "ゾーヤさんに頼まれてあたしを助けに来たって話、本当は嘘なんだろ……。ふん、まぁいいよ。許してやる。あたしはこんなつまんないことで、大事な人と言い争うつもりはないんだよ……二度と。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mojila_idle_001.aac",
+            "text": "おい、調達部門がどこにあるか知ってるか？あの紫色の髪のやつが賞味期限切れのぎゅう……商品を割引価格で売るって。どんな商品も半額なんて、もう行くしかないよな。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_mojila_clicking_001.aac",
+            "text": "あっ！逃げるな、ぶっ殺すぞ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mojila_specialattention_001.aac",
+            "text": "何するんだよ？見てるだけ？あたしは別に見せ物じゃないけど。それとも、手合わせしたいのか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mojila_dispatch_001.aac",
+            "text": "安心して、あたしに任せろ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_mojila_dispatch2_001.aac",
+            "text": "あたしがいるから、このぐらい余裕余裕！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mojila_levelup_002.aac",
+            "text": "よし！もう一丁いくぞ！"
+        }
+    ],
+    "limit_breaker": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_mojila_jixianyundongjihua_cacha_001.aac",
+            "text": "……なんだよ？ちょっと見に来ただけ？だから、あたしは見せ物じゃないぞ。せっかく来たんだし、一緒にトレーニングでもしていけよ。あんたのその細い手足を見てみろ。いつか内海の強風で吹き飛ばされるんじゃないかって心配になるぞ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mojila_jixianyundongjihua_levelup_002.aac",
+            "text": "……ぷはーー！運動の後はやっぱり牛乳だよな！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mojila_jixianyundongjihua_greeting_001.aac",
+            "text": "今、何時だと思ってるんだ？何でまだここでグズグズしてるんだよ？ゆーしゅーな戦士たるもの、練習を怠るべからず！ほら！まずはウォーミングアップにあたしと2キロランニングだ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_mojila_jixianyundongjihua_body_001.aac",
+            "text": "ラットプルダウン5セット、リバースグリップラットプルダウン5セット、ダンベルカール5セット、バーベルカール5セット。こんなの、トレーニング計画の最初のステップだぞ。これを全部終わらせたら……おい、逃げるな！じゃあ、まず3セット。3セットならいいだろ！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_mojila_jixianyundongjihua_body_002.aac",
+            "text": "何て言ったっけ……量的な変化で……なんとかの変化が……ああ、思い出せない！とにかく、トレーニングを続けてれば間違いない！いつかあいつを、そしてゾーヤさんを超えて、軍団最強になるんだ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mojila_jixianyundongjihua_idle_001.aac",
+            "text": "ぺぺぺ、イチゴの匂いが濃すぎるし、甘すぎる……プロテインを水で割って飲むのはもちろん知ってるけど、そのものの味が気にならないのか！？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_mojila_jixianyundongjihua_clicking_001.aac",
+            "text": "おい、気をつけろ！このジャケットは大金をかけてオーダーメイドしたんだぞ。軍団の魂って言ってもいいものなんだ！あんたも着てみたいのか？いいぞ、あんたは軍団を認めてるしな……待て！ま、まず洗うから……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mojila_jixianyundongjihua_specialattention_001.aac",
+            "text": "そんな格好でどうやって一緒に運動するつもりだ？よし、まずはあたしと軍団に戻って、みんなから動きやすい服を貰うぞ。"
+        }
+    ],
+    "abiding_moment": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_mojila_tianyacishi_cacha_001.aac",
+            "text": "この数年、護衛の仕事でまあまあ自由に暮らしてきた。でもちょっと暇になると、昔のことが逆に鮮明に蘇ってくる……人間ってそういうもんなんだろうな。どれだけ遠くに行っても、結局過去を振り返りたくなるんだ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mojila_tianyacishi_levelup_001.aac",
+            "text": "刃に鋭さはなくても、意志はある。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mojila_tianyacishi_greeting_001.aac",
+            "text": "焚き火の準備してくる。明日はまた新しい依頼が入ってるんだ。風邪なんかひいたら、護衛任務はできないだろ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_mojila_tianyacishi_head_001.aac",
+            "text": "また子供扱いしたな……って、あんたの手はなんでこんなに冷たいんだ？もうちょっとだけ待っててくれ、すぐに火がつくから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_mojila_tianyacishi_body_001.aac",
+            "text": "江湖の人間は見た目ばかり気にするんだ。今回の護衛には、あたしと似たような服を2着用意しておけよ。じゃないと素人扱いされるぞ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_mojila_tianyacishi_body_002.aac",
+            "text": "物語の中ではよく「江湖は自由で気ままだ」なんて言われてる。でも今のあたしからすれば、刃先の血を舐めるような危険さと残忍さがあるし、風にさらされて露に濡れる日々なだけだぞ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_mojila_tianyacishi_wine_001.aac",
+            "text": "月が綺麗だし、一杯どうだ？……果汁を「一杯」って言ったっていいだろ！大人って本当に面倒だな！"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_mojila_tianyacishi_leg_001.aac",
+            "text": "それ以上動いたら、この刀は容赦しない……ったく、その寒そうなハリネズミみたいな姿を見たら気が抜けた。今回は許してやる。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mojila_tianyacishi_idle_001.aac",
+            "text": "葦が夜風に揺れるこの音……子供の頃に聞いた雨音そっくりだ……あの時はただ眠りを邪魔するものだったけど、今は不思議と安心する。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mojila_tianyacishi_specialattention_001.aac",
+            "text": "道中ずっとこっちを見てただろ……町に入ったら、あたしみたいな江湖を旅するのに最適な服をあんたにも買ってやる。"
+        }
+    ]
+}

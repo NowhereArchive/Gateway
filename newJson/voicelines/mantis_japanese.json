@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_mantis_cacha_001.aac",
+            "text": "キミの身体……新しい匂いがするね。彼らとは違う……怖がらないで、諦めないで。すぐ助けに行くよ……"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_mantis_promotion_001.aac",
+            "text": "どう？このもっと強くなった身体は。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_mantis_promotion2_001.aac",
+            "text": "個体の異化には限度がある……アタシにはできた……この状態を記録しなきゃ……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_mantis_battlebegin_001.aac",
+            "text": "可哀想な子……安らかに眠って……"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_mantis_battlewin_001.aac",
+            "text": "弱肉強食は自然の法則。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_mantis_battlelose_001.aac",
+            "text": "気にしないで……逃げるのも立派な生存戦略だよ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_mantis_uniqueskill_001.aac",
+            "text": "捕まえた！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_mantis_dead_001.aac",
+            "text": "ぐぁぁあああ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mantis_greeting_001.aac",
+            "text": "覚えのある匂い……やっぱりキミだ！帰ってくるのをずっと待ってたんだよ……アタシを連れてってくれない？……ここに閉じ込められるのは好きじゃないんだ……"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_mantis_talk1_001.aac",
+            "text": "キミの仕事って……ハードなんだね。これあげる。美味しいよ……味は……鶏肉みたいな感じかな……タンパク質と脂質が摂れるよ……"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_mantis_talk1_002.aac",
+            "text": "キミの匂い……いいね。もうちょっと近づいてもいい？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_mantis_talk1_003.aac",
+            "text": "彼らを……食べるつもりはなかったんだ……ただ……すごくお腹が空いてて……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_mantis_talk2_001.aac",
+            "text": "助けを必要としてる人が……いっぱいいるんだし……アタシばっか気にしないで、もっとそういう人たちを気遣ってあげなよ。アタシの問題は、自分で……解決できるから……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_mantis_talk2_002.aac",
+            "text": "全ての異常は……人類から……アタシたちの……心から来る……彼らは怪物じゃない……アタシたちの一部だ……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_mantis_talk2_003.aac",
+            "text": "恐れないで……たとえいつか道に迷って、危険な目に遭っても、必ず助けてあげる……アタシは仲間を見捨てないって誓うよ……"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_mantis_obeyfull_001.aac",
+            "text": "アタシはキミを救えなかったみたいだ……代わりにキミが……アタシを救ってくれた。ごめん……みんなの足を引っ張って……いっぱい迷惑かけたよね……ありがとう……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mantis_idle_001.aac",
+            "text": "今日は友達を幸せにできた？……自分の役割を果たせた？……友達を……救えた……？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_mantis_clicking_001.aac",
+            "text": "……これは何かの生き物の求愛の儀式？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mantis_specialattention_001.aac",
+            "text": "わざわざ来なくても……キミの匂いは覚えてるから、自分で見つけられるよ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mantis_dispatch_001.aac",
+            "text": "アタシに……何してほしいの？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_mantis_dispatch2_001.aac",
+            "text": "今回の旅は、新しい発見がいっぱいあったよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mantis_levelup_002.aac",
+            "text": "環境の変化に……慣れないと。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_mantis_head_001.aac",
+            "text": "でも……これじゃダメだ……キチンの殻で……何も感じない……"
+        }
+    ],
+    "sylvan_silhouette": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
+            "text": "舟に乗って、沼地や森や霧を越えて、大きな果実が実る果樹園へ辿り着く——そこは妖精がかつて口づけをしたという楽園で、今まで誰の目にも触れてこなかった場所……それでも、キミはアタシを見つけ出したんだね。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mantis_shenlinbangying_levelup_001.aac",
+            "text": "ずっしりとした果実が、胸元に落ちてきたよ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mantis_shenlinbangying_greeting_001.aac",
+            "text": "キミを見るたびに、あの激流に一緒に飛び込んでくれた日のことを思い出すんだ……もう一度味わってみる？ほら、手を出して。一緒に飛び込もう。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_mantis_shenlinbangying_head_001.aac",
+            "text": "キミはまだ若いのに、妖精の耳に触るなんて大胆すぎるよ。礼儀を知らないの？……ゴホン、顔が赤くなったのは、力が少し漏れ出ただけ……"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_mantis_shenlinbangying_body_001.aac",
+            "text": "キミは前にこう言ってたね。旅の終わりには、透き通るように清らかな水域、たくさんのリンゴが実った枝、そして尽きることのない食べ物とブドウが隠されているって。でも……もしそこにキミがいなかったら、たとえ夢の地に辿り着いたとしても、その綺麗な景色も……色褪せちゃうよ……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_mantis_shenlinbangying_body_002.aac",
+            "text": "この実り豊かなリンゴの枝は……人間をここへ導くための印だよ……受け取って。そうすれば……またワタシを探しに来る時、道に迷ったりしないから……"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_mantis_shenlinbangying_leg_001.aac",
+            "text": "言い伝えによると、あの伝説の妖精は旅の終わりを迎えて、リンゴを手に取り、水底へと沈んでいった。そして彼女の加護を受けた豊かな種子は、やがて大樹へと成長する。その枝には蕾がつき、花の中心から無数の新しい彼女たちが生まれた……森で育った仙霊は、大体そんな感じだよ……"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_mantis_shenlinbangying_arm_001.aac",
+            "text": "妖精のように森で自由に暮らしたい……そんなことを願っていたんだね？じゃあ……しっかり掴まってて。離さないでよ。ワタシが空を1周飛んであげるから～"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mantis_shenlinbangying_idle_001.aac",
+            "text": "森の中で羽ばたく音が、せせらぎやカエルの鳴き声に重なる……安心して眠って。この森が、キミに素敵な夢をもたらしますように……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mantis_shenlinbangying_specialattention_001.aac",
+            "text": "ここには誰もいない。あるのは、ただ水面に映る二つの影と……交わるワタシたちの視線だけ……"
+        }
+    ]
+}

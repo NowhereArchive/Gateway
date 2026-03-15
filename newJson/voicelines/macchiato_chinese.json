@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_aida_cacha_001.aac",
+            "text": "您好，我是新城银行的客户经理玛奇朵，您想了解一下……啊，您是这里的局长？抱歉，每次遇到不认识的人我都会下意识问这些。我一定配合您工作的。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_aida_promotion_001.aac",
+            "text": "这就是您想要的嘛？我明白了，我会满足你的。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_aida_promotion2_001.aac",
+            "text": "接下来，或许会是前所未有的感官盛宴。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_aida_battlebegin_001.aac",
+            "text": "我会给大家坚持下去的动力。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_aida_battlewin_001.aac",
+            "text": "手都酸了……不过，我很愉快。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_aida_battlelose_001.aac",
+            "text": "怎么办，完蛋了……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_aida_uniqueskill_001.aac",
+            "text": "用心感受这份愉悦吧~"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_aida_dead_001.aac",
+            "text": "我不能死……我还有……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_aida_greeting_001.aac",
+            "text": "局长您回来了？昨天的工作报表已经写完放在您桌上了。您想喝点什么？咖啡、茶还是别的，我去给您准备。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_aida_talk1_001.aac",
+            "text": "肉体的痛楚是短暂的，精神上的愉悦能带来持久的满足——他们是这么说的，您要试试吗？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_aida_talk1_002.aac",
+            "text": "新城银行推出的全新理财产品真的很不错，年化收益12%，低风险，高回报，我自己也有买。局长真的不考虑一下吗？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_aida_talk1_003.aac",
+            "text": "其实早九晚五的坐班也挺好的——毕竟这样才有充足的时间发展“业余爱好”。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_aida_talk2_001.aac",
+            "text": "等我的弟弟妹妹们有了工作，我才能真正自由吧。到时候，我想去砂海做个卡车司机，或者去辛迪加当摇滚乐队的鼓手……总之只要能离开新城就行啦。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_aida_talk2_002.aac",
+            "text": "新城的生活太压抑了。业绩、债务、股票、情感……每个人都有数不清需要烦神的东西。或许这就是他们需要我的原因吧。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_aida_talk2_003.aac",
+            "text": "我其实不喜欢那样的称呼……算了，那都是过去的事了，该放眼未来了不是吗。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_aida_obeyfull_001.aac",
+            "text": "过去我多少有些抗拒这样的能力和身份。可自从您出现之后我才意识到……我或许上瘾了，亲爱的局长。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_aida_idle_001.aac",
+            "text": "欢迎光临新城银行！啊，不对，这里是MBCC……抱歉，我刚刚打瞌睡了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_aida_clicking_001.aac",
+            "text": "如果您真的积累了太多压力的话，我也不是不可以帮你解决。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_aida_specialattention_001.aac",
+            "text": "我没有做过秘书，需要我干些什么？只是满足您的需要就可以了么？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_aida_dispatch_001.aac",
+            "text": "这单业务我一定会完成的。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_aida_dispatch2_001.aac",
+            "text": "事情办完了，发票找谁报销？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_aida_levelup_002.aac",
+            "text": "感谢您的提携。"
+        }
+    ],
+    "beguiled_heart": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_aida_yiluanqingmi_cacha_001.aac",
+            "text": "好吧，如果这是您的需要，我会再次为您扬起皮鞭，满足您……内心深处的渴望。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_aida_yiluanqingmi_levelup_001.aac",
+            "text": "如何，有没有感到自己变得轻飘飘的~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_aida_yiluanqingmi_greeting_001.aac",
+            "text": "您也想从我这里得到奖赏吗？没关系，不用害羞……我愿意接纳您的每一面。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_aida_yiluanqingmi_talk1_001.aac",
+            "text": "这就不行了？再坚持一下吧，我会在最恰当的时机，让您抵达愉悦的顶点——相信我，我可是……相当了解您的极限。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_aida_yiluanqingmi_talk1_002.aac",
+            "text": "来，张嘴，这是对您乖乖听话与配合的奖励……一起享用吧~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_aida_yiluanqingmi_idle_001.aac",
+            "text": "呼……真不错，大家都很满足……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_aida_yiluanqingmi_clicking_001.aac",
+            "text": "有这么迫不及待吗？那就摆好姿势，不要乱动……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_aida_yiluanqingmi_specialattention_001.aac",
+            "text": "只要您点头，我就会给予您……最甜美的奖赏。"
+        }
+    ]
+}

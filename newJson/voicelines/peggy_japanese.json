@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_qiao_cacha_001.aac",
+            "text": "シンジケート城、ラップ浪人登場。お前ナニサマ、その間抜けな様。\nお前のその生きざま、許さん勝手気まま。骸骨に砲口、弾丸が咆哮——"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_qiao_promotion_001.aac",
+            "text": "新曲のアイデアが！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_qiao_promotion2_001.aac",
+            "text": "これこそスーパースターの待遇だ！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_qiao_battlebegin_001.aac",
+            "text": "あたしのリズムについてこい！"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_qiao_battlewin_001.aac",
+            "text": "あたしに勝ちたい？寝言は寝てから言え！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_qiao_battlelose_001.aac",
+            "text": "あ——即興ってミスが伴うもんだよ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_qiao_uniqueskill_001.aac",
+            "text": "Drop the beat！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_qiao_dead_001.aac",
+            "text": "ひ……ヒップホップじゃないぜ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_qiao_greeting_001.aac",
+            "text": "よっ。来たか？早く水をくれ。リリック書いてたら喉乾いたんだよ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_qiao_talk1_001.aac",
+            "text": "金のネックレスってやっぱいいよな。逃亡中は金に換えられるし、ケンカじゃ武器としても使える……なんでラッパー仲間はダイヤのほうが好きなんだろうな……。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_qiao_talk1_002.aac",
+            "text": "ミキサーはいつ貰えるんだ？ラップ界のスーパースターとして、このくそレコーダーで作曲なんて情けないだろ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_qiao_talk1_003.aac",
+            "text": "室内でサングラスを付けるやつは大嫌いだね。ラッパーとしてどうよ？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_qiao_talk2_001.aac",
+            "text": "ニューシティのくそ野郎どもが！何が弁護士だ！何が条例だ！？つまり金は払わねえってことだろ！？だからあたしは殴り込んでオーナーの顔をボコボコにしてやったぜ！　すっきりした！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_qiao_talk2_002.aac",
+            "text": "人をディスるためにわざわざ曲を？そんなのつまんねえよ。あたしの作品に名前が出てもいいのは局長くらいだ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_qiao_talk2_003.aac",
+            "text": "新しいレーベルを作ろうぜ！「MBCC」ってのはどうだ？あたしが創設者で、あんたが最初の歌手だ！できないとか言うなよ？教えてやるよ、簡単だからさ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_qiao_obeyfull_001.aac",
+            "text": "シンジケートを出てからロクな奴がいないなって思ってたけど、あんたは……シンジケートの出じゃないのに、ちゃんと会話ができたのは、あんたが初めてだ。子分にしてやるよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_qiao_idle_001.aac",
+            "text": "ラップはフリー、わざとはタブー。燃えるリリックと、ループがすべて。あふれ出すインスピレーション、不敗のバトルはセンセーション。あたしは天国、お前は地獄。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_qiao_clicking_001.aac",
+            "text": "お前どこ触ってんだ？死にてえのか！？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_qiao_specialattention_001.aac",
+            "text": "よっ。あたしのラップが聞きたいのか？それ以外に何があるんだよ？まさか仕事をさせようってわけじゃないだろ？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_qiao_dispatch_001.aac",
+            "text": "このスーパースターをパシリに使うなんて、どうかしてるって！"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_qiao_dispatch2_001.aac",
+            "text": "終わったぜ！すごいだろ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_qiao_levelup_002.aac",
+            "text": "リリックが滑らかになった！"
+        }
+    ],
+    "sensory_hyperwave": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_qiao_jifeiyinlang_cacha_001.aac",
+            "text": "What's up？お前らのスーパースター、akaラップスター・ペギーが堂々帰還だ——ペギーは終わった、誰がほざいた。その目でよく見ろ、ディスラップの頂点を！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_qiao_jifeiyinlang_levelup_001.aac",
+            "text": "ボリューム上げてけ！歓声で会場爆破だ——"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_qiao_jifeiyinlang_greeting_001.aac",
+            "text": "後ろの奴、何モタモタしてんだ？さっさとペギーのフロウに乗ってこい！お前らの最強ビートを見せてみろ——"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_qiao_jifeiyinlang_body_001.aac",
+            "text": "あたしがサツの犬になったとか言う奴が多いけど、奴らに何が分かる？ステージ上で血の中から生まれ変わるには、現実と闘って、一度死ななきゃならねえ。何度でも言うけど、Keep real、代わりに音楽が語ってくれるぜ！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_qiao_jifeiyinlang_body_002.aac",
+            "text": "シンジケートに教わった生き残るためのルールのおかげで、あたしはあの汚れた業界から這い上がって戻ってきた。この瞬間、生き返ったんだ！覚えておけ。伝説を語る時、ペギーはいつだって嵐の中心にいるってな！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_qiao_jifeiyinlang_idle_001.aac",
+            "text": "シンジケートを離れてからも、気の合う仲間たちとたくさん出会った。あいつらは現実に屈したりしねえで、何度ももがいて蘇った。あたしはそういう反骨精神の狂人が大好きだ。奴らは本当の意味で生きてる人間だぜ！最高にヒップホップだ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_qiao_jifeiyinlang_clicking_001.aac",
+            "text": "まだ満足してねえのか？盛り上がりが足りない？だったら、もっとぶっ飛べ。あたしと人の波に飛び込んで、観客に押し流されてステージに戻ろうぜ——どうだ、スリル満点だろ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_qiao_jifeiyinlang_specialattention_001.aac",
+            "text": "おい、特別招待席のそこのあんた。そのままずっと、あたしを見つめてるつもりか？ステージに上がって、あんたの実力を見せてみろ！"
+        }
+    ]
+}

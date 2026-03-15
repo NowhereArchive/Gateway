@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_fuluola_cacha_001.aac",
+            "text": "Eastside Firefighting Ambassador Flora reporting for duty! Wherever I am, not a single spark will appear! Really!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_fuluola_promotion_001.aac",
+            "text": "This makes putting out fires a lot easier. You can look forward to my performance, Chief."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_fuluola_promotion2_001.aac",
+            "text": "If only I had this power before the big fire... but now, I can do more!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_fuluola_battlebegin_001.aac",
+            "text": "Keep up! Don't fall behind!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_fuluola_battlewin_001.aac",
+            "text": "Preparing to return. Currently at the handover scene."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_fuluola_battlelose_001.aac",
+            "text": "The fire is out of control."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_fuluola_uniqueskill_001.aac",
+            "text": "Spray with the hose!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_fuluola_dead_001.aac",
+            "text": "There are still people who are... who are..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_fuluola_greeting_001.aac",
+            "text": "Good morning, Chief. Remember to check the fire equipment regularly. Safety first!"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_fuluola_talk1_001.aac",
+            "text": "I don't like to use the firefighter's ax... I always hurt my teammates by accident."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_fuluola_talk1_002.aac",
+            "text": "My ex-coworkers always act weird around me. Am I being ostracized?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_fuluola_talk1_003.aac",
+            "text": "Give me anything with a hose and I can put out a fire! Hehe... it's just a matter of precision."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_fuluola_talk2_001.aac",
+            "text": "Sorry, I don't hate people who use flames as weapons, but... forget it. I will definitely keep an eye on them. After all, the best cure is prevention!"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_fuluola_talk2_002.aac",
+            "text": "I once thought I could also help others as a firefighting ambassador, until I saw the burning buildings and heard those wailing for help. It was then that I realized where I truly belonged: in the middle of a firestorm."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_fuluola_talk2_003.aac",
+            "text": "I prefer long hair over short hair, but it's really inconvenient to have long hair while fighting fires."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_fuluola_obeyfull_001.aac",
+            "text": "Even though there are no fire hazards here, I get to help more people. Thank you, Chief... this was what I wanted."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_fuluola_idle_001.aac",
+            "text": "Uhhh... how high should I aim the hose? One sec! Let me check the manual."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_fuluola_clicking_001.aac",
+            "text": "Don't distract me! I need to train!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_fuluola_specialattention_001.aac",
+            "text": "It's my job to teach you about fire safety! Please turn to the first page of the fire safety manual!"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_fuluola_dispatch_001.aac",
+            "text": "Flora is all prepared and waiting to go."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_fuluola_dispatch2_001.aac",
+            "text": "Mission accomplished. Flora has returned to the brigade!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_fuluola_levelup_002.aac",
+            "text": "I've grown stronger again."
+        }
+    ],
+    "fire_safety_tips": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_cacha_001.aac",
+            "text": "Everyone, pay attention! When using a fire extinguisher, remember the PASS method: Pull, Aim, Squeeze, Sw—Oh no... Ahem! This—this was actually a demonstration of what NOT to do! Remember, staying calm is crucial during emergencies. Now, let me show you the correct procedure!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_levelup_001.aac",
+            "text": "I've memorized every word of the new fire extinguisher manual, front to back!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_greeting_001.aac",
+            "text": "Hey, Chief! You came to the fire safety demonstration too? Come sit in the front row! I've already saved you a seat!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_talk1_001.aac",
+            "text": "Oh, I'm so sorry... I thought the nozzle was stuck, so I gave it an extra hard squeeze, and it sprayed too hard, and you were standing right there... Are you okay? Let me get you some tissues to dry your hair..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_talk1_002.aac",
+            "text": "Many areas with piled-up items around campus can pose serious fire hazards because these piles often contain flammable materials, like cardboard boxes, old textbooks, test papers with bad grades... Wait, what?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_idle_001.aac",
+            "text": "Even during breaks, I can't afford to slack off on practice! With just ten minutes, I can run through the extinguisher drill ten times!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_clicking_001.aac",
+            "text": "Hey, stop pulling on my sleeve! I can't aim properly... Wait, I didn't pull the safety pin? So that's the problem! No wonder nothing happened when I kept pressing the handle."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_specialattention_001.aac",
+            "text": "Chief! I've mapped out an optimal evacuation route for fire emergencies. I will definitely get everyone safely to the field for this drill! Please watch closely!"
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_xiayin_cacha_001.aac",
+            "text": "危機管理局の技術ってちょっと遅れてるよねぇ。こんな設備じゃあたしを閉じ込めておくことなんてできないよ？よし、システムをアップグレードしよう！あたしなら朝飯前だしさ！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_xiayin_promotion_001.aac",
+            "text": "ヒーロー、登場！こほん……どう？このセリフ言ってみたかったんだぁ～！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_xiayin_promotion2_001.aac",
+            "text": "コントローラー中枢リンク完了、夏音も準備OK！この闇の世界を救っていくわよ！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_xiayin_battlebegin_001.aac",
+            "text": "そんなところ行ったら、スカートが汚れちゃうって。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_xiayin_battlewin_001.aac",
+            "text": "悪は、破れる運命なのだ……。うん……このセリフもいい……。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_xiayin_battlelose_001.aac",
+            "text": "うーん……きっとリング武器のパラメータの設定に問題があったのよ。もう1回！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_xiayin_uniqueskill_001.aac",
+            "text": "全機ロックオン、エリアクリア！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_xiayin_dead_001.aac",
+            "text": "うぅ……まだ……卒業してないのに……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_xiayin_greeting_001.aac",
+            "text": "やっほー！局長がいない間に新しいアイデアを思いついたの……手や足をもっと使いやすい物に取り替えるって考えたことある？他には……脳を強化するとか？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_xiayin_talk1_001.aac",
+            "text": "ちゃんと見て。これはリング武器よ。死瞳武器じゃない。根本的に違うのよ。まったく、あたしがこんな粗悪品を作るわけないのに。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_xiayin_talk1_002.aac",
+            "text": "天才科学者は思考するために大量の糖分が必要で、チョコレートは最良の選択なの。女子高生にもぴったりだし。だから、局長……あたしの申請を承認してくれる？ちょっと分けてあげてもいいから！ね！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_xiayin_talk1_003.aac",
+            "text": "あの機体は見た目が悪いだけなの！一般的な機種とは違うんだって！それ以上言うと怒るから。早くモデルに謝って！"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_xiayin_talk2_001.aac",
+            "text": "友達？いらなーい。女子高生には友達がいなくちゃいけないなんて誰が決めたの？「学園の天才怪人機甲ミステリアス美少女」って設定の方が面白いでしょ？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_xiayin_talk2_002.aac",
+            "text": "ここはリング研究所に比べれば天国よ！部屋の中に自由に物が置けるだけじゃなくて、時間も自由に使えるし、何より、いつでもどこでもアニメが見られるし！"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_xiayin_talk2_003.aac",
+            "text": "自分で戦うって本当に面倒くさいねぇ。スカートはいっつも汚れるし。でも、局長のお願いだったら……手伝ってあげるよ。その代わり、一日だけ実験体になってね。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_xiayin_obeyfull_001.aac",
+            "text": "局長が英雄みたいだなーって思っちゃう瞬間があるんだけど……どう？機甲パイロットになる気はない？デザインの方向性はもう考えてあるんだよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_xiayin_idle_001.aac",
+            "text": "今日の運動スケジュールスタート！ふぅ————ふぅ————OK！完璧な腹式呼吸。目標達成、帰ってアイスクリームを食べよ～。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_xiayin_clicking_001.aac",
+            "text": "運動なんか——したくない——一日だけでも怠け者になりたい——"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_xiayin_specialattention_001.aac",
+            "text": "あたしに興味があるの？ふふ、あたしもあなたをもっと近くでよく見たいな。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_xiayin_dispatch_001.aac",
+            "text": "えっ……お使い？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_xiayin_dispatch2_001.aac",
+            "text": "はぁ……はぁ……リング武器がなかったら……戦えないよ……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_xiayin_levelup_002.aac",
+            "text": "糖分補給！"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_xiayin_head_001.aac",
+            "text": "えっ？どうしたの？さっきの説明でわからないとこあった？そっか……局長になら、何度でも教えてあげるよ。"
+        }
+    ],
+    "desert_delusions": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_xiayin_kuangshayixiang_cacha_001.aac",
+            "text": "「あたしの宝が欲しいか？この世の全てを砂の海に置いてきた！」へへ～どう？この場面にピッタリのセリフでしょ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_xiayin_kuangshayixiang_levelup_001.aac",
+            "text": "機械序列最適化！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_xiayin_kuangshayixiang_greeting_001.aac",
+            "text": "クローの物を掴む能力は合格ね！ まずは局長で試してみよう～っと！あっ……局長おはよ！一緒に実験……さ、砂の海に探険しに行かない？？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_xiayin_kuangshayixiang_head_001.aac",
+            "text": "あれ？これを試してみたいの？ふふん～局長もこの「ナツネスペシャル円筒砂除け帽子」の魅力にやられたみたいだね。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_xiayin_kuangshayixiang_body_001.aac",
+            "text": "宝探しは雰囲気が一番大事なの！……着込んでても暑くなんてないって！服に30個も冷却モジュール仕込んでるんだから！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_xiayin_kuangshayixiang_body_002.aac",
+            "text": "チョコ～チョコ～あれ？ない……こんなに早くなくなるなんて！はぁ、こんなことならもっと持ってくるべきだったなぁ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_xiayin_kuangshayixiang_hand_001.aac",
+            "text": "頭の上にプロペラを付けて、それからソーラーパネルと方向転換システムを設置。最後にバッテリーを取り付けたら、あたしのドローンの代わりに、砂の海で一番知能の高い偵察機になれるね！どう？試してみる？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_xiayin_kuangshayixiang_background_001.aac",
+            "text": "ふぁ……ちょっと休ませて……今、砂の船のパワーシステムを一通り調べたところなの……もう疲れて動けないよ……。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_xiayin_kuangshayixiang_idle_001.aac",
+            "text": "うわ……酷い砂嵐！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_xiayin_kuangshayixiang_specialattention_001.aac",
+            "text": "あれっ？局長だ！その装備……まさか局長も砂の海に埋められたお宝を探しに来たの？"
+        }
+    ],
+    "luminous_night": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_xiayin_xiayeshanguang_cacha_001.aac",
+            "text": "リング物質エンジンの圧力正常。電子機械とGPSも正常。本体に損傷なし。空戦強化型リング武器、Summer1号——出る！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_xiayin_xiayeshanguang_levelup_001.aac",
+            "text": "清浄なる空のために！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_xiayin_xiayeshanguang_greeting_001.aac",
+            "text": "局長ーーどう？この空を飛ぶ感じ、いいでしょ？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_xiayin_xiayeshanguang_head_001.aac",
+            "text": "これ、リング研究所にいた頃からやりたかったんだよね～！あのジジイたち、いっつも「予算がない、予算がない」とか言っててさ。やっぱ局長、最高～！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_xiayin_xiayeshanguang_body_001.aac",
+            "text": "う～ん——ベストコンディション！これなら隣の学校の卒業パーティーに間に合う！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_xiayin_xiayeshanguang_body_002.aac",
+            "text": "ん？メッセージ……？「設備を壊さないよう、高度に注意してくれ」？はぁ……「夏音」って名を最低限信頼してよ！"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_xiayin_xiayeshanguang_leg_001.aac",
+            "text": "テスト飛行の前に準備運動はしたよ。腹筋を……2回もね！"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_xiayin_xiayeshanguang_arm_001.aac",
+            "text": "装甲、薄すぎ？へへ、当たらなければいいでしょ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_xiayin_xiayeshanguang_idle_001.aac",
+            "text": "うーん……宇宙に行った種が巨大な実をつけるなら、宇宙に行ったホットココアはもっと甘くなるのかな？えへへっ～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_xiayin_xiayeshanguang_specialattention_001.aac",
+            "text": "ああ局長、そんな緊張しないで！あなたの身体には、スマート飛行モジュールが16個もついてるから、空で寝ても大丈夫だよ！"
+        }
+    ]
+}

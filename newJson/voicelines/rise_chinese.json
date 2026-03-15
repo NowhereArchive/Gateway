@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_rise_cacha_001.aac",
+            "text": "我可以为你工作，但事先声明，在排期合理的前提下，我不接受加班。除非MBCC能承诺支付我四倍时薪，我才勉强同意考虑一下。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_rise_promotion_001.aac",
+            "text": "我们的工作取得了阶段性的成果。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_rise_promotion2_001.aac",
+            "text": "一切恶行……都会肃清于这把光剑之下！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_rise_battlebegin_001.aac",
+            "text": "这些碍眼的垃圾，我一个都不会放过。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_rise_battlewin_001.aac",
+            "text": "哈啊——！连空气都变得清新多了！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_rise_battlelose_001.aac",
+            "text": "下一次，我会把你们彻底劈碎！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_rise_uniqueskill_001.aac",
+            "text": "不堪一击！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_rise_dead_001.aac",
+            "text": "我还得站起来……去改变这一切……！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_rise_greeting_001.aac",
+            "text": "这就是今天的任务安排？收到，我会在下班之前提交一版报告。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_rise_talk1_001.aac",
+            "text": "我所有的工作压力几乎都来自于工作中接触的人，而不是工作本身。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_rise_talk1_002.aac",
+            "text": "还在加班？去做些更有意义的事吧，例如多读点书之类的。《狄斯劳动条例》就不错，我曾在涅槃内部的阅读会上分享过它，推荐你也去看看。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_rise_talk1_003.aac",
+            "text": "不公的待遇我会直接提出，错误的提议我会当场反驳。混乱的现象就该得到纠正，否则这个世界还能有什么进步可言？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_rise_talk2_001.aac",
+            "text": "宣泄压力的方式有很多，我的习惯是去打壁球。我会把壁球当做那些让我不爽的事物，再将它们狠狠击飞出去，为此我能消耗一整晚的时间。你如有需要，我可以把地址推给你。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_rise_talk2_002.aac",
+            "text": "我的第一个上司是个尸位素餐的废物，所以被我扔进回收站了；我的第二个上司实力很强，却总让我怀疑她所有的天赋全都点在了智商上。而你，虽然不太像个上位者，却已经算是我遇到过最好的上司。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_rise_talk2_003.aac",
+            "text": "童年时大家应该都憧憬过吧，小说里那种英雄式的主角。可惜，现实里不是所有人都像天选之人那样拥有能战胜一切邪恶的力量，最终要么被吃干抹净，要么就同流合污。但我不想被他们改变，所以选择去改变他们。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_rise_obeyfull_001.aac",
+            "text": "为你工作让我感到放松。不是工作内容简单的意思，而是因为……我的内心终于得到了喘息，不必再被过载的重压追赶。你身边有个理想的世界正在一点一点建立，虽然还只是个雏形……但我看到了它完成的未来。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_rise_idle_001.aac",
+            "text": "劳逸结合？说得好，是时候出门去倒杯狄式浓缩了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_rise_clicking_001.aac",
+            "text": "再烦我，小心我对着你的脸劈下去。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_rise_specialattention_001.aac",
+            "text": "有事快说，不要耽误我准时下班。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_rise_dispatch_001.aac",
+            "text": "需求收到。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_rise_dispatch2_001.aac",
+            "text": "工作结束，我下班了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_rise_levelup_002.aac",
+            "text": "新模型的工作效率有所提升。"
+        }
+    ],
+    "nebula_sentinel": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_rise_xingjieshouwang_cacha_001.aac",
+            "text": "穿越过数千个星系和数万颗星球，光剑指引我来到此地。在这漫长的旅途中，唯独从你身上，我感知到了宿命般的引力。你，便是我的同行者吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_rise_xingjieshouwang_levelup_002.aac",
+            "text": "这份光芒，因你的支持而愈发明亮。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_rise_xingjieshouwang_greeting_001.aac",
+            "text": "愿正义的光明永远与你同在。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_rise_xingjieshouwang_head_001.aac",
+            "text": "你也感知到了吗，那种存在于万物之间的力量。它是如此浩瀚包容，英雄能以此匡扶正义，恶人也能借此为所欲为……我们所有人都与它同在。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_rise_xingjieshouwang_talk1_001.aac",
+            "text": "我曾在宇宙间四处游历，目睹过壮丽的荒星被黑暗占据，也见证过不公的炼狱被推翻瓦解——无论如何，我发誓绝不坐视公义与光明的消逝。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_rise_xingjieshouwang_talk1_002.aac",
+            "text": "战胜邪恶的天选之人？你不会也信了那所谓的预言吧。在我看来，只要每个人都能心怀赤诚，那这个世界自然不会陷入黑暗与混乱，也就不需要什么救世主了。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_rise_xingjieshouwang_hand_001.aac",
+            "text": "这把光剑赋予我作为战士的意义。它给予我惩恶扬善的力量，提醒我守护正义的职责，并引领我……找到了你。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_rise_xingjieshouwang_shoulder_001.aac",
+            "text": "不要在黑暗面前产生动摇，只要你我并肩作战，就一定能将这些邪恶肃清消灭。我相信，光明与希望终究会在我们手中得到解放。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_rise_xingjieshouwang_idle_001.aac",
+            "text": "这片璀璨的星空的确让人痴迷，可我认为那些存于人们心中的美好道德，也同样值得仰望。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_rise_xingjieshouwang_specialattention_001.aac",
+            "text": "在正义的道路上，我们会永远相伴同行。你不是孤独的那一个。"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_rahu_cacha_001.aac",
+            "text": "同是反狂厄作战单位，我会把这一系列针对我的行为视作“人事调动”，也服从你的安排。但如果你的命令与那个人有冲突，还请局长谅解。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_rahu_promotion_001.aac",
+            "text": "终有一天，细小的湍流将汇聚成涌动的潮汐。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_rahu_promotion2_001.aac",
+            "text": "阴影散尽，烈日当空……是时候了。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_rahu_battlebegin_001.aac",
+            "text": "不用害怕，我不会让任何人伤害你。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_rahu_battlewin_001.aac",
+            "text": "不能停留……这里还不安全。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_rahu_battlelose_001.aac",
+            "text": "……别管我，你们带他离开！快！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_rahu_uniqueskill_001.aac",
+            "text": "清除……所有……威胁！！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_rahu_dead_001.aac",
+            "text": "我还有使命……有要守护的人……我不能……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_rahu_greeting_001.aac",
+            "text": "为什么要这样看着我？你是在……期待我给你回应吗？嗯……好吧，你好。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_rahu_talk1_001.aac",
+            "text": "对我而言，忠诚是不容违背的准则。这一点无论发生什么，都不会动摇。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_rahu_talk1_003.aac",
+            "text": "若只是舍弃性命就能达成自己的目的，又有什么可抱怨的呢？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_rahu_talk1_005.aac",
+            "text": "休息？那是我不配拥有的奢侈品……好吧，如果你真的需要一个谈话消遣的对象，我想我可以试试。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_rahu_talk2_001.aac",
+            "text": "这是我求得的力量，我绝不会后悔当初的选择，只恨没有更早行动。那样的话，至少不会沦为如今的丧家之犬。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_rahu_talk2_003.aac",
+            "text": "教会我“忠诚”的人，也是我第一个效忠的对象……奇怪，那个人是谁？我……我想不起来了……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_rahu_talk2_005.aac",
+            "text": "沾染狂厄、陷入癫狂……那是我实现目的的手段，亦是代价。或许有一天，我会失去控制。到时候，为了你的安全，做你该做的事，不要犹豫。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_rahu_obeyfull_001.aac",
+            "text": "过去我的眼前只有黑暗。可你做的一切……就像给这片无尽的黑暗打上了一束光，即便那只是虚无缥缈的希望……我会保护你的……用我的一切。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_rahu_idle_001.aac",
+            "text": "……不用管我……很快就会结束……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_rahu_clicking_001.aac",
+            "text": "身为MBCC的长官，却做出这种事……你不会觉得羞耻吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_rahu_specialattention_001.aac",
+            "text": "你不必亲自来监视我，枷锁不是什么可以轻易挣脱的束缚。只是想和我独处？哦，好吧。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_rahu_dispatch_001.aac",
+            "text": "知道了，我会去的。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_rahu_dispatch2_001.aac",
+            "text": "任务完成，请指示。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_rahu_levelup_002.aac",
+            "text": "很好，多来一些，我需要它们。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_rahu_head_001.aac",
+            "text": "喜欢我的……头发？谢谢。"
+        }
+    ],
+    "radiant_stealth": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_rahu_qingkongmixing_cacha_001.aac",
+            "text": "待机地点已经到达，等待下一步指示。是的，太阳有些耀眼，气温也有所上升，这有利于目标人物改变装束，躲避搜查，需要特别注意。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_rahu_qingkongmixing_levelup_001.aac",
+            "text": "这点台阶不算什么，继续向上吧。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_rahu_qingkongmixing_greeting_001.aac",
+            "text": "为了保证伪装效果，尽量融入环境，我们现在确实应该进行一些闲谈。参考那边的两位白领，我们或许可以聊聊不宽容的上司。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_rahu_qingkongmixing_body_001.aac",
+            "text": "对我来说，职责不会因为服饰和角色而有所变动。无论穿着打扮如何，我都是你的护卫，会为了你的安全清除一切障碍。没有什么不习惯。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_rahu_qingkongmixing_body_002.aac",
+            "text": "发现远处有多名可疑人物聚集，且有紧密关注我方动向的迹象……这个距离难以判断是否携带武器。为你的安全起见，我们转移阵地。嗯？只是想要我的联系方式？如果有困难，可以拨打治安局的电话，而不是我的。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_rahu_qingkongmixing_idle_001.aac",
+            "text": "停。坐。起。受训程度合格，但稍微有点外抑制……希望关键时刻能稳住，不要被其他因素吸引注意力。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_rahu_qingkongmixing_clicking_001.aac",
+            "text": "这样的触碰方式有可能被训练过的犬类判断为攻击行为，我不太建议你继续。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_rahu_qingkongmixing_specialattention_001.aac",
+            "text": "在其他人就位之前，你都打算这样看着我吗？遵循人设？好吧……需要我做出回应的话，就告诉我。"
+        }
+    ],
+    "loyal_oath": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_rahu_rongguangqishi_cacha_001.aac",
+            "text": "我对我的主君宣誓，向你献上我一生的忠诚与守护——从今往后，我们将荣辱与共，永不背弃。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_rahu_rongguangqishi_levelup_002.aac",
+            "text": "我不会辜负你的期望。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_rahu_rongguangqishi_greeting_001.aac",
+            "text": "庄园已巡视完毕，一切安全。今天有什么外出事务需要我陪同护送吗？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_rahu_rongguangqishi_head_001.aac",
+            "text": "请别乱碰，骑士的仪表同样也代表了你的体面，所以我希望能保持发型的整齐庄重。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_rahu_rongguangqishi_talk1_001.aac",
+            "text": "那些被广为赞颂的骑士精神，真正能全部做到的人又有多少？……你认为我就是？好吧，谢谢你，我会继续保持。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_rahu_rongguangqishi_talk1_002.aac",
+            "text": "骑士效忠后会得到来自主君的信物，那是被青睐和承认的证明；而你所给予的信任，对我来说就是最好的奖赏。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_rahu_rongguangqishi_hand_001.aac",
+            "text": "想做什么就去做吧，我会永远站在你的身侧。无论是什么人想要威胁你的安危，我都绝不会让他们找到任何可乘之机。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_rahu_rongguangqishi_weapon_001.aac",
+            "text": "我的武器和力量只为守护而生，它们捍卫你的荣誉，贯彻你的意志，也为你所践行的道路扫除一切阻碍。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_rahu_rongguangqishi_idle_001.aac",
+            "text": "现在阳光正好，不如去楼下的花园庭院里小坐，喝杯红茶？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_rahu_rongguangqishi_specialattention_001.aac",
+            "text": "贴身守护也是骑士的职责之一。既然我已经朝你宣誓，那就不必担心我会离你而去。"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_jiekuilin_cacha_001.aac",
+            "text": "놔요! 놓으라고! 나는 디스시티 최고의 악당이란 말이에요! 날 잡지 말라고요!"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_jiekuilin_promotion_001.aac",
+            "text": "앞에 더 짜릿한 모험이 기다리고 있겠지!"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_jiekuilin_promotion2_001.aac",
+            "text": "오마이갓! 이게 정말 나란 말이에요? 이러다가 나 정말 낙원에서 농사도 지을 수 있겠는데요?!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_jiekuilin_battlebegin_001.aac",
+            "text": "이번에는 어디로 탐험을 가는 거예요?"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_jiekuilin_battlewin_001.aac",
+            "text": "이겼다! 축하 파티를 해야죠~ 난 콜라 마실래요!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_jiekuilin_battlelose_001.aac",
+            "text": "크흠, 내가 봐준거라고요…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_jiekuilin_uniqueskill_001.aac",
+            "text": "맛 좀 봐라!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_jiekuilin_dead_001.aac",
+            "text": "힝… 나 아직 더 놀고 싶단 말이에요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_jiekuilin_greeting_001.aac",
+            "text": "얏호~ 국장님! 우리 언제 또 '나쁜 일' 하러 가요? 빨리요, 빨리~ 나 너무 심심해요~"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_jiekuilin_talk1_001.aac",
+            "text": "국장님, 나 콜라 마실래요! 네? 양치 열심히 할게요?! 네?!"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_jiekuilin_talk1_002.aac",
+            "text": "좋네요, 매일 쌈박질만 좀 하면 잘 먹고 꿀잠 잘 수 있으니 관리국은 참 좋은 곳이군요. 음…잠깐만요! 게으름 피우는 것도 '나쁜 거'잖아요?! 굿~좋아 좋아! 나는 역시 디스시티에서 제일 나쁜 놈이라고요!"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_jiekuilin_talk1_003.aac",
+            "text": "우리 할아버지는 어릴 때부터 카우보이가 되고 싶어서 밖을 돌아다니며 세상 물정을 보셨대요. 그러다가 귀농하셔서 평생 고향을 떠나지 않고 농사를 지었다고 해요. 난 할아버지의 꿈을 실현시켜 드리기 위해 그의 모자를 슬쩍 가져왔어요! 하하!"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_jiekuilin_talk2_001.aac",
+            "text": "디스시티는 정말 크네요. 3시간이나 달렸는데도 끝이 안 보여요. 제 고향에서는 모든 밭을 다 갈아도 3시간이면 끝나는데… 그래서… 나는 언제 낙원에 가서 농사를 지을 수 있을까요?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_jiekuilin_talk2_002.aac",
+            "text": "국장님, 나쁜 놈들을 만나면, 이 '후추'의 이름을 대라고요. 비록 별 소용은 없지만, 국장님에게 용기를 북돋아 줄 수 있잖아요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_jiekuilin_talk2_003.aac",
+            "text": "요즘 임무 수행하느라 바빠서 '나쁜 짓' 할 시간이 없어요! 이러다간 디스시티에서 나의 악명을 잊어먹겠어요."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_jiekuilin_obeyfull_001.aac",
+            "text": "국장님, 농사지으러 갑시다. 보물찾기는 어때요? 이상한 괴물들이랑 싸우러 갈까요? 아~기다리다 지쳤어요!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_jiekuilin_idle_001.aac",
+            "text": "아함~ 언제 출발해요~ 기다리다 졸겠어요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_jiekuilin_clicking_001.aac",
+            "text": "왜 그래요? 내 옷에 뭐 묻었어요? 아, 아니에요?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_jiekuilin_specialattention_001.aac",
+            "text": "무슨 새로운 계획이 있는 거예요?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_jiekuilin_dispatch_001.aac",
+            "text": "출발~! 디스탐험 고고!"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_jiekuilin_dispatch2_001.aac",
+            "text": "오케이~ 얼른 칭찬해 줘요!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_jiekuilin_levelup_002.aac",
+            "text": "업! 업!"
+        }
+    ],
+    "peppy_shepherdess": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_cacha_001.aac",
+            "text": "국장님! 여기예요! 제 새끼 양들 좀 보세요, 하늘 위의 구름 같지 않나요? 하얗고 뭉실뭉실한 게 말이에요!\n그럼, 저와 함께 양치기 일을 해보지 않으실래요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_levelup_001.aac",
+            "text": "양. 돌. 보. 는. 법? 오~ 양들을 이렇게 돌보는 거였구나?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_greeting_001.aac",
+            "text": "국장님, 빨리 와보세요! 이곳의 햇살, 바람, 그리고 새끼 양들까지, 모두 향기롭고 따뜻해요! 너무 좋아요!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_body_001.aac",
+            "text": "어디 보자, 오늘 할 일은… 새끼 양들을 데리고 새로운 목초지에 간다… 그리고… 우리를 청소한다…\n아참! 아침에 새로 짠 양유도 시장에 보내야 해!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_body_002.aac",
+            "text": "디스시티에서 제일가는 대악당이 되는 걸 포기했냐고요? 설마요! 악당이라고 해서 양치기 일을 하지 말라는 법이라도 있나요?!\n흥, 만약 계속 이렇게 아무것도 못 하게 하면, 제가 양 똥을 확 던져버릴지도 몰라요!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_idle_001.aac",
+            "text": "양 한 마리… 양 두 마리… 양 세 마리… 안 돼! 더 세었다간 잠들어버릴 거야!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_clicking_001.aac",
+            "text": "아, 아얏! 제 얼굴이 양털처럼 말랑말랑하다는 건 또 무슨 소리예요!? 새끼 양이 훨씬 더 부드럽고 귀엽겠죠!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_specialattention_001.aac",
+            "text": "헤헤, 국장님도 목장의 풍경이 마음에 드시나 봐요? 고향을 떠난 뒤로 이렇게 자연과 가까워진 건 정말 오랜만이에요~\n저를 이곳에 데려와 주셔서 정말 감사해요. 국장님 퇴근 시간까지 그냥 이대로 있고 싶어요!"
+        }
+    ]
+}

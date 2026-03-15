@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_angel_cacha_001.aac",
+            "text": "나한테 일을 시키려면, 다크웹에서 주문하고 선결제한 뒤에 기다려. 급한 의뢰는 안 받아. 만약 그냥 날 귀찮게 하려고 찾아온 거라면… 잘 생각해, 그 대가는 감당하기 힘들 테니까."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_angel_promotion_001.aac",
+            "text": "특별한 기교 같은 건 필요 없어. 처리할 때 잡생각만 없으면 돼."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_angel_promotion2_001.aac",
+            "text": "칼을 꺼냈으면 피를 봐야지."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_angel_battlebegin_001.aac",
+            "text": "사전 답사인가? 좋아, 내가 가지."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_angel_battlewin_001.aac",
+            "text": "의뢰 완료."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_angel_battlelose_001.aac",
+            "text": "…아직 끝이 아니야. 내 의뢰가 이대로 끝날 리 없어."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_angel_uniqueskill_001.aac",
+            "text": "네 목숨은 내가 거둬가마!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_angel_dead_001.aac",
+            "text": "하하… 고용주가 실망하겠군…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_angel_greeting_001.aac",
+            "text": "당신이 올 줄은 몰랐는데. 새로운 의뢰인가? 아님, 여기 숨어서 잠깐 쉬려고?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_angel_talk1_001.aac",
+            "text": "…커튼은 건들지 마. 밖에 있는 사람에게 들키면 위험해."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_angel_talk1_002.aac",
+            "text": "난 다크웹에서 의뢰를 받아 생활을 유지해. 고양이를 찾든, 사람을 찾든, 칼을 쓰든 안 쓰든 가장 중요한 건 가성비야. 개인 취향은… 중요하지 않아."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_angel_talk1_003.aac",
+            "text": "…내가 외로워 보인다고? 그럴지도. 하지만 외롭다는 건 안전하다는 의미이기도 해. 이쪽 세계에서는 안전이야말로 가장 중요한 거거든. 그러니 외로워도 상관없어."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_angel_talk2_001.aac",
+            "text": "내 방이 더러운 것 같진 않은데. 필요한 걸 찾을 수만 있으면 되잖아. 칼, 주먹밥, 컴퓨터, 문, 침대. 아주 분명하잖아? 이 집은 내 업무 현장보다 훨씬 편해. 아주 만족스러워."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_angel_talk2_002.aac",
+            "text": "사람들이 두려워하고 증오하는 어둠이 바로 나의 일상이야. 난 그것을 받아들였고, 스스로 불쌍하다고 생각하지 않아. 모든 사람에게는 자신의 운명이 있잖아? 난 다른 생활을 탐내지 않을 거야… 당신이 끓인 단팥죽만 빼고. 정말 맛있거든."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_angel_talk2_003.aac",
+            "text": "나도 따뜻하고 밝은, 네가 희망과 사랑이라고 부르는 것들을 본 적이 있어. 하지만 결국은 예외 없이 사라져 버렸지. 그런 환상보다 약한 것들은 이쪽 세계에서 살아남을 수 없어."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_angel_obeyfull_001.aac",
+            "text": "난 억지로 당신을 내 곁에 두지 않을 거야. 필연적으로 내 주변은 어두울 테지만, 당신은 빛으로 나아가야 하거든. 하지만 난 여기서 당신을 지켜줄 거야. 심연에 있는 건 나 하나로 충분해, 그 누구도 널 끌어들이지 못할 거야. 이건… 내가 나에게 내린 일생일대의 의뢰야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_angel_idle_001.aac",
+            "text": "…이 칼과 나, 둘 중 누가 먼저 부러질까?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_angel_clicking_001.aac",
+            "text": "뭔가 초조해하는 것 같은데, 시킬 일이라도 있어?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_angel_specialattention_001.aac",
+            "text": "그렇게 보고 있어도 소용없어, 넌 내 움직임을 따라잡을 수 없으니까. 내가 떠난다 해도 잡지 못할 거고."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_angel_dispatch_001.aac",
+            "text": "접수 완료, 계약금은 원래 보내던 곳으로 보내."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_angel_dispatch2_001.aac",
+            "text": "확인해 봐, 잔금 결제하는 거 잊지 말고."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_angel_levelup_002.aac",
+            "text": "보수 잘 받았어."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_angel_head_001.aac",
+            "text": "왜, 할 말 있어?"
+        }
+    ],
+    "lurking_lotusblade": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_angel_gujianjinghe_cacha_001.aac",
+            "text": "네 요구대로 주변의 위협은 전부 제거했어. 이제 네 정원에서 잠깐 쉬려고 하는데, 문제없지?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_angel_gujianjinghe_levelup_001.aac",
+            "text": "칼날이 이미 드러났으니 한 번에 끝내주지."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_angel_gujianjinghe_greeting_001.aac",
+            "text": "오늘은 딱히 의뢰가 없어서 잠깐 쉬러 왔어… 여긴 무척 조용해서 마음에 들어."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_angel_gujianjinghe_head_001.aac",
+            "text": "네 숨결은 기억하고 있어. 다른 사람이었다면 이미 연못 속에 빠져 진흙이 되었을 거야."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_angel_gujianjinghe_body_001.aac",
+            "text": "대낮에 길거리에서 걷기만 해도 소란이 일어나다니, 대체 어떤 놈들을 건드린 거야… 됐어, 자세히는 안 물을게."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_angel_gujianjinghe_body_002.aac",
+            "text": "내게 정의 같은 건 없어. 그저 다른 사람 대신 일을 처리하고, 고용주의 선택을 따를 뿐이야. 고민이라면… 어느 쪽이 더 이득인지 정도?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_angel_gujianjinghe_righthand_001.aac",
+            "text": "검법의 진수는 죽임이 아닌 숨김에 있지. 마치 네 정원에 숨은 나와, 내 뒤에 숨은 너처럼 말이야. 너무 과하게 드러내면 오히려 약점이 될 뿐이야."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_angel_gujianjinghe_lefthand_001.aac",
+            "text": "정원을 너무 섬세히 꾸밀 필요는 없어. 지금이 딱 좋아. 무질서 속의 질서… 음, 익숙한 느낌이 들어… 꼭 집에 돌아온 것만 같아."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_angel_gujianjinghe_idle_001.aac",
+            "text": "무슨 일 있으면 가 봐, 난 신경 쓰지 말고."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_angel_gujianjinghe_specialattention_001.aac",
+            "text": "우리 업계 사람들은 말이야, 자신의 얼굴을 함부로 드러내면 안 돼. 전에도 이렇게 날 뚫어져라 쳐다보던 사람이 있었는데, 어떤 결말을 맞이했는지… 넌 알고 싶지 않을 거야. 넌 내 얼굴을 까맣게 잊어버릴 거지? 난 네 정원이 정말 마음에 들거든, 다음번에 왔을 때도 널 볼 수 있었으면 좋겠어."
+        }
+    ],
+    "thunder_beat": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_angel_chenxiang_cacha_001.aac",
+            "text": "세트리스트에 내가 좋아하는 노래가 있어서 합류하기로 했어. 이어폰으로 듣는 것과 달리, 직접 연주하면 색다른 느낌이 들어."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_angel_chenxiang_levelup_001.aac",
+            "text": "감 잡았어."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_angel_chenxiang_greeting_001.aac",
+            "text": "여러 종류의 의뢰를 받아봤지만, 이렇게 누군가와 함께하는 건… 처음인 것 같아. 음, 같은 편이 곁에 있는 것도 나쁘진 않네."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_angel_chenxiang_talk1_001.aac",
+            "text": "드럼을 치는 것과 칼을 쓰는 것에는 공통점이 있어. 둘 다 극도의 정확성이 필요하고, 타이밍을 잡아 급소를 찔러야 하지."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_angel_chenxiang_talk1_002.aac",
+            "text": "예전 내 삶에는 '리듬'이란 게 없었어. 임무를 수행할 때는 소리를 내지 않는 게 중요했거든. 그런데 이번에는 소리를 또렷하게 전달해야 해서 새롭게 느껴지네."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_angel_chenxiang_idle_001.aac",
+            "text": "…신경 쓰지 마. 그냥 가볍게 두드리는 것뿐이야. 의뢰 처리할 때보다 지금이 훨씬 부드러워."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_angel_chenxiang_clicking_001.aac",
+            "text": "너도 한번 해볼래? 근데 힘 조절을 잘해야 해. 이 북들이 그리 튼튼하지 않아서, 전에 연습하다가 실수로 몇 세트를 부숴 먹은 적이 있거든."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_angel_chenxiang_specialattention_001.aac",
+            "text": "조명 아래에서 이렇게 모습을 드러내는 건 드문 일이야. 하지만 네가 객석에서 날 보고 있다는 걸 아니까, 차분히 공연을 마치고 네 기대에 부응할 수 있었지."
+        }
+    ]
+}

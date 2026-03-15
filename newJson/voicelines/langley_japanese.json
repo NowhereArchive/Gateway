@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_lanli_cacha_001.aac",
+            "text": "自分の上司に手錠をかけるとは……いい度胸だ、新入り。私のどの弱みを握った？さぁ、見せてごらんなさい。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_lanli_promotion_001.aac",
+            "text": "気をつけろ——お前は狙われているぞ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_lanli_promotion2_001.aac",
+            "text": "肥溜めに住むクズどもめ、お前たちには太陽の光を浴びる資格などない！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_lanli_battlebegin_001.aac",
+            "text": "頭を抱えて逃げるところを私に見せておくれ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_lanli_battlewin_001.aac",
+            "text": "よくやった。戻ったらお祝いをしてやろう。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_lanli_battlelose_001.aac",
+            "text": "撤退だ。大切な部下の命をここで失うわけにはいかない。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_lanli_uniqueskill_001.aac",
+            "text": "Time to die."
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_lanli_dead_001.aac",
+            "text": "誰かが……この意志を受け継いでくれる……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lanli_greeting_001.aac",
+            "text": "遅かったな、新人。何か進展は？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_lanli_talk1_001.aac",
+            "text": "私のステッキは気に入ったか？貸してやってもいいぞ。だが、いろんなものが入ってるからな……怪我をしないよう気をつけろ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_lanli_talk1_002.aac",
+            "text": "暗闇に入り、血に染まる……私の部下に正義はいらない。忠誠こそ最大の美徳。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_lanli_talk1_003.aac",
+            "text": "第九機関は影の蜘蛛、冷血な犬と言われていると？うん、気に入った。憎悪は恐怖から来るもの、恐怖は……スパイの最も愛する武器だ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_lanli_talk2_001.aac",
+            "text": "ルールと仕組みについて心配する必要はないぞ。何をするべきか定め、それを実行するだけだ。私の部下なのだから自信を持て。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_lanli_talk2_002.aac",
+            "text": "私の願いは……世界平和だぞ。はは、お前は信じるか？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_lanli_talk2_003.aac",
+            "text": "こめかみの飾りが気になるのか？はは、由来を知る必要はない。ただ……私もたまには美しいものを愛でたい気分にもなる。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_lanli_obeyfull_001.aac",
+            "text": "私に真実など求めるな、新人。真実の中には血でしか贖えないものがあるの。それはいつか私が墓に持って行くが、お前は……お前は生きろ。私がお前を生かす。この街と共に、夜を過ごし、夜明けを迎えるんだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lanli_idle_001.aac",
+            "text": "次は……ふふふ、誰を掃除すればいいんだろうな……。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_lanli_clicking_001.aac",
+            "text": "仕事を失うことも、命を落とすことも、どちらも良い事とは言えんだろう。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lanli_specialattention_001.aac",
+            "text": "じっと見ているだけでは、欲しい情報は手に入れられないぞ。どうだ新人？拷問のテクニックを教えてやろうか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_lanli_dispatch_001.aac",
+            "text": "ほう？この私が自ら出なければならないと言うのか？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_lanli_dispatch2_001.aac",
+            "text": "最新情報が欲しい？だったら今夜私のオフィスに取りに来るといい。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lanli_levelup_002.aac",
+            "text": "目標ロックオン——"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_lanli_head_001.aac",
+            "text": "試してみたいのはこの帽子か？それとも私の弾丸 ?"
+        }
+    ],
+    "banquet_guest": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_lanli_yeyanlaike_cacha_001.aac",
+            "text": "全ては順調だ。ただ、お前が来たことで……このパーティーは更に面白くなるな。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lanli_yeyanlaike_levelup_001.aac",
+            "text": "パーティーをもっと楽しませてもらおう。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lanli_yeyanlaike_greeting_001.aac",
+            "text": "お前の報告を聞く気はない。それは明日の仕事だからな。気兼ねなくこのパーティーを楽しめ。それが今、最優先すべき任務だ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_lanli_yeyanlaike_head_001.aac",
+            "text": "トルコキキョウ、キショウブ、サザンカ……ここにある花のどれが、私のこめかみを飾るに一番相応しいと思う？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_lanli_yeyanlaike_leg_001.aac",
+            "text": "来るのが早すぎるぞ、新人。私を信用していないのか、あるいは……私が任務をこなすところを見たいのか？後者であって欲しいものだな。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_lanli_yeyanlaike_body_001.aac",
+            "text": "淡白なようで辛口。これこそ、蔵元・柳生賢一が好む銘柄——「貢勝（こうしょう）」の特徴だ。シンジケートのマフィアも同じだ。烏合の衆に見えて、爪を隠している。そう思わないか、新人？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_lanli_yeyanlaike_hand_001.aac",
+            "text": "血を流さなければ見えない真実がある。今回は……そうならないことを祈ろう。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_lanli_yeyanlaike_leg_002.aac",
+            "text": "緊張するな、新人。そう固い顔をしていては、情報は手に入らないぞ……こっちに来て1杯付き合え。楽しむことこそが、このパーティーと……パーティーの主催者に対する敬意となる。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lanli_yeyanlaike_idle_001.aac",
+            "text": "私の連れに、ジュースを1杯頼む——刺激的なドリンクは飲めないだろうからな。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lanli_yeyanlaike_specialattention_001.aac",
+            "text": "全ての情報はここにある。欲しければ……パーティーの後に少し付き合え——もちろん、情報の整理をするんだ。"
+        }
+    ],
+    "madame_maelstrom": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_lanli_ehainvjue_cacha_001.aac",
+            "text": "壊血病はお前を倒せなかったようだな。さすが私の航海士だ。さて、全員持ち場に戻り、錨を上げ、ロープを引き、帆を張れ。「イーヴィル・バロネス」号が再び出航するぞ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lanli_ehainvjue_levelup_001.aac",
+            "text": "この船では、追加の火力は全て歓迎される。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lanli_ehainvjue_greeting_001.aac",
+            "text": "起きたか、航海士。まだ昨日のバカ騒ぎに浸っているのか？心配するな、責めているわけじゃない。命令に従い、十分に楽しみ、全力で戦う……これが「イーヴィル・バロネス」号のルールだ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_lanli_ehainvjue_head_001.aac",
+            "text": "いいだろう、サメの餌にしろ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_lanli_ehainvjue_body_001.aac",
+            "text": "都市……スパイ組織……第九機関？何をバカなことを言っているんだ？シェフ、あのテキーラに問題があるようだ。全部海に捨てておけ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_lanli_ehainvjue_body_002.aac",
+            "text": "嵐が近づいている。航海士、最も近い避難港に進路を変更するようクルーに伝えろ……勇気は敵のためにとっておき、海そのものに逆らうな……マストが折れるだけだ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_lanli_ehainvjue_righthand_001.aac",
+            "text": "上庭？心配するな、奴らは自ら災難を招く真似はしないだろう……私と奴らの関係が知りたいのか？ふふ、この秘密を知っているのは、玉座についている者と海の底にいる者のどちらかだ。お前はどちらになりたい？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_lanli_ehainvjue_lefthand_001.aac",
+            "text": "いつかこの帽子と船をお前にやろう。それまで、自分の価値を証明することだ。いいな？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lanli_ehainvjue_idle_001.aac",
+            "text": "船長の目の前で、のんびり居眠りをするとは。 親愛なる航海士よ、お前はなかなか度胸があるらしい。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lanli_ehainvjue_specialattention_001.aac",
+            "text": "おかえり、私の航海士。島の状況はどうだ？何人駐留している？大砲の数は？いい偵察だ。我々の獲物はもうすぐ綻びを見せるらしい。"
+        }
+    ]
+}

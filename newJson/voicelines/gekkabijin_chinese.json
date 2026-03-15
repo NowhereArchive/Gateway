@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_zuoyi_cacha_001.aac",
+            "text": "初次见面~你就是MBCC的局长么？在我动手之前，保好自己的项上人头，你可是很值钱的。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_zuoyi_promotion_001.aac",
+            "text": "明明知道我很危险，还要提升我的力量。你是觉得我对你没有任何威胁么！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_zuoyi_promotion2_001.aac",
+            "text": "我是您一个人的利刃。是一柄挥向花园的利刃，让那些曾经看不起我的人……统统闭嘴！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_zuoyi_battlebegin_001.aac",
+            "text": "被我发现的话，可就逃不掉了。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_zuoyi_battlewin_001.aac",
+            "text": "这么弱的对手……是看不起我么！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_zuoyi_battlelose_001.aac",
+            "text": "不可能……不可能！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_zuoyi_uniqueskill_001.aac",
+            "text": "放心，一点也不会痛。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_zuoyi_dead_001.aac",
+            "text": "弱小……就是原罪……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zuoyi_greeting_001.aac",
+            "text": "安保措施这么完备？呵……看来你是认可了我的实力。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_zuoyi_talk1_001.aac",
+            "text": "这里太安静了，让我想起了花园的阴冷氛围。但无论如何，都比辛迪加的纷乱嘈杂要好得多。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_zuoyi_talk1_002.aac",
+            "text": "花园里有许多人对“花道”有很深的造诣，但……我不理解。工作就是工作，为什么要牵扯这么多无关的事。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_zuoyi_talk1_003.aac",
+            "text": "听着那些所谓“强者”的哀嚎，真是让人身心愉快……你不这么觉得么？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_zuoyi_talk2_001.aac",
+            "text": "在被花园所救的那一刻，我就注定了要成为像她们一样的人。哈……哈哈……她们居然敢说我弱，说我不配加入花园！"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_zuoyi_talk2_002.aac",
+            "text": "“昙”是我自己起的名字，不是谁都有被花园赐名的资格。但现在有了你的力量，要是我成为花园中最强的成员……那个“业师”的表情，一定会很好玩吧！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_zuoyi_talk2_003.aac",
+            "text": "那招“落樱”差点要了我的命，不过，有你在的话……轻松接下那一刀应该不是什么问题。哼……下一个……下一个就该轮到她了！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_zuoyi_obeyfull_001.aac",
+            "text": "谢谢你，局长。在打倒所有的花园杀手之后，我要把这些人都当作礼物送给你！最后……最后再好好享用你！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zuoyi_idle_001.aac",
+            "text": "一想到美好的花朵们，要在这城里不断凋零……啊——真是想想就让人愉快！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_zuoyi_clicking_001.aac",
+            "text": "小心一点……你已经是我的猎物了……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zuoyi_specialattention_001.aac",
+            "text": "这么关注我，是害怕我对你下手吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_zuoyi_dispatch_001.aac",
+            "text": "派我出去？一定是很刺激的任务吧？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_zuoyi_dispatch2_001.aac",
+            "text": "啊——真扫兴。还以为能碰到有价值的对手呢。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zuoyi_levelup_002.aac",
+            "text": "等着瞧吧……花园。"
+        }
+    ]
+}

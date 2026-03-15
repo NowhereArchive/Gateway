@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_eagle_cacha_001.aac",
+            "text": "放火犯はあなたの目の前にいるわ。さあ、わたしを捕まえなさい——できるものなら、ね。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_eagle_promotion_001.aac",
+            "text": "炎よ、もっと強く燃えて。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_eagle_promotion2_001.aac",
+            "text": "もう炎なんかに負けない。これからは、わたしが炎を支配する……！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_eagle_battlebegin_001.aac",
+            "text": "大事な人を守れるのなら……"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_eagle_battlewin_001.aac",
+            "text": "全部燃やしちゃった。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_eagle_battlelose_001.aac",
+            "text": "だ……ダメ……制御できない……！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_eagle_uniqueskill_001.aac",
+            "text": "この烈火を味わってみて！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_eagle_dead_001.aac",
+            "text": "炎が……すべてを飲み込んでいくの……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_eagle_greeting_001.aac",
+            "text": "あなた……わざわざわたしに会いに来たの？そ、そう……キャラメルプリンはちゃんと持ってきたんでしょうね？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_eagle_talk1_001.aac",
+            "text": "うわ！あなたね……わたしを襲ったやつらと同じ目に遭いたいの？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_eagle_talk1_002.aac",
+            "text": "ちょっと離れて！あなたが火傷しても、医療費なんて出さないから。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_eagle_talk1_003.aac",
+            "text": "わたしの髪、変でしょ？まるで燃えてるみたい……これを見て怖がる人もたくさんいるの……でも彼らは、本物の炎が燃え上がる姿を知らないのよ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_eagle_talk2_001.aac",
+            "text": "べ、別にいつでも火が出るわけじゃないから！もうやめてよ！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_eagle_talk2_002.aac",
+            "text": "大事な人たちが楽しく、元気に暮らしてほしい……なに見てるのよ？どうしてもって言うなら、あなたをその中に入れてあげてもいいけど。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_eagle_talk2_003.aac",
+            "text": "ずっとあなたと一緒に戦ってきたから、この力でも人を幸せにできるって信じられるようになったのかも……"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_eagle_obeyfull_001.aac",
+            "text": "いつか、全てが終わったら、自分の手でキャラメルプリンを作りたいの……そうしたら一番に食べてくれる？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_eagle_idle_001.aac",
+            "text": "前に見かけたケーキ屋さん、新作は出てるかな……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_eagle_clicking_001.aac",
+            "text": "なに？わたしを木に見立てて、こすって火でも起こそうとしてるわけ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_eagle_specialattention_001.aac",
+            "text": "別に見張っておく必要なんてないわ。この髪は目立つから、逃げられないわよ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_eagle_dispatch_001.aac",
+            "text": "グルメ情報がほしいの？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_eagle_dispatch2_001.aac",
+            "text": "食レポ付きよ。べ、別に……ついでに書いただけだから。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_eagle_levelup_002.aac",
+            "text": "気を付けて。また炎が暴走するわ。"
+        }
+    ],
+    "warm_flame": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_eagle_wenhuoxinsui_cacha_001.aac",
+            "text": "新たな一年を迎えるから、みんなこんなに浮かれてるの？コホン……わ、わたしは別に浮かれてなんかないんだから！普段滅多に着ない服を着てみただけよ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_eagle_wenhuoxinsui_levelup_002.aac",
+            "text": "あっ！……あ、あなたが花火見たいんじゃないかと思って。打ち上げてみたの。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_eagle_wenhuoxinsui_greeting_001.aac",
+            "text": "新しい一年には新しい挑戦をするものでしょ。わ……わたしがあなたをここに呼んだのは……新作プリンを味見してほしくて。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_eagle_wenhuoxinsui_head_001.aac",
+            "text": "わっ……あなた……まあいいわ！今日はいい日だし、見逃してあげる。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_eagle_wenhuoxinsui_body_001.aac",
+            "text": "わたしだって……上達してるんだから！管理局のキッチンは完全無欠！火災警報器も……鳴らしてない……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_eagle_wenhuoxinsui_body_002.aac",
+            "text": "プリンを使って「肉団子」と「麻婆豆腐」を再現したよ！それから、プリンの餃子もある！必ず……全部食べてよね！"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_eagle_wenhuoxinsui_background_001.aac",
+            "text": "小さい頃、お母さんがよく三つ編みをしてくれたの。この日の雰囲気に合うと思うんだけど、どう？可愛いでしょ？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_eagle_wenhuoxinsui_righthand_001.aac",
+            "text": "図書室のお姉さんが昔話を教えてくれた。団扇をあおぐと山火事を起こすことができる女王のお話……これでもできるかなぁ……？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_eagle_wenhuoxinsui_idle_001.aac",
+            "text": "「春眠暁を覚えず」ってよく聞くけど……新年初日にこれはないんじゃない！？……まあいいけど。眠くなったら……こ、ここで適当に場所探して寝てちょうだい。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_eagle_wenhuoxinsui_specialattention_001.aac",
+            "text": "なに見てるのよ？この服が似合わないならはっきり言って！じゃないと……「好きだよ」って何！……まったくもう……"
+        }
+    ],
+    "caramel_starwish": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_eagle_jiaotangxingyuan_cacha_001.aac",
+            "text": "もう、こんな感じでやるんだってば！かき混ぜながら大きな声で願い事をするの……安心して、あなたの願いは誰にも教えないから。ふ、二人だけの秘密にしてあげる。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_eagle_jiaotangxingyuan_levelup_001.aac",
+            "text": "火が強ければ強いほど、願いが叶いやすくなるんだから！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_eagle_jiaotangxingyuan_greeting_001.aac",
+            "text": "このクリスマスプディングはわたしたちが一緒に作ったものでしょ。さ……最終的にどんな味になっても、ちゃんと食べてくれるわよね！？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_eagle_jiaotangxingyuan_body_001.aac",
+            "text": "前はこの時期になると、両親が張り切ってこんな風にキッチンを飾り付けてたんだ。わたしたち家族のクリスマスの雰囲気を再現してみたんだけど……どう？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_eagle_jiaotangxingyuan_body_002.aac",
+            "text": "な、なにぼーっとしてるの？レシピを教えてくれたお姉さんは、家族で生地を混ぜながら願い事をするのが一番大事だって言ってたのよ！そ、そういう大事なステップをあなたが飛ばしちゃうんじゃないかって心配で、念のために言っただけだから！本当に！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_eagle_jiaotangxingyuan_idle_001.aac",
+            "text": "んむ。見た目は完璧。甘さは控えめで、食感も最高。今回はフェイさんが質の悪いものでわたしを誤魔化したわけじゃないみたい……でもこのドライフルーツ、どっちも美味しいから迷うな……え！？なんでこれっぽっちしか残ってないの！？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_eagle_jiaotangxingyuan_clicking_001.aac",
+            "text": "このクリスマスセーター、手触りがいいでしょ？柔らかくて暖かいから、子供の頃によく着てたお母さんのセーターを思い出すの。柄はダサいし、重いけど、着てるとお母さんに抱かれてるみたいで、なんだか家にいるような感じがするんだ……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_eagle_jiaotangxingyuan_specialattention_001.aac",
+            "text": "わたしの髪飾りをずっと見てるけど、もしかしてジンジャーブレッドを食べたくなったの？たまたまジンジャーブレッドをテーマにそれぞれのパン屋さんのレビューを書いたから、興味があれば見てみて……え、ただ可愛いと思っただけ？ふ、ふーん。悪くないセンスね。"
+        }
+    ]
+}

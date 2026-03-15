@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_peggi_cacha_001.aac",
+            "text": "あら～、たくさんの警察官がこの怪盗バニーを追いかけてるけど、本当にあたしを捕まえたのは、あなたが初めてよ～"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_peggi_promotion_001.aac",
+            "text": "次のショーはもっとすばらしいものになるわよ～"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_peggi_promotion2_001.aac",
+            "text": "ライトよし、ステージよし！準備はいい？盛大な怪盗ショーの始まりよ！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_peggi_battlebegin_001.aac",
+            "text": "予告してあげる。あたし、もう少し経ったら逃げちゃうわよ～。頑張って追いかけてね～？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_peggi_battlewin_001.aac",
+            "text": "予告状回収っ！今回の反響もすごかったわね～！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_peggi_battlelose_001.aac",
+            "text": "ごめんなさい……ごめんなさい……あたしのせいよ……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_peggi_uniqueskill_001.aac",
+            "text": "天に代わって～、正義しっこーう！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_peggi_dead_001.aac",
+            "text": "許して……くれるかな……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_peggi_greeting_001.aac",
+            "text": "おはよう～こんにちは～こんばんは～、うふふふ。これは、あたしがあなたに一日中いつでもどこでも会いたいって思ってる証拠。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_peggi_talk1_001.aac",
+            "text": "管理局も寛大よね～。大事な局長さんをあたしの目の前に置いておくなんて……スーツケースに入れて持って帰っちゃおうかしら？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_peggi_talk1_002.aac",
+            "text": "夜が訪れる時、ディスシティはあたしのステージになる！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_peggi_talk1_003.aac",
+            "text": "弱きを助け、強きを挫く、あたしが正義を貫く怪盗バニーよ～！泥棒なんかじゃないわ！それに万引き常習犯のあのキツネと一緒にしないでちょうだい。あいつと組んだのは…………たまたまなんだから……。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_peggi_talk2_001.aac",
+            "text": "実は、怪盗をやってるのは正義のためだけじゃないの……自分なりの罪滅ぼしでもあるのよ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_peggi_talk2_002.aac",
+            "text": "局長も時間があったらあの面倒なキツネに説教してやってちょうだい！　あいつと組んでからひどい目にあってるのよ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_peggi_talk2_003.aac",
+            "text": "足を洗うのもいいかもしれないわね～。だって……局長さんはこれからもあたしたちと一緒に、正義を貫くんだもの。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_peggi_obeyfull_001.aac",
+            "text": "あたしたちもいつか離れ離れになるのよねぇ。自由な怪盗がいつまでも誰かの傍に……えっ、傷ついちゃったの？よしよし、どこにも行かないわよ～傍にいるわ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_peggi_idle_001.aac",
+            "text": "このパイプなかなか硬いね～、……つまらなかったら、ダンスでも踊ってあげるわよ～？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_peggi_clicking_001.aac",
+            "text": "ふふ、局長さんったら～、これ以上いたずらされちゃったら、あたし……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_peggi_specialattention_001.aac",
+            "text": "怪盗は影のように消えるものよ。だから、あたしが消えないようにちゃんと見張っててね～。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_peggi_dispatch_001.aac",
+            "text": "あたしを外に出すってことは……もう一度捕まえる自信があるの？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_peggi_dispatch2_001.aac",
+            "text": "ふぅ、あそこにも金目のものはなかったわねぇ……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_peggi_levelup_002.aac",
+            "text": "あたしのスーツケースには世界が丸ごと入るのよ～"
+        }
+    ],
+    "night_of_petals": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_peggi_wuyeguiyu_cacha_001.aac",
+            "text": "予告状回収～あなたのために降らせた薔薇の雨はどう？……ふふっ、気に入ったなら遠慮なくあなたの心をいただくわよ～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_peggi_wuyeguiyu_levelup_001.aac",
+            "text": "ハート泥棒作戦、大成功～"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_peggi_wuyeguiyu_greeting_001.aac",
+            "text": "しーっ、静かに～。関係ない人に邪魔されたくないでしょ？さぁ、この薔薇をあなたにあげるわ～"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_peggi_wuyeguiyu_talk1_001.aac",
+            "text": "仮面は怪盗の変装道具なんだから、簡単に外さないわ。でも、あたしの素顔を見たからには、あっさり逃がさないわよ～"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_peggi_wuyeguiyu_talk1_002.aac",
+            "text": "パーティーから逃げるのは、ガラスの靴を失くしたお姫様だけじゃない。大収穫があった心の怪盗もいるんだから～"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_peggi_wuyeguiyu_idle_001.aac",
+            "text": "退屈だなぁ……花びらが一枚……花びらが二枚……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_peggi_wuyeguiyu_clicking_001.aac",
+            "text": "もう、勝手に動かないで。ん？あたしの弱点を見つけたい？ふんっ……あのキツネと同じ！まぁ、あたしの変装は完璧だけどね～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_peggi_wuyeguiyu_specialattention_001.aac",
+            "text": "驚かないで～怪盗は狙った宝物のために、自ら落とし穴にかかることもあるの～"
+        }
+    ],
+    "private_mischief": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_peggi_luanshijiaren_cacha_001.aac",
+            "text": "ハ～イ、局長。あたしとパジャマパーティーしない？テーマはそうねぇ……「怪盗がコレクションについて話し合う夜」なんてどうかしら！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_peggi_luanshijiaren_levelup_002.aac",
+            "text": "あ～あ、可愛いものがどんどん増えていくから、もう家に入らないわ～"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_peggi_luanshijiaren_greeting_001.aac",
+            "text": "ようやく来たのね？早くあたしの大切な宝物を見て～気に入ったものがあれば、持って行ってもいいわよ～"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_peggi_luanshijiaren_head_001.aac",
+            "text": "このウサ耳がふわふわで気持ちいいのは分かるけど、触りすぎじゃない？ふん、怪盗として好き放題されるわけにはいかないわね……えい！あなたの耳も触らせなさい！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_peggi_luanshijiaren_talk1_001.aac",
+            "text": "この部屋のどこが散らかってるっていうの？置き物がちょっと多いだけよ……ほら、個性的で可愛いでしょ～"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_peggi_luanshijiaren_talk1_002.aac",
+            "text": "貴重？うーん貴重とは言えないわね。あたしの怪盗人生では、これより美しくて高価なジュエリーをいっぱい見てきたもの～これらを残したのは、ただ可愛いからよ～"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_peggi_luanshijiaren_hand_001.aac",
+            "text": "ん？あなたもキャンディを食べたいの？ふふ、イチゴ味は確かに甘いわよ……でも残念。これが最後の一つなの～どうしても欲しいなら、怪盗の手から盗んでみたら？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_peggi_luanshijiaren_leg_001.aac",
+            "text": "そんなにあくびしちゃって、もう眠いの？じゃあ……しばらくここで寝ていいわよ～あら？なんで急に眠くなくなったの？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_peggi_luanshijiaren_idle_001.aac",
+            "text": "ほら、ぼーっとしないで。夜は……まだまだ長いわよ～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_peggi_luanshijiaren_specialattention_001.aac",
+            "text": "この部屋で一番可愛いと思うものを選んでちょうだい！そうやってじっと見つめてるってことは……もしかして、あたし？"
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_vautour_cacha_001.aac",
+            "text": "蓝鹫的酬金可不便宜，你用这么不可爱的方式邀我过来，是已经想好要去哪了吗？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_vautour_promotion_001.aac",
+            "text": "上了我的渡船，可没有回头的选择。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_vautour_promotion2_001.aac",
+            "text": "终于……可以好好休息一会了。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_vautour_battlebegin_001.aac",
+            "text": "就当陪你玩玩吧。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_vautour_battlewin_001.aac",
+            "text": "别怕，都打点好了，已经没事了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_vautour_battlelose_001.aac",
+            "text": "胆子挺大？敢劫我的码头。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_vautour_uniqueskill_001.aac",
+            "text": "末路将至！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_vautour_dead_001.aac",
+            "text": "呵，不过是……现实的尽头……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_vautour_greeting_001.aac",
+            "text": "总和蛇头打交道，就不怕我把你拐了？你说……MBCC愿意出多少赎金呢？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_vautour_talk1_001.aac",
+            "text": "“梦想”也是明码标价的。拒绝交易的那些人，不过是对价格还不满意罢了~"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_vautour_talk1_002.aac",
+            "text": "摆渡的车队通过狄斯海关时会响起美妙的铃声，有机会的话一定带你也听听……那是梦想被现实击溃的声音。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_vautour_talk1_003.aac",
+            "text": "只要报酬足够，我的队伍能将人捎去任何地方。至于顾客抵达目的地时还能不能呼吸，可就不好保证啰。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_vautour_talk2_001.aac",
+            "text": "不用为我惋惜那些埋葬在砂海的财富，迪希尔的沉浮不过是末世下的必然。一起笑一笑，就当送它们一程？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_vautour_talk2_002.aac",
+            "text": "如果你也想和我一样在砂海里自由通行、有一栋自己的小楼、能随时吃到新城的甜品，那就记住了——“人心”是最宝贵的生存本金，握紧它，利用它。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_vautour_talk2_003.aac",
+            "text": "这么好的天气被我一个人独占也太浪费了，我忘掉生意，你也扔掉工作吧？就这样安安静静的，什么都不去想，一起看车来车往，人去楼空……"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_vautour_obeyfull_001.aac",
+            "text": "如果有一天蓝鹫这个名字在砂海消失，听姐姐的话，别去找它。它只是飞得太久太累了，想自己好好睡一觉。只留下你的祝福就够了，祝它……有枝可栖。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_vautour_idle_001.aac",
+            "text": "这孩子，又在做那些傻乎乎的美梦了……也不怕被我卖到异邦去。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_vautour_clicking_001.aac",
+            "text": "年轻人就是容易情不自禁……（轻笑）要我帮帮你吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_vautour_specialattention_001.aac",
+            "text": "之前还没看够吗？那就再近点，看得清楚些。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_vautour_dispatch_001.aac",
+            "text": "让我看看究竟是什么，能让我们小局长这么牵肠挂肚？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_vautour_dispatch2_001.aac",
+            "text": "傻瓜，这点好处就把你唬住了？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_vautour_levelup_002.aac",
+            "text": "给我的？（笑）有心了。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_vautour_head_001.aac",
+            "text": "有些人呐，真是越来越无法无天了。"
+        }
+    ],
+    "languor_en_bleu": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_vautour_yiqingmian_cacha_001.aac",
+            "text": "这些绫罗珍宝都是商队从东洲捎回来的，你有看上的随便带走就好，我对在乎的人向来很大方。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_vautour_yiqingmian_levelup_001.aac",
+            "text": "你的心意，比这些花鸟瓷器更投我所好。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_vautour_yiqingmian_greeting_001.aac",
+            "text": "身上的丝帛还没捂暖，我午睡的好梦就被你扰乱了，说吧，要怎么赔我呢？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_vautour_yiqingmian_head_001.aac",
+            "text": "连香炉里的烟见了我都绕着走，也只有你……敢这么不安分。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_vautour_yiqingmian_body_001.aac",
+            "text": "那几只小家伙又在叽叽喳喳地吵架了，听说它们是什么祥瑞之鸟。不过是包装给买家听的漂亮话，你要是感兴趣我也可以编给你听，这些给人希望的谣言我这里要多少有多少，几天几夜也说不完。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_vautour_yiqingmian_body_002.aac",
+            "text": "这里的每一样藏品都有自己的故事，它们身上的雕花、彩绘、指纹甚至裂痕都构成了故事的一部分，只是可惜啊……没有一个故事拥有好的结局。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_vautour_yiqingmian_righthand_001.aac",
+            "text": "我喜欢那些东方人的用词，愁烟、紫雾、相思草……只用文字就能永远留住属于故土的气质与回忆，真叫人羡慕。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_vautour_yiqingmian_leg_001.aac",
+            "text": "你在盯什么呢？是这东洲丝绸的光泽，还是……它包裹的东西？看不出来我们小局长还挺贪心的？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_vautour_yiqingmian_idle_001.aac",
+            "text": "这么好的阳光，你一定也困了，榻上还有位置，过来一起吧。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_vautour_yiqingmian_specialattention_001.aac",
+            "text": "按商道的规矩，来了蓝鹫的地盘都得留下些什么，可你既不懂工笔也不会茶艺……不如就做个美人花瓶，留下来陪我小憩一会儿。"
+        }
+    ],
+    "vin_nocturne": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_vautour_yeseruyun_cacha_001.aac",
+            "text": "我看你今天表现得特别懂事，奖励你一场放松身心的花瓣浴，如何？就当是……我对好孩子无偿的偏爱。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_vautour_yeseruyun_levelup_001.aac",
+            "text": "不用着急回报我，多沉溺一会吧……夜还很长。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_vautour_yeseruyun_greeting_001.aac",
+            "text": "晚风正巧吹过窗纱，河对岸的灯火也恰好亮起……你啊，总能挑在我最心软的时候出现。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_vautour_yeseruyun_head_001.aac",
+            "text": "你这样的举动可是很容易让人多心的……还是说，你就是想让我多心呢？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_vautour_yeseruyun_body_001.aac",
+            "text": "我为了布置这里可花了不少心思，烛光、美景、酒杯，现在只差一个愿意一起泡进浴缸的小家伙。我替你试过了，水温刚好~"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_vautour_yeseruyun_body_002.aac",
+            "text": "这座城总是自诩浪漫多情，可真到了深夜，愿意和我在夜色下消磨时间的却只有你。我该谢谢你的赴约，至少你证明这城市标榜的浪漫，不全是谎言。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_vautour_yeseruyun_cigarette_001.aac",
+            "text": "烟雾浓了，水汽也重了，你现在看我是不是像隔着轻纱？呵……朦胧的东西，若即若离，更容易让人失去判断。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_vautour_yeseruyun_wineglass_001.aac",
+            "text": "我说杯子里的是红茶，你信吗？乖，不许多尝，你这样的年轻人，一杯下肚就要“失控”了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_vautour_yeseruyun_idle_001.aac",
+            "text": "多美的夜色，美得不真实，也难怪那么多人为了看到这样的景色拼尽全力……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_vautour_yeseruyun_specialattention_001.aac",
+            "text": "听说泡过玫瑰浴的身体是会留香的，要一起验证一下吗？"
+        }
+    ]
+}

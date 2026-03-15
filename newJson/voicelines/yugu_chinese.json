@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_yugu_cacha_001.aac",
+            "text": "在下玉骨娘，自东洲云游而来造访贵宝地，远渡重洋，舟车劳顿……请问您是否有空余的房间，可以收留我这个外乡人？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_yugu_promotion_001.aac",
+            "text": "得此厚爱，荣幸非常。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_yugu_promotion2_001.aac",
+            "text": "颤栗不断，夺魂迷魄，痴缠之中蹦出滚烫烫的一颗心来……如此，痛快。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_yugu_battlebegin_001.aac",
+            "text": "上回书说到……"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_yugu_battlewin_001.aac",
+            "text": "一场胜仗落下帷幕，欲知后事如何，且听——下回分解。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_yugu_battlelose_001.aac",
+            "text": "从来物极必反，盛者必衰，呵呵……现如今，你我也要跌入这泥潭，万劫不复了么？"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_yugu_uniqueskiyugu_001.aac",
+            "text": "好一段活色生香啊~"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_yugu_dead_001.aac",
+            "text": "呵呵，终究是有今日……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_yugu_greeting_001.aac",
+            "text": "红颜女儿殒命井底，玉面郎君吊颈枝头……千足万手，菩萨像底黄金万两，好先生~快快坐下，好好听听这一出大戏……"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_yugu_talk1_001.aac",
+            "text": "一张好嘴，两片柔唇，能言善辩是说书匠最基础的功夫，更是数千场表演所积累的经验……个中的奥秘之处，想必您已领会。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_yugu_talk1_002.aac",
+            "text": "狄斯人喜欢我的表演，或者说……他们喜欢我。我满足了那些渴求，成为一个来自东方的刻奇传说。只是故事讲完后，你们可曾想好……要以什么还我？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_yugu_talk1_003.aac",
+            "text": "上回书说道，那小城中出了个专害夜行者的歹人，开膛破肚好不残忍……是夜，那年轻的卖酒娘踏着夜色独自朝你走来，泪眼婆娑，身姿颤抖，你迎上去问道发生何事，却只见那姑娘从衣裳里掏出了一把带血尖刀……哎，你跑什么呀？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_yugu_talk2_001.aac",
+            "text": "这枚玉佩是我的至亲所赠，它见证了我开启这场旅途，现在，也见证我愿和归巢的鸟儿一般停留在您身边。呵呵……您看上去很好奇？想摸摸它吗？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_yugu_talk2_002.aac",
+            "text": "狄斯比东洲更爱亲吻，嘴唇你碰我，我碰你，上到电影海报，下到街头漫步，无不热衷亲吻。呵呵，但你知道吗？撕咬……可比亲吻更缠绵。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_yugu_talk2_003.aac",
+            "text": "狄斯与我成长的东洲相比，有许多不同，但一样有依恋母亲的幼童，相互勉励的爱侣，有脑满肠肥的堕落者，也有如您一般面目清明的斗争者。这里的人们究竟会带来什么样的新故事，真是让在下无比期待……"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_yugu_obeyfull_001.aac",
+            "text": "我曾听闻世有一柄断罪斩妖的锐利宝剑，现身于乱世，颠沛流离。“它”本可以明哲保身，却偏去殉那场天翻地覆……只是，当“它”神销身毁，肉拆骨散时，“它”会恐惧吗？会后悔吗？会恨这浑浊世道吗？哈…哈哈，在下日夜都在盼望，盼望着您倾情上演何种结局……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_yugu_idle_001.aac",
+            "text": "狄斯，一座摇摇欲坠的城市，纵使千般维护，这和平究竟又能撑到几时……？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_yugu_clicking_001.aac",
+            "text": "看来您和大多数狄斯人一样，对在下充满了好奇与揣测，如何……我是一个恰当的“东洲梦”吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_yugu_specialattention_001.aac",
+            "text": "当您注视着我的时候，我也在看着您，我想我们都在等待着某些东西……某些…让人兴奋的好东西……哈……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_yugu_dispatch_001.aac",
+            "text": "在外游荡，收集某些特定的“东西”，在下尤其善于此道。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_yugu_dispatch2_001.aac",
+            "text": "收获颇丰。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_yugu_levelup_002.aac",
+            "text": "作为报酬……就让在下为您讲些奇闻轶事吧。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_yugu_head_001.aac",
+            "text": "从前，我还是个孩子时，母亲也常常这般抚摸我的头，呵呵……我想您和她一样温柔，一样……理解我的心思。"
+        }
+    ],
+    "celestial_augury": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_yugu_wenjiyaotai_cacha_001.aac",
+            "text": "求不死，证大道，寻自在，得长生。凡人来我这昆仑山，无非是为了这几样，你却似乎有些不同。有趣，有趣……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_yugu_wenjiyaotai_levelup_001.aac",
+            "text": "竹简之上，又现新谶……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_yugu_wenjiyaotai_greeting_001.aac",
+            "text": "你来得巧，也不巧。蟠桃花刚散，瑶池宴初启，你想要生死人肉白骨的仙果，还需再等个几千年……不若暂留此地，与我同席，打发些许光阴？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_yugu_wenjiyaotai_head_001.aac",
+            "text": "竟然主动近我身侧，行这般僭越之事……莫非你是听了人世间那些话本传说，想来作我的入幕之宾？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_yugu_wenjiyaotai_body_001.aac",
+            "text": "千百年来，多少贪心不足之人被故事里描摹的长生所吸引，争相西行，来做我的座上宾。有的毙命半途，有的家财空掷，又尽数成了那奇闻轶事中，还算有趣的篇章。你说，是不是一饮一啄，自有天定？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_yugu_wenjiyaotai_body_002.aac",
+            "text": "求寿数的凡夫，盗仙缘的闺秀，都以为得了我的慈悲，就能逃离批命的束缚。可命格岂是那么轻松能改的？命越是长，劫越是多……"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_yugu_wenjiyaotai_hand_001.aac",
+            "text": "这竹简无所不包，贪嗔痴勾勒的曲折命数、指尖血染就的破灭盛景，尽都一览无遗。若是好奇，赠你一读也无不可，只是要小心，别被迷了心窍……成了那字里行间的，一抹血红。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_yugu_wenjiyaotai_background_001.aac",
+            "text": "凡人总是无知得大胆，他们以为吞了神使的血肉，就能继承昆仑的时间……这种自诩万物灵长，能化一切为己用的傲慢，也别有一番韵味。我很好奇，他们最后会落得怎样的境地，呵呵……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_yugu_wenjiyaotai_idle_001.aac",
+            "text": "山中一日，山下一年。呵呵，待你归去，沧海变桑田，这又何尝不是一种长生不死？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_yugu_wenjiyaotai_specialattention_001.aac",
+            "text": "我并无本相，有的不过是你心中的投射与倒影。怎么样，你眼里看到的死亡与祸乱……美吗？"
+        }
+    ]
+}

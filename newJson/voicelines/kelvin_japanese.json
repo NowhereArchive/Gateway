@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_dina_cacha_001.aac",
+            "text": "よ、よろしければ、キッチンにいてもいいでしょうか。冷蔵倉庫があるなら是非そちらに……あっ、すみません！ご迷惑をかけるつもりはなくて……！おかしなことは何もしません。約束します……！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_dina_promotion_001.aac",
+            "text": "はあ……もしかして、今のが絶対零度なのでしょうか？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_dina_promotion2_001.aac",
+            "text": "これからは、料理も戦闘も……自分を……疑ったりしません！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_dina_battlebegin_001.aac",
+            "text": "私なんかよりふさわしい方も……います、よね？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_dina_battlewin_001.aac",
+            "text": "生き延びられました……！これもみなさんのおかげですね。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_dina_battlelose_001.aac",
+            "text": "私はいつも、何もかも無茶苦茶にしてしまう……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_dina_uniqueskill_001.aac",
+            "text": "こ、来ないでください！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_dina_dead_001.aac",
+            "text": "寒い……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dina_greeting_001.aac",
+            "text": "今日は少し暑いですね……局長、新しい味のかき氷を作ってみました。食べてみてもらえませんか？がっかりさせませんから。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_dina_talk1_001.aac",
+            "text": "えっと……局長、どの野菜が一番目が悪いかわかりますか？……答えは、みんな同じです！だって植物に目なんてありませんから！……はは……は……すみません。おもしろくないですよね……。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_dina_talk1_002.aac",
+            "text": "熱い料理の味がわからないのに、料理人を夢見てるなんて……すみません、やっぱり局長も私のことを変だと思いますよね。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_dina_talk1_003.aac",
+            "text": "ディス青帯調理師専門学校は最も有名な調理師学校で、通った学生はみんな有名シェフになるんです——私を除いて……三年留年しても私は卒業できなくて……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_dina_talk2_001.aac",
+            "text": "試験に合格するために、皆さんに認めてもらうために、私は唯一の味方だった料理を裏切りました。「普通」の料理の勉強をして、味のしないものを食べて……それで卒業はできましたが、同時にもっと大切なものを失ってしまいました。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_dina_talk2_002.aac",
+            "text": "私の料理が皆さんが好む料理ではないことはわかっています……でも……低温の料理にある、あの独特な味わいを諦めたくないんです！"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_dina_talk2_003.aac",
+            "text": "「周りと違う」というのはとても恐ろしいことです……周りが甘いと思うものは甘く、酸っぱいと思うものは酸っぱい……違うことを言うと、私は「変わり者」扱いされてしまいますから……。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_dina_obeyfull_001.aac",
+            "text": "局長には本当に感謝しています。だって局長は私に居場所を与えてくれて、作りたい料理を作らせてくれて、それに話しかけてもくれます。私、何を話してもつまらないから皆さんを困らせてしまって……これからは局長の言うことにはすべて従うと約束します！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dina_idle_001.aac",
+            "text": "もう私は必要ないですよね……えっと……キッチンに行ってもいいかな……？見るだけだから、うん。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dina_clicking_001.aac",
+            "text": "ひゃっ！きょきょ局長……あついですっ……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dina_specialattention_001.aac",
+            "text": "局長？局長も私を見張りに来たんですか？すみません。でもこっそり冷凍倉庫を使ったりしませんから……本当です！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_dina_dispatch_001.aac",
+            "text": "あの……帰り道に少しだけ、食材を買ってきてもいいでしょうか？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_dina_dispatch2_001.aac",
+            "text": "すみません、局長。熱中症に……なってしまったみたいで……。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dina_levelup_002.aac",
+            "text": "……あれ？今、少しだけ味が……。"
+        }
+    ],
+    "chilling_hideaway": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_dina_bishushengdi_cacha_001.aac",
+            "text": "ふぅ……涼しい——えっ！きょきょ局長！い……いつからそこにいたんですか！？ご、ごめんなさい！しばらく、ここにいてもいいですか？……冷蔵庫は後で必ず片付けますから！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dina_bishushengdi_levelup_001.aac",
+            "text": "こうすれば涼しくなるはず……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dina_bishushengdi_greeting_001.aac",
+            "text": "局長も試してみますか？ここは青帯専門学校の冷凍倉庫と違って、刺すような冷たさじゃないのでちょうどいいですよ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_dina_bishushengdi_talk1_001.aac",
+            "text": "こんな姿を見られたら、もっと「変わり者」扱いされちゃいますよね。え……悪くないと思いますか？へへ……ならいいです……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_dina_bishushengdi_talk1_002.aac",
+            "text": "いいことを思いつきました！後でプールに行ったら、このフルーツでかき氷を作りましょう。冷たいので、きっと暑さを和らげてくれますよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dina_bishushengdi_idle_001.aac",
+            "text": "ある日、イチゴ味のアイスとチョコレート味のアイスが水泳の試合をしました。局長、当ててみてください。どっちが先にゴールすると思いますか？答えは「どっちもゴールできない」です。海に溶けちゃったので！す、すみません……あまりにも暑いのでつい……無理に笑わなくていいですよ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dina_bishushengdi_clicking_001.aac",
+            "text": "わぁ！局長……手が冷たいですね。いつもと違う気がします！なんだか……液体窒素より冷却効果がありそうな！え？こ……これが枷の力なんですか？すごすぎます！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dina_bishushengdi_specialattention_001.aac",
+            "text": "せっかく薄着を用意したのに、ここの気温を甘く見ていました。危うく……水蒸気に仲間入りするところでしたよ……"
+        }
+    ]
+}

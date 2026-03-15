@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_oak_cacha_001.aac",
+            "text": "比起审查室，我更想在陵间与你聊天，你躺在里面，我坐在外面，相信我们会聊得很愉快。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_oak_promotion_001.aac",
+            "text": "嘘……我听到了它们的窃窃私语。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_oak_promotion2_001.aac",
+            "text": "要加入……我们的茶会吗？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_oak_battlebegin_001.aac",
+            "text": "钟声响起，仪式开始。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_oak_battlewin_001.aac",
+            "text": "不用担心，挽歌已经开始演奏了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_oak_battlelose_001.aac",
+            "text": "没事，还不到永眠的时候。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_oak_uniqueskill_001.aac",
+            "text": "于此长眠！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_oak_dead_001.aac",
+            "text": "人终归都要……走进橡木制的匣子中……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_oak_greeting_001.aac",
+            "text": "您好，局长，庆幸今天我们仍然活着，也为我们仍然伫立于此而悲哀吧。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_oak_talk1_001.aac",
+            "text": "如果要请乐队……去找一个叫嘟嘟的乐手吧，报我的名字，兴许能打折。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_oak_talk1_002.aac",
+            "text": "辛迪加需要一次盛大的告别，再迎来一次完美的重生。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_oak_talk1_003.aac",
+            "text": "沉睡于地，飞翔于天，抑或是泅游于海？都无所谓，我的朋友，这只不过是迈向救赎的必要一步。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_oak_talk2_001.aac",
+            "text": "死亡并不是匣中之人为了向世人祈求泪花，那只会冲刷掉他们的痕迹，掩盖住他们的呐喊。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_oak_talk2_002.aac",
+            "text": "只有永恒沉寂时，生命中的愚蠢，无聊，卑劣……才会获得改变，成为有趣的存在……不过，对我来说，你似乎有不一样的地方。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_oak_talk2_003.aac",
+            "text": "我无法亲自主持自己的葬礼，但我会为你留下属于我最后的信息，你愿意接收吗？"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_oak_obeyfull_001.aac",
+            "text": "你是比亡灵更有意思的存在，请原谅我将我的黑暗，孤寂，窒息分享给你……即使死亡，我也会陪在你左右。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_oak_idle_001.aac",
+            "text": "祈祷？我并不做这种……无聊的事情呢。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_oak_clicking_001.aac",
+            "text": "你这么喜欢我？可惜在我的头颅之中，没法吹出脆弱的泡泡。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_oak_specialattention_001.aac",
+            "text": "透过我的眼睛，你看见了什么？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_oak_dispatch_001.aac",
+            "text": "想和我一起去陵园散步吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_oak_dispatch2_001.aac",
+            "text": "嗯，嗯……听到了不少小秘密。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_oak_levelup_002.aac",
+            "text": "看得出来，你很需要我。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_oak_head_001.aac",
+            "text": "颅骨上遗留的信息通常是最多的，因为人类的大脑在死亡的时候，也会惦记着他们未完成的事。"
+        }
+    ],
+    "forest_of_enthrallment": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_oak_chenlunzhisen_cacha_001.aac",
+            "text": "当你踏入森林的那一刻，就已经属于我了。我会赐予你永恒的安眠，而我，将得到我想要的一切。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_oak_chenlunzhisen_levelup_001.aac",
+            "text": "我会给你更馥郁的果实。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_oak_chenlunzhisen_greeting_001.aac",
+            "text": "很好，过来吧，来吃下我的果实……你会获得最甜美的救赎。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_oak_chenlunzhisen_head_001.aac",
+            "text": "天空有七色虹光，圣者用七天创世，而我冠冕上的七颗宝石，能让我听见脱离肉体的声音。你要是也想……就来试试抢夺我的王冠吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_oak_chenlunzhisen_body_001.aac",
+            "text": "曾经有人向我献上能口吐真言的魔镜，你猜我从祂的口中，知道了谁的存在？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_oak_chenlunzhisen_body_002.aac",
+            "text": "我并非这里的统治者，我只是为那些迷路的旅人，提供一处能让他们永远安睡的休憩之地罢了。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_oak_chenlunzhisen_leg_001.aac",
+            "text": "白雪掩盖痕迹，苹果引诱欲望，乌木恪守秘密……你想用什么来装饰你的沉眠之地？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_oak_chenlunzhisen_hand_001.aac",
+            "text": "闭上眼睛，你会看见黑暗无边的禁忌之森……但别害怕，把手给我，我会带你去往你应该去的地方。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_oak_chenlunzhisen_idle_001.aac",
+            "text": "这片森林并不寂静，毕竟它们，一直在六尺之下与我对话。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_oak_chenlunzhisen_specialattention_001.aac",
+            "text": "既然你对我这么好奇，那就……留下来成为我的藏品吧。"
+        }
+    ],
+    "sepulchral_ride": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_oak_heiyedezangyi_cacha_001.aac",
+            "text": "所踏的雾是低吟的夜色，所驾的车是安居的亡灵，我遍历坟冢，给予迷失的魂灵以死亡的宣告，待我停下夜奔的缰绳，呼唤你的名，呵呵……那便是你迈入安息前的最后一首颂歌。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_oak_heiyedezangyi_levelup_001.aac",
+            "text": "回应我的号哭声，越来越多了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_oak_heiyedezangyi_greeting_001.aac",
+            "text": "“你的目光仿佛蒙上了雾气，你神秘的双眼变换着温柔、恍惚、残忍，映射着天空的麻木与乌黑。”……不觉得这首从亡者那儿听来的诗，很像在描绘我们此刻的相遇吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_oak_heiyedezangyi_body_001.aac",
+            "text": "只有将死之人才会听见我的悲吟，看见精灵的送葬车，你作为活人，为何要闯入这亡者的归途？是想见我，还是……想见证死亡？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_oak_heiyedezangyi_body_002.aac",
+            "text": "当我驱使着马车带走你的魂灵，为你哭喊、唤你回来的，会是哪些人呢？听到远去的呼告，你会从我的怀抱里溜走吗……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_oak_heiyedezangyi_idle_001.aac",
+            "text": "无论是掠过夜空的乌鸦，还是结网深林的毒蛛，它们都曾与告死精灵相伴而生，不仅那些古怪的悲泣预示着不详，嘶哑的乌啼、窸窣的虫鸣亦是死亡逼近的足音。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_oak_heiyedezangyi_clicking_001.aac",
+            "text": "曾经有人以这个节奏敲击头骨，知道发生了什么吗——我如约而至，带走将死之人。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_oak_heiyedezangyi_specialattention_001.aac",
+            "text": "是在窥视我吗？小心点，别让鞭子卷走那双明亮的玻璃珠。"
+        }
+    ]
+}

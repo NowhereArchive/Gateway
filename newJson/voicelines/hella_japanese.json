@@ -1,0 +1,240 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_hella_cacha_001.aac",
+            "text": "助けて！ここから出して！美少女のあたしを拉致してどうするつもり！？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_hella_promotion_001.aac",
+            "text": "あ！また強くなっちゃったみたーい！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_hella_promotion2_001.aac",
+            "text": "あたしって……もう無敵なんじゃないかな～！？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_hella_battlebegin_001.aac",
+            "text": "ゴーゴーゴー！"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_hella_battlewin_001.aac",
+            "text": "ふう、やっと勝ったねー。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_hella_battlelose_001.aac",
+            "text": "えっ、あたし、まだ……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_hella_uniqueskill_001.aac",
+            "text": "あたしの番よ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_hella_dead_001.aac",
+            "text": "痛いよぅ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hella_greeting_001.aac",
+            "text": "神様局長様～世界一かわいいヘラはお小遣いがほしいの。わぁ～ありがとう～局長大好きだよ～"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_hella_talk1_001.aac",
+            "text": "なに、局長？えっ……財布？えへへ。分かった分かった。返すから。もう手癖になっちゃっててさ～"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_hella_talk1_002.aac",
+            "text": "あたしがぶりっ子？誰がそう言ったの！？あたし、普通にかわいいでしょ？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_hella_talk1_003.aac",
+            "text": "昔のことはもういいって。泣いて慰めてほしがってる小娘じゃないんだから。あたしが今日まで生きてこれたのは、自分のおかげよこのクソッたれ！"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_hella_talk2_001.aac",
+            "text": "このホースの重さと大きさ、それに手応え……まさにあたしのために作られたみたい。だから武器変更の話はもうしないで。絶対にこの子を諦めないから！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_hella_talk2_002.aac",
+            "text": "いつかナインティナインを紹介してあげる！凶悪に見えるけど、けっこう優しいんだよ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_hella_talk2_003.aac",
+            "text": "ケンカはあんまり好きじゃないの。死んだりはしないけど、痛いものは痛いもん。それにめんどくさいし……大丈夫大丈夫。局長のためなら喜んでやるから。気にしないで。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_hella_obeyfull_001.aac",
+            "text": "決めた。毎日くっついてくるから、あんたを子分にしてあげる。感謝しなさい。絶対に裏切らないのよ？分かった？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hella_idle_001.aac",
+            "text": "ねっむ……ふぁあ……肩貸してー。ちょっとだけ寝たいから……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hella_clicking_001.aac",
+            "text": "なにこれ？マッサージのつもり？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hella_specialattention_001.aac",
+            "text": "ふーん、やっぱり会いに来たんだ。なぁに？あたしと離れたくなくなっちゃった？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hella_dispatch_001.aac",
+            "text": "やーっとあたしの番！　ねえねえ局長、もう少し出張費用がほしいなぁ～"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_hella_dispatch2_001.aac",
+            "text": "仕事終わったよ～局長。ご褒美とかないの？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hella_levelup_002.aac",
+            "text": "やったあ！"
+        }
+    ],
+    "queen_of_hearts": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hella_hongxinnvwang_cacha_001.aac",
+            "text": "この女王様の昼寝を邪魔するのは誰？さっさと土下座しやがれ！あっ……局長じゃん！よかった！じゃあクロッケー大会は予定通り開催できるね！（笑）"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hella_hongxinnvwang_levelup_001.aac",
+            "text": "もう——！何なの、この小動物ども！毎日毎日ウザいなぁ！ま、いっか。あんたらが可愛くなかったら、あたし、とっくに……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hella_hongxinnvwang_greeting_001.aac",
+            "text": "白い花を持ってこないで。あたし、赤いバラが好きなの。次やったら首を刎ねるよ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hella_hongxinnvwang_talk_001.aac",
+            "text": "この杖の重さと大きさ、手応え、それにこのプリンプリンのツヤ……まさにあたしのために作られたみたい！一番大事なとこは……頭がデカい！いい大きさ！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hella_hongxinnvwang_talk_002.aac",
+            "text": "生地の上にフルーツとクリームがいっぱいのってるアレ食べたい！えっと……フルーツ……何だっけ……？そうそうそう！フルーツタルト！食べた～い！作ってよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hella_hongxinnvwang_idle_001.aac",
+            "text": "もうすぐお茶会の時間だよ～。局長、早く会場の準備して……なんでって？あたしに壊されてない下僕は局長しかいないもん。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hella_hongxinnvwang_clicking_001.aac",
+            "text": "これ以上やったら、あんたの頭はあたしの足マットになるから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hella_hongxinnvwang_specialattention_001.aac",
+            "text": "コホン！あたしたちの平等な関係を保つため、女王の名において命じる……って、おいコラ！また枷使って変なことしようとしてんな！"
+        }
+    ],
+    "food_tour": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hella_meishizhilv_cacha_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hella_meishizhilv_levelup_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hella_meishizhilv_greeting_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hella_meishizhilv_talk_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hella_meishizhilv_talk_002.aac",
+            "text": "＊"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hella_meishizhilv_idle_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hella_meishizhilv_clicking_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hella_meishizhilv_specialattention_001.aac",
+            "text": "＊"
+        }
+    ],
+    "northward_to_whitesands": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hella_shahaiqilv_cacha_001.aac",
+            "text": "針が真北を指してる。目標は砂の海の真ん中ってことね！道を空けなさい。ヘラ様の壮大な冒険が始まるわよ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hella_shahaiqilv_levelup_001.aac",
+            "text": "わあ、冒険資金？もっともっと！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hella_shahaiqilv_greeting_001.aac",
+            "text": "よし！日差しがちょうどいい今のうちに出発しよう！この先で宝物があたしたちを待ってるんだから！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hella_shahaiqilv_talk_001.aac",
+            "text": "前に道端でみかじめ料を出せって言ってきた悪党たちがいたんだけど、パイプであいつらをボコボコしてやったわ。あたし一人で全員倒したんだよ。どう？すごいでしょ？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hella_shahaiqilv_talk_002.aac",
+            "text": "ヘカテーが持ってた本でこんな話を読んだことがあるの。砂漠の奥深くには、伝説の砂漠強盗・なんとかババが隠した洞窟があって、宝物が山積みになってるって！ディス中の人が一生使い切れないほどあるらしいよ！ゴホン、修行のついでに寄ってみよっかな……もしその話が本当だったら？えへへ……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hella_shahaiqilv_idle_001.aac",
+            "text": "出発前に局長のポケットからこっそりお小遣いを数ヶ月分「前借り」しておいてよかった～まさか外ではこんなに早くお金がなくなるなんて……あーあ、バカ局長とヘカテーは今頃何してるのかな……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hella_shahaiqilv_clicking_001.aac",
+            "text": "何？伝説の冒険家ヘラ様と握手したいの？1回200ディスコインね。先払いでよろしく。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hella_shahaiqilv_specialattention_001.aac",
+            "text": "あたしの冒険はおとぎ話なんかよりずっと面白いんだから！全部日記に書いてあるから、帰ったらみんなに回して読んでもらおうっと。ただし……誤字脱字探しは禁止！"
+        }
+    ]
+}

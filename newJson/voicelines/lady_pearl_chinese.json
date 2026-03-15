@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_pearl_cacha_001.aac",
+            "text": "欢迎来到福尔图娜剧院~啊~抱歉，我习惯和人寒暄时用这个做开场白了~不过，你这里确实有很多做演员的好苗子，怎么样，要来跟我谈谈吗~？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_pearl_promotion_001.aac",
+            "text": "别光看着我呀，好好看戏~"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_pearl_promotion2_001.aac",
+            "text": "来吧~庆祝大末场完美收官，好好喝一杯~"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_pearl_battlebegin_001.aac",
+            "text": "亲爱的，你主演的大戏要开幕咯~"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_pearl_battlewin_001.aac",
+            "text": "圆满落幕~真是精彩的故事~"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_pearl_battlelose_001.aac",
+            "text": "啊~这可是不多见的演出事故啊~"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_pearl_uniqueskill_001.aac",
+            "text": "敬请观赏！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_pearl_dead_001.aac",
+            "text": "此刻，所有梦都将烟消云散……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pearl_greeting_001.aac",
+            "text": "嗯~在我想到你的时候，你就来了~真乖~要表扬表扬你才行~"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_pearl_talk1_001.aac",
+            "text": "只要你想，从替卡到主卡，我说一句话就好了——但前提是，捧角儿的本你得给我赚回来。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_pearl_talk1_002.aac",
+            "text": "不用在我面前这么拘谨~这里会令你疯狂，亲爱的，你只需纵情享受，大胆选择就好~"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_pearl_talk1_003.aac",
+            "text": "教教你在这个剧院的生存之道吧~那就是……把爱分给所有人，而不给任何人你所有的爱。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_pearl_talk2_001.aac",
+            "text": "剧院里确实有很多门道，包厢里的座椅是红色天鹅绒的，大厅里的椅子是最便宜的料子，但就像戏剧平等地演绎给所有人一样，尽管市议会老爷们都想要天鹅绒，但抢票摇不到号时，地板他们也抢着坐。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_pearl_talk2_002.aac",
+            "text": "要是都按照既定轨道生活，那多无趣~人总要有疯狂的时刻，失控的时刻……无论以后成为什么样的人，走上什么样的路，都一定会对那一刻分外怀念。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_pearl_talk2_003.aac",
+            "text": "一个吻或许很棒，但也转瞬即逝，在那之后，梦回归了现实，疯子变回了空壳。有的人接受，有的人堕落，我想知道，若是你，会有什么出乎意料的选择呢？"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_pearl_obeyfull_001.aac",
+            "text": "与你在一起的每一刻，似乎都无法预料下一步会通往哪里。你是我最宠爱的舞者，是我最美妙的歌者，我恨不得让火焰吞噬掉整个剧院，而我们，直到化为灰烬前，都在演绎着，最疯狂的剧本。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pearl_idle_001.aac",
+            "text": "我喜欢看那些孩子们在舞台上恣意的模样，看他们争先恐后地抛开一切，去选择不同的人生体验……嗯，我非常享受这样的时刻。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pearl_clicking_001.aac",
+            "text": "真是让人眼花缭乱，不过对我来说，也就是些老把戏罢了~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pearl_specialattention_001.aac",
+            "text": "比起那些漂亮可爱的孩子，你更钟情于我吗？呵呵……疯狂又大胆，我就喜欢你这样的。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_pearl_dispatch_001.aac",
+            "text": "哎，怎么还需要我亲自去应酬啊……"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_pearl_dispatch2_001.aac",
+            "text": "精彩，真是精彩~喏我还顺便给你带了点小礼物~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pearl_levelup_002.aac",
+            "text": "唉~我又不是台上的大明星，送花给我干什么呢？收下啦~"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_pearl_head_001.aac",
+            "text": "调皮~有些事情，可不适合在这个时间做~"
+        }
+    ],
+    "glorious_spectacle_unfolds": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_pearl_muxiahuazhang_cacha_001.aac",
+            "text": "每一出戏剧都是一场精心编织的梦境，你可以放任自己全身心地沉浸其中，去体验一段截然不同的人生，或是去感受那些此前从未体验过的情绪……相信今天这场光怪陆离的旧梦，一定不会让你失望。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pearl_muxiahuazhang_levelup_001.aac",
+            "text": "承蒙你的吉言，这次的首演一定会很顺利。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pearl_muxiahuazhang_greeting_001.aac",
+            "text": "呵呵，贵客光临，身为剧团长的我当然要亲自出来迎接~"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_pearl_muxiahuazhang_head_001.aac",
+            "text": "我这头发可是花了好长时间才收拾好的，要是被你弄乱弄散了，你可得负责帮我梳回去~"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_pearl_muxiahuazhang_talk1_001.aac",
+            "text": "这次的新剧是一部复古年代剧，讲述了时代风云之下小人物的命运……呵呵，剧透到此为止，至于具体是个什么样的故事，由你自己去发现、探索和见证不是更好吗？我可不想破坏惊喜。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_pearl_muxiahuazhang_talk1_002.aac",
+            "text": "嗯，排戏这活确实不轻松，不仅需要给每一位演员详细讲解剧本，根据实际的试戏情况修改台词、调整走位，还得反复核查道具和灯光……不过剧团的孩子们都为了演好这出戏卯足了劲，我当然也不该懈怠，这样才能不辜负他们的努力和大家的期待。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_pearl_muxiahuazhang_hand_001.aac",
+            "text": "怎么，你也喜欢这把扇子？你要是喜欢的话，就当做纪念品送给你好了——这可是我亲手做的道具样板，只此一份，只赠与你。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_pearl_muxiahuazhang_shoulder_001.aac",
+            "text": "你是知道福尔图娜的演出形式的，为了更加沉浸，大家都穿上应景的衣服来看剧，我也不例外。要不要我带你去后台换一身和我更加相称的服装，再去欣赏这出好戏呢？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pearl_muxiahuazhang_idle_001.aac",
+            "text": "演出就快要开始了，赶紧进去吧，你不会想错过开场的。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pearl_muxiahuazhang_specialattention_001.aac",
+            "text": "现在光顾着看我也就罢了，但一会儿等演出正式开始以后，可要把注意力全部集中在舞台上哦。去感受演员们的诚意，也好好享受我特意为你准备的视角最好的vip包厢~"
+        }
+    ]
+}

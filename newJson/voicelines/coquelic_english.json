@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_coquelicot_cacha_001.aac",
+            "text": "Feel honored I'm willing to walk into this place. I'd like to have a little garden outside my room. Thanks."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_coquelicot_promotion_001.aac",
+            "text": "I recognize your hard work, my child."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_coquelicot_promotion2_001.aac",
+            "text": "Enjoy being surrounded by flowers."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_coquelicot_battlebegin_001.aac",
+            "text": "Who will bloom under my sword today?"
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_coquelicot_battlewin_001.aac",
+            "text": "The splash of petals is incomparably gorgeous."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_coquelicot_battlelose_001.aac",
+            "text": "I'll spare your life for now..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_coquelicot_uniqueskill_001.aac",
+            "text": "Bloom here, till the day you wither!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_coquelicot_dead_001.aac",
+            "text": "This will be... the grandest flower shower..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_coquelicot_greeting_001.aac",
+            "text": "I hope we're both free from work today, so we can stay here... and rest a whole day..."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_coquelicot_talk1_001.aac",
+            "text": "I cherish and care for every flower in the Garden. I hope my nurture will give them leaves sharp enough to cut through hardships, so their souls can bloom into the most beautiful flowers..."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_coquelicot_talk1_002.aac",
+            "text": "Rules can't confine the wish to bloom. A sprout born in the dark will eventually break them into pieces."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_coquelicot_talk1_003.aac",
+            "text": "Working for pay is only the most basic way of life. The client gains convenience while I gain happiness. I enjoy my life much better than those who hustle for unrealistic, empty goals."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_coquelicot_talk2_001.aac",
+            "text": "Those who like flowers pick them. Those who love flowers water them... But I won't mind if you pick me and take me home."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_coquelicot_talk2_002.aac",
+            "text": "Don't give me those contrived moral lessons. In this world, nothing means more than the most simple words \"I want to.\""
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_coquelicot_talk2_003.aac",
+            "text": "A kind and lovely lady like me will wash the dirt off those stems and nurture them properly, so they can be reborn as exquisite flowers in their next lives... Oh, how admirable am I!"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_coquelicot_obeyfull_001.aac",
+            "text": "Flowers in bloom wither in the end. When the day comes, I long to rest in the immortal, deep-blue abyss of yours... May the poppies bloom on your chest like a scarlet blaze... The mark of my genuine affection..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_coquelicot_idle_001.aac",
+            "text": "Touched by no one. Loved by no one. Though tortured by loneliness, it'll bloom even more brightly."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_coquelicot_clicking_001.aac",
+            "text": "Don't think you can get away with anything just because of my affection for you. Or else... You'll be the next to lie in the soil of my garden."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_coquelicot_specialattention_001.aac",
+            "text": "Sigh... I know, I'm pretty, that's why you can't keep your eyes off me."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_coquelicot_dispatch_001.aac",
+            "text": "I can't pick up my jacket. Can you put it on me, please?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_coquelicot_dispatch2_001.aac",
+            "text": "Ask someone else to do it next time. It's so not for me."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_coquelicot_levelup_002.aac",
+            "text": "Look at me. Am I not good enough for you?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_coquelicot_head_001.aac",
+            "text": "Like this flower? Or... You wanna see how it got tinted red?"
+        }
+    ],
+    "blossom": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_coquelicot_shengfang_cacha_001.aac",
+            "text": "The moment I opened my eyes, I saw you running toward me. I know that it's your constant watch that has made this grand blossom special."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_coquelicot_shengfang_levelup_001.aac",
+            "text": "Yes, bloom and thrive!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_coquelicot_shengfang_greeting_001.aac",
+            "text": "I haven't seen you for a while, but why are you suddenly so clingy like my flowers? Well, I'm perfectly fine! See? The breath of life you gave me will last long."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_coquelicot_shengfang_talk_001.aac",
+            "text": "The place that used to be a prison for me has now become a garden in full bloom. Flowers aren't a symbol of my death, but of my rebirth."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_coquelicot_shengfang_talk_002.aac",
+            "text": "Don't be all gloomy in my garden. You want to upset my flowers too? Rest assured. I won't leave without saying goodbye again."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_coquelicot_shengfang_idle_001.aac",
+            "text": "I always thought I could take on the world on my own, but after everything I've been through, I feel that... it's a comfort to have you all by my side."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_coquelicot_shengfang_clicking_001.aac",
+            "text": "Oh? You'd like to have a go? Be my guest. But... I'm afraid I'll have to take your lap as my new seat."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_coquelicot_shengfang_specialattention_001.aac",
+            "text": "The new garden has many rare flowering plants that can't be found even in DisCity, like purple water lilies, dancing-lady orchids... Hmm? You only want to see poppies? Well, in that case, you can just look at me."
+        }
+    ],
+    "crimson_hunt": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_coquelicot_feisemilin_cacha_001.aac",
+            "text": "Oh? Another morsel walking straight into my lair... I don't mind your company, but a predator's forest is far more dangerous than you can imagine. The banquet has already begun, so I'll be watching with anticipation—let's see if you can take what you desire from this feast without becoming part of it."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_coquelicot_feisemilin_levelup_001.aac",
+            "text": "I see you understand the etiquette of a feast. Very good."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_coquelicot_feisemilin_greeting_001.aac",
+            "text": "Coming to see me every day... Are you enchanted by the gentle forest night, or perhaps you crave the delicacies laid upon the table? Or could it be... my lie-laced wine that has you so addicted?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_coquelicot_feisemilin_talk_001.aac",
+            "text": "Deep in the forest stands an ancient castle, without light, devoid of life, a place even the guests of the banquet refuse to visit. Yet murky shadows stir restlessly behind its unpolished windows as midnight approaches. Some whisper that it's a slumbering vampire, waiting for the next grand ball..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_coquelicot_feisemilin_talk_002.aac",
+            "text": "The rules of the forest banquet aren't complicated at all—just like hide and seek. Those who catch their prey feast gloriously, while those who fail to hide become dessert... Don't worry, tonight's desserts are quite enough. I wouldn't want you to become an after-dinner plaything for my little kitty so soon."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_coquelicot_feisemilin_idle_001.aac",
+            "text": "Then let's stay like this a little longer. After all, the banquet isn't over yet, and this forest... has always been delighted to entertain guests like you."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_coquelicot_feisemilin_clicking_001.aac",
+            "text": "Perhaps my drink needs some new ingredients, like those prying fingers of yours."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_coquelicot_feisemilin_specialattention_001.aac",
+            "text": "Hm... I like the look in your eyes. Raw, honest, brimming with the desire to survive, to triumph, to conquer... The outside world has so many conceited rules, but here in the depths of the dense forest, there are no such constraints. If you wish to dance, then dance."
+        }
+    ]
+}

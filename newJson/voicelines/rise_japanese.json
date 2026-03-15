@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_rise_cacha_001.aac",
+            "text": "貴方のために働くのは構わないけど、スケジュールが合理的なのが前提だから。残業はNG。でもMBCCが私の時給の4倍払うって約束してくれるなら、検討してもいいけど。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_rise_promotion_001.aac",
+            "text": "私たちの仕事は段階的に成果を上げている。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_rise_promotion2_001.aac",
+            "text": "全ての悪事は……この光の剣で浄化される！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_rise_battlebegin_001.aac",
+            "text": "こういう目障りなゴミは一つ残らず見逃さない……！"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_rise_battlewin_001.aac",
+            "text": "はぁーー！空気もだいぶ綺麗になった！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_rise_battlelose_001.aac",
+            "text": "今度は、お前たちを徹底的に切り刻む！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_rise_uniqueskill_001.aac",
+            "text": "あっけないなぁ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_rise_dead_001.aac",
+            "text": "まだ立ち上がって……全てを変えないと……！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_rise_greeting_001.aac",
+            "text": "それが今日の任務スケジュール？了解。定時前には報告上げとくから。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_rise_talk1_001.aac",
+            "text": "私の仕事のストレスはほとんど、仕事そのものじゃなく、職場で関わる人たちから受けるものだよ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_rise_talk1_002.aac",
+            "text": "まだ残業してるの？本を読むとか、もっと有意義なことすれば？『ディス労働条例』はいい本だよ。涅槃内の読書会でシェアしたこともあるし、貴方にもおすすめしとく。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_rise_talk1_003.aac",
+            "text": "不当な扱いには真っ向から指摘するし、間違った提案にはその場で反論する。混乱は正されなきゃならない。そうじゃないと、この世界は1ミリも進歩しないでしょ？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_rise_talk2_001.aac",
+            "text": "ストレスを発散する方法は色々あるけど、私の場合はスカッシュ。球を腹の立つことに見立てて、力強く打つわけ。一晩中やってられるよ。必要なら住所送ろうか？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_rise_talk2_002.aac",
+            "text": "最初の上司は役立たずの高給取りだったから、ゴミ箱に捨ててやった。2番目の上司はすごく強かったけど、彼女の才能は全部IQに集約されるんじゃないかっていつも疑ってた。そして貴方。上位者には見えないけど、私が出会った中で最高の上司だよ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_rise_talk2_003.aac",
+            "text": "誰もが子供の頃、小説のヒーローみたいな主人公に憧れるでしょ。でも現実は、誰もが「選ばれし者」みたいにあらゆる邪悪に勝つ力なんか持ってない。結局食われるか、悪人の仲間になるかどっちかだよ。でも私は奴らに変えられたくなかったから、奴らを変えることを選んだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_rise_obeyfull_001.aac",
+            "text": "貴方のために働くと、リラックスできる。仕事が簡単って意味じゃなく……過剰なプレッシャーに追われなくなって、ようやく心が呼吸できたから。あなたの周りには、理想的な世界が少しずつ形作られてる。まだプロトタイプだけど……私にはそれが完成する未来が見えるよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_rise_idle_001.aac",
+            "text": "仕事と休息のバランスを取れって？いいこと言うじゃん。外に出てディスエスプレッソを1杯淹れるよ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_rise_clicking_001.aac",
+            "text": "また邪魔したら、その顔切りつけてやる。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_rise_specialattention_001.aac",
+            "text": "言いたいことあるなら言えば。こっちは定時で退勤したいんだけど。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_rise_dispatch_001.aac",
+            "text": "リクエストは受け取った。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_rise_dispatch2_001.aac",
+            "text": "仕事が終わったから、退勤するよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_rise_levelup_002.aac",
+            "text": "新しいモデルで仕事の効率が上がった。"
+        }
+    ],
+    "nebula_sentinel": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_rise_xingjieshouwang_cacha_001.aac",
+            "text": "数千の銀河、数万の惑星を越えて、光の剣が私をここに導いた。この長い旅の中で、運命のような引力を感じたのは貴方だけだ。貴方が、私の同行者ということ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_rise_xingjieshouwang_levelup_002.aac",
+            "text": "貴方の支援で、この光はさらに明るくなる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_rise_xingjieshouwang_greeting_001.aac",
+            "text": "正義の光が永遠に貴方と共にあらんことを。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_rise_xingjieshouwang_head_001.aac",
+            "text": "貴方も感じた？万物の間に存在する力を。とても広大で包容力があるものだ。ヒーローはそれを使って正義を守り、悪党はそれを使って思いのままに振る舞う……私たちは皆、その力と共にあるんだ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_rise_xingjieshouwang_talk1_001.aac",
+            "text": "私は宇宙を巡って、壮大で荒廃した星が暗黒に呑み込まれるのを見たことがある。不公平な煉獄が打ち砕かれ、崩壊するのも目撃した——何があろうと、私は公正と光の消失を見過ごしたりはしない。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_rise_xingjieshouwang_talk1_002.aac",
+            "text": "邪悪を倒す選ばれし者？まさか、貴方もあの予言を信じてるわけ？誰もが誠実な心を持ち続ければ、この世界は自然と、闇や混乱に飲み込まれることもなくなるし、救世主も必要なくなる。これが私の持論。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_rise_xingjieshouwang_hand_001.aac",
+            "text": "この光の剣は、私が戦士である意味を与えてくれた。悪を討ち、善を広める力を授け、正義を守る責任を思い出させてくれた。そして私を……貴方へと導いてくれたんだ。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_rise_xingjieshouwang_shoulder_001.aac",
+            "text": "暗闇の前で動揺は禁物。貴方と私が一緒に戦えば、必ず邪悪を一掃できる。光と希望は、最終的に私たちの手で解放されるんだから。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_rise_xingjieshouwang_idle_001.aac",
+            "text": "この輝かしい星空は確かに魅力的だけど、私は人々の心にある美しい道徳も同じように仰ぎ見るべきだと思う。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_rise_xingjieshouwang_specialattention_001.aac",
+            "text": "私たちは、正義の道の上を共に歩んでいく。貴方は決して孤独じゃない。"
+        }
+    ]
+}

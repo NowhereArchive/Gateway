@@ -1,0 +1,260 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_hekadi_cacha_001.aac",
+            "text": "ずっと待っていました。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_hekadi_promotion_001.aac",
+            "text": "あなたが望むなら、わたしはずっと傍にいます。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_hekadi_promotion2_001.aac",
+            "text": "わたしのすべてはあなたのもの。これは「ヘカテー」の存在意義ですから。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_hekadi_battlebegin_001.aac",
+            "text": "わたしについてきてください。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_hekadi_battlewin_001.aac",
+            "text": "次は何をすればいいですか？"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_hekadi_battlelose_001.aac",
+            "text": "大丈夫です。わたしは痛みを感じませんので。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_hekadi_uniqueskill_001.aac",
+            "text": "この人に……近づいてはいけません！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_hekadi_dead_001.aac",
+            "text": "大丈夫です……わたしの代わりはいくらでもいますから。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hekadi_greeting_001.aac",
+            "text": "昨夜は眠れましたか？局長、本日のご命令を。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_hekadi_talk1_001.aac",
+            "text": "……局長をお守りすればいいんですね？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_hekadi_talk1_002.aac",
+            "text": "「コンビクト」と「死瞳」はどこが違うのでしょう？同じように血を流し、死んでいく命なのに、どうしてわたしたちとは違うと思うのですか？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_hekadi_talk1_003.aac",
+            "text": "わたしが消えても、次の「ヘカテー」がいます。だから、気にしないでください。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_hekadi_talk2_001.aac",
+            "text": "わたしにもっと厳しくしてください。わたしに優しくしてくれた人たちは……みんな……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_hekadi_talk2_002.aac",
+            "text": "局長と出会ってから、わたしはもう「ヘカテー」ではなくなった気がします。わたしにも自分がどう変わっていくのかわかりません。その日が来たら……わたしがどうすべきなのか、教えてくれますか？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_hekadi_talk2_003.aac",
+            "text": "局長。もし、いつか……わたしが「ヘカテー」ではなくなっても、傍に……置いてくれますか？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_hekadi_obeyfull_001.aac",
+            "text": "もうわたしに命令する必要はありません、局長。どうかわたしを見ていてください。残された時間は、自分の意志であなたと一緒に歩んでいきます。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hekadi_idle_001.aac",
+            "text": "よい夢を。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hekadi_clicking_001.aac",
+            "text": "どんな内容の命令でも、迷う必要はありません。どうぞわたしを使ってください。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hekadi_specialattention_001.aac",
+            "text": "そんなことしなくても、わたしはずっと傍にいます。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hekadi_dispatch_001.aac",
+            "text": "これは命令ですか？分かりました。やり遂げます。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_hekadi_dispatch2_001.aac",
+            "text": "命令を完遂。ただいま戻りました。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hekadi_levelup_002.aac",
+            "text": "これがあなたの望みなら、わたしは従うまで。"
+        }
+    ],
+    "yesterday_revisits": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hekadi_zuorichongxian_cacha_001.aac",
+            "text": "局長の要求でなければ……この服を着る機会もなかったでしょう。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hekadi_zuorichongxian_levelup_001.aac",
+            "text": "休息中も油断はしません。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hekadi_zuorichongxian_greeting_001.aac",
+            "text": "今日はわたしに何をしてほしいのですか？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hekadi_zuorichongxian_head_001.aac",
+            "text": "この帽子が気になりますか？これは画家がかぶる帽子だと言われました。ただ……画家とは……なんなのでしょう？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hekadi_zuorichongxian_body_001.aac",
+            "text": "これを着るたびに誰かが写真を撮ってくれました。けれど、着てほしいとお願いされたのは久しぶりです。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hekadi_zuorichongxian_body_002.aac",
+            "text": "機会があれば……戦場以外のところにも連れてってほしいです。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hekadi_zuorichongxian_lefthand_001.aac",
+            "text": "昔は寝る前に電話をすると、誰かが物語を聞かせてくれました。けれど、わたしは突然物語の内容を忘れてしまったのです。その日を境に、電話が鳴ることもなくなりました。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hekadi_zuorichongxian_righthand_001.aac",
+            "text": "ナイチンゲール副官がわたしの画集は危険で人に見せられないと言っていたので、この箱にしまっているのです。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hekadi_zuorichongxian_idle_001.aac",
+            "text": "局長の絵を描いたんですが、みんな局長に見せるなって言うんです。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hekadi_zuorichongxian_specialattention_001.aac",
+            "text": "こういうスタイルがお好きですか？管理局の制服にしましょうか？"
+        }
+    ],
+    "traveler's_tale": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_cacha_001.aac",
+            "text": "こんにちは。私は異世界から来た魔法使い。夢と幻想を操る能力があります……セリフはこれで合っている？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_levelup_001.aac",
+            "text": "魔力値、増加。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_greeting_001.aac",
+            "text": "局長も参加したいの？分かった。ゲームの中でも、しっかり守る。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_head_001.aac",
+            "text": "これは魔法使いの専用装備だってメイスから聞いた……帽子が大きければ大きいほど、特殊なバフ効果も高くなるみたい。局長も欲しい？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_body_001.aac",
+            "text": "たまには、命令以外のことをしてもいいのかもしれない……リラックスの意味が分かった。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_body_002.aac",
+            "text": "仮想世界では、誰もが思い描いた自分になれる。現実ではできないこともできる……これが、ゲームの魅力。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_righthand_001.aac",
+            "text": "悪夢にも新しい装備をつけた。気に入ったみたい。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_lefthand_001.aac",
+            "text": "ラムゴラド——あっ……EMPが言っていた。ゲームをプレイする時は、魔導書に書かれたスキル名を読み上げた方が没入感があるって。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_idle_001.aac",
+            "text": "「彼方から来た勇者よ。天空と星の導きを受け、未知なる旅へ出よ。神秘の宝物を探すために……」"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_specialattention_001.aac",
+            "text": "局長がやりたいのは、どの場所のクエスト？命令をくれれば、一緒に行く。"
+        }
+    ],
+    "darkwing_eclipse": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hekadi_anyushaguang_cacha_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hekadi_anyushaguang_levelup_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hekadi_anyushaguang_greeting_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hekadi_anyushaguang_body_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hekadi_anyushaguang_body_002.aac",
+            "text": "＊"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hekadi_anyushaguang_idle_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hekadi_anyushaguang_clicking_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hekadi_anyushaguang_specialattention_001.aac",
+            "text": "＊"
+        }
+    ]
+}

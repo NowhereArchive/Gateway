@@ -1,0 +1,198 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_pajiaxi_cacha_001.aac",
+            "text": "저는 파카시입니다. 예전부터 홀로 남겨진 고아예요. 걸어 다니는 오물 덩어리니까 멀리하는 게 좋을 겁니다."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_pajiaxi_promotion_001.aac",
+            "text": "에너지 레벨 향상, 방사선 보호 레벨 조절에 주의하십시오."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_pajiaxi_promotion2_001.aac",
+            "text": "아직 포기하지 않았나요? 그럼… 날 터치해 보세요… 방사선에 관통당할 준비는 해두시고요."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_pajiaxi_battlebegin_001.aac",
+            "text": "실망시키지 않겠습니다."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_pajiaxi_battlewin_001.aac",
+            "text": "해냈습니다!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_pajiaxi_battlelose_001.aac",
+            "text": "죄송… 합니다… 죄송… 해요…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_pajiaxi_uniqueskill_001.aac",
+            "text": "저에게서… 멀리 떨어지세요!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_pajiaxi_dead_001.aac",
+            "text": "드디어… 끝이 나버렸군요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_pajiaxi_greeting_001.aac",
+            "text": "안녕하세요, 국장님. 오늘은 저에게 어떤 업무를 맡기실 예정이십니까?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_pajiaxi_talk1_001.aac",
+            "text": "국장님, 제가 할 수 있는 일이 있을까요? 이렇게 가만히 있는 건 제 체질이 아니라서요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_pajiaxi_talk1_002.aac",
+            "text": "이 팔뚝은 근육의 힘을 보조하기 위해 개조된 겁니다. 죄송하지만 건드리지 말아 주십시오. 아뇨, 딱히 꺼려서가 아니라… 개조를 위해 방사선을 너무 많이 흡수해서… 그래서 그런 겁니다."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_pajiaxi_talk1_003.aac",
+            "text": "저는 마을에서 발생한 일을 다 기억하면서 살아야 해요. 그렇지 않으면 우리가 겪은 모든 것이… 의미가 없어지니까요…"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_pajiaxi_talk2_001.aac",
+            "text": "전 아직도 발전소의 마지막 사고를 기억합니다. 그해 겨울, 쌓인 눈이 전력망의 태반을 파괴했고, 30일 동안 읍내 인구의 4분의 1이 줄었습니다. 그리고 이듬해 초봄이 되어서야, 녹아내린 눈 아래에서 우리는 그들을 찾아낼 수 있었어요…"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_pajiaxi_talk2_002.aac",
+            "text": "마예크는 등대라는 뜻으로, 가장 어두울 때에도 떠도는 사람에게 희망과 가야 할 길을 인도해 줍니다. 하지만 아무도 모르죠, 그 등대조차도 어둠에 잠식되어 버릴 수 있다는 것을…"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_pajiaxi_talk2_003.aac",
+            "text": "저는 다른 사람의 연민, 심지어 당신의 연민도 바라지 않습니다. 저는… 존엄성을 잃고 실험체로 살거나 동물원에 구경거리로 살고 싶지 않습니다…"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_pajiaxi_obeyfull_001.aac",
+            "text": "아무도 제게 친구가 무엇인지 알려준 적이 없었어요… 책에서 읽은 적이 있는데, 친구는 대신 죽어줄 수 있는 사람이라더군요… 만약 그게 맞는 거라면, 국장님은… 저의 친구입니다. 유일한 친구."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_pajiaxi_idle_001.aac",
+            "text": "국장님, 벌써 한참을 일하셨는데, 좀 쉬셔야죠."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_pajiaxi_clicking_001.aac",
+            "text": "국장님… 이, 이건 디스시티 사람들의 친절함을 나타내는 표현인가요… 그… 그래요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_pajiaxi_specialattention_001.aac",
+            "text": "그렇게… 빤히 쳐다보지 말아주십시오. 적응이…안됩니다."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_pajiaxi_dispatch_001.aac",
+            "text": "제가 해낼 겁니다."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_pajiaxi_dispatch2_001.aac",
+            "text": "임무를 완료했습니다. 새로운 임무를 주십시오."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_pajiaxi_levelup_002.aac",
+            "text": "방사선이 강해졌어요."
+        }
+    ],
+    "winter_night": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_pajiaxi_dongye_cacha_001.aac",
+            "text": "국장님, 모닥불 앞으로 더 가까이 오세요. 마예크 타운 외곽이긴 하지만, 그래도 디스시티보다는 추우니 따뜻하게 있어야 해요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_pajiaxi_dongye_levelup_002.aac",
+            "text": "음~ 따뜻하네요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_pajiaxi_dongye_greeting_001.aac",
+            "text": "국장님, 좀 따뜻해졌나요? 그래도 추우면… 제가 조금 전에 끓여둔 보르시를 좀 드셔보세요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_pajiaxi_dongye_talk_001.aac",
+            "text": "'백 년이 흐른 뒤, 젊은 도시는 북국의 빛이자 기적이 되었다…' 관리국 도서관에서 찾은 시집인데, 꽤 재밌어요… 국장님도 읽어보실래요?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_pajiaxi_dongye_talk_002.aac",
+            "text": "한때 이곳은 마예크 타운에서 가장 먼 곳이었고, 지금은… 가장 가까운 곳이 되었죠."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_pajiaxi_dongye_idle_001.aac",
+            "text": "어렸을 땐 겨울이 빨리 지나가기를 바랐는데, 지금은 오히려 느리게 지나가길 바라요… 사람은 참 이상하죠."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_pajiaxi_dongye_clicking_001.aac",
+            "text": "그냥… 그냥 마예크 스타일로 제복을 재봉한 건데… 관리국 규정에 어긋나는 건 아니겠죠…?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_pajiaxi_dongye_specialattention_001.aac",
+            "text": "혹한의 바람과 눈 내리는 밤은 마예크 타운만의 특징이에요. 그런 의미에서, 방한복을 입고 겨울밤을 지키는 이는 영원히 기억되어야 하죠…"
+        }
+    ],
+    "frostforged_maiden": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_pajiaxi_lindongxiushi_cacha_001.aac",
+            "text": "새로 온 근로자군요, 안녕하세요. 저는 겨울의 딸이에요. 눈과 얼음에서 태어난 특별한 존재죠. 매년 겨울이면 이곳에서 부지런히 일한 근로자들을 축복한답니다. 그래서 다들 절 '겨울 아가씨'라고 부르죠."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_pajiaxi_lindongxiushi_levelup_001.aac",
+            "text": "눈이 더 쌓인 것 같네요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_pajiaxi_lindongxiushi_greeting_001.aac",
+            "text": "오셨군요, 올해 한 해는 잘 마무리했나요? 그럼 이제 푹 쉬면서 봄이 오는 걸 기다려봐요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_pajiaxi_lindongxiushi_body_001.aac",
+            "text": "제철소에서 일하는 근로자가 그랬어요. 뜨거운 쇳물을 고압 냉각기에 부으면 연통에서 수증기가 엄청나게 뿜어져 나오는데, 그 광경이 마치 불꽃놀이를 보는 것만 같대요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_pajiaxi_lindongxiushi_body_002.aac",
+            "text": "근로자 여러분, 제가 떠난다고 너무 슬퍼하지 말아요. 언젠가 제가 완전히 녹아 없어지게 된다면, 그건 봄이 왔다는 증거랍니다. 새로운 생명이 또다시 시작되는 거죠… 그때가 오면, 저는 뜨거운 용광로에서 녹아 땅속으로 스며들어 다른 방식으로 여러분과 함께할 거예요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_pajiaxi_lindongxiushi_idle_001.aac",
+            "text": "응, 너도 생산량 목표를 초과 달성했다는 소식을 들었구나? 정말 잘 됐어, 올겨울 연휴는 다들 풍성하고 즐겁게 보낼 수 있을 거야."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_pajiaxi_lindongxiushi_clicking_001.aac",
+            "text": "고맙긴 하지만 저는 이렇게 두꺼운 목도리는 필요 없어요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_pajiaxi_lindongxiushi_specialattention_001.aac",
+            "text": "계속 지켜봐 줘서 고마워요. 하지만 제가 사라지는 건 필연적인 일이고, 근로자들 역시 이번 겨울에 승리를 거둘 거예요."
+        }
+    ]
+}

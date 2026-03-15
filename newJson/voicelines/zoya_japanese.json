@@ -1,0 +1,335 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_zoya_cacha_001.aac",
+            "text": "シンジケートのヤクザを捕まえるためだけに、これだけの警察官が出動するとは。お前の部下は……弱過ぎるな。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_zoya_promotion_001.aac",
+            "text": "力があるだけじゃ十分と言えねえ。その役割を発揮させなきゃ意味がねぇんだ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_zoya_promotion2_001.aac",
+            "text": "もう限界だと？ 笑わせるな。人間は限界を超え続ける生き物だ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_zoya_battlebegin_001.aac",
+            "text": "だいぶ待ったぞ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_zoya_battlewin_001.aac",
+            "text": "相手を間違えたな。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_zoya_battlelose_001.aac",
+            "text": "これは終わりじゃねえ。負けを認めるな！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_zoya_uniqueskill_001.aac",
+            "text": "俺こそが、軍団だ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_zoya_dead_001.aac",
+            "text": "ここで……倒れるわけには……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_zoya_greeting_001.aac",
+            "text": "ほお、随分のんびりしているようだな。俺とシンジケートに戻ってみないか？お前に会いたがってるやつがたくさんいるぞ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_zoya_talk1_001.aac",
+            "text": "お前の上司は毎日俺を監視するやつを変えてるな。なんだ？そんなに恐いのか？囚われたコンビクトごときが。あるいはシンジケートの落ちぶれたヤクザが？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_zoya_talk1_002.aac",
+            "text": "俺の部下は筋肉バカだけでなく、頭脳明晰なやつもいるぜ。うん……お前みたいなのもいいかもな。公務員なんざ辞めて軍団に入ったらどうだ！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_zoya_talk1_003.aac",
+            "text": "銃？そんなもので戦うなんてありえねぇ。戦士とは自分の拳と意志だけを信じて戦うもんだ。それに、シンジケートの「銃」はとっくに汚れてる。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_zoya_talk2_001.aac",
+            "text": "暴力だけが暴力を終わらせることができる。それがシンジケートが出した唯一の答えだ。かつて幻想を抱いていた者は、何も成せずに命を落としていったよ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_zoya_talk2_002.aac",
+            "text": "廃墟と化したあの工場は、この街の黄金時代の記録だ。あれこそシンジケートが取り戻さなければならない栄光なんだよ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_zoya_talk2_003.aac",
+            "text": "「誰を失っても、軍団長は冷静でなければならない」か、だが、もしそれがお前だったら、俺は自分が何をするか分からないな……。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_zoya_obeyfull_001.aac",
+            "text": "最初に出会ったとき、お前は片手で持ち上げられる程度のひよっこだったが……まさか今もそうだとはな。……だがお前は、俺がこれまでに出会った中で一番強い人間でもある。これからは、いろいろと任せるぞ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_zoya_idle_001.aac",
+            "text": "ここにはわんさかいるみてえじゃねえか……稽古に付き合えそうな人間がよ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_zoya_clicking_001.aac",
+            "text": "ほう？俺を挑発してるのか?"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_zoya_specialattention_001.aac",
+            "text": "そうやって見ているだけか？はは、ならかかってこいよ。俺は立ったまま動かないし、両手も使わねえからさ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_zoya_dispatch_001.aac",
+            "text": "このくらいのことは、軍団の連中がすぐにやってのけるさ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_zoya_dispatch2_001.aac",
+            "text": "ほら、楽勝だっただろ?"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_zoya_levelup_002.aac",
+            "text": "うーん……まだ足りねぇな。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_zoya_head_001.aac",
+            "text": "ふっ、大胆なことをするじゃねえか……。"
+        }
+    ],
+    "wolves_strike_soon": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_zoya_langxijiangzhi_cacha_001.aac",
+            "text": "マフィアのやつらに伝えろ。我ら軍団は、お前たち全員に宣戦布告する！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_zoya_langxijiangzhi_levelup_001.aac",
+            "text": "ふん。これからの戦いが楽しみじゃねえか。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_zoya_langxijiangzhi_greeting_001.aac",
+            "text": "はは、遅かったな。ついてこい。シンジケートの変革をその目で見てえだろう？なら、離れるんじゃねえぞ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_zoya_langxijiangzhi_head_001.aac",
+            "text": "お前、最近……肝が据わってきたじゃねえか。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_zoya_langxijiangzhi_body_001.aac",
+            "text": "最初の相手は誰だ？テッドか？それとも柳生か？なんなら全員かかってこい。結果は一緒だからな。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_zoya_langxijiangzhi_body_002.aac",
+            "text": "策略はケルシーに任せて、俺は道を切り開くことに専念する。それがあいつにとって一番必要なことなんだよ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_zoya_langxijiangzhi_hand_001.aac",
+            "text": "錆の匂い、硝煙、終わりのない暴力。シンジケートは何一つ変わっちゃいねえ。もうたくさんだ……全部壊して、俺が変えてやる。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_zoya_langxijiangzhi_background_001.aac",
+            "text": "軍団にアジトなんかいらねえよ。シンジケート全土が群狼の領地だ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_zoya_langxijiangzhi_idle_001.aac",
+            "text": "敵は目に見えてるやつらだけじゃねえ。だが、こそこそ隠れてるネズミどもが顔を出せば……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_zoya_langxijiangzhi_specialattention_001.aac",
+            "text": "ほう？やっと入団する気になったか？"
+        }
+    ],
+    "supreme_negotiation": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.aac",
+            "text": "この通り、交渉は上手くいったぜ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_zoya_zhigaojiaoshe_levelup_001.aac",
+            "text": "十分な強さがねぇと、誰も話を聞いちゃくれねぇぞ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_zoya_zhigaojiaoshe_greeting_001.aac",
+            "text": "来たか。残念だが、交渉は予定より早く終わったぜ。だが、ここはまあまあいい場所だ。お前と話すにはちょうどいい。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_zoya_zhigaojiaoshe_head_001.aac",
+            "text": "お前の勇気には、相変わらず感心するな。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_zoya_zhigaojiaoshe_body_001.aac",
+            "text": "はは、猛獣を飼い慣らしてぇなら、猛獣以上に凶悪で野心的にならねぇとな。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_zoya_zhigaojiaoshe_body_002.aac",
+            "text": "シンジケートの未来？ふっ、知らねぇよ。だが……俺なりのやり方で答えを見つけてやる。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_zoya_zhigaojiaoshe_hand_001.aac",
+            "text": "お前のその目、羨ましいと思ってるのか？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_zoya_zhigaojiaoshe_leg_001.aac",
+            "text": "錆や硝煙は、消えずに人の心に潜む。残された痕跡は、密かにあちこちで育っていくんだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_zoya_zhigaojiaoshe_idle_001.aac",
+            "text": "ちゃんと警備できたみてぇだな。いい子だ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_zoya_zhigaojiaoshe_specialattention_001.aac",
+            "text": "この服、交渉のテーブルにつくにはふさわしいが、動くには少し邪魔なんだよな。まぁいい……これも、あいつらの気持ちだ。"
+        }
+    ],
+    "lord_of_rimehowl": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_zoya_bingfengwangzuo_cacha_001.aac",
+            "text": "月が血に染まる前に、白狼が氷を踏みしめて近づいてくる奴らに気付いたみてぇだ。見届けろ。この雪原の、最後の更迭をな。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_zoya_bingfengwangzuo_levelup_001.aac",
+            "text": "お前がいれば、吹雪にも十分耐えられる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_zoya_bingfengwangzuo_greeting_001.aac",
+            "text": "俺の傍に来て、気を引き締めろ。全てが終わるまで、しばらくここに留まるだろうからな……"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_zoya_bingfengwangzuo_head_001.aac",
+            "text": "ふっ、大胆な奴は嫌いじゃねぇぞ。で？お前の野心はこの程度なのか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_zoya_bingfengwangzuo_talk_001.aac",
+            "text": "氷河を渡る風の音は、人によって聞こえ方が違うらしいぜ。死者からの祝福に聞こえる奴もいれば……死の唸り声に聞こえる奴もいる。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_zoya_bingfengwangzuo_talk_002.aac",
+            "text": "失った人間の名を一人ずつ氷河に刻んできた。奴らは記憶されるに値する――何万年も経って、氷河が溶け去らない限りはな。もっとも、その頃には……俺たち全員、とっくに時の流れに忘れ去られてるだろうが。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_zoya_bingfengwangzuo_lefthand_001.aac",
+            "text": "この雪原は、数え切れねぇ争いを経験してきた。白い雪は踏まれて黒くなり、氷河は溶け、月光まで血のように赤く染まっちまった……だが運よく、俺たちには力がある。この雪原に、安定と平和をもたらす力がな。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_zoya_bingfengwangzuo_righthand_001.aac",
+            "text": "白狼は、最も忠誠心の高い動物だ。群れも伴侶も裏切らねぇ。そして、認めた相手を永遠に守り、信じ続ける。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_zoya_bingfengwangzuo_idle_001.aac",
+            "text": "今夜が明ければ、きっと誰もが待ち望んだ暁が昇る。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_zoya_bingfengwangzuo_clicking_001.aac",
+            "text": "うっかり間違えて触れただけならいいが――隣にいる、このでけぇ奴じゃ物足りなかったか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_zoya_bingfengwangzuo_specialattention_001.aac",
+            "text": "そんなに驚くんじゃねぇよ。この雪原を俺が統べるのは、想像通りだろ？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlebegin_001.aac",
+            "text": "準備はいいか？戦闘開始だ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlewin_001.aac",
+            "text": "これが、狼の群れの栄光だ……！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlelose_001.aac",
+            "text": "吹雪が……来る……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_zoya_bingfengwangzuo_uniqueskill_001.aac",
+            "text": "闇は、俺が終わらせる……！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_zoya_bingfengwangzuo_dead_001.aac",
+            "text": "孤狼が死んでも、狼の群れは生き続ける……"
+        },
+        {
+            "title": "インタラクション1",
+            "filename": "File:vo_zoya_bingfengwangzuo_drag_001.aac",
+            "text": "警戒するな。俺とお前を認めてるんだ。"
+        },
+        {
+            "title": "インタラクション2",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragback_001.aac",
+            "text": "ん？こいつが気に入ったか。"
+        },
+        {
+            "title": "インタラクション3",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragbody_001.aac",
+            "text": "どこを見てる？ こっちだ！"
+        },
+        {
+            "title": "インタラクション4",
+            "filename": "File:vo_zoya_bingfengwangzuo_draghand_001.aac",
+            "text": "おい。"
+        },
+        {
+            "title": "インタラクション5",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragleg_001.aac",
+            "text": "俺が認める奴らと、共に誓う。"
+        },
+        {
+            "title": "インタラクション終了",
+            "filename": "File:vo_zoya_dragreturn_001.aac",
+            "text": "儀式は終わった。血の月も退いたな。俺たちも……帰るぞ。"
+        }
+    ]
+}

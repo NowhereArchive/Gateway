@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_lysandra_cacha_001.aac",
+            "text": "砂の海を歩いてる時、あたしはわざわざ自分の身分を隠したりしなかった。MBCCはそういう情報からあたしの行動を予測したんだろ。これは既定の確率であって、運命なんかじゃない。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_lysandra_promotion_001.aac",
+            "text": "もっと深い所まで行けるようになったぞ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_lysandra_promotion2_001.aac",
+            "text": "運命のロジックを徹底的に分析した。これからの結末はあたし次第だ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_lysandra_battlebegin_001.aac",
+            "text": "動くな。状況を見て、一気に決めるぞ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_lysandra_battlewin_001.aac",
+            "text": "勝利は偶然じゃない。周到な計画の結果だ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_lysandra_battlelose_001.aac",
+            "text": "落ち着け。状況はまだそこまで悪くない。慌てる方が命取りだ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_lysandra_uniqueskill_001.aac",
+            "text": "結末はあたしが決める！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_lysandra_dead_001.aac",
+            "text": "先に行け。あたしのことは気にするな……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lysandra_greeting_001.aac",
+            "text": "よぉ、まだ生きてるのか？生きてるのはいいことだ……その、あたしはあまり挨拶が得意じゃないんだ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_lysandra_talk1_001.aac",
+            "text": "墓の中で直感や運を盲信する奴は、大抵その墓の主のように永遠にそこで眠るだろう。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_lysandra_talk1_002.aac",
+            "text": "あたしは色んな墓に行ったことがある。もし閉じ込められた時、ただ助けを求めて叫ぶことしかできないなら、返ってくるのは絶望の響きだけだ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_lysandra_talk1_003.aac",
+            "text": "底なし洞窟は最も仕掛けが多い墓穴だが、もし行きたいならあたしを連れていけ。何度でも出入りさせてやる。幽霊が人を惑わすって噂はただのデマだ。あたしがいれば、神ですら道を譲るだろう。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_lysandra_talk2_001.aac",
+            "text": "助けが必要なら、直接言え。そうしてくれれば、やってやる。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_lysandra_talk2_002.aac",
+            "text": "昔、墓の中で寝た時と比べて、MBCCでは睡眠時間が長くなったし、夜中に目覚める回数も減った……今までの経験からすると、寝具の質が良くなったおかげかもしれないな。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_lysandra_talk2_003.aac",
+            "text": "あたしは運命を信じたことがない。もしコインを投げることで運命の導きを得られるなら、それを握りしめれば運命を自分の手に握れるってことになるよな。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_lysandra_obeyfull_001.aac",
+            "text": "「運命」とは美化された嘘であり、人間の心をかき乱し、恐怖を生み出すためのものだ。だが、あんたは常に理性でそれを打ち砕き、同じ困難の中でも全てを支配できる——これこそ、あんたが「それ」より強い理由だ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lysandra_idle_001.aac",
+            "text": "あんた忙しそうだから、やることは自分で見つけた。何かあれば呼んでくれ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_lysandra_clicking_001.aac",
+            "text": "退屈なのか？だったら……暇だと思わないようにしてみろ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lysandra_specialattention_001.aac",
+            "text": "ただ見てるだけでいいのか？よく分からないが、言われた通りにしてやるよ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_lysandra_dispatch_001.aac",
+            "text": "今回の任務は少し面倒だから、先に下見してくる。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_lysandra_dispatch2_001.aac",
+            "text": "任務完了。目標地点の構造が複雑だったから、ルートマニュアルを整理しておいたぞ。次に使えるだろ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lysandra_levelup_002.aac",
+            "text": "障害を排除。もっと深く進もう。"
+        }
+    ]
+}

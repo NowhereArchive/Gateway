@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_anarkia_cacha_001.aac",
+            "text": "난 동료에게 다가가는 데 그렇게 인색한 사람이 아니야… 나를 데려가 줘, 나의 꼬마 괴물."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_anarkia_promotion_001.aac",
+            "text": "지금의 나의 영혼이 어떻게 변했을지 보고 싶은걸?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_anarkia_promotion2_001.aac",
+            "text": "이런 나를 보니까 어떤 생각이 들어? 직접 말해줬으면 좋겠어~"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_anarkia_battlebegin_001.aac",
+            "text": "이미 널 꿰뚫어 봤지. 꼼짝마라~"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_anarkia_battlewin_001.aac",
+            "text": "정방향 전차, 우리가 이길 줄은 이미 알고 있었어."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_anarkia_battlelose_001.aac",
+            "text": "전장엔 늘 뜻밖의 일이 발생하지~ 그건 어쩔 수 없는 일이야~"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_anarkia_uniqueskill_001.aac",
+            "text": "너의 모든 것을… 영혼마저도 꿰뚫어 보겠다!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_anarkia_dead_001.aac",
+            "text": "나의 영혼이 마침내… 해방되었어."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_anarkia_greeting_001.aac",
+            "text": "수정이 말해줬어, 네가 오늘 처음 만날 사람은 나라고 말이야~"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_anarkia_talk1_001.aac",
+            "text": "하얀 사막은 순수한 꿈의 땅처럼 티없는 꽃을 피운다…"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_anarkia_talk1_002.aac",
+            "text": "내 능력이 마음에 드는구나~ 점술 좀 봐줄까? 안심해, 무슨 생각 하는지 다, 알, 고, 있, 어~"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_anarkia_talk1_003.aac",
+            "text": "어디서 왔는지, 어디로 가는지 묻지 않아. 이게 나에게 점을 보는 자의 규칙이지~ 아, 내가 직접 말해줄 때를 빼고말이야~"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_anarkia_talk2_001.aac",
+            "text": "블랙링에서 온 영혼은 결코 추하지 않은 진실하고 순수한 아름다움을 가지고 있어. 오히려 자신을 가둬놓은 '사람'… 그들의 모습이야말로 정말 우습지 않니?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_anarkia_talk2_002.aac",
+            "text": "내 과거에 대해 조사하고 있다면서? 그냥 나한테 물어보면 되잖아~ 음… 어떤 버전을 듣고 싶어?"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_anarkia_talk2_003.aac",
+            "text": "나는 일찍이 꿈속에서 진실의 경지에 다다른 적이 있어. 나는… 언젠가 너도 그곳에 나타날 수 있기를 바라."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_anarkia_obeyfull_001.aac",
+            "text": "이제 가식 따윈 벗어 던지고 너에게 나의 진짜 모습을 보여 줄게… 후후. 이런~ 겨우 옷 몇 벌 벗었을 뿐인데 부끄러운 거야?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_anarkia_idle_001.aac",
+            "text": "쉿… 지금 영혼과 교감 중이야."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_anarkia_clicking_001.aac",
+            "text": "육체적인 접촉만으로 만족하는 거야? 내가… 영혼을 포옹하는 법에 대해 알려줄까?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_anarkia_specialattention_001.aac",
+            "text": "내게 이렇게나 관심을 주다니… 우리 꼬마 괴물, 나랑 머나먼 곳으로 떠나고 싶구나?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_anarkia_dispatch_001.aac",
+            "text": "음, 저기 앞쪽은 진정으로 순수한 곳일까?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_anarkia_dispatch2_001.aac",
+            "text": "역시 국장 곁에 있는 게 제일 편하네."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_anarkia_levelup_002.aac",
+            "text": "영혼의 진실한 모습은 헤아리기 힘들지만, 참으로 매력적이지…"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_anarkia_head_001.aac",
+            "text": "하, 꼭 초보 점술가가 수정 구슬을 어루만지는 것 같네."
+        }
+    ],
+    "moonlit_enchantment": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_anarkia_yueyeqitan_cacha_001.aac",
+            "text": "화이트 샌드 전설 속 신비한 등불을 찾아 날 소환했으니, 보상으로 소원을 하나 들어줄게."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_anarkia_yueyeqitan_levelup_001.aac",
+            "text": "이 고양이들은 네 장난이 마음에 드는 모양이야."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_anarkia_yueyeqitan_greeting_001.aac",
+            "text": "불쌍한 어린 양, 사막 속에서 길을 잃은 모양이구나? 두려워하지 마... 날 따라오렴."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_anarkia_yueyeqitan_talk_001.aac",
+            "text": "화이트 샌드의 달빛 아래에서 함께 생명의 물을 마신 사람들은 다음 생에 다시 만날 수 있어… 표정을 보아하니 나와 한 잔하고 싶구나?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_anarkia_yueyeqitan_talk_002.aac",
+            "text": "온순하고 가련한 외모로 상대를 현혹해서 욕망의 함정으로 밀어 넣은 뒤 숨통을 끊어버려… 음? 귀여운 사막 고양이 말이야~"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_anarkia_yueyeqitan_idle_001.aac",
+            "text": "오늘이… 몇 번째 밤이지?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_anarkia_yueyeqitan_clicking_001.aac",
+            "text": "고양이의 꼬리를 멋대로 쓰다듬으면 그에 맞는 대가를 치르게 될 거야~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_anarkia_yueyeqitan_specialattention_001.aac",
+            "text": "영원히 내 곁에 머물러준다면, 널 위해… 어떤 소원이든 이루어 줄게~"
+        }
+    ],
+    "sunfall_prophecy": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_anarkia_furiyuyan_cacha_001.aac",
+            "text": "우리의 만남은 우연이 아니야, 사랑하는 여행자여… 이건 운명이야. 네 이름은 이미 신당의 석판에 새겨져 있어. 난 줄곧 너를 기다려왔어. 날 따라와."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_anarkia_furiyuyan_levelup_002.aac",
+            "text": "이건 좋은 징조야."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_anarkia_furiyuyan_greeting_001.aac",
+            "text": "왜 내가 볼 때마다 항상 그런 멍한 표정을 짓고 있지? 미래의 안개를 걷어내도록 도와줄까?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_anarkia_furiyuyan_head_001.aac",
+            "text": "내 머리에 있는 '뱀'이 궁금해? 왕국의 수호자이자 지고한 권력의 상징이지만… 어둠과 혼돈의 화신이기도 하지."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_anarkia_furiyuyan_talk1_001.aac",
+            "text": "사람들은 연회에서 꿀로 빚은 술과 진수성찬을 즐기고, 황금과 보석을 걸쳐 이 나라의 번영과 강대함을 과시하지… 정말 안타깝네, 눈앞의 쾌락만 좇다 보면 왕조의 멸망이라는 결말을 초래할 수도 있다는 생각은 못 한 걸까?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_anarkia_furiyuyan_talk1_002.aac",
+            "text": "전설에 따르면, 태양의 신조는 운명의 돌 위에서 다시 태어나 그 울음소리로 질서와 진리를 깨운다고 하네. 운명은 끊임없이 순환하고, 파멸 후에도 반드시 새로운 생명이 찾아올 테지."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_anarkia_furiyuyan_hand_001.aac",
+            "text": "꿈은 현실의 거울이고, 그 안에서 보이는 광경은 신비로운 예언이기도 해. 네 꿈속에 누가 나타났는지, 정말 궁금하네… 말해 줄래? 내가 길흉을 판단해 줄게."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_anarkia_furiyuyan_card_001.aac",
+            "text": "마음이 이끄는 대로 너만의 카드를 뽑는 거야… 걱정하지 마, 그 카드가 어떤 미래를 예견하든 넌 너만의 길을 찾아갈 수 있을 거야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_anarkia_furiyuyan_idle_001.aac",
+            "text": "타오르던 태양이 떨어지고, 별들이 부서져 내린다… 정말이지 끔찍하면서도 매혹적인 광경이야."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_anarkia_furiyuyan_specialattention_001.aac",
+            "text": "진지하게 들어 봐. 너만을 위한 예언이니까. 그게 허상인지 진실인지는, 모두 네 생각에 달렸어."
+        }
+    ]
+}

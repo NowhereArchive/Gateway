@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_rise_cacha_001.aac",
+            "text": "당신을 위해 일할 수는 있지만, 합당한 업무 지시 외 야근은 하지 않을 거야. MBCC가 내 시급을 4배로 올려준다면 고민은 해볼게."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_rise_promotion_001.aac",
+            "text": "작업이 어느 정도 성과를 얻었군."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_rise_promotion2_001.aac",
+            "text": "이 광선 검으로… 모든 악행을 제거하겠어!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_rise_battlebegin_001.aac",
+            "text": "눈엣가시 같은 이 쓰레기들을 전부 해치우겠어."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_rise_battlewin_001.aac",
+            "text": "하…! 공기마저 맑아진 기분이야!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_rise_battlelose_001.aac",
+            "text": "다음에는 반드시 너희를 모조리 부숴주겠어!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_rise_uniqueskill_001.aac",
+            "text": "보잘것없는 녀석들!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_rise_dead_001.aac",
+            "text": "모든 걸 바꾸려면… 아직 쓰러져선 안 돼…!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_rise_greeting_001.aac",
+            "text": "이게 오늘의 임무 배정인가? 알겠어, 퇴근 전에 보고서를 제출하도록 할게."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_rise_talk1_001.aac",
+            "text": "내 모든 업무 스트레스는 사실 일 때문이 아니라, 일하면서 마주치는 사람들 때문이야."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_rise_talk1_002.aac",
+            "text": "아직도 야근하고 있어? 좀 더 의미 있는 일을 해봐. 예를 들면 책을 읽는다든지… <디스 노동 조약>, 이 책 나쁘지 않아. 예전에 니르바나 내부 독서회에서 이 책에 대해 발표한 적이 있거든, 국장도 한번 읽어 봐."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_rise_talk1_003.aac",
+            "text": "불공정한 대우는 외면하지 않고, 잘못된 제안은 그 자리에서 바로 반박할 거야. 바로잡히지 않은 문제를 그대로 내버려둔다면 우리가 사는 이 세상이 어떻게 발전할 수 있겠어?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_rise_talk2_001.aac",
+            "text": "스트레스를 푸는 방법은 여러 가지가 있는데, 난 주로 스쿼시로 스트레스를 풀거든. 밤새 스쿼시를 하면서 공에 언짢았던 일들을 담아 시원하게 날려버리는 거지. 국장도 관심 있으면 주소를 보내 줄게."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_rise_talk2_002.aac",
+            "text": "내 첫 번째 상사는 본인의 직무를 다하지 않는 쓰레기라서, 내가 그 사람을 휴지통에 던져버렸어. 두 번째 상사는 매우 뛰어난 인재였지만, 모든 재능을 IQ에만 투자했던 사람이었어. 그런데 상위자 같지 않은 당신은 내가 만나 본 상사 중에서 가장 좋은 사람인 것 같아."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_rise_talk2_003.aac",
+            "text": "어렸을 때 다들 소설 속 영웅 같은 주인공을 동경해 봤겠지. 현실은 아쉽게도 하늘의 선택을 받은 것처럼 모든 악을 물리칠 힘을 가진 사람은 존재하지 않아. 결국에는 악에 집어삼켜지거나, 악에 물들여질 뿐이야. 하지만 난 그들에 의해 바뀌지 않을 거야. 내가 그들을 바꾸겠어."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_rise_obeyfull_001.aac",
+            "text": "국장을 위해 일을 하다 보면 편안한 기분이 들거든. 일이 단순하기보다는… 더는 무리한 중압감에 시달리지 않고, 마침내 마음의 평화를 찾은 기분이야. 국장의 주변에 이상적인 세계가 조금씩 만들어지고 있어. 아직은 시작 단계에 불과하지만… 그 세계가 완성된 미래가 보여."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_rise_idle_001.aac",
+            "text": "적당한 일과 충분한 휴식? 좋아, 디스시티 에스프레소나 한잔 해야겠어."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_rise_clicking_001.aac",
+            "text": "한 번만 더 귀찮게 굴면 당신 얼굴을 뭉개버리겠어."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_rise_specialattention_001.aac",
+            "text": "할 말 있으면 그냥 말해, 국장 때문에 늦게 퇴근하고 싶진 않거든."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_rise_dispatch_001.aac",
+            "text": "임무 접수 완료."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_rise_dispatch2_001.aac",
+            "text": "임무 완료, 난 이만 퇴근해 볼게."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_rise_levelup_002.aac",
+            "text": "새로운 모델의 업무 효율이 더 나아진 것 같아."
+        }
+    ],
+    "nebula_sentinel": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_rise_xingjieshouwang_cacha_001.aac",
+            "text": "수많은 은하와 별들을 지나 광선검이 나를 이곳으로 이끌었어. 이 기나긴 여정에 오직 너에게서 운명적인 이끌림이 느껴져. 네가 바로 나의 동행자인가?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_rise_xingjieshouwang_levelup_002.aac",
+            "text": "이 빛은 네가 있기에 더 밝게 빛나고 있어."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_rise_xingjieshouwang_greeting_001.aac",
+            "text": "정의의 빛이 영원히 너와 함께하기를."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_rise_xingjieshouwang_head_001.aac",
+            "text": "너도 느껴져? 만물 사이에 존재하는 힘 말이야. 모든 것을 포용하는 그 거대한 힘으로 영웅은 정의를 바로잡고, 악인은 행패를 부리지… 그 힘은 우리 모두의 곁에 존재해."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_rise_xingjieshouwang_talk1_001.aac",
+            "text": "난 우주를 여행하는 동안 거대한 별이 어둠에 집어삼켜지는 광경도, 정의롭지 못한 지옥이 무너지는 광경도 목격했어… 맹세할게, 사라져가는 정의와 광명을 절대 가만히 지켜보고 있지 않겠다고."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_rise_xingjieshouwang_talk1_002.aac",
+            "text": "악을 처단할 선택받은 자? 설마 예언을 믿는 건 아니지? 난 말이야, 모두가 마음속에 진심을 품으면 이 세상은 어둠과 혼란에 잠식되지도, 이 세상을 구원할 구세주도 필요 없다고 생각해."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_rise_xingjieshouwang_hand_001.aac",
+            "text": "이 광선검은 내게 전사의 의미를 줘. 악을 처단할 힘을 주고 정의를 수호할 사명을 일깨워주며, 또… 너에게로 날 이끌어주지."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_rise_xingjieshouwang_shoulder_001.aac",
+            "text": "어둠 앞에서 흔들리지 마. 너와 내가 함께 싸운다면, 반드시 악의 무리를 처단할 수 있을 거야. 난 우리의 손으로 광명과 희망을 되찾을 거라고 믿어."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_rise_xingjieshouwang_idle_001.aac",
+            "text": "반짝이는 우주는 사람을 매료시키지만, 사람들의 마음속에 존재하는 도덕 역시 존경받을 가치가 있다고 생각해."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_rise_xingjieshouwang_specialattention_001.aac",
+            "text": "우리는 정의의 길을 언제까지나 영원히 함께 걸어 나갈 거야. 넌 혼자가 아니야."
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_jelena_cacha_001.aac",
+            "text": "Greetings, Chief of Minos. I appreciate your concern... Could you please guide me on the necessary procedures and the details required for registration?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_jelena_promotion_001.aac",
+            "text": "If that is your desire, I will see to it that every single request is met."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_jelena_promotion2_001.aac",
+            "text": "May all the children I hold dear have warm, sweet dreams..."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_jelena_battlebegin_001.aac",
+            "text": "I will accompany you anywhere you wish to go."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_jelena_battlewin_001.aac",
+            "text": "There, it's all done. Let's return home."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_jelena_battlelose_001.aac",
+            "text": "Fret not, we can try again together."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_jelena_uniqueskill_001.aac",
+            "text": "Listen... The rain is coming..."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_jelena_dead_001.aac",
+            "text": "The rain... has it finally ceased..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_jelena_greeting_001.aac",
+            "text": "Good day, Chief. Today is poised to be a delightful day."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_jelena_talk1_001.aac",
+            "text": "You occupy a position of great influence, and the attention upon you shall only grow in the days to come. Permit me to perfect your attire, for wherever your journey may lead, you must always embody grace and distinction."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_jelena_talk1_002.aac",
+            "text": "On every rainy day, I hope that when the downpour ends, flower buds will bloom, spring swallows will return, and the dark clouds will clear from the sky. When that moment comes, I’ll give my heart to those I cherish, and love shall evermore saturate my being."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_jelena_talk1_003.aac",
+            "text": "Some children would seek refuge in my room after missteps, imploring me to intercede on their behalf, as if fearing your disappointment. So, Chief, does my voice hold any sway?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_jelena_talk2_001.aac",
+            "text": "During my time serving under Prime Minister Stewart, the tension was palpable, and every little detail demanded meticulous attention... I must say, the atmosphere here is much more pleasant. No wonder everyone enjoys working with you, Chief."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_jelena_talk2_002.aac",
+            "text": "I understand you've lost so much, with no way to properly honor those memories. I truly empathize with that sentiment... However, my dear Chief, take a moment to look around you. You've found those worthy of your love, and they love you just as deeply in return... Cherish what you have, and may you find happiness once again."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_jelena_talk2_003.aac",
+            "text": "Whether rich or poor, virtuous or flawed, strong or weak, we are all but tiny specks in the grand scheme of things, destined to be swept away by time. I know I may not always be able to protect those I love, but... Chief, I earnestly ask you to stay safe for as long as you can, for that is my deepest wish."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_jelena_obeyfull_001.aac",
+            "text": "I came to this land with a heart filled with animosity, never expecting to form bonds I would hold dear. The boundary between love and hatred has grown so blurred... Chief, what do you think of me now? I harbor no regrets for my deeds and am prepared to endure any hostility, yet in the end, I desire those I love to understand, regardless of the circumstances, my love remains true."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_jelena_idle_001.aac",
+            "text": "Close your eyes and sleep in peace..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_jelena_clicking_001.aac",
+            "text": "Well, Chief, I must admit I didn't anticipate your mischievous side... Shall I indulge this behavior, or perhaps consider a touch of \"disciplinary action\"?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_jelena_specialattention_001.aac",
+            "text": "Feel free to give me any work instructions, and I welcome any supervision if doubts arise. Or could it be... you called me here just to be doted on a little?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_jelena_dispatch_001.aac",
+            "text": "Understood. I shall attend to it right away."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_jelena_dispatch2_001.aac",
+            "text": "Please, take a look. Does anything here catch your eye?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_jelena_levelup_002.aac",
+            "text": "Thank you for your kind consideration."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_jelena_head_001.aac",
+            "text": "I appreciate your concern, but I'm not weary just yet."
+        }
+    ],
+    "scorched_lullaby": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_jelena_zhuoyeyaolan_cacha_001.aac",
+            "text": "Their cries for Mother pierced through the flame and reached my ears. So I came, allowing them a rebirth in blood and ash... Tell me, what brings you here?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_jelena_zhuoyeyaolan_levelup_001.aac",
+            "text": "Another child has been reborn..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_jelena_zhuoyeyaolan_greeting_001.aac",
+            "text": "You linger at the edge of the dark forest, refusing to venture deeper—but what can you truly discern if you won't look in my eyes? Come closer to me. There's nothing to fear here... only a mother and her beloved children..."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_jelena_zhuoyeyaolan_head_001.aac",
+            "text": "Yes, that's it... Don't resist the urge to touch me... I will indulge your every whim..."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_jelena_zhuoyeyaolan_body_001.aac",
+            "text": "I do not pick and choose which lives to save. Whether tainted or pure, lowborn or noble, I embrace all equally, making those souls who call to me my kin, my treasures—sharing with them immortality and eternity. In your eyes, is that blasphemy?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_jelena_zhuoyeyaolan_body_002.aac",
+            "text": "This flame is the earth itself, the body of Mother, the crucible of the world. It melds flesh, reshapes souls... stripping away all suffering and sorrow, forging a rebirth that is twisted yet pure. This is what you sought to glimpse. My \"salvation.\""
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_jelena_zhuoyeyaolan_hand_001.aac",
+            "text": "Every lamb that leaps into the flame has already endured immeasurable suffering. Holy water cannot heal their wounds, nor can sermons ease their pain. That is why they choose to fall into my embrace, to be reborn through me... For I will never allow my children to endure such torment again."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_jelena_zhuoyeyaolan_background_001.aac",
+            "text": "A mother is forever attuned to crying, whether it be the wailing of those seeking comfort or the joyful cries of souls reborn. Remember this: these magical flowers, the forbidden fruits are not necessary for the summoning ritual... Your sincere tears alone are enough to draw my gaze."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_jelena_zhuoyeyaolan_idle_001.aac",
+            "text": "My embrace is already overflowing, yet the crying never ceases... When will these afflicted souls finally find peace?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_jelena_zhuoyeyaolan_specialattention_001.aac",
+            "text": "Your gaze is different from those children who trust Mother completely... Is it because you are braver than they are, or simply because you are more lost?"
+        }
+    ]
+}

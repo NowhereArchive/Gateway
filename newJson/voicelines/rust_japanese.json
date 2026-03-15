@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_rust_cacha_001.aac",
+            "text": "ようやくお会いできましたね、西区の英雄さん……おや、この呼び方はお気に召しませんか？では、どのようにお呼びすれば良いでしょう？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_rust_promotion_001.aac",
+            "text": "ああ……ブラックリングの日々を思い出す。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_rust_promotion2_001.aac",
+            "text": "肉体や記憶が奪われても、精神と意識は消えません……眩い光が血肉を貫いたその先に見えるのは、一体どの私なのでしょうか……？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_rust_battlebegin_001.aac",
+            "text": "任務開始です。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_rust_battlewin_001.aac",
+            "text": "目標は完璧に片付けました。一緒に一杯いかがですか？"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_rust_battlelose_001.aac",
+            "text": "どうやら、目標を達成するには遠回りするしかなさそうですね。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_rust_uniqueskill_001.aac",
+            "text": "動くな、我が友よ。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_rust_dead_001.aac",
+            "text": "これでようやく……永遠に目を閉じられる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_rust_greeting_001.aac",
+            "text": "今日の任務のターゲットを確認しよう……ふむ、局長がこちらをじっと見ている。どうやら調子が良さそうだ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_rust_talk1_001.aac",
+            "text": "銃弾は交渉道具として悪くありませんが、少々音が大きいですよね。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_rust_talk1_002.aac",
+            "text": "運命など信じません——私はいつでも、それを変えることができるのですから。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_rust_talk1_003.aac",
+            "text": "以前、遠くからあなたを見たことがあります。あの軍団のリーダーがそこまで気にかける相手とは、一体どんな人物なのか気になったもので……ですが今、あなたはこうして私の隣にいる。それでは……あなたのことをしっかり「知る」としましょう。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_rust_talk2_001.aac",
+            "text": "私にとって、ブラックリングから生きて出ることなど大したことではありません。ふふ、本当に難しいのは……そんな自分をどう受け入れて生きていくかなんですよ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_rust_talk2_002.aac",
+            "text": "「リング」は私の血肉を奪い、骨を折り、他人の身体を喰らわなければ生きられないようにしました……全てが私のものであり、私のものではない。この鼓動だけが、私が存在し続けている証なのです。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_rust_talk2_003.aac",
+            "text": "ブラックリングのような強敵に立ち向かう時、私は心から感謝しています。多くの仲間が共に戦ってくれることに。そして何より……あなたが傍にいてくれることに。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_rust_obeyfull_001.aac",
+            "text": "ご覧の通り、私の皮膚の下には混沌と虚無しかありません。そこにあるのは私が選び取った、他人のものでありながら私が使うことのできる記憶です……ただ、あなたに出会ってから、自分だけの記憶を留める空間を手にできると思うようになりました。あなたと私の忘れたくない小さな思い出を、そこにしまっておくためのね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_rust_idle_001.aac",
+            "text": "焦らなくても大丈夫ですよ。あなたを待つ時間は、マティーニ一杯か小説一冊で埋めておきますから。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_rust_clicking_001.aac",
+            "text": "私に触れるためにあなたの貴重な時間を無駄にしていただけるなんて、光栄なことですね。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_rust_specialattention_001.aac",
+            "text": "目だけでは私を「見張る」ことはできませんよ。もっと確かなもので私を牽制してください。血肉でも、骨でも、あるいは……あなたの枷でも。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_rust_dispatch_001.aac",
+            "text": "あなたの指示に従いましょう。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_rust_dispatch2_001.aac",
+            "text": "どうです？こちらでご満足いただけましたか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_rust_levelup_002.aac",
+            "text": "もう慣れていますよ。力が体内に流れ込む感覚は。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_rust_head_001.aac",
+            "text": "ヘアスタイルは紳士にとって最も大事な装いの一つなので、見るだけでお願いします。決して触れないように。"
+        }
+    ]
+}

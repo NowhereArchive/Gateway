@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_parfait_cacha_001.aac",
+            "text": "Oh, esteemed Chief, I believe there must be some misunderstanding. In case you're unaware, I am Parfait, a financier and philanthropist, by no means involved in any illegal activities. I have connections throughout every industry in DisCity, and they can all vouch for me... Wait, please let me finish what I'm saying—"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_parfait_promotion_001.aac",
+            "text": "Thank you for your trust. The \"Parfait\" concept stock is precisely one that repeatedly hits the ceiling and doubles in value."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_parfait_promotion2_001.aac",
+            "text": "No need to worry too much. Compared to DisCity, the greatest bubble of them all, my talent for fabrication is really just a... harmless little trick. Wouldn't you agree?"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_parfait_battlebegin_001.aac",
+            "text": "Do you have a project you'd like me to evaluate? No problem, consider it thoroughly vetted."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_parfait_battlewin_001.aac",
+            "text": "Winner takes all! Picking you is the best investment I've ever made."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_parfait_battlelose_001.aac",
+            "text": "No illusion, no matter how dazzling, is anything more than a bubble. And bubbles always pop."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_parfait_uniqueskill_001.aac",
+            "text": "Across-the-board limit up!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_parfait_dead_001.aac",
+            "text": "In the end... it was all for nothing..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_parfait_greeting_001.aac",
+            "text": "What a lucky start to my day. The first person I run into is you, my esteemed friend! I'm sure the rest of the day will be absolutely delightful."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_parfait_talk1_001.aac",
+            "text": "Oh, the so-called \"dinner with Parfait\"—really just a clever disguise for people seeking investment advice... or my checkbook. But for such a pleasant occasion as dinner, I'd much rather be with someone who has stories worth savoring... someone like you, my esteemed friend. So, would you honor me with your company tonight?"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_parfait_talk1_002.aac",
+            "text": "Oh my goodness, I nearly forgot about the art exhibition today! I must call the gallery at once... I do hope they'll set aside a few masterpieces for me, considering I'm such a loyal patron."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_parfait_talk1_003.aac",
+            "text": "I don't actually understand \"money printing,\" and my knowledge about specific papers, watermarks, and such is rudimentary at best... But here's the thing: currency's real value has always come from people's trust in it. And since people seem to trust me... well, let's just say no one's ever stopped to question the money I handle."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_parfait_talk2_001.aac",
+            "text": "That Supply Office head of yours—Miss Faye, the one with the purple hair—she's quite the character. Silver-tongued, of course, but she's also got this knack for making people walk away with her little trinkets. We hit it off splendidly... And would you believe it? We even share the \"feɪ\" in our names! Maybe we're long-lost relatives."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_parfait_talk2_002.aac",
+            "text": "This city is simply teeming with my dearest friends. They've gifted me everything from material comforts to the most exquisite intellectual diversions... and so, of course, I must return the favor! Fine dining, art, globe-trotting... if it brings joy, and I possess it, why hoard it? All must be shared with these utterly delightful companions."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_parfait_talk2_003.aac",
+            "text": "Hey, my friend, would you like to join me for a concert at the Eastside Theatre tomorrow? And forget about those meaningless concerns about status or expenses. Enjoying wonderful things is a universal right. Only those with abysmal taste—and dreadfully empty souls—cling to their gilded barriers, pathetically convinced that exclusion equals elegance."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_parfait_obeyfull_001.aac",
+            "text": "My business ventures are quite extensive, and yes, they do come with some \"slight\" risks. In recent years, I've increasingly felt the need for a... partner. This person's background matters not, but they must be intelligent, brave, and kind-hearted. Most importantly... I hope they can trust me. And I'd like to share some genuine secrets with them. You are the perfect candidate in my eyes, my esteemed friend. What do you say, would this arrangement interest you?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_parfait_idle_001.aac",
+            "text": "Falling asleep on me? Sweet dreams, my friend. After all, they're the one luxury even money can't buy."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_parfait_clicking_001.aac",
+            "text": "Like my outfits and accessories? Don't worry, no knockoffs here. When I say I \"create wealth,\" I mean enough to afford the real deal!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_parfait_specialattention_001.aac",
+            "text": "Oh, my dear friend! Now that you're here, do stay and chat with me. Those thrilling stories of yours are utterly fascinating."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_parfait_dispatch_001.aac",
+            "text": "Are we going to a theatre? Or perhaps an art exhibition? I'm as familiar with such places as I am with my own backyard."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_parfait_dispatch2_001.aac",
+            "text": "I ran into several financial journalists on my way here... That was close! Lucky for me, I'm light on my feet, otherwise I'd never have made it back."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_parfait_levelup_002.aac",
+            "text": "Oh? An investment in my expertise? It appears your recent earnings have been quite substantial, my esteemed friend."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_parfait_head_001.aac",
+            "text": "Excellent taste. This hairstyle is the look in Paradeisos right now—takes a certain flair to carry it off. Should I put in a word with my stylist?"
+        }
+    ],
+    "salon_rosé": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_parfait_guiyishalong_cacha_001.aac",
+            "text": "I always feel pity for those young people who come to me with their old instruments and beliefs. If you, like them, are here to beg for my help, then rest assured—what I offer is not charity, but what you need most: appreciation."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_parfait_guiyishalong_levelup_001.aac",
+            "text": "Mmm... This is true art."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_parfait_guiyishalong_greeting_001.aac",
+            "text": "You're here? Please, take a seat. Don't be so restrained—whether you're holding a bill or sheet music, I'll gladly receive you. Remember, this hall and treasury are always open to souls filled with musical artistry like yours."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_parfait_guiyishalong_head_001.aac",
+            "text": "They say in high society, the higher the hairdo, the better. There was even a noblewoman who piled hers so high that a little bird perched on it and sang an entire song. Hehe, but I never expected my three-hour hairstyle would actually attract my dear lark to stay!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_parfait_guiyishalong_body_001.aac",
+            "text": "These paintings hanging here aren't meant for people to stare at the zeros on their price tags. To me, the value of art has nothing to do with price. They're not luxury items, but necessities that embellish and enrich life."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_parfait_guiyishalong_body_002.aac",
+            "text": "I've seen too many people use wealth to build walls, keeping others out while \"selecting\" the \"correct\" people. I don't like that. Wealth should be used to pave roads, helping those with passion go further and making the beauty that should be shared by all more accessible."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_parfait_guiyishalong_hand_001.aac",
+            "text": "Other nobles always favor perfectly uniform pearl necklaces. A good shape, pure of color, and all of the same size. I find that rather dull. Pearls, like art, shouldn't be monotonous. They're only precious when each has its own character."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_parfait_guiyishalong_background_001.aac",
+            "text": "You noticed its satin bow and pure gold collar pendant too? This was a gift from a designer I once sponsored after they became famous. The concept is \"all life can equally enjoy decorative arts,\" quite an interesting theme."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_parfait_guiyishalong_idle_001.aac",
+            "text": "Sigh, I know these masterpieces in my collection always stimulate you artists, making you forget everything as your minds fill with creative ideas. There's no helping it, go on, go on. Consider this another form of sponsorship from me."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_parfait_guiyishalong_specialattention_001.aac",
+            "text": "Ah, I've seen that gaze before... It's the look an artist has when contemplating something they want to capture. If you're trying to freeze this moment of me in your own way... should I strike a more elegant pose?"
+        }
+    ]
+}

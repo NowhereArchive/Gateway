@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_golem_cacha_001.aac",
+            "text": "クソ！……ゴホン、人違いじゃない？シンジケートのマフィアとかコンビクトとか、そういうのあたしよく分かんないわ～こんなに優雅な女の子が、古鉄組のボスと関係ある訳ないわよ～あははは。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_golem_promotion_001.aac",
+            "text": "確かにもっと練習しないとな。あのガキどもに無能って笑われないように。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_golem_promotion2_001.aac",
+            "text": "今のあたしには、次期当主として仲間の前に正々堂々と立てるだけの力がある。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_golem_battlebegin_001.aac",
+            "text": "下がってろ。頭出すんじゃねぇぞ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_golem_battlewin_001.aac",
+            "text": "お前から挑発してきたんだろうが？まだ喚く気か！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_golem_battlelose_001.aac",
+            "text": "度胸があるなら裏口に来い！タイマンだ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_golem_uniqueskill_001.aac",
+            "text": "あたしが守ってる奴らいじめるとか、死にてぇのか！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_golem_dead_001.aac",
+            "text": "少なくとも……今回は……尻尾巻いて逃げなかったぞ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_golem_greeting_001.aac",
+            "text": "帰ってきたんだな。約束してたファーの飾りは買ったか？さっき殴りあ……大騒ぎして、傘の飾りが全部壊れちゃったのよ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_golem_talk1_001.aac",
+            "text": "色んなとこ行ったことあるんだろ？教えろよ。ニューシティの女の子の間では何が流行ってるんだ？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_golem_talk1_002.aac",
+            "text": "よし……傷口には可愛い絆創膏貼っただろ、喧嘩で破れた襟にも綺麗なブローチつけたし、これで問題ないな……うわああぁ！びっく……いや、違う違う。局長、いつ来たんだ？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_golem_talk1_003.aac",
+            "text": "考えてみれば、前のあたしの生活も普通の人とあんま変わらなかったんだよな。毎日飯食って、だべって、隣のマフィアと喧嘩して、運動して、寝る……これだけだ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_golem_talk2_001.aac",
+            "text": "あたしが古鉄組の後継者ってことは知ってるだろ。でも安心しな、勝手なことはしない。大人しくここにいる。むやみに戻ったら、あいつらにもっと迷惑かけるかもしれないからな……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_golem_talk2_002.aac",
+            "text": "シンジケートでの任務の時、あのガキどもが悪さしてるのを見かけたら、あたしの名前出して叱っといてくれ！でも、本気は出すなよ。一応、仲間だから……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_golem_talk2_003.aac",
+            "text": "シンジケートでコンビクトだってバレるのは本当に厄介なんだぜ。毎日喧嘩が十数回増えるからな。あたしは挑発されてもいいけど、仲間たちは巻き込みたくないんだ……だから自分に言い聞かせた。「逃げよう、誰もあたしを知らない場所へ」ってな。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_golem_obeyfull_001.aac",
+            "text": "昔は、傘の下に隠れてみんなに守られるだけの臆病者だった……でも、お前が全てに立ち向かう勇気をくれて助かったぜ。それに、自分の力で家族を守る方法も見つけさせてくれたしな。次はこの傘をあたしが持って、大切な人たちを永遠に守り続ける番だ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_golem_idle_001.aac",
+            "text": "髪型OK～アクセサリーOK～傘OK～気分OK～俺様は今日もシンジケートで一番××可愛い一般人の女の子だぜ～"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_golem_clicking_001.aac",
+            "text": "ジャラジャラしたアクセサリーって可愛いけど、揺れるとマジで××迷惑だよな。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_golem_specialattention_001.aac",
+            "text": "な……何であたしを見てるんだ？もしかして……どこかおかしいか！？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_golem_dispatch_001.aac",
+            "text": "局長、相談がある。シンジケートに行かなくてもいいか？あそこは……えーっと、ああいう場所が怖いの！誰かに会いたくないとかじゃないからね……"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_golem_dispatch2_001.aac",
+            "text": "ヒヤヒヤしたけどセーフだな！戦利品までゲットしたぜ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_golem_levelup_002.aac",
+            "text": "すげぇ！！あ、いや……すごいわね！"
+        }
+    ],
+    "rooftop_reckoning": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_golem_tiantaizhicai_cacha_001.aac",
+            "text": "掃除完了。平穏な学校生活が戻ってきたぜ——局長はあんまり派手に動くなって言ってたけど、いじめを見たら立ち向かうしかないだろ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_golem_tiantaizhicai_levelup_001.aac",
+            "text": "これが……テレビで見た学園……青春……絆の力なのか！？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_golem_tiantaizhicai_greeting_001.aac",
+            "text": "チンピラを片付けた後、屋上からの眺めがなかなかいいことに気付いたんだ。しばらく一緒に座らないか？日が落ちたらもっと綺麗になると思うぞ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_golem_tiantaizhicai_body_001.aac",
+            "text": "この×××！よく見ろ！弱い者いじめしてんのはこっちじゃねぇ！俺様が悪人をやっつけたんだっての！つまり勧善懲悪だ！分かったか？勧！善！懲！悪！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_golem_tiantaizhicai_body_002.aac",
+            "text": "もし学校に行けたら、絶対クラスメイトをいじめたりしないぞ！弱い者いじめなんて雑魚がすることだ。あたしたち古鉄組は仁義を重んじてるから、一般人には手を出さない。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_golem_tiantaizhicai_idle_001.aac",
+            "text": "ん？なんで喋らなくなったんだ？ビビっちゃったのか……？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_golem_tiantaizhicai_clicking_001.aac",
+            "text": "マジで武器なんか隠してないって。チンピラに痛みを覚えさせるのに、何か準備する必要なんかないからな。その辺にある物で十分だ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_golem_tiantaizhicai_specialattention_001.aac",
+            "text": "へへ、どうだ？女番長の登場と、悪者をこらしめる姿は！想像以上にイケてるだろ？滅多にない機会だから、もうしばらく堪能させてやる。"
+        }
+    ]
+}

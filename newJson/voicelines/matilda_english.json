@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_matilda_cacha_001.aac",
+            "text": "Isn't this supposed to be a transfer? What's the meaning of this? Sinner... detainment?! Chief, please clarify this! What have I done wrong?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_matilda_promotion_001.aac",
+            "text": "Thank you for the promotion. I'll work even harder from now on."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_matilda_promotion2_001.aac",
+            "text": "This may be the limit of my power right now. In any case, thank you for your trust and support."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_matilda_battlebegin_001.aac",
+            "text": "I will provide fire support for the team."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_matilda_battlewin_001.aac",
+            "text": "The video recording is complete. It will be archived so you can review the gains and setbacks of this battle at your convenience."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_matilda_battlelose_001.aac",
+            "text": "Keep shooting, cover Chief's retreat!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_matilda_uniqueskill_001.aac",
+            "text": "Suppressing fire!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_matilda_dead_001.aac",
+            "text": "Hold the line... Don't worry... about me..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_matilda_greeting_001.aac",
+            "text": "Hello, Chief. I've finished sorting out today's files. Most are regular purchase requisitions and operation reports. You can just skim through them. There are also several classified files from the higher-ups, which I've singled out for you. You may need to address those at your earliest convenience."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_matilda_talk1_001.aac",
+            "text": "\"Don't pass up any opportunity to prepare before things really start.\" This is what my mother taught me, and it helped me through many difficult situations."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_matilda_talk1_002.aac",
+            "text": "I'm humbled every time I see Ms. Nightingale work. You are indeed fortunate to have the support of such a reliable adjutant."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_matilda_talk1_003.aac",
+            "text": "\"The ten ring is only the limit for the target, not mine.\" I know, it's a bold claim, umm... quite out of my usual character. But when it comes to shooting, I have that level of confidence."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_matilda_talk2_001.aac",
+            "text": "The Executive Committee does have many problems, such as management deficiencies and disorganized staff. It's practically a miracle that it still functions... but I still learned a lot from it. I hope these experiences will help the MBCC's work."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_matilda_talk2_002.aac",
+            "text": "A tidy work environment is good for physical and mental health. If possible, I hope you can clean your office regularly... I understand that you're busy with work. You can ask me to do it."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_matilda_talk2_003.aac",
+            "text": "Please try to have a healthy schedule and rest on time. Leave what you can't finish to your subordinates. Don't push yourself too hard. After all... your health is critical to the proper functioning of the entire Bureau."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_matilda_obeyfull_001.aac",
+            "text": "When I faced those glamorous elites in the past, I doubted the worth of my own efforts. But not anymore. I don't need to compare myself to them. Ms. Nightingale, Donald, and everyone at the MBCC made me realize it's okay to just be myself. Thank you guys, and thank you Chief."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_matilda_idle_001.aac",
+            "text": "Want some coffee? I ground the beans myself. The beans are from my home... I mean, from Eastside. It tastes wonderful and doesn't have that bitter aftertaste. Are you sure you don't want a cup?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_matilda_clicking_001.aac",
+            "text": "Please stop this behavior right now!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_matilda_specialattention_001.aac",
+            "text": "Sinner Matilda, code MBCC-S-745, reporting for duty. Please issue your commands."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_matilda_dispatch_001.aac",
+            "text": "The time required for the mission is estimated to be 8-24 hours, and I will keep you informed of the progress in real time."
+        },
+        {
+            "title": "Dispatch complete",
+            "filename": "File:vo_matilda_dispatch2_001.aac",
+            "text": "I will submit the mission report to the administrative office later. Please take a look."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_matilda_levelup_002.aac",
+            "text": "Stronger power entails heavier responsibility."
+        }
+    ],
+    "elfin_siesta": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_matilda_huayexumeng_cacha_001.aac",
+            "text": "Ouch, Miss Birds, please don't peck at my hair during my lunch break. It's rather rude to disturb someone like that. Captain, what brings you here? Has the forest suffered another dark invasion?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_matilda_huayexumeng_levelup_001.aac",
+            "text": "It seems the detection capability of my antlers has improved."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_matilda_huayexumeng_greeting_001.aac",
+            "text": "No, you didn't interrupt my break. I was actually patrolling when I encountered an infected beast attacking a little girl. I dealt with the beast and guided the girl out of the forest. It's been a long journey, and I planned to rest here before heading back to camp. If you need anything, just let me know."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_matilda_huayexumeng_head_001.aac",
+            "text": "Are... you helping me tidy my hair? I apologize for my disheveled appearance!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_matilda_huayexumeng_body_001.aac",
+            "text": "Sometimes, when I relax and nap in the forest, the warm sunshine, the refreshing breeze, and the subtle, moving sounds of nature touch me deeply... Thank you for allowing me to help guard this beautiful land."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_matilda_huayexumeng_body_002.aac",
+            "text": "That girl in the red hood called me a hunter, but hunting for the sake of a meal is not my intent. It's just that I know if we don't promptly deal with the dark-infected creatures, this forest could become a demonic cave. I believe that's why you established the patrol in the first place."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_matilda_huayexumeng_horn_001.aac",
+            "text": "Ah! Captain, our antlers are used for environmental detection and they are kind of sensative. Your touch is a bit too... Please be gentle with them."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_matilda_huayexumeng_background_001.aac",
+            "text": "These little fellas are old friends of mine. You know, most small creatures are perky and less inclined to be near, well, inflexible elves like me. But they're different, and they've been friendly ever since I helped them find their forgotten food storage hole."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_matilda_huayexumeng_idle_001.aac",
+            "text": "The sound of critters rustling through grass... is my secret lullaby..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_matilda_huayexumeng_specialattention_001.aac",
+            "text": "I'm just feeling a bit dizzy, not hurt. Thank you for your concern, but you don't need to be so vigilant. Please don't get me wrong, I do appreciate your care."
+        }
+    ]
+}

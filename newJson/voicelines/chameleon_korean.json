@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_chameleon_cacha_001.aac",
+            "text": "이렇게 용감하게 다가오다니… 더는 제 최면이 두렵지 않나요, 국장 각하?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_chameleon_promotion_001.aac",
+            "text": "한층 더 깊은 꿈속으로 들어가길 원하는군요?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_chameleon_promotion2_001.aac",
+            "text": "지식의 끝에 이토록 아름다운 경지가 있을 줄이야."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_chameleon_battlebegin_001.aac",
+            "text": "이곳엔… 또 누구의 고통이 숨겨져 있을까요?"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_chameleon_battlewin_001.aac",
+            "text": "아! 기분 좋은 시간이었어…!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_chameleon_battlelose_001.aac",
+            "text": "때로는, 실패도 괜찮은 처방이죠."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_chameleon_uniqueskill_001.aac",
+            "text": "너의 힘을… 해방해라!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_chameleon_dead_001.aac",
+            "text": "당연한… 결과네요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_chameleon_greeting_001.aac",
+            "text": "안녕하세요, 친애하는 국장님. 걱정거리가 있다면 저와 이야기를 나눠봐요. 안심하세요~ 진료비는 받지 않을테니까."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_chameleon_talk1_001.aac",
+            "text": "의식이라는 감옥은 모든 사람을 영원히 가두어 놓죠. 의식 앞에서는 당신의 관리국도 감옥 놀이에 불과해요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_chameleon_talk1_002.aac",
+            "text": "제가 왜 심리학을 선택했냐고요? 심리학은 우아한 학문이기 때문이죠. 굳이 칼을 댈 필요도 없이… 당신을 죽일 수 있으니까요… 농담이니까 긴장하지 마세요."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_chameleon_talk1_003.aac",
+            "text": "똑, 딱, 똑, 딱… 인생은 이 시계추처럼 고통과 권태 사이를 영원히 오가죠."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_chameleon_talk2_001.aac",
+            "text": "깊은 밤이 찾아오면 수많은 수감자들이 악몽에 빠져들죠. 제가 개인적으로 이들을 만나봐도 괜찮겠죠?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_chameleon_talk2_002.aac",
+            "text": "어느 날 의식 깊은 곳의 야수가 깨어난다면 국장님은 녀석을 사로잡을까요, 아니면 비참하게 잡아먹힐까요? 정말 기대되네요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_chameleon_talk2_003.aac",
+            "text": "타인의 이익은 마치 독수리와도 같아요. 다툼이 일어났을 때는 그저 날카로운 소리를 지르며 머리 위를 맴돌고, 피해자의 몸부림이 끝난 뒤에야 바닥에 내려앉아 남은 살코기를 음미하죠."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_chameleon_obeyfull_001.aac",
+            "text": "가장 고질적인 정신질환자가, 가장 잔혹한 정신과 의사를 만났다…? 우리 사이야말로 가장 완벽한 의료진과 환자의 관계지."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_chameleon_idle_001.aac",
+            "text": "자, 이 회중시계를 바라보세요. 긴장을 풀고… 릴랙스, 릴랙스. 점점 잠이 옵니다… 꿈속에서 무엇을 보았나요?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_chameleon_clicking_001.aac",
+            "text": "하하, 무슨 생각을 하는지 알겠네요… 충동적인 잠재의식이라도, 제 눈을 피해 갈 수는 없답니다."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_chameleon_specialattention_001.aac",
+            "text": "오호, 예약한 환자가 왔군요. 그럼 시작해 볼까요."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_chameleon_dispatch_001.aac",
+            "text": "정신과 의사한테 이런 일까지 시키다니…"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_chameleon_dispatch2_001.aac",
+            "text": "오는 길에 흥미로운 일이 있었는데… 들어 볼래요? 국장님?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_chameleon_levelup_002.aac",
+            "text": "심연과 더욱 가까워졌어…"
+        }
+    ],
+    "message_in_dreams": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_chameleon_mengmeisiyu_cacha_001.aac",
+            "text": "'지식', '탐욕', '사랑'… 이런 것들에 이끌려, 당신은 결국 날 만나러 왔군요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_chameleon_mengmeisiyu_levelup_001.aac",
+            "text": "인간은 탐욕 그 자체. 그러나 탐욕은 본래 끝이 없는 것."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_chameleon_mengmeisiyu_greeting_001.aac",
+            "text": "난 당신의 모든 문제에 해답을 줄 수 있어요. 하지만, '해답'은 또 다른 '해답'으로 교환해야 하죠… 자, 말해줘요. '당신'은 누구죠?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_chameleon_mengmeisiyu_talk_001.aac",
+            "text": "지금 이 거리는, 수수께끼의 진실을 풀어내기 어렵답니다. 이리와요, 더 가까이~"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_chameleon_mengmeisiyu_talk_002.aac",
+            "text": "판테온을 토템 장식으로 한다는 건… 경건함일까 오만함일까… 인간성이란, 이런 모순이 존재하기에 재밌는 것 아닐까요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_chameleon_mengmeisiyu_idle_001.aac",
+            "text": "급히 깨어날 필요 없어요, 꿈결의 신전에는 나와 당신 둘 뿐이에요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_chameleon_mengmeisiyu_clicking_001.aac",
+            "text": "왜요, 나에게 당신이 원하는 답이 숨어 있나요? 만약 정말로 내가 깨우침을 줄 수 있다면, 마음껏 탐색해 봐요~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_chameleon_mengmeisiyu_specialattention_001.aac",
+            "text": "'나 자신을 알아가는 것.' …간단한 문제 같지만, 무수히 많은 세대의 용사들이 헤어나오지 못했죠. 이제... 드디어 당신 차례예요."
+        }
+    ],
+    "dream's_ephemera": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_chameleon_xiaomengfusheng_cacha_001.aac",
+            "text": "꿈이 이끄는 대로, 마음의 속박에서 벗어나기 위해 이곳에 왔나요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_chameleon_xiaomengfusheng_levelup_001.aac",
+            "text": "아아~ 정말 황홀하고 아름다운 꿈이었어요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_chameleon_xiaomengfusheng_greeting_001.aac",
+            "text": "현실 세계의 잔혹함은 우리가 어떻게 할 수 있는 게 아니잖아요? 그럼 그냥 여기서 저와 함께 가장 아름다운 순간을 즐기는 건 어때요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_chameleon_xiaomengfusheng_head_001.aac",
+            "text": "인생은 꿈과 같고, 모든 일들은 꿈에서 비롯되고 꿈속으로 귀결된다고 하죠. 세월의 변화도 꿈에서 깨어나 보면 찰나에 불과하죠."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_chameleon_xiaomengfusheng_body_001.aac",
+            "text": "눈에 보이는 게 모두 진실은 아니에요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_chameleon_xiaomengfusheng_body_002.aac",
+            "text": "영원히 꿈에서 깨어나지 않는 것과 영원히 꿈을 꿀 수 없는 것 중 어느 쪽이 더 불행하죠?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_chameleon_xiaomengfusheng_lefthand_001.aac",
+            "text": "여기선 당신을 과거로 데려가 잊을 수 없는 아쉬움을 채워줄 수 있어요… 어때요? 이곳에 영원히 있고 싶지 않나요?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_chameleon_xiaomengfusheng_background_001.aac",
+            "text": "꿈을 이루고 싶나요? 그건 어렵지 않아요. 당신이 내게 바라는 그 순간에 시간을 멈춘 다음, 꿈이 이루어질 때 시간을 다시 흐르게 한다면 꿈은 현실이 되어있겠죠…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_chameleon_xiaomengfusheng_idle_001.aac",
+            "text": "사람들은 꿈으로 점치는 걸 좋아하죠. 꿈에서 일어난 일이 현실에서 그대로 재현되길 바라기도 해요. 설령 그게 유쾌한 꿈이 아닐지라도 말이죠…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_chameleon_xiaomengfusheng_specialattention_001.aac",
+            "text": "꿈은 인간의 마음속 가장 근원적인 갈망을 표현하죠. 당신에겐 어떤 바람이 있는지 한번 들여다볼까요?"
+        }
+    ]
+}

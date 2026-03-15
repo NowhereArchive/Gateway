@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_jin_cacha_001.aac",
+            "text": "终于，又见到您了……堇，是这朵花的名字，也是我的名字。不介意的话，请您收下它吧。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_jin_promotion_001.aac",
+            "text": "根埋得越深，开出的花才能更加美丽……更加致命。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_jin_promotion2_001.aac",
+            "text": "此身，已然盛放。从今往后，我便是您一个人的利刃。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_jin_battlebegin_001.aac",
+            "text": "请跟紧我。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_jin_battlewin_001.aac",
+            "text": "这是属于您的胜利。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_jin_battlelose_001.aac",
+            "text": "都是我的错，都是我的错……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_jin_uniqueskill_001.aac",
+            "text": "落樱……落命！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_jin_dead_001.aac",
+            "text": "抱歉，永别了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jin_greeting_001.aac",
+            "text": "局长您看，茶叶立起来了，说不定会有意想不到的好事发生呢。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_jin_talk1_001.aac",
+            "text": "将活着的花枝剪下，按照人类的意愿，摆出各种造型，欣赏它们死前的优雅……这就是花道，听起来很残忍吧？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_jin_talk1_002.aac",
+            "text": "要伤害一个人实在是太过容易了。相比而言，活着才是更加艰难的事情吧。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_jin_talk1_003.aac",
+            "text": "真叫人羡慕啊，花能够向阳而生。而我，不过是躲在阴影中的毒虫……我根本配不上这个名字。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_jin_talk2_001.aac",
+            "text": "别时方知此世中，花亦花来人亦人。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_jin_talk2_002.aac",
+            "text": "和您待在一起，我居然也开始相信梦想、未来和希望了……或许我没有资格回到过去了吧。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_jin_talk2_003.aac",
+            "text": "在第一次拿起武器时，我便再没有奢望过回头。直到遇见您……请，答应我，不要离开我。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_jin_obeyfull_001.aac",
+            "text": "我原本以为，只要能待在您身边，我就心满意足了。但事实上，我远比自己想象得要贪心呢。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jin_idle_001.aac",
+            "text": "局长，您睡着了吗？一定是累坏了……我会找机会解决掉那些麻烦的。到时候，您就能好好休息了吧。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_jin_clicking_001.aac",
+            "text": "局长，现在还是工作时间哦……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jin_specialattention_001.aac",
+            "text": "局长总是在为别人的事奔波，您也会有自己的烦心事吧？如果不嫌弃的话，请让我为您分忧吧。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_jin_dispatch_001.aac",
+            "text": "此番路，来去无数，我亦在其中。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_jin_dispatch2_001.aac",
+            "text": "落花归叶，飞鸟还巢。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jin_levelup_002.aac",
+            "text": "花期，更近了。"
+        }
+    ],
+    "flower_of_fantasy": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_jin_mengjiancao_cacha_001.aac",
+            "text": "感谢您的赴约……今年的望月樱开得很好，所以我无论如何……都想和您一起欣赏这般美丽的景致。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jin_mengjiancao_levelup_001.aac",
+            "text": "樱花愿意为赏花之人怒放到生命尽头，我也一样。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jin_mengjiancao_greeting_001.aac",
+            "text": "您没有迟到，是我一想到要与您见面，就忍不住提前来到这里……您放心，等候的过程并不枯燥，因为我满心期盼着与您相见。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_jin_mengjiancao_head_001.aac",
+            "text": "……怎么了？我脸上沾到花瓣了？失礼了，您还特意帮我拈下来。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_jin_mengjiancao_talk1_001.aac",
+            "text": "插花应选择合适的花材，赏樱应搭配应景的着装，才算不辜负这场花事。局长，这身装扮您喜欢吗？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_jin_mengjiancao_talk1_002.aac",
+            "text": "樱花又名“梦见草”，因为它似梦境般虚幻美丽……恰如此时此刻。和您一起度过的时光，就像樱花那样美得令人沉醉，即便它也和梦一样脆弱易逝，我都……甘之如饴。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_jin_mengjiancao_leg_001.aac",
+            "text": "请坐到我身边来吧，不介意的话，可以在我膝上小憩一会儿，我来为您撑伞……"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_jin_mengjiancao_hand_001.aac",
+            "text": "不见方三日，世上满樱花，人们常用这句诗来表示时间易逝……不知下次再与您同游，会是什么时候呢？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jin_mengjiancao_idle_001.aac",
+            "text": "您看到了吗？刚才飞过的那只蝴蝶，翅膀上乘了一枚花瓣……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jin_mengjiancao_specialattention_001.aac",
+            "text": "您一直盯着我看，却不赏花……是有什么话想对我说吗？"
+        }
+    ],
+    "moonrise_fondness": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_jin_yaoyehuashi_cacha_001.aac",
+            "text": "感谢您，愿意陪我过来一起欣赏这美景……我想，以后每当夜幕降临，无论阴晴圆缺，我都一定会想起今晚这轮，与您一起欣赏的月亮。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jin_yaoyehuashi_levelup_001.aac",
+            "text": "夜色之美有限，但您对我的赞美却是无可比拟的。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jin_yaoyehuashi_greeting_001.aac",
+            "text": "隐于云中的月轮恰巧的探出了头，您说，它会不会也想在此刻与我们邂逅？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_jin_yaoyehuashi_talk_001.aac",
+            "text": "饮罢琼浆，清樽已经见底，不如让我来为您讲一个独属于月夜的故事吧？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_jin_yaoyehuashi_talk_002.aac",
+            "text": "我幼时曾听过一个传闻，狐狸大多会在清光皎皎之时化为人形，邀请有缘人与之夜游……嗯？您难道认为我是狐狸变的么？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jin_yaoyehuashi_idle_001.aac",
+            "text": "秋叶月影无相伴，清冽茶歌亦独吟。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_jin_yaoyehuashi_clicking_001.aac",
+            "text": "起风了？您也要记得添件衣服呀。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jin_yaoyehuashi_specialattention_001.aac",
+            "text": "赏月若只是一直注视着那一轮清辉，或许会忽视真正令人在意的景色哦～"
+        }
+    ]
+}

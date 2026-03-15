@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_anarkia_cacha_001.aac",
+            "text": "我从不吝啬迈向同伴的步伐……带我走吧，我的小怪物。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_anarkia_promotion_001.aac",
+            "text": "真想看看，现在的我，灵魂变成什么样了。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_anarkia_promotion2_001.aac",
+            "text": "看到这样的我，你的心中又在想些什么呢？我想听你亲口告诉我~"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_anarkia_battlebegin_001.aac",
+            "text": "我已经把你看穿了，乖乖束手就擒吧~"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_anarkia_battlewin_001.aac",
+            "text": "正位战车，我早就算到胜利是属于我们的。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_anarkia_battlelose_001.aac",
+            "text": "战场上总是会有意外发生~这也是没办法的事~"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_anarkia_uniqueskill_001.aac",
+            "text": "我会洞悉你的一切……看穿你的灵魂！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_anarkia_dead_001.aac",
+            "text": "我的灵魂终于……得到解放……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_anarkia_greeting_001.aac",
+            "text": "水晶说了，今天，你第一个见到的人就是我~"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_anarkia_talk1_001.aac",
+            "text": "白色的沙漠就像纯粹的梦幻之地，绽放出无瑕的花儿来……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_anarkia_talk1_002.aac",
+            "text": "你很中意我的能力啊~想要预言些什么吗？放心，你想问什么……我、都、知、道~"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_anarkia_talk1_003.aac",
+            "text": "不问来处，也不问去处，这是到我这求得预言的规则~啊，除非是我自己说起~"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_anarkia_talk2_001.aac",
+            "text": "来自黑环的灵魂有种真实而纯粹的美感，它们并不丑陋。反而是那些封闭了自己的“人”……你不觉得，他们的样子更可笑吗？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_anarkia_talk2_002.aac",
+            "text": "听说你在调查我的过去？直接问我不就好了吗~嗯……你想听哪一个版本的？"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_anarkia_talk2_003.aac",
+            "text": "我曾在梦中造访过真实之境。我希望……有一天，你也能出现在那里。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_anarkia_obeyfull_001.aac",
+            "text": "如今我可以将我所有的伪装卸下，对你展现最为真实的一面……呵呵，怎么~只是对你剖白内心而已，就害羞了？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_anarkia_idle_001.aac",
+            "text": "嘘……我正在与灵魂交流。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_anarkia_clicking_001.aac",
+            "text": "只是触摸肉体就满足了吗？不如我来教你……怎样拥抱灵魂吧？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_anarkia_specialattention_001.aac",
+            "text": "这么关注我呀……亲爱的小怪物，想和我一起远走高飞了吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_anarkia_dispatch_001.aac",
+            "text": "嗯，前方是真实纯粹之地么？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_anarkia_dispatch2_001.aac",
+            "text": "还是局长的身边最舒服了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_anarkia_levelup_002.aac",
+            "text": "灵魂真实的样子难以捉摸，却又如此迷人……"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_anarkia_head_001.aac",
+            "text": "哈，那些菜鸟预言家，也是这么摸水晶球的。"
+        }
+    ],
+    "moonlit_enchantment": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_anarkia_yueyeqitan_cacha_001.aac",
+            "text": "你找到了白砂传说中的神灯，召唤了我，作为奖励，我可以实现你的一个愿望。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_anarkia_yueyeqitan_levelup_001.aac",
+            "text": "这些猫儿倒是很喜欢你的逗弄。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_anarkia_yueyeqitan_greeting_001.aac",
+            "text": "噢，可怜的羔羊，你是在沙漠中迷路了吗？不要害怕……跟紧我就好。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_anarkia_yueyeqitan_talk_001.aac",
+            "text": "在砂海月下同饮生命之水的人，可于往生之岸再会……嗯~看你这副表情，是想和我一起举杯吗？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_anarkia_yueyeqitan_talk_002.aac",
+            "text": "用温顺怜人的外貌迷惑对方，让对方顺着欲望踏入她的陷阱，咬碎命脉……嗯？我只是……在说这只可爱的沙丘猫~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_anarkia_yueyeqitan_idle_001.aac",
+            "text": "今天……将是第几个夜晚？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_anarkia_yueyeqitan_clicking_001.aac",
+            "text": "乱摸猫儿的尾巴，需要承担相应的后果哦~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_anarkia_yueyeqitan_specialattention_001.aac",
+            "text": "只要你永远留在我身边，我就能帮你实现……任何愿望~"
+        }
+    ],
+    "sunfall_prophecy": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_anarkia_furiyuyan_cacha_001.aac",
+            "text": "这并非误入，亲爱的旅人……我们的相遇是命中注定，你的名字早已镌刻在了神庙的石板上。我一直在等待你，跟我来吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_anarkia_furiyuyan_levelup_002.aac",
+            "text": "这可是吉兆呀。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_anarkia_furiyuyan_greeting_001.aac",
+            "text": "为何我每日见到你，总是那一脸迷茫的样子？需要我来帮你拨开未来的迷雾吗～"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_anarkia_furiyuyan_head_001.aac",
+            "text": "对我头冠上的这条“蛇”感兴趣？它是王国的守护者，象征至高无上的权力，但……也可以是黑暗与混乱的化身。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_anarkia_furiyuyan_talk1_001.aac",
+            "text": "人们在宴会上挥霍蜜酒佳肴，佩戴黄金珠宝，以此来彰显这国度的繁荣与强大……可惜呀，若是只在意眼前的享乐，可有想过代价会是王朝的覆灭？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_anarkia_furiyuyan_talk1_002.aac",
+            "text": "传说太阳神鸟会在命运之石上浴火重生，它的叫声将唤醒秩序与真理——命运轮回循环往复，毁灭之后也会迎来新生。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_anarkia_furiyuyan_hand_001.aac",
+            "text": "梦境是现实的倒影，你在其中所见的景象也是种玄妙的预言。我很好奇，你的梦中，出现了谁的身影呢……告诉我吧，让我来帮你分辨那是凶是吉~"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_anarkia_furiyuyan_card_001.aac",
+            "text": "听从内心的指引，抽走那张只属于你的牌吧……别担心~无论它预示着怎样的未来，我相信你都能走出自己的道路。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_anarkia_furiyuyan_idle_001.aac",
+            "text": "烈日坠落，星辰崩毁……那真是可怕又迷人的画面呐。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_anarkia_furiyuyan_specialattention_001.aac",
+            "text": "认真聆听吧，这是我为你一人而做的预言。它究竟是虚妄还是真实，都在你的一念之间~"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_margaret_cacha_001.aac",
+            "text": "ごきげんよう、局長閣下。この協力関係に期待しています。私の能力で、想像を超える「安寧」をお届けできるはずですから。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_margaret_promotion_001.aac",
+            "text": "我々の敵が十分賢明で、無理せず退くことを願います。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_margaret_promotion2_001.aac",
+            "text": "平和の歌声が聞こえました。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_margaret_battlebegin_001.aac",
+            "text": "交渉決裂ですか、残念ですね。では、代替案を使いましょう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_margaret_battlewin_001.aac",
+            "text": "平和があなたと共にありますように。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_margaret_battlelose_001.aac",
+            "text": "生き続けなければ、対話と変革への希望もないのです。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_margaret_uniqueskill_001.aac",
+            "text": "純白の平和のために！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_margaret_dead_001.aac",
+            "text": "少しだけ……悔しいですね……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_margaret_greeting_001.aac",
+            "text": "本日もあなたの心が穏やかでありますように。温かいハーブティーはいかがですか？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_margaret_talk1_001.aac",
+            "text": "私は輝くものが好きです。真珠、貝殻、白い鳩、優しい人……そして……消えることのない希望。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_margaret_talk1_002.aac",
+            "text": "汚れないよう気を付けろと？ご安心を、細心の注意を払っていますから。こういう汚れたものとの付き合いは慣れっこなんです～"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_margaret_talk1_003.aac",
+            "text": "私の仕事は双方が好意を抱き合うよう仕向けることではなく、互いの利害が交わる点を見つけることです。どんなに恨みが深い敵同士であっても、共通のラインは存在しますから。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_margaret_talk2_001.aac",
+            "text": "私は伝言を届けさせたり監視させたりするために、たくさんの鳥を飼っています。なので気をつけてくださいね。あなたの窓の外にいるスズメも、私のスパイかもしれませんよ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_margaret_talk2_002.aac",
+            "text": "最初の授業で先生に教わったのは、あらゆる手段で人を「説得」することでした。私は覚えが早く、成績も一番だったんですよ。教えて差し上げましょうか？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_margaret_talk2_003.aac",
+            "text": "究極の平和への道は、決して一つではありません。私が選んだ道であれ、あなたが選んだ道であれ……それが険しく互いに背を向けるものであっても、いずれは一つに交わり、理想の彼岸へと辿り着くでしょう。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_margaret_obeyfull_001.aac",
+            "text": "あなたのその正直さ、率直さ、恐れを知らぬ勇気を羨ましく思います。この暗い世界の中で温かく眩しい光を放っているので、思わず近づき、守ってあげたくなってしまうのです。いつの日か、その光が世界の隅々まで届くことを願っています。その時はどうか忘れずに、私をあなたのすぐ傍……い・ち・ば・ん近い場所に立たせてくださいね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_margaret_idle_001.aac",
+            "text": "静かにお眠りなさい。全ての争いは、終わりました……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_margaret_clicking_001.aac",
+            "text": "私はそのような手を求めています。世界に美しい予想図を描きながらも、冷徹な決断を下せる手を。それを私にくださいますか？それとも……自分で取りに行った方が良いでしょうか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_margaret_specialattention_001.aac",
+            "text": "ふふ、誰の指示で私を監視しているのですか？第九機関？EDGE？それとも……あなた自身の意志なのでしょうか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_margaret_dispatch_001.aac",
+            "text": "承知しました。彼らとしっかり話をしましょう～"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_margaret_dispatch2_001.aac",
+            "text": "理解が深まれば、衝突も減ります。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_margaret_levelup_002.aac",
+            "text": "さらに多くの手段を掌握します。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_margaret_head_001.aac",
+            "text": "局長さん、あなたが私に求めているのは優しい慰めですか？それとも……より効果的な解決策でしょうか？"
+        }
+    ]
+}

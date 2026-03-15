@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_tetra_cacha_001.aac",
+            "text": "괴도를 자진해서 문으로 초대하다니, 내가 뭘 훔쳐주길 기대라도 하는 건가?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_tetra_promotion_001.aac",
+            "text": "이 몇 초 동안, 나는 계속 너를 지켜보고 있을 거야."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_tetra_promotion2_001.aac",
+            "text": "시간을 쫓아간 그 순간, 느낄 수 있어져. 자신이 모든 걸 바꿀 수 있다는걸."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_tetra_battlebegin_001.aac",
+            "text": "상대의 계획 정도는 이미 다 꿰고 있어."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_tetra_battlewin_001.aac",
+            "text": "다 내 계획 대로니 당연히 틀림이 없지."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_tetra_battlelose_001.aac",
+            "text": "시간 없어, 철수해."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_tetra_uniqueskill_001.aac",
+            "text": "Time's up!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_tetra_dead_001.aac",
+            "text": "하… 일종의 해탈이랄까…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_tetra_greeting_001.aac",
+            "text": "Hey, MBCC 국장. 당신의 시간을 좀 훔쳤으니, 그만 일을 좀 내려놓고… 나와 이야기를 나누는 게 어때?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_tetra_talk1_001.aac",
+            "text": "정체된 시간 속에 이 모래시계는 유일하게 움직이는 시간적 도구다."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_tetra_talk1_002.aac",
+            "text": "낮은 나를 더 옥죄지만… 밤은 나를 더 풀어지게 해… 후훗~"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_tetra_talk1_003.aac",
+            "text": "그 꼬마 토끼 말이야, 참 재미있지 않아? 하지만 허점이 너무 많아서 다른 사람에게 꼬투리를 잡히느니 차라리… 내 곁에 묶어두는 게 나아."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_tetra_talk2_001.aac",
+            "text": "나는 나의 등 뒤를 온전히 프리실라에게 맡겼어. 이 멘트 아주 로맨틱하지 않아?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_tetra_talk2_002.aac",
+            "text": "신성이든, 낙원이든, 번들번들한 겉모습 아래는 하나의 족쇄에 지나지 않지."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_tetra_talk2_003.aac",
+            "text": "비록 여기 수감되어 있지만, 여기도 꽤 자유로워."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_tetra_obeyfull_001.aac",
+            "text": "세상에서 가장 소중한 것을 나는 이미 얻었으니, 차라리… 지금, 당신 앞에서 손을 씻을까?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_tetra_idle_001.aac",
+            "text": "이런 시간이… 조금 더 길었으면 좋겠어."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_tetra_clicking_001.aac",
+            "text": "왜 그래? 국장. 자극적인 걸 찾고 있어?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_tetra_specialattention_001.aac",
+            "text": "눈 깜빡도 하지 않는 게 좋을걸? 여우 수작에 정신 못 차리게 만들어버릴지도 몰라."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_tetra_dispatch_001.aac",
+            "text": "난 당신의 업무를 완벽하게 완수할 수 있지. 하지만… 과연 내가 그렇게 해줄까나…?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_tetra_dispatch2_001.aac",
+            "text": "자, 오다 주운 거야. 오다가 주인이 '있는' 것을 주워온 것도 오다 주운 건 맞잖아."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_tetra_levelup_002.aac",
+            "text": "음… 아직 더 강해질 여지가 있네."
+        }
+    ],
+    "edge_of_nightfall": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_tetra_yemubianyuan_cacha_001.aac",
+            "text": "왜 그렇게 멍하니 있어? 지금 바로 쫓아가면 그 괴도 래빗에게 빼앗긴 물건을 되찾을 수 있을지도 몰라."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_tetra_yemubianyuan_levelup_001.aac",
+            "text": "모든 건 다 계획대로야."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_tetra_yemubianyuan_greeting_001.aac",
+            "text": "내 등장 방식에 놀랐어? 하지만 이게 가장 빠른 추적 루트야… 게다가 이런 겉치레뿐인 연회장에서 한바탕 소란을 피운다는 게 정말 재밌지 않아?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_tetra_yemubianyuan_talk1_001.aac",
+            "text": "너랑 동료가 될 생각은 없어, 디스 치안국이 내부 시스템을 업그레이드할 때 운 좋게 그들의 체포 계획을 알게 되고 참여한 것뿐이야."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_tetra_yemubianyuan_talk1_002.aac",
+            "text": "꽃잎으로 흔적을 남기며 도망치다니, 그 예고장의 주인은 정말 자신감이 넘치나 봐… 누군가 자신을 잡아주길 바라는 건가?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_tetra_yemubianyuan_idle_001.aac",
+            "text": "방향을 보니… 역시 테라스로 가는 게 틀림없어. 그쪽 보안은 왜 그렇게 취약한지 맞혀볼래?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_tetra_yemubianyuan_clicking_001.aac",
+            "text": "쥐도 새도 모르게 물건을 잃어버리고 싶은 게 아니라면 가만히 좀 있어 줄래, 국장?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_tetra_yemubianyuan_specialattention_001.aac",
+            "text": "내 뒤만 잘 따라와, 이 혼란 속에서 네 안전은 보장해 줄게."
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_cab_cacha_001.aac",
+            "text": "我很开心，你能带我来到这盛筵的现场~啊……这里的每一个角落，都能嗅到令人沉醉的香甜气息！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_cab_promotion_001.aac",
+            "text": "只是这样的话，我可不知足……"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_cab_promotion2_001.aac",
+            "text": "为了极致的味道，我愿意让自己也化身盘中食粮。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_cab_battlebegin_001.aac",
+            "text": "让我来品鉴一二。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_cab_battlewin_001.aac",
+            "text": "能算得上是不错的一餐。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_cab_battlelose_001.aac",
+            "text": "……难以下咽。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_cab_uniqueskill_001.aac",
+            "text": "我嗅到了灵魂的芬芳！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_cab_dead_001.aac",
+            "text": "哈……哈哈哈……撕扯吧，吞咽吧……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_cab_greeting_001.aac",
+            "text": "绿色的仙子飞过，我先是见到现实，再是见到恐惧，最后……我见到了你。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_cab_talk1_001.aac",
+            "text": "进食并不是指单纯的“吞咽”动作，学会了“品味”二字，它将会变成一种美妙的体验，所以，坦诚面对进食的欲望吧，尽力填满它吧！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_cab_talk1_002.aac",
+            "text": "我得到过许多极为稀有珍贵的食材，它们有的甚至价值一栋房子。但……它们的味道，都不及我曾经品尝的那串香甜的葡萄。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_cab_talk1_003.aac",
+            "text": "当人生在高处时，所闻所见总是会被蒙上一层云雾，无法看清。不过，只要努力寻找，还是能看到那些，灵魂闪烁着光芒的人。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_cab_talk2_001.aac",
+            "text": "我总是过分痴迷地、热情地偏爱那些能满足我味觉感官的东西，而恰好我所拥有的地位，能满足我这些过分的偏爱。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_cab_talk2_002.aac",
+            "text": "高尚的人类会散发着让人痴迷、无法拒绝的味道——他们就像古老的品丽珠，酿成了红宝石般的琼浆，诱惑我将其饮下。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_cab_talk2_003.aac",
+            "text": "温热的汁水在舌尖迸发，抚摸着口腔，顺着咽喉缓缓流入腹中……这便是你给我的感觉。抱歉……待在你身边好像已经无法满足我了，我希望……我们能够更加彻底地融为一体。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_cab_obeyfull_001.aac",
+            "text": "你的灵魂融合了梦想与现实，艺术与人生，在它孕育成熟之前，我愿意忍受令人焦躁的饥饿感，克制亲吻你嘴角的冲动，直到这饱满诱人的果实绽放在我的眼前，心甘情愿地让我品尝……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_cab_idle_001.aac",
+            "text": "唉……没什么食欲呢。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_cab_clicking_001.aac",
+            "text": "狡黠的深渊来客，一直在等待捕食那些……不老实的家伙。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_cab_specialattention_001.aac",
+            "text": "看来你也很期待与我一起用餐，对吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_cab_dispatch_001.aac",
+            "text": "这些……需要我亲手来做吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_cab_dispatch2_001.aac",
+            "text": "很新奇的体验。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_cab_levelup_002.aac",
+            "text": "嗯，味道不错。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_cab_head_001.aac",
+            "text": "对于一些食材，这个部位，确实是最美味的，你也这么认为吗？"
+        }
+    ],
+    "bacchanal_reverie": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_cab_mingdingyoumeng_cacha_001.aac",
+            "text": "欢迎来到极乐丰饶的圣地。天上天下，只有这里才能滋养你那鲜醇独特的灵魂……来，与我共饮一杯如何？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_cab_mingdingyoumeng_levelup_001.aac",
+            "text": "果香丰沛、口感饱满……真是佳酿。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_cab_mingdingyoumeng_greeting_001.aac",
+            "text": "地底涌出蜂蜜，羊角倒出甘霖，配上雷霆击打的琳慕诗，才成为这样荡漾于杯中的琼浆云露……喝下它吧，你将与我一同体验到这前所未有的欢愉~"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_cab_mingdingyoumeng_head_001.aac",
+            "text": "呵呵，不用担心，我还很清醒，知道把握限度才能充分地享受微醺带来的欢悦……"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_cab_mingdingyoumeng_body_001.aac",
+            "text": "你在犹豫什么？如果还有现世的烦恼牵绊着你，就摘一颗可爱的果实尝尝吧。它们会让你忘却苦闷，卸下重担，你一定……会爱上的。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_cab_mingdingyoumeng_body_002.aac",
+            "text": "没有人能抵抗欢愉。他们会慢慢被快乐腌渍，在放纵中熟成……直到血管中，都奔流着葡萄的香醇。那将是另一种颓靡而奢侈的美味……"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_cab_mingdingyoumeng_hand_001.aac",
+            "text": "你也觉得只有这个还不够吗？是啊，顶级的饮品要配上极致的食材，才能交织成至高的感官快乐。比如，像你这样敏锐坚定的灵魂……"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_cab_mingdingyoumeng_background_001.aac",
+            "text": "和人相比，动物的欲望要简单明了得多。就像这个可爱的大家伙，它很清楚自己要什么，也很容易满足。人的欲望却是复杂混沌，永无止境……你觉得这是进化，还是退化？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_cab_mingdingyoumeng_idle_001.aac",
+            "text": "放心，我不催你。这里没有饥馑，没有干渴，你大可以在品味过每个细节之后，再做出决定。不像苛刻的凡间……这里的一切，都会对你很宽容的~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_cab_mingdingyoumeng_specialattention_001.aac",
+            "text": "这么期待我亲自动手吗？看来在你的感知中，我的温度和气息……才是你享用这琼浆与果实的绝配呀~"
+        }
+    ],
+    "intoxication_à_deux": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_cab_gongzui_cacha_001.aac",
+            "text": "先别急着走，来，系上这个……嗯，有了这块玉佩，就更配今天的宴席了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_cab_gongzui_levelup_001.aac",
+            "text": "内敛而不失风雅，看来花了一番心思。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_cab_gongzui_greeting_001.aac",
+            "text": "呵呵，别紧张，和我一起赴宴，不必讲究是否了解这里的菜品有多珍稀昂贵，只要在意，它们能否让你沉浸享受自己内心最原始的欲望即可~"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_cab_gongzui_body_001.aac",
+            "text": "都说外邦历史悠久，菜系繁多，面前这些不过是冰山一角，真让人不由畅想，还有多少胜过眼前珍馐的极品在等着我们品鉴……哎呀，这样直白的夸奖可不像是我的风格，或许是你的陪伴为它们增了色，我才会这样陶醉。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_cab_gongzui_body_002.aac",
+            "text": "作为社交界的一角，这里当然充斥着熟悉的贪欲。可正如纸醉金迷的欲望旋涡，反而能凸显出纯净灵魂那清淡鲜醇的本味一样，在这里享用的料理，也别有一番独特的风味。希望这一次，你能没有负担地去体会。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_cab_gongzui_idle_001.aac",
+            "text": "嗯~我喜欢你享受美食的模样，真是看着就让人食指大动……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_cab_gongzui_clicking_001.aac",
+            "text": "宴会这样的场合，向来是先敬罗衣后敬人。服饰的风格和设计是否恰当，映照出赴宴者的礼仪、教养和脸面——所以如果你弄皱了我的礼服，我可是会生气的哦？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_cab_gongzui_specialattention_001.aac",
+            "text": "你这样亦步亦趋地跟着我，是信任我品鉴美食的能力，还是要将监管者的职责贯彻到底呢？别只是跟在我身后了，挽起我的手，待在我的身旁吧，这样你就能把我的一切都看在眼里了……"
+        }
+    ],
+    "crimson_prologue": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_cab_yanhongxuyan_cacha_001.aac",
+            "text": "今夜的宴席，正缺一位懂得“品味”的宾客。我很好奇……在那层层绽放的瑰红之下，你尝到的，又会是什么呢？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_cab_yanhongxuyan_levelup_001.aac",
+            "text": "果实越饱满，越渴望那被咬碎的一刻。甜与痛，都是它的宿命。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_cab_yanhongxuyan_greeting_001.aac",
+            "text": "烛火在呼吸，果汁在滴落，灵魂在颤抖……真好，我喜欢这种安静的疯狂。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_cab_yanhongxuyan_body_001.aac",
+            "text": "再坚硬的石头、再虔诚的灵魂，浸在欲望里久了，也终会渗出蜜来。所以眼前的这些雕像啊，不过是“圣人”们自欺的纪念罢了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_cab_yanhongxuyan_body_002.aac",
+            "text": "真是绝妙的造物啊……坚硬的外壳之下，却藏着晶莹的籽实。只有耐心、细致地剖开，才能品尝到那迸裂的甜蜜。呵呵……这样的过程，与品味一颗无暇的灵魂，何等相似。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_cab_yanhongxuyan_idle_001.aac",
+            "text": "耐心，是品味极致前的必要仪式……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_cab_yanhongxuyan_clicking_001.aac",
+            "text": "轻率的触碰，是宴席上最常见的愚行。呵……可正因如此，欲望才显得诚实。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_cab_yanhongxuyan_specialattention_001.aac",
+            "text": "被你这样注视着，我几乎要分不清——你是在观赏我，还是在乞求被我品尝？"
+        }
+    ]
+}

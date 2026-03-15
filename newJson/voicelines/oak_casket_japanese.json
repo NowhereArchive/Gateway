@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_oak_cacha_001.aac",
+            "text": "取調室より、墓場であなたと話がしたいわ……あなたが中で、私が外。きっと楽しい会話になるわよ。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_oak_promotion_001.aac",
+            "text": "静かに……「彼ら」の囁きが聞こえるわ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_oak_promotion2_001.aac",
+            "text": "私たちのお茶会……あなたもいかが？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_oak_battlebegin_001.aac",
+            "text": "鐘が鳴るわ。儀式を始めましょう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_oak_battlewin_001.aac",
+            "text": "心配しないで。挽歌の演奏が始まったわ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_oak_battlelose_001.aac",
+            "text": "大丈夫、まだ永遠の眠りにつく時じゃないわ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_oak_uniqueskill_001.aac",
+            "text": "どうか、安らかな眠りを。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_oak_dead_001.aac",
+            "text": "人はいつか……棺に入るの……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_oak_greeting_001.aac",
+            "text": "こんにちは、局長。今日も生きていられて幸せね。同時に、お互いまだここに立っていることが悲しくもあるけれど。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_oak_talk1_001.aac",
+            "text": "楽師が必要なら……トトという楽師を訪ねてみて。私の名を出せば、割引があるかもしれないわ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_oak_talk1_002.aac",
+            "text": "シンジケートで盛大なお別れをして、新たな再生を迎えましょう。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_oak_talk1_003.aac",
+            "text": "地で寝る？空を飛ぶ？それとも海を泳ぐ？どれでも構わないわ。友よ、これは救済の一歩にすぎないのだから。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_oak_talk2_001.aac",
+            "text": "人が死ぬのは、誰かを泣かせるためじゃないの。涙は、彼らの生きた証と嘆きをかき消してしまう。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_oak_talk2_002.aac",
+            "text": "人は永遠の眠りについて初めて、その愚かさ、退屈さ、卑劣さを赦され……趣のある人間になれるの。でも私にとって、あなたは少し違うみたい。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_oak_talk2_003.aac",
+            "text": "自分で自分の葬儀はあげられないわ。でも、あなたには最後のメッセージを残してあげる。その時になったら、受け取ってくれるかしら？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_oak_obeyfull_001.aac",
+            "text": "あなたは亡霊より面白いわ。私が抱える闇、孤独、憂鬱を、あなたと分かち合いたいの……そして、死さえも。私は永遠に傍にいるわ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_oak_idle_001.aac",
+            "text": "祈り？そんなつまらないこと……しないわ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_oak_clicking_001.aac",
+            "text": "そんなに私のことが好きなのかしら？肉体なんて、水の泡のように脆く崩れ去るというのに。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_oak_specialattention_001.aac",
+            "text": "その目で、あなたは何を見たのかしら？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_oak_dispatch_001.aac",
+            "text": "私と一緒に墓場で散歩しない？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_oak_dispatch2_001.aac",
+            "text": "うん、うん……たくさんの秘密が聞こえたわ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_oak_levelup_002.aac",
+            "text": "分かるわ。あなたには私が必要なのね。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_oak_head_001.aac",
+            "text": "頭蓋骨に残される情報はとても多いの。人が死ぬ時、思い残したことがここに刻まれるのよ。"
+        }
+    ],
+    "forest_of_enthrallment": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_oak_chenlunzhisen_cacha_001.aac",
+            "text": "あなたが森に足を踏み入れた瞬間、もう私のものになったのよ。あなたに永遠の眠りを与えましょう。そして私は、欲しいものを全て手に入れる。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_oak_chenlunzhisen_levelup_001.aac",
+            "text": "より豊かな香りの果実をあげるわ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_oak_chenlunzhisen_greeting_001.aac",
+            "text": "いい子ね。こっちに来て、私の果実を食べて……あなたは最も甘い救いを得られるのよ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_oak_chenlunzhisen_head_001.aac",
+            "text": "空に七色の虹が光り、聖なる者は七日間で世界を作った。そして私の王冠にある七つの宝石が、肉体を離れる音を聞かせてくれる。もしあなたも聞いてみたいなら……私の王冠を奪うといいわ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_oak_chenlunzhisen_body_001.aac",
+            "text": "以前、ある人から真実を語る魔法の鏡を貰ったの。それの口から、誰の存在を聞いたと思う？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_oak_chenlunzhisen_body_002.aac",
+            "text": "私はここの支配者ではないわ。道に迷った旅人に、永遠に安らかに眠れる休息所を提供しただけよ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_oak_chenlunzhisen_leg_001.aac",
+            "text": "白い雪が痕跡を隠し、リンゴが欲望を引き出し、黒檀が秘密を守る……あなたは自分が眠る地を何で飾るのかしら？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_oak_chenlunzhisen_hand_001.aac",
+            "text": "目を閉じれば、暗く果てしない禁忌の森が見えるでしょう……でも、怖がらずに私の手を取って。あなたの行くべき場所へ連れて行ってあげるわ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_oak_chenlunzhisen_idle_001.aac",
+            "text": "この森は静かではないわ。彼らが6フィート下から私に話しかけているから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_oak_chenlunzhisen_specialattention_001.aac",
+            "text": "そんなに私に興味があるなら……ここに残って私のコレクションになりなさい。"
+        }
+    ],
+    "sepulchral_ride": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_oak_heiyedezangyi_cacha_001.aac",
+            "text": "私が踏む霧は囁く夜であり、乗る車は安らかに暮らす亡霊。私はあらゆる墓地へ行き、迷える霊魂に死を宣告する者。そして夜を走る手綱を緩め、あなたの名前を呼ぶ時……ふふ、それはあなたが安息に足を踏み入れる前の最後の賛歌となるわ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_oak_heiyedezangyi_levelup_001.aac",
+            "text": "私に応えてむせび泣く声が、どんどん増えていく……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_oak_heiyedezangyi_greeting_001.aac",
+            "text": "「あなたの眼差しは霧に覆われているようだ。その神秘的な瞳は、優しさ、恍惚、残酷さへと変化し、天空の無関心さと黒さを映し出す」……死者から聞いたこの詩は、今この瞬間の私たちの出会いを描いていると思わない？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_oak_heiyedezangyi_body_001.aac",
+            "text": "死にゆく者だけが私の嘆きを聞き、エルフの葬送車を見ることができるのよ。生きているあなたが、なぜこの死者の帰路に立ち入るの？私に会いたいのか、それとも……死を目の当たりにしたいのかしら？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_oak_heiyedezangyi_body_002.aac",
+            "text": "私が馬車を走らせてあなたの魂を連れ去る時、あなたのために叫び、呼び戻そうとするのは誰でしょうね？遠ざかる呼び声を聞いて、あなたは私の腕から抜け出してしまうのかしら……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_oak_heiyedezangyi_idle_001.aac",
+            "text": "夜空をかすめるカラスも、森で巣を編む毒グモも、死のエルフと共に生きてきたわ。奇妙で悲痛な泣き声だけが不穏を意味するわけではないのよ。カラスのかすれた鳴き声や虫のざわめきもまた、近づいてくる死の足音なの。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_oak_heiyedezangyi_clicking_001.aac",
+            "text": "かつて誰かがこのリズムで頭蓋骨を叩いたことがあるわ。それで何が起きたか分かる？約束通り私が訪れ、死にゆく人を連れて行ったのよ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_oak_heiyedezangyi_specialattention_001.aac",
+            "text": "私を覗き見しているの？気を付けた方がいいわ。その二つの明るいガラス玉を鞭で奪われないように。"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_mess_cacha_001.aac",
+            "text": "これがきみたちの局長？本当に？なんか弱そう。わたしだったらこんな上司ヤダけど……あっ、カバン引っ張らないで！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_mess_promotion_001.aac",
+            "text": "より良い武器で、より良い戦いを～"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_mess_promotion2_001.aac",
+            "text": "よーく見てて。神殺しの武器のおでましよ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_mess_battlebegin_001.aac",
+            "text": "武器は戦場でこそ輝く。でしょ？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_mess_battlewin_001.aac",
+            "text": "はぁ、全身血まみれ……わたし、次は見てるだけでいいよね？"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_mess_battlelose_001.aac",
+            "text": "こんなのに勝てないなんて、死んだ方がマシ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_mess_uniqueskill_001.aac",
+            "text": "きみたちの悪意、いただくね……"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_mess_dead_001.aac",
+            "text": "悪夢が終わった……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mess_greeting_001.aac",
+            "text": "せかさないでよ。できたらそっちに送るから……あっ、きみか。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_mess_talk1_001.aac",
+            "text": "わぁ！この呪いの人形、可愛い～。切り裂いて炉の燃料にしてあげたいな。うん……今すぐ注文しよう！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_mess_talk1_002.aac",
+            "text": "プレス機なんて可愛くないもの絶対使わない！機械で作った量産品より、丹精込めた手作りの武器の方が気分もノるでしょ？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_mess_talk1_003.aac",
+            "text": "ニューシティのあの弁護士も政治家も、本当に軽蔑する。どいつもこいつも口先ばかり。ナイフでサクッとやっちゃえばいいのにな？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_mess_talk2_001.aac",
+            "text": "銃もいいけど、やっぱり近接武器よね。パサッ、サクッ、ドンッ——それだけで人が死ぬの……本当に素敵。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_mess_talk2_002.aac",
+            "text": "ずっと前からきみを観察してたけど、きみって……本当に悪意がないんだね。おかしいな、他人を傷つけるのが嫌いな人なんているんだ……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_mess_talk2_003.aac",
+            "text": "可愛い物が好き、暴力も好き。別に矛盾してないよ？だって、その人たちが憎しみ合って傷つけ合う姿が可愛くてたまらないんだもの。そう思わない？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_mess_obeyfull_001.aac",
+            "text": "わたしが殺したいものは、きみが思ってるよりずっと恐ろしいよ。奴の前では、みんな虫ケラ……それでも、わたしと一緒に戦う？ふーん、強がりなところも可愛いね～"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mess_idle_001.aac",
+            "text": "うん、刀身もいいし、バランスも完璧。次は柄（つか）だね……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_mess_clicking_001.aac",
+            "text": "やめて！これ以上触ったら、炉に入れて燃料にしちゃうから！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mess_specialattention_001.aac",
+            "text": "いつもはきみの副官が注文に来るのに、今日は自分で来たんだね……もしかして、きみも悪意に満ちた武器が欲しくなった？ふふ、ようやくその気になったかな？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mess_dispatch_001.aac",
+            "text": "わたしでもいいけど、その代わり工房には誰も入れちゃダメだからね。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_mess_dispatch2_001.aac",
+            "text": "終わったわ。あの二人が喧嘩しなかったのが残念。あーあ……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mess_levelup_002.aac",
+            "text": "技術力アーップ！"
+        }
+    ],
+    "mystic_pawnshop": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_mess_wuqidiandang_cacha_001.aac",
+            "text": "夜遅くに来るなんて、新しいアイテムを手に入れたから急いで処分したいの？それとも別の物と交換したい？……あはは、もちろん何でもできるよ。きみが後悔しないって言い切れるなら。まぁ、ここで質入れした人は、物を取り戻せないんだけどね～。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mess_wuqidiandang_levelup_001.aac",
+            "text": "この品物、状態いいしもらってあげる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mess_wuqidiandang_greeting_001.aac",
+            "text": "わたしの服は特別なものかって？もちろん。長～い間わたしと一緒にいてくれたから。質入れした人はとっくに死んじゃってるけどね～まぁ、こんな本物のヴィンテージはそうそうお目にかかれないし、もっとじっくり見てみる？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_mess_wuqidiandang_talk1_001.aac",
+            "text": "ちょっと、勝手に触らないで！このタコは持ち主しか認めないし、気性が荒いんだから……質屋のルールその1は、手と口を慎むことよ。聞いちゃいけないことは聞かないし、触っちゃダメなものは触らない。うっかり悪いものを引き寄せたら、冗談じゃ済まないよ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_mess_wuqidiandang_talk1_002.aac",
+            "text": "ん？わたしにくれるの？……何これ！もち米飴！？きゃあああ、こっちに持ってこないでよ！わたしを喜ばせたいの？傷つけたいの？ひどいよ、絶対わざとでしょ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mess_wuqidiandang_idle_001.aac",
+            "text": "入り口をぶらぶらするのはいいけど、戸棚の裏には入らないでね。きみは、そこにある物を絶対気に入らないと思うから。好奇心は猫を殺すんだよ。警告したんだから、何があってもわたしのせいにしないでね～"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_mess_wuqidiandang_clicking_001.aac",
+            "text": "へぇ？本当にこの黄色い紙を剥がす気？ふふ、わたしにもどうなるか分からないから、試しにやってみようか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mess_wuqidiandang_specialattention_001.aac",
+            "text": "中に入った瞬間から、きみはわたしから目を逸らさなかったよね～そんなに質屋から持ち出したい物があるなら……床にある銅の剣を拾って、わたしを服従させてみなよ～！"
+        }
+    ]
+}

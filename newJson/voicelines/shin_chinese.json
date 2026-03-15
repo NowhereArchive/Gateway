@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_shin_cacha_001.aac",
+            "text": "你穿越时间的界线，自无光的深渊之底，将我带回现世……希望在不久的未来，你不会为此感到后悔。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_shin_promotion_001.aac",
+            "text": "这力量塑造了我。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_shin_promotion2_001.aac",
+            "text": "禁忌的终点，只有无尽的混沌。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_shin_battlebegin_001.aac",
+            "text": "抵达……深渊之底。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_shin_battlewin_001.aac",
+            "text": "再没有什么可以阻止我们了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_shin_battlelose_001.aac",
+            "text": "没关系，你还有无数次机会。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_shin_uniqueskill_001.aac",
+            "text": "倾听……祂的低语。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_shin_dead_001.aac",
+            "text": "我会从深渊……再次……归来……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_shin_greeting_001.aac",
+            "text": "这一次分别的间隔似乎有些久……你是有什么事感到困扰了？来，坐下，和我聊聊吧。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_shin_talk1_001.aac",
+            "text": "越是平静的海域，潜藏于其中的秘密便越是黑暗深邃。这便是曾身为海洋学家的“源津”所掌握的，最重要的经验。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_shin_talk1_002.aac",
+            "text": "他们的死亡早已注定……若是想改变这样的命运，就牢牢握住这份力量吧，无论它来自何处。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_shin_talk1_003.aac",
+            "text": "家族、使命、远征……对我而言，已经变得太过遥远了。如今的我不再需要这些，唯有禁忌的知识与力量充盈于我的躯壳和灵魂。这感觉……无与伦比的美妙。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_shin_talk2_001.aac",
+            "text": "深渊并不会滋生混沌。混沌源自内心，存在于每一个光鲜灵魂下的投影，无法忽视，无从分割……拥抱它，才能让我们变得完整。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_shin_talk2_002.aac",
+            "text": "人类的心智过分脆弱，他们不能直视深渊下埋藏的真相，更无法背负全知全能的诅咒。唯有永恒的生命能够承载这份力量……我的存在便是证明，不是吗？"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_shin_talk2_003.aac",
+            "text": "过去这么久，你还在为他们的遭遇耿耿于怀么……呵呵，没关系。等你回忆起一切、重拾力量的那一天便会知道，我们才是真正的“同伴”。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_shin_obeyfull_001.aac",
+            "text": "你的存在，源自某种我都无法理解的远见。你终将遵循祂的安排，接受本性，践行祂的意志……期待那一天能早点到来。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_shin_idle_001.aac",
+            "text": "感到疲惫了吗？嗯，毕竟你的躯体还是人类，有太多无法忽视的缺陷……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_shin_clicking_001.aac",
+            "text": "呵呵，你发现了吗？即使外表没有太大差别，可实际上，这副躯体早已和人类相去甚远。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_shin_specialattention_001.aac",
+            "text": "寻求陪伴，还是监视威胁……亦或是二者都有？呵呵，无论你是出自何种目的而来，我都愿意接受。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_shin_dispatch_001.aac",
+            "text": "你确定……要让我去吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_shin_dispatch2_001.aac",
+            "text": "如你所愿，我回来了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_shin_levelup_002.aac",
+            "text": "它成为了我的一部分。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_shin_head_001.aac",
+            "text": "这样会让你感觉安心吗……真是个淘气的孩子。"
+        }
+    ],
+    "stellar_embrace": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_shin_xingjizhiyong_cacha_001.aac",
+            "text": "诞生自深处的新星啊……快来到我的身边……宇宙的风暴即将来临，只有我的臂弯，能给予你温暖和安全。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_shin_xingjizhiyong_levelup_001.aac",
+            "text": "我能感受到，你在走向我……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_shin_xingjizhiyong_greeting_001.aac",
+            "text": "我一直在等着你，迷路的新星……快来到我的怀中，一起将这混沌与黑暗引爆成美丽的新星河，好吗？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_shin_xingjizhiyong_head_001.aac",
+            "text": "贪心的孩子，好……到我的怀里来吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_shin_xingjizhiyong_body_001.aac",
+            "text": "所有毁灭都会幻化为孕育新希望的摇篮……正如你还是出现在了我的面前，点亮了这片文明沉寂的星海。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_shin_xingjizhiyong_body_002.aac",
+            "text": "这绚烂的星云，是不是一点也不像经历过热寂？但它死去的瞬间才最惊艳……我做梦都想再见它一次，与你一起……"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_shin_xingjizhiyong_hand_001.aac",
+            "text": "我看过无数星辰挣扎着燃尽，却依然触碰不到变化的阈值……直到你激活了一切。来吧，和我一同见证这吞噬一切的新生……！"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_shin_xingjizhiyong_background_001.aac",
+            "text": "大爆炸会将一切打碎重组，让你我坍缩成为星河里的微粒，在更广阔更完美的宇宙中抵死相拥……呵呵……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_shin_xingjizhiyong_idle_001.aac",
+            "text": "睡吧……当群星都熄灭时，我的臂弯仍会是你最后的银河。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_shin_xingjizhiyong_specialattention_001.aac",
+            "text": "不用这样对我依依不舍，也不用恐惧分离……暗星是我的双眼，它们会容纳你，吸引你，却绝不会放开你……"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_cassian_cacha_001.aac",
+            "text": "당신을 따라 여기까지 오게 된 이상, 언제든 당신을 위해 힘쓰겠습니다… 브랜디의 부드러움과 데킬라의 강렬함. 그 어떤 '느낌'을 찾으시든지 제 라운지에서 모두 만족시켜 드리겠습니다."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_cassian_promotion_001.aac",
+            "text": "복수도 힘이 있어야 하는 법… 다시는 실패하지 않겠어."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_cassian_promotion2_001.aac",
+            "text": "저는 가문의 영광을 누렸고, 그 영광과 함께 심연으로 추락하기도 했었죠. 하지만 이제는, 그 모든 게 무너지는 것을 보고만 있지는 않을 거예요. 더디더라도, 실패하더라도… 저와 제 가문의 운명을 짓밟고 비웃던 그놈을 반드시 끌어내려, 함께 지옥으로 떨어지겠습니다."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_cassian_battlebegin_001.aac",
+            "text": "술이 깼으니, 이제 움직여 볼까요?"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_cassian_battlewin_001.aac",
+            "text": "다음엔 제 앞에 쓰러져 있는 게 '그들'이었으면 좋겠군요."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_cassian_battlelose_001.aac",
+            "text": "처음 실패한 것도 아니니까… 아픔이 지나가면, 다시 일어서면 됩니다."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_cassian_uniqueskill_001.aac",
+            "text": "피는 피로 갚는다!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_cassian_dead_001.aac",
+            "text": "또… 헛수고가 됐군. 하, 그래도 괜찮아…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_cassian_greeting_001.aac",
+            "text": "여긴 너무 조용해서, 찾아오지 않으실 줄 알았는데… 앉으세요. 한 잔 준비해 드리죠."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_cassian_talk1_001.aac",
+            "text": "아무리 화려한 겉치레로 감싸도, 술기운이 오르면 모든 게 드러나기 마련이죠. 술이라는 게, 때로는 참 쓸모 있는 존재예요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_cassian_talk1_002.aac",
+            "text": "한때는 이 두 손으로 감미로운 선율을 연주해 가문에 많은 찬사와 영광을 안겨주었죠… 지금은 그저 흉측한 흉터와 차가운 금속만이 남아 있을 뿐입니다."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_cassian_talk1_003.aac",
+            "text": "…제 얼굴의 상처 말입니까? 이건… 별거 아닙니다. 특별한 사연이 있는 건 아니니, 굳이 시간을 낭비해 가며 들으실 필요는 없습니다."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_cassian_talk2_001.aac",
+            "text": "칵테일 제조는 어렵지 않아요. 원하는 맛이 있다면 그 맛이 나는 재료를 넣으면 그만이죠. 사람도 똑같아요. 충분한 '달콤함'을 주면, 상대방은 당신이 원하는 '사람'이 될 겁니다."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_cassian_talk2_002.aac",
+            "text": "이 브로치는 가문이 제게 남겨준 유일한 그리움이에요. 비싸지는 않지만 제게는 그 어떤 것보다도 소중하죠… 이제 제게 남은 것은 이것 하나뿐이니까요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_cassian_talk2_003.aac",
+            "text": "…방금 꿈을 꿨어요. 꿈속에서 저는 가문의 화원에서 무릎을 다쳐 울고 있는 어린아이였어요. 어머니께서 급히 달려와 손을 내밀어 주셨죠. 그 손을 잡으려고 손을 뻗었는데, 꿈에서 깨어나고 말았어요. 손에 닿은 건 온기라고는 전혀 느껴지지 않는 유리병뿐이었죠."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_cassian_obeyfull_001.aac",
+            "text": "오랫동안 저는 제가 운명이 정해 놓은 희생양이자, 결국엔 버려질 존재라고 생각했습니다. 그저 그 자리에 서 있는, 어설프고 황당한 농담 같은 존재로요… 그런데 운명은 마치 손가락 사이로 구원의 술을 흘리듯, 당신을 제 앞에 데려다주었죠. 당신 덕분에 저는 그 깊은 어둠을 건너 다시 앞으로 나아갈 수 있게 되었습니다."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_cassian_idle_001.aac",
+            "text": "전 매일 잔을 이렇게 먼지 하나 없이 닦아요. 마치 한때 소위 말하는 '완벽함'을 유지하려 애쓰던 때처럼요… 참 우습죠?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_cassian_clicking_001.aac",
+            "text": "…이러실 필요 없습니다. 요구사항이 있으시다면 직접 말씀하세요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_cassian_specialattention_001.aac",
+            "text": "온갖 시선을 봐왔어요. 비웃음, 탐욕, 희롱… 하지만 저를 향한 당신의 눈빛은 달랐어요. 당신의 눈 속에서 저는 전시된 상품이 아니라 동등한 사람이었죠."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_cassian_dispatch_001.aac",
+            "text": "괜찮습니다. 이런 일이라면 해본 적 있으니까요."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_cassian_dispatch2_001.aac",
+            "text": "그들은 제가 술만 만들 줄 안다고 생각하나 보군요. 절 너무 과소평가하는 거 아닐까요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_cassian_levelup_002.aac",
+            "text": "마침 힘이 필요했는데, 감사합니다."
+        }
+    ]
+}

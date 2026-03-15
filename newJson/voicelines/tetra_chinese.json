@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_tetra_cacha_001.aac",
+            "text": "居然主动把怪盗请进门，难道……你在期待我偷些什么？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_tetra_promotion_001.aac",
+            "text": "这几秒内，我将一直注视着你。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_tetra_promotion2_001.aac",
+            "text": "追上时间的一瞬，你会觉得，自己能改变一切。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_tetra_battlebegin_001.aac",
+            "text": "对面的计划，我已经摸得一清二楚了。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_tetra_battlewin_001.aac",
+            "text": "这是我策划的行动，自然万无一失。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_tetra_battlelose_001.aac",
+            "text": "没时间了，撤退！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_tetra_uniqueskill_001.aac",
+            "text": "时间已到！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_tetra_dead_001.aac",
+            "text": "哈……未尝不是一种解脱。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_tetra_greeting_001.aac",
+            "text": "你好，MBCC的局长。我偷了你一些时间，所以……放下工作，陪我聊聊吧？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_tetra_talk1_001.aac",
+            "text": "在停滞的时间里，这个沙漏是唯一可以流动的计时工具。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_tetra_talk1_002.aac",
+            "text": "白日将我束缚得越紧……夜晚我将越放纵……呵呵~"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_tetra_talk1_003.aac",
+            "text": "说到那只小兔子……你不觉得她很有意思吗？不过她的破绽也太多了，与其让别人抓到她的把柄，不如……把她绑在我身边。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_tetra_talk2_001.aac",
+            "text": "我把我的身后都交给了普希拉……这很浪漫，不是吗？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_tetra_talk2_002.aac",
+            "text": "新城也好，上庭也罢，光鲜亮丽的外表下，不过是一道道枷锁罢了。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_tetra_talk2_003.aac",
+            "text": "虽说被关押在这里，但……这里也挺自由的。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_tetra_obeyfull_001.aac",
+            "text": "世界上最宝贵的东西我已经得到了，不如……就现在，在你面前金盆洗手如何？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_tetra_idle_001.aac",
+            "text": "这样的时间……再长一点吧。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_tetra_clicking_001.aac",
+            "text": "怎么，局长也想找点刺激？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_tetra_specialattention_001.aac",
+            "text": "可别眨眼，小心狐狸的把戏能把你耍的团团转。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_tetra_dispatch_001.aac",
+            "text": "我可以完美完成你的任务，不过……要不要这么做呢？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_tetra_dispatch2_001.aac",
+            "text": "这是我顺手带给你的礼物。嗯？顺手牵羊不算顺手吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_tetra_levelup_002.aac",
+            "text": "嗯……还有上升空间呢。"
+        }
+    ],
+    "edge_of_nightfall": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_tetra_yemubianyuan_cacha_001.aac",
+            "text": "愣在这里做什么？现在追上去，就还有机会把被偷走的宝贝从那只怪盗小兔子手里抢回来。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_tetra_yemubianyuan_levelup_001.aac",
+            "text": "一切都在计划之中。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_tetra_yemubianyuan_greeting_001.aac",
+            "text": "我的出场方式吓到你了？但这是最快速的追击路线……况且，在这个虚伪浮华的晚宴上大闹一场，非常有趣不是吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_tetra_yemubianyuan_talk1_001.aac",
+            "text": "我可没兴趣跟你当同行，只是因为在给狄斯治安局升级内部系统的时候，恰巧发现了他们的追捕计划，才主动请缨参加罢了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_tetra_yemubianyuan_talk1_002.aac",
+            "text": "那封预告函的主人的确自信，居然用花瓣标记了一路的逃逸痕迹……就这么期待有人来捉住她吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_tetra_yemubianyuan_idle_001.aac",
+            "text": "这方向，果然去露台了啊……猜猜为什么那里的安保力量最薄弱吧~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_tetra_yemubianyuan_clicking_001.aac",
+            "text": "不想回过神来发现身上少了些什么，就安分点吧，局长？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_tetra_yemubianyuan_specialattention_001.aac",
+            "text": "好好跟着我，我会在这片混乱中保证你的安全。"
+        }
+    ]
+}

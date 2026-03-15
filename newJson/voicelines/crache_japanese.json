@@ -1,0 +1,255 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_crache_cacha_001.aac",
+            "text": "影を捕まえられないように、わたしだってこんなところには閉じ込められない。無駄よ。あんたたちのような大人がいるから、事態は悪化していくんだ。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_crache_promotion_001.aac",
+            "text": "太陽の下に出ない限り、誰もわたしを見つけられない。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_crache_promotion2_001.aac",
+            "text": "ディスシティの全ての影は、わたしの領地よ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_crache_battlebegin_001.aac",
+            "text": "はぁ……子供向きの場所じゃないわ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_crache_battlewin_001.aac",
+            "text": "この程度で……わたしの手を煩わせないで。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_crache_battlelose_001.aac",
+            "text": "ハハッ、何も変わらない。とっくに分かってたわ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_crache_uniqueskill_001.aac",
+            "text": "影のように……どこまでも追いかける。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_crache_dead_001.aac",
+            "text": "暗い……冷たいよ……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_crache_greeting_001.aac",
+            "text": "うかつに影の中へ入らないで。わたしにぶつかるところだったわよ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_crache_talk1_001.aac",
+            "text": "「野良の子」がやらかしたことはわたしとは関係ないわよ。わたしはリーダーじゃないし、指示を出したこともない。名前を借りて威張ってるだけ。ところで……シンジケートの悪い子どもたちがあんたたちをずいぶんと悩ませてるみたいね？ふふっ、ざまあみろ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_crache_talk1_002.aac",
+            "text": "あんたはもう大人でしょ？わたしみたいなガキに頼まなきゃいけないことが本当にあるの？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_crache_talk1_003.aac",
+            "text": "シンジケートに生まれたい人なんていない。あそこの嘘と暴力は永遠に変わらないわ。わたしはもう諦めた。だから遠くへ逃げたいの。そのぐらいいいでしょ？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_crache_talk2_001.aac",
+            "text": "ここは……まぁまぁね。部屋のベッドは、シンジケートのよりずっと柔らかいわ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_crache_talk2_002.aac",
+            "text": "壁のあれは「野良の子」のマークよ。入りたければ、同じのを自分で描けばいい……でも、年齢的には、あんたはもう入る資格がないわね。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_crache_talk2_003.aac",
+            "text": "監禁部屋、もっと大きくできない？別に狭い部屋は嫌いじゃないけど、ちょっと……嫌なことを思い出すんだ。だめだったら……あんたが……そばにいてくれるのでもいい。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_crache_obeyfull_001.aac",
+            "text": "あんたは……おかしな大人だ。シンジケートの大人がみんなあんたみたいな人間だったら、わたしたちはここまで苦しまずに済んだのかも……どうしてもっと早く来てくれなかったの……。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_crache_idle_001.aac",
+            "text": "あぁ——貴重なお休みだね。任務もないし、わたしを邪魔するやつもいない。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_crache_clicking_001.aac",
+            "text": "……大人って、みんなこういうのが好きなの？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_crache_specialattention_001.aac",
+            "text": "……影をのぞく時、影もまたこちらをのぞいているのよ。……あんたの視線、ちょっと露骨ね。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_crache_dispatch_001.aac",
+            "text": "はっ？あんたのところに来ても仕事をしなきゃならないの？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_crache_dispatch2_001.aac",
+            "text": "うっ……やっぱり、日差しは苦手……。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_crache_levelup_002.aac",
+            "text": "影が……集まってくる。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_crache_head_001.aac",
+            "text": "——やめて！……身長が伸びなくなる。"
+        }
+    ],
+    "eternal_night_hunt": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_crache_yongyeshoulie_cacha_001.aac",
+            "text": "まだあんな古臭い童話を聞いてるの？わたしたちだけの「童話」がどんなものか、ちゃんとその目で見ててね……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_crache_yongyeshoulie_levelup_001.aac",
+            "text": "影、分かる？この生臭い、腐った匂いが……おやつの時間だよ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_crache_yongyeshoulie_greeting_001.aac",
+            "text": "ここにいて、外に出ちゃだめ。森に入ったら……たとえあんたでも、ウサギみたいに食べられちゃう。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_crache_yongyeshoulie_head_001.aac",
+            "text": "耳、影、目……まだ分からないの？わたしをあの赤ずきんと一緒にしないで。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_crache_yongyeshoulie_talk_001.aac",
+            "text": "あいつらは、子供に童話を聞かせて「善良」を教え込む。そして子供の「善良」を利用して、彼らを傷つけ、使い捨てる……わたしは二度と騙されない。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_crache_yongyeshoulie_talk_002.aac",
+            "text": "オオカミが口の中の肉を吐き出すって、本当に信じてるの？あいつは、食らいついた獲物は全て食い尽くす。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_crache_yongyeshoulie_hand_001.aac",
+            "text": "「赤ずきん」クッキー、あんたも欲しい？いいけど、でも……材料が何なのかは聞かないで。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_crache_yongyeshoulie_leg_001.aac",
+            "text": "スカートをはいた女の子に獲物を譲ってくれる人なんていない。あんたが強い奴なら別だけど。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_crache_yongyeshoulie_idle_001.aac",
+            "text": "待って、静かにして。まだ夜は更けてない……暗闇こそ、わたしたちの領域よ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_crache_yongyeshoulie_specialattention_001.aac",
+            "text": "あまり期待しないで。わたしはままごとに付き合うつもりはないから。"
+        }
+    ],
+    "lucida_mystica": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_crache_fanxinghuanshi_cacha_001.aac",
+            "text": "ここは魔女のマーケットよ。あんたみたいなガキが来る場所じゃない……え？迷子になった？はぁ、家に帰りたいなら、あんたの一番大切な宝物を渡して。代わりに星をあげる。その星は、あんたが無事に家に帰れるように守ってくれるものよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_crache_fanxinghuanshi_levelup_001.aac",
+            "text": "星が絶え間なく集まってくる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_crache_fanxinghuanshi_greeting_001.aac",
+            "text": "なんでまたここにいるの？本当に面倒……家に帰るために今度は何と星を交換するつもり？言っておくけど、もう道端の花は受け取らないから。どんなに大きな花束でもダメ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_crache_fanxinghuanshi_body_001.aac",
+            "text": "ロリポップ……それがあんたの一番の宝物？天秤に乗せて試してみて。両方のバランスが取れたら、星と交換できるから……ふーん、ツイてるわね。バランスが取れたみたい。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_crache_fanxinghuanshi_body_002.aac",
+            "text": "このマーケットをうろちょろしないで。ここのテントは綺麗に見えるけど、入れば骨も残らないわよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_crache_fanxinghuanshi_idle_001.aac",
+            "text": "ふぅ、やっと迷子のガキどもを帰らせた。なんで最近、間違えて入ってくるガキが増えてるの？交換で貰ったロリポップとか人形が溢れ返ってるんだけど。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_crache_fanxinghuanshi_clicking_001.aac",
+            "text": "チッ……あんたみたいな好奇心旺盛なガキが一番迷惑。このマントは、わたしが星空の欠片を切り取って作ったものだから、中に落ちたら出れなくなるわよ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_crache_fanxinghuanshi_specialattention_001.aac",
+            "text": "星はもうあげたでしょ。なんでまだわたしを見てるの？よく考えて。あんたが持ってる「宝物」があと何回交換できるか……しっかり考えたら、今後遊ぶ時は変な所に行かないことね。"
+        }
+    ],
+    "shadow_groove": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_crache_anlv_cacha_001.aac",
+            "text": "あのガキども、ついて来ないでって警告したのに、なんでまたこっそりステージの下にいるのよ……またあんたが甘やかしたんでしょ？まあいいわ、あそこでわたしの名前を叫んだりしなければ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_crache_anlv_levelup_001.aac",
+            "text": "ベースの低音がしっかりしてないと、曲全体を支えられない。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_crache_anlv_greeting_001.aac",
+            "text": "これからわたしたちの公演があるけど……あんたも見に来る？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_crache_anlv_talk1_001.aac",
+            "text": "ステージから客席を見ると、蛍光の光が次から次へと揺れて、まるで波みたい……ちょっと壮大すぎて、現実感がないわね。まさか自分がこんな場所に立つ日が来るなんて思わなかったわ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_crache_anlv_talk1_002.aac",
+            "text": "ベースの音は……低くて落ち着いてて、心臓の音みたい。初めて触ったけど、案外……気に入ってるわ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_crache_anlv_idle_001.aac",
+            "text": "MCパートはお喋り好きなあの人たちに任せる。わたしはここで一人、静かにいさせて。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_crache_anlv_clicking_001.aac",
+            "text": "チッ、わたしのベースに触らないで。さっき弦を調整したばっかなんだから。あんたたち大人はいつも邪魔するのが好きよね。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_crache_anlv_specialattention_001.aac",
+            "text": "ベーシストは目立たない存在。まるで影のようにメロディーの隙間に隠れてるから、ほとんどの人は気にもしない……でも、あんたはわたしを見た。その視線も励ましも、ちゃんと受け取ったから。"
+        }
+    ]
+}

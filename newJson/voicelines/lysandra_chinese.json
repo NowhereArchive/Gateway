@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_lysandra_cacha_001.aac",
+            "text": "我在砂海行走的时候并没有刻意隐藏过身份，MBCC根据这些信息推演出我的行踪，这是既定概率，不是命运。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_lysandra_promotion_001.aac",
+            "text": "能前往更深的地方了。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_lysandra_promotion2_001.aac",
+            "text": "命运的逻辑彻底拆解完毕，以后的结局仅取决于我。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_lysandra_battlebegin_001.aac",
+            "text": "别乱动。看好形势，争取一举拿下。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_lysandra_battlewin_001.aac",
+            "text": "胜利不是偶然，是周密计划后的必然。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_lysandra_battlelose_001.aac",
+            "text": "冷静一点，情况还没那么糟糕，慌乱才会让你送命。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_lysandra_uniqueskill_001.aac",
+            "text": "结局由我来定！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_lysandra_dead_001.aac",
+            "text": "向前走，别管我……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_lysandra_greeting_001.aac",
+            "text": "你好，还活着？活着挺好……嗯，我不太擅长打招呼。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_lysandra_talk1_001.aac",
+            "text": "在墓洞里盲目相信直觉和运气的人，大多都和墓洞的主人一样永远躺在了那里。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_lysandra_talk1_002.aac",
+            "text": "我去过很多墓洞，如果被困时只知道呼喊求救，那么能回应你的只有绝望的回声。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_lysandra_talk1_003.aac",
+            "text": "无底窟是关窍最多的墓穴，但如果你想去，我能带你杀个三进三出。鬼打墙的传言都是幌子，有我带着，鬼神也要给我们让路。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_lysandra_talk2_001.aac",
+            "text": "如果你需要帮助，可以直接说。你说了，我就会做。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_lysandra_talk2_002.aac",
+            "text": "和以前在墓洞里相比，我在MBCC的入睡时间变长了，夜晚惊醒的次数也在减少……按我的经验判断，可能是床品质量变好的原因。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_lysandra_talk2_003.aac",
+            "text": "我从来都不相信命运。如果抛硬币就能接收命运的指引，那攥紧它就是把命运握在自己的手里。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_lysandra_obeyfull_001.aac",
+            "text": "“命运”是被精心包装过的谎言，用来搅乱人心、制造恐惧。而你总是能用理性破局，在同样的困局中掌控一切——这就是你比“它”更强大的地方。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_lysandra_idle_001.aac",
+            "text": "我看你在忙，所以自己找了点事情干，你有事叫我。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_lysandra_clicking_001.aac",
+            "text": "无聊了？嗯……别无聊。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_lysandra_specialattention_001.aac",
+            "text": "只要看着我就可以了吗？并不是太理解，但我会照做的。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_lysandra_dispatch_001.aac",
+            "text": "这次的任务比较麻烦，我会先行勘探。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_lysandra_dispatch2_001.aac",
+            "text": "任务完成。目标地点结构复杂，我整理了路线手册，下次可以用。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_lysandra_levelup_002.aac",
+            "text": "阻碍清除，继续深入。"
+        }
+    ]
+}

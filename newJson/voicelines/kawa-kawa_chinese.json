@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_kavakava_cacha_001.aac",
+            "text": "我以后都可以睡在这里对吧？哇，里面好大，一丝风都进不来，这可比露营强多了。太好了，这下终于能有个落脚的地方了！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_kavakava_promotion_001.aac",
+            "text": "谢谢你！这样我就可以更快完成地图了！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_kavakava_promotion2_001.aac",
+            "text": "总有一天，我要把信标插遍砂海的每一个角落。我现在有这个信心！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_kavakava_battlebegin_001.aac",
+            "text": "放心，我最擅长的就是野外作业。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_kavakava_battlewin_001.aac",
+            "text": "好！这里也可以插上安全信标了！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_kavakava_battlelose_001.aac",
+            "text": "快，来这边！我们可以躲过去的。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_kavakava_uniqueskill_001.aac",
+            "text": "躲在它边上！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_kavakava_dead_001.aac",
+            "text": "我感觉……不太好……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_kavakava_greeting_001.aac",
+            "text": "你好！你一直没出现，我还以为你迷路了，正打算去找你呢。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_kavakava_talk1_001.aac",
+            "text": "万一遇上沙暴，你可以看看身边有没有信标……就是我手上这个。躲在它旁边，应该就能撑过去了。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_kavakava_talk1_002.aac",
+            "text": "为什么你们总是要抓那些……是叫砂盗对吧？他们很少用枪打我，有时候会让我帮忙做向导，到了地方还会送我淡水。我觉得他们人挺好的啊。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_kavakava_talk1_003.aac",
+            "text": "诶嘿嘿，我也没那么厉害啦，至少跟爸爸和爷爷比差远了。那些地理知识都是在爷爷写的书里看到的。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_kavakava_talk2_001.aac",
+            "text": "你们这儿的东西真好吃。特别是肉汤——我怎么也想不到，还能用那么大的肉块和那么多水放在一起炖，比烤蝎子和蜥蜴强多了！"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_kavakava_talk2_002.aac",
+            "text": "砂海里有几个很奇怪的地方。那里的人整天板着脸，还都带着枪。我每次想进去歇歇脚都会被打出来——明明里面那么宽敞，真小气。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_kavakava_talk2_003.aac",
+            "text": "我一直以为，只要把信标插满砂海，爸爸就会回来找我。可7年过去了……我会完成他和爷爷的计划，到那时，我就去找他。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_kavakava_obeyfull_001.aac",
+            "text": "砂海上的星空真的特别漂亮，特别是有流星雨的时候……等有机会了，我们一起去看吧，我知道一个绝佳的观景点，只有我知道的那种。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_kavakava_idle_001.aac",
+            "text": "《When Johnny Comes Marching Home》"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_kavakava_clicking_001.aac",
+            "text": "你想要我的帽子吗？不过这一顶用得很旧了，我重新做一顶给你吧。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_kavakava_specialattention_001.aac",
+            "text": "要我待在这陪你？好啊好啊。对了，我们什么时候回砂海啊，我那边还有好多事要做呢。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_kavakava_dispatch_001.aac",
+            "text": "哦哦，是有什么人迷路了吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_kavakava_dispatch2_001.aac",
+            "text": "不用给我钱啦，我也不太用得着，能帮上忙就好。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_kavakava_levelup_002.aac",
+            "text": "风砂挡不住我！"
+        }
+    ],
+    "down_the_rabbit_hole": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_kavakava_tuzidong_cacha_001.aac",
+            "text": "迟到？什么迟到？怀表先生你在说什么啊！早上起来右眼皮猛跳就算了，怎么你也坏掉啦！难道下一步就是被天上掉下来的新人砸中吗？……哎哟！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_kavakava_tuzidong_levelup_001.aac",
+            "text": "兔子洞又来新客人啦！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_kavakava_tuzidong_greeting_001.aac",
+            "text": "谢谢你呀新的生存者！多亏你砸了一下我才想起来要干什么了——我要去参加茶会！这可是难得补充热量的好机会！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_kavakava_tuzidong_body_001.aac",
+            "text": "不管怎么样，来了就是我的客人啦！不过我还没准备好茶会的东西呢……啊，我们去红皇后的宫殿吧！那里可宽敞了，还有很多好吃的！就是她的红眼晴士兵兔子有点凶……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_kavakava_tuzidong_body_002.aac",
+            "text": "你喜欢吃甜的吗？比如说果酱，黄油，司康饼……喜欢的话就跟我一起去茶会吧，记得拿上这个勺子，到时候跟开茶会的人说“我只吃一勺”就行了！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_kavakava_tuzidong_idle_001.aac",
+            "text": "这朵花还挺适合做见面礼的……诶，这个蘑菇也挺合适的！还有这个药草……嗯，这样活到下周没问题了！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_kavakava_tuzidong_clicking_001.aac",
+            "text": "小心点小心点，我的箱子里可装满了在这里存活的必要道具，弄坏了……我们俩可就糟了！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_kavakava_tuzidong_specialattention_001.aac",
+            "text": "对，就是这样，牢牢跟紧我！这里和地面上不太一样，一步走错我可能就要花大半天才能把你找回来！"
+        }
+    ]
+}

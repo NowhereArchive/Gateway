@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_adela_cacha_001.aac",
+            "text": "또 오셨네요, 국장님. 오늘은 머리를 정리하러 오셨나요, 아니면 고민을 정리하러 오셨나요?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_adela_promotion_001.aac",
+            "text": "국장님의 인정이 저에게는 가장 큰 보상이랍니다."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_adela_promotion2_001.aac",
+            "text": "피어오르는 짙은 안갯속, 잠복자는 자신의 사냥감을 겨냥하고 있죠. 쉿, 뒤돌아보지 마세요. 그자가 당신을 보고 있으니…"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_adela_battlebegin_001.aac",
+            "text": "아… 안개가 피어오르네요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_adela_battlewin_001.aac",
+            "text": "서비스를 마치겠습니다. 다음 만남도 기대할게요."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_adela_battlelose_001.aac",
+            "text": "제 서비스가 불만족스러웠나요?"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_adela_uniqueskill_001.aac",
+            "text": "쉿… 찾았다."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_adela_dead_001.aac",
+            "text": "여기서 끝날 수는 없어…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_adela_greeting_001.aac",
+            "text": "어서 오세요. 비록 여기가 가게는 아니지만, 전 모든 손님의 요구에 귀 기울일 준비가 되어있답니다."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_adela_talk1_001.aac",
+            "text": "찾아오신 손님들은 다들 말 못 할 고민이 있죠. 전 손님들의 고민을 해결해 주는 게 좋아요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_adela_talk1_002.aac",
+            "text": "누군가 그러더군요. 걱정거리를 의미하는 머리카락을 자르면 모든 고민에서 해방될 수 있다고… 언제든 와서 기분 전환하세요."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_adela_talk1_003.aac",
+            "text": "제 가위를 날카롭게 갈아주셨으면서 사람들의 고민을 자르는 건 못 하게 하시네요… 국장님의 깊은 뜻을 어떻게 이해해야 하죠?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_adela_talk2_001.aac",
+            "text": "두려워 마세요. 대부분 사람이 괴로웠던 자신의 기억을 잊고, 그것이 그저 한바탕 꿈이라 생각하죠… 안개가 흩어지면, 꿈도 사라질 거예요."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_adela_talk2_002.aac",
+            "text": "모두가 미용사 아델라는 좋아해 주지만, 안개 깊은 곳의 괴담에는 기겁해요. 에휴, 서비스 자체가 괴로움이 된다면 이와 관련된 손님의 기억을 전부 잊게 할 수밖에 없겠어요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_adela_talk2_003.aac",
+            "text": "국장님도 안개 골목 전설의 실체가 궁금하세요? 그는 사람의 고민을 해결해 주는 도우미일까요, 아니면 파괴와 가위질을 즐기는 괴인일까요? 또 아니면… 둘 다일까요?"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_adela_obeyfull_001.aac",
+            "text": "사람들은 언제나 고민거리와 지나간 기억에 억눌려 숨도 제대로 쉬지 못하죠. 하지만, 이 구속을 끊어내면 설렘조차 느끼지 못하게 될 줄은 몰랐어요. 전 국장님을 만나고 나서야 설레는 감정을 되찾을 수 있었죠."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_adela_idle_001.aac",
+            "text": "오랜 시간 쓰지 않은 가위는 녹이 슬기 마련이죠."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_adela_clicking_001.aac",
+            "text": "오? 특별한 고민이 있으신 것 같네요. 가만히 계세요. 제가 잘라드릴게요…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_adela_specialattention_001.aac",
+            "text": "제가 계속 당신의 곁을 지켜주길 바란다는 뜻으로 이해해도 되나요?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_adela_dispatch_001.aac",
+            "text": "도와드릴 수 있어서 영광입니다."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_adela_dispatch2_001.aac",
+            "text": "당신을 위해 힘 써봤는데, 이번 수확에 만족하시나요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_adela_levelup_002.aac",
+            "text": "감사합니다. 제가 어떻게 보답해야 할까요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_adela_head_001.aac",
+            "text": "제 스타일이 맘에 드시나요? 요즘 신성에서 가장 유행하는 스타일이랍니다. 똑같은 스타일을 원한다면… 머리부터 길러야겠네요."
+        }
+    ],
+    "candlelit_turret": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_adela_talouzhuguang_cacha_001.aac",
+            "text": "절 만나러 이렇게 탑에 와주시다니… 영광이에요. 어서 오세요, 이번에는 좀 더 오래 머물러 주셨으면 좋겠네요…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_adela_talouzhuguang_levelup_001.aac",
+            "text": "탑 꼭대기의 촛불이 한층 더 밝아진 것 같네요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_adela_talouzhuguang_greeting_001.aac",
+            "text": "머리카락이 헝클어졌네요… 자, 이쪽으로 앉으세요. 제가 다듬어드릴게요. 지치고 긴장된 마음을 풀어드리죠."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_adela_talouzhuguang_head_001.aac",
+            "text": "탑에 있는 책에서 이런 글귀를 본 적이 있어요. 누군가의 마음을 얻고 싶다면 자기 머리카락과 상대의 머리카락을 하나로 묶어라… 당신도 제 마음을 얻고 싶어서 제 머리를 쓰다듬으시는 건가요?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_adela_talouzhuguang_body_001.aac",
+            "text": "외부의 혼란은 당신의 머리카락을 헝클어뜨리고 근심만 키울 뿐이에요. 가능하다면 제가 대신 모든 고민을 잘라내고 당신의 머리카락이 길게 자라 제 머리카락과 하나로 엮일 때까지 보살피고 싶어요…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_adela_talouzhuguang_body_002.aac",
+            "text": "탑을 찾아오는 사람들은 모두 제 도움이 필요한 사람들이죠. 저도 항상 여기서 그들을 기다리며 도움이 필요한 모든 이를 위해 촛불 하나를 남겨둔답니다. 하지만 당신은 달라요… 당신은 제게 다른 부탁이 있는 것 같군요."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_adela_talouzhuguang_hand_001.aac",
+            "text": "가끔은 당신처럼 밖에서 오는 방문객이 부러울 때가 있어요… 제 머리카락이 이 탑에 드나드는 유일한 경로이기 때문에 계속 자라나고 겹겹이 쌓인 그물이 되도록 놔둘 수밖에 없답니다. 심지어 저 자신을 여기에 가둘 정도로 말이죠."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_adela_talouzhuguang_background_001.aac",
+            "text": "흔들리는 촛불, 마음을 진정시켜 주는 향기, 탑 꼭대기의 시간은 늘 이렇게 고요하고 평온하죠. 세상의 모든 소란이 차단된 꿈처럼요. 전 이 모든 것에 익숙해졌고, 뭔가 바꿔보려는 생각은 해본 적도 없어요… 당신이 나타나기 전까지는요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_adela_talouzhuguang_idle_001.aac",
+            "text": "또 멍하니 창밖을 보고 계시네요. 바깥세상이 그렇게 재미있나요? 이 말을 꺼내면 당신은 늘 할 이야기가 많은 것 같아요… 당신이 원한다면 저도 함께할게요…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_adela_talouzhuguang_specialattention_001.aac",
+            "text": "당신의 눈빛엔 진심이 가득하네요. 제가 당신과 함께 떠나길 바라는 거라면, 함께 할게요… 다만 그 전에, 당신이 잠시 여기 머물며 발걸음을 늦추고 마음을 진정시켰으면 좋겠어요."
+        }
+    ],
+    "woodland_wanderer": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_adela_linzhongke_cacha_001.aac",
+            "text": "당신의 고뇌는 이미 당신에게 길을 안내해 주었던 사자의 눈에서 읽었어요… 근심에 잠긴 영혼은 안개에 데일 수 있어요. 연회가 시작되기 전에, 그 불안한 기억들을 제가 잘라내 드릴게요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_adela_linzhongke_levelup_001.aac",
+            "text": "더 높이, 더 멀리 날아오르렴. 걱정에 빠진 자들을 인도해 줘."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_adela_linzhongke_greeting_001.aac",
+            "text": "당신의 머리카락 사이에 낙엽이 하나 걸려 있네요… 자, 제가 떼어드릴게요. 조급해할 필요 없어요. 연회는 아직 시작하지 않았으니까요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_adela_linzhongke_body_001.aac",
+            "text": "무서워하지 말아요. 솔개는 저의 눈이자 동료예요. 보세요, 솔개의 꼬리 날개가 가위처럼 어둠의 안개를 가르며, 당신을 위한 길을 안내하고 있어요. 그리고 연회의 막을 재단하여 당신을 제 곁으로 인도했고, 이렇게 저희가 만날 수 있게 도와줬어요…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_adela_linzhongke_body_002.aac",
+            "text": "연회의 종소리가 곧 울릴 거예요. 하지만 연회장으로 가는 길엔 또다시 성가신 가지들이 가득 뻗어 있네요. 당신에겐 더 깨끗하고, 광활하며, 마음껏 내달릴 수 있는 길이 필요해요. 제가 당신 곁에 머물게 해 주세요. 그 길을 다듬고 정리하는 일을 기꺼이 도와드리겠습니다."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_adela_linzhongke_idle_001.aac",
+            "text": "쉿… 조용히 해. 사냥감은 언제나 스스로 빛과 어둠의 경계에 발을 들여놓는 법이지…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_adela_linzhongke_clicking_001.aac",
+            "text": "솔개의 깃털은 부드럽지만… 가위보다 더 날카로운 발톱을 가지고 있답니다."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_adela_linzhongke_specialattention_001.aac",
+            "text": "파티에 참석해 주셔서 감사해요. 제 손을 잡고 들어가기 전에 마지막으로 한 번만 더 머리를 정리해 드릴게요."
+        }
+    ]
+}

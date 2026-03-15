@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_anarkia_cacha_001.aac",
+            "text": "I never hesitate to step towards a companion... Take me with you, my little monster."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_anarkia_promotion_001.aac",
+            "text": "How I wish to see what has become of my soul now."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_anarkia_promotion2_001.aac",
+            "text": "Seeing me like this, what do you have on your mind now? I wish to hear it from you..."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_anarkia_battlebegin_001.aac",
+            "text": "I've already seen through you. Save your futile struggle and surrender..."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_anarkia_battlewin_001.aac",
+            "text": "Upright Chariot. I knew the victory would be ours."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_anarkia_battlelose_001.aac",
+            "text": "Well, accidents happen in battles... It can't be helped..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_anarkia_uniqueskill_001.aac",
+            "text": "I will read your mind and everything else... I will see through your soul!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_anarkia_dead_001.aac",
+            "text": "At long last... my soul is freed..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_anarkia_greeting_001.aac",
+            "text": "According to the crystal, I'll be the first person you'll see today..."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_anarkia_talk1_001.aac",
+            "text": "The white desert is like a pure dreamland where immaculate flowers bloom..."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_anarkia_talk1_002.aac",
+            "text": "You seem to be really fond of my ability... Do you want to have your fortune read? Relax, whatever you want to know... <i>I have an answer for you...</i>"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_anarkia_talk1_003.aac",
+            "text": "Never ask where they're from. Never ask where they'll go. Those are my rules of fortune-telling... Well, unless I answer those questions first..."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_anarkia_talk2_001.aac",
+            "text": "The souls from the Black Ring possess true and pure beauty. They are not ugly at all. On the contrary, those <i>humans</i> who confine themselves... don't you think they look more ridiculous?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_anarkia_talk2_002.aac",
+            "text": "I hear that you're looking into my past? Why don't you just ask me? Hmm... Which version do you want to hear?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_anarkia_talk2_003.aac",
+            "text": "I have visited the realm of truth in my dreams. I hope that... one day, you will appear there as well."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_anarkia_obeyfull_001.aac",
+            "text": "Now, I can take off all my disguises and show you my truest self... Hmm, what is it? All I did was lose a few pieces of clothing, are you shy?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_anarkia_idle_001.aac",
+            "text": "Shh... I'm communicating with the souls."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_anarkia_clicking_001.aac",
+            "text": "Are you satisfied with physical touch alone? Why don't you let me teach you... how to embrace each other's soul?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_anarkia_specialattention_001.aac",
+            "text": "You give me so much attention... Wanna run away with me, my dear little monster?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_anarkia_dispatch_001.aac",
+            "text": "Hmm, is it the land of truth and purity before us?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_anarkia_dispatch2_001.aac",
+            "text": "I feel most at ease around you."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_anarkia_levelup_002.aac",
+            "text": "The true form of the soul is so elusive, yet so fascinating..."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_anarkia_head_001.aac",
+            "text": "Ha, that's exactly how those novice fortune-tellers touch the crystal ball."
+        }
+    ],
+    "moonlit_enchantment": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_anarkia_yueyeqitan_cacha_001.aac",
+            "text": "Finder of the legendary magic lamp of WhiteSands, you've summoned me. As a reward, I can grant you a wish."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_anarkia_yueyeqitan_levelup_001.aac",
+            "text": "These kitties quite enjoy your petting."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_anarkia_yueyeqitan_greeting_001.aac",
+            "text": "Poor lamb, have you lost your way in the desert? Fret not... Just follow me."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_anarkia_yueyeqitan_talk_001.aac",
+            "text": "Those who share the water of life under WhiteSands' moon will meet again on the other side. Emm... You gaze... Do you want to raise a glass with me?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_anarkia_yueyeqitan_talk_002.aac",
+            "text": "Charming her prey with her tame and lovely appearance. Luring them with their desires into her trap. Taking a fatal bite into the veins... Hmm? I'm only talking about... this adorable sand cat."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_anarkia_yueyeqitan_idle_001.aac",
+            "text": "How many nights have passed already?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_anarkia_yueyeqitan_clicking_001.aac",
+            "text": "A heedless stroke at the cat's tail may come with consequences..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_anarkia_yueyeqitan_specialattention_001.aac",
+            "text": "As long as you stay by my side forever, I can grant you... any wish."
+        }
+    ],
+    "sunfall_prophecy": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_anarkia_furiyuyan_cacha_001.aac",
+            "text": "This is no mere coincidence, dear traveler... Our meeting was foretold in the stars, your name engraved on the temple's sacred tablets. I have been waiting for you all this time. Follow me."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_anarkia_furiyuyan_levelup_002.aac",
+            "text": "This is quite the auspicious sign."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_anarkia_furiyuyan_greeting_001.aac",
+            "text": "Why is it that every time I see you, you look so bewildered? Would you like me to part the mists obscuring your future for you?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_anarkia_furiyuyan_head_001.aac",
+            "text": "Curious about this \"serpent\" on my crown? It's the guardian of the kingdom, a symbol of absolute power, but... it can also be the embodiment of darkness and chaos."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_anarkia_furiyuyan_talk1_001.aac",
+            "text": "People indulge in mead and delicacies at banquets, adorned with gold and jewels, all to flaunt the kingdom's prosperity and might... But alas, as they drown in these fleeting pleasures, have they considered that the fall of their dynasty may be the cost of their redolence?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_anarkia_furiyuyan_talk1_002.aac",
+            "text": "Legend says the Solar Phoenix rises reborn from the flames upon the Stone of Fate, its cry awakening order and truth—the wheel of fate turns in endless cycles, and after destruction always comes rebirth."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_anarkia_furiyuyan_hand_001.aac",
+            "text": "Dreams are reflections of reality, and the visions you see within them are mysterious prophecies. I'm curious, whose figure appeared in your dreams... Tell me, and I'll interpret whether it's an omen of fortune or misfortune."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_anarkia_furiyuyan_card_001.aac",
+            "text": "Follow your intuition and draw the card that belongs only to you... Don't worry. Whatever future it foretells, I believe you'll be able to forge your own path."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_anarkia_furiyuyan_idle_001.aac",
+            "text": "The blazing sun falls, stars shatter into dust... What a terrifying yet mesmerizing sight."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_anarkia_furiyuyan_specialattention_001.aac",
+            "text": "Listen carefully, this is a prophecy made solely for you. Whether it proves to be an illusion or becomes reality depends entirely on your perception."
+        }
+    ]
+}

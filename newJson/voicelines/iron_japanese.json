@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_xinxiya_cacha_001.aac",
+            "text": "シンジケートの暴徒たちを野放しにしておいて、人助けをする医者を捕まえるの？ふん、MBCCって本当に善悪の区別がついてないのね。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_xinxiya_promotion_001.aac",
+            "text": "努力はしたけど、機械の義手を筋肉の神経と完全に融合させるのは、そう簡単にできることじゃないわ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_xinxiya_promotion2_001.aac",
+            "text": "狂瞳病を完全に治すという理想が、もうすぐ実現するわ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_xinxiya_battlebegin_001.aac",
+            "text": "汚染物には触らないで。ついてきて。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_xinxiya_battlewin_001.aac",
+            "text": "手術は成功よ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_xinxiya_battlelose_001.aac",
+            "text": "負傷者の救助が最優先よ。撤退するわ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_xinxiya_uniqueskill_001.aac",
+            "text": "病巣切除！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_xinxiya_dead_001.aac",
+            "text": "患者にはまだ私が必要なの。ここで……倒れるわけには……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_xinxiya_greeting_001.aac",
+            "text": "来てるならさっさと仕事を始めるわよ。ぼーっと突っ立って時間を無駄にしないで。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_xinxiya_talk1_001.aac",
+            "text": "いつになったらあのコンビクトたちを何とかしてくれるの？ 喧嘩、酒、賭博……人を殺さないこと以外は、まるでもう一つのシンジケートと同じね。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_xinxiya_talk1_002.aac",
+            "text": "この世には、代償もなしに医学の才能を手に入れることはできないの。だから、自分が何をすべきかは……もうわかってる。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_xinxiya_talk1_003.aac",
+            "text": "人々が怖れているのは狂瞳病そのものじゃなくて、狂瞳病がもたらす暴力と死よ。そしてそれは私が罪を根絶やしにしたい理由でもあるわ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_xinxiya_talk2_001.aac",
+            "text": "患者にロボトミーを強制したことはないわ。死を前にして、生きたいと願う患者自身がそれを選んだのよ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_xinxiya_talk2_002.aac",
+            "text": "医術に関わる者なら、誰だって自分の患者が目の前で死ぬところを見たくはないわ。私も、アンも同じよ。だから……彼女を許してあげて。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_xinxiya_talk2_003.aac",
+            "text": "狂瞳病を抑え込むために、私は人の脳を切除する悪魔になった。自分の理性を保つために左腕を犠牲にしたように、利害を考慮したうえで選択したまでよ。だから、別に後悔はしてないわ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_xinxiya_obeyfull_001.aac",
+            "text": "私と一緒に来るつもりなら、忠告しておかないといけないわね——ロボトミー手術が終われば後悔をすることができないの。狂瞳病を抑えるためには、大きなリスクと汚名を背負う必要があるわ。それでも、きみは私と一緒に戦ってくれる？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_xinxiya_idle_001.aac",
+            "text": "犯罪者が外で暴れているのに、MBCCの局長は仕事中に居眠りをしてるなんて……このディスシティ、ちゃんと整備しておかないといけないわね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_xinxiya_clicking_001.aac",
+            "text": "ドーパミンが過剰に分泌されてるわね。開頭して検査してあげましょうか。ふっ、本気で言ってるのよ。試してみる？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_xinxiya_specialattention_001.aac",
+            "text": "狂瞳病にかかっていないのに私のところに来る人は、きみが初めてよ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_xinxiya_dispatch_001.aac",
+            "text": "狂瞳病の患者を治療する時間は貴重なのよ。そんな些細なことで私の手を煩わさないでほしいわね。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_xinxiya_dispatch2_001.aac",
+            "text": "謝辞はいいわ。医学と関係のないことには興味がないの。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_xinxiya_levelup_002.aac",
+            "text": "これで満足したの？まだ向上の余地があるから、続けるわよ。"
+        }
+    ],
+    "dr._ironstein": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_xinxiya_jinjiguaiyi_cacha_001.aac",
+            "text": "何をチラチラと見ているの？今日は特別診察日だから、いつもと違うだけよ。安心して入ってきなさい。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_xinxiya_jinjiguaiyi_levelup_001.aac",
+            "text": "縫合範囲確定。続けるわよ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_xinxiya_jinjiguaiyi_greeting_001.aac",
+            "text": "あそこで横になって。きみのか弱い身体を釘で固定する必要があるかどうか、ゆっくり検査させてちょうだい。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_xinxiya_jinjiguaiyi_talk_001.aac",
+            "text": "常に重々しくならないよう、服装を変えることをアンに勧められたわ。そうしないと、患者がプレッシャーを感じて問診に影響が出ると……ふん、どうやら効果はないようね。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_xinxiya_jinjiguaiyi_talk_002.aac",
+            "text": "医学に精通している点は共通しているけれど、私はあの死者を縫い合わせて怪物にする科学者とは違うわ。彼は死から生を創造しようと考えた。でも私の職責は、死を阻止することよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_xinxiya_jinjiguaiyi_idle_001.aac",
+            "text": "室温は正常なのに、診察を待つ患者たちに震盪の症状があるのはなぜかしら？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_xinxiya_jinjiguaiyi_clicking_001.aac",
+            "text": "医療用のインクで縫合痕を描いただけよ。そんなに大げさに騒がないで。気に入ったのなら、今度は本物の傷痕にしてあげるわ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_xinxiya_jinjiguaiyi_specialattention_001.aac",
+            "text": "確かに金属で脳組織を繋げて、脳を動かし続ける治療法はあったわ。そんな風に私を見ているということは、試したいのかしら？"
+        }
+    ]
+}

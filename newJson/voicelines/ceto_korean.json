@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_ceto_cacha_001.aac",
+            "text": "참 신선하네. 날 폭풍 속에서 끌어낸 게, 다음 전장에 던져넣으려는 거였어? …좋아, 그럼 나도 한번 확인해 볼까? 내 새로운 상관이 끝까지 살아남을 실력이 있는지."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_ceto_promotion_001.aac",
+            "text": "목숨이 질기고, 마음이 독해야만 검은 파도에서 살아남을 수 있어."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_ceto_promotion2_001.aac",
+            "text": "난 마지막 등대지기야, 내가 서 있는 곳이 바로 등대의 마지막 방어선이지."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_ceto_battlebegin_001.aac",
+            "text": "마음 단단히 먹어. 폭풍 후의 바다는 제일 더러우니까."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_ceto_battlewin_001.aac",
+            "text": "쳇, 이런 녀석들 때문에 칼을 뽑다니."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_ceto_battlelose_001.aac",
+            "text": "놈들이 운이 좋았어."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_ceto_uniqueskill_001.aac",
+            "text": "폭풍이 왔다!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_ceto_dead_001.aac",
+            "text": "썰물이야… 드디어, 복귀할 수 있겠어…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_ceto_greeting_001.aac",
+            "text": "발소리만 들어도 네가 왔다는 걸 알 수 있어. 이곳엔 바닷새조차 내려앉지 않아. 가까이 오는 건 죽음을 두려워하지 않는 미치광이뿐이지… 너도 그중 하나야."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_ceto_talk1_001.aac",
+            "text": "검은 파도 속에서 사는 건 여기보다 훨씬 단순했어. 근무표도 없고, 교대도 없지, 해가 뜨면 쉬고, 해가 지면 목숨을 걸어야 했어. 「하루」와 「일 년」은 등대지기에게 차이가 없어."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_ceto_talk1_002.aac",
+            "text": "테이프와 바다 풍경은 소모품이 아니야, 조금 나눠줄 수 있지. 고맙단 말은 필요 없어, 난 꽤 너그러운 편이거든."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_ceto_talk1_003.aac",
+            "text": "파도 소리를 오래 듣다 보면 리듬이 생겨. 숨소리 같기도 하고, 카운트다운 같기도 하지… 그 리듬이 흐트러지면, 괴물이 상륙할 때가 된 거야."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_ceto_talk2_001.aac",
+            "text": "생과 사, 추위와 더위는 내겐 그냥 몇 가지 변수와 위험 등급일 뿐이야. 넌 늘 이런 지루한 사무 속에 '인간미'를 끼워 넣어 내 생활을 어지럽히려 들지… 쯧, 됐어, 어차피 네가 이미 망쳐놨으니까."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_ceto_talk2_002.aac",
+            "text": "섬에서 파도와 바람이 가장 거세질 때면, 괴물들이 서쪽 절벽 입구를 따라 물길을 타고 올라왔지. 난 그 절벽 입구를 지켰고, 한 발짝 내디딜 때마다 발밑에 밟히는 건 진흙이거나 뼈였어. 나중엔 발밑에 있는 게 적인지, 동료인지… 그리고 어제의 나인지, 내일의 나인지조차 구분이 안 됐어."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_ceto_talk2_003.aac",
+            "text": "난 내가 등대를 가장 잘 아는 사람이라고 생각했어. 넌 그냥 길을 잃고 실수로 들어온 짐 덩어리일 뿐이고… 하지만 지금 생각해 보니, 어쩌면 네가 나보다 진짜 등대가 무엇인지 더 잘 알고 있을지도 몰라. 넌 등불을 찾았는데, 난 아직도 떠돌고 있잖아."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_ceto_obeyfull_001.aac",
+            "text": "전우들의 인식표는 늘 몸에 지니고 다녔어. 마치 내가 아직도 등대지기 부대의 일원인 것처럼. 내 인식표는… 07호 등대 꼭대기에 둘 거야. 내가 없어지면, 네가 와서 가져가. 기념품이 아니라, 인수인계야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_ceto_idle_001.aac",
+            "text": "조용히 스스로 즐기는 법, 그게 고립된 섬에서 살아남는 첫 번째 수업이지. 축하해, 드디어 배웠네."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_ceto_clicking_001.aac",
+            "text": "춥다면 스스로 난로를 찾아. 아직은 서로 껴안아야 할 정도는 아니야."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_ceto_specialattention_001.aac",
+            "text": "나와 함께 있고 싶어? 좋아, 하지만 거기서 멍하니 서 있지는 마. 바닷바람은 한가한 사람을 거두지 않거든."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_ceto_dispatch_001.aac",
+            "text": "시끄러워. 뭘 가져가야 하는지 알고 있어. 굶겨 죽이진 않을 테니까 걱정 마."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_ceto_dispatch2_001.aac",
+            "text": "보급이 도착했어, 한동안은 버틸 수 있겠네."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_ceto_levelup_002.aac",
+            "text": "칼이 피에 젖는 건 익숙해, 나도 마찬가지야."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_ceto_head_001.aac",
+            "text": "손이 필요 없다면 그냥 말해."
+        }
+    ]
+}

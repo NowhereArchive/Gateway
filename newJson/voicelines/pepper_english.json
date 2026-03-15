@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_jiekuilin_cacha_001.aac",
+            "text": "Let me go! Let me go! I'm the biggest rascal of DisCity! You can't capture me!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_jiekuilin_promotion_001.aac",
+            "text": "There must be more exciting adventures waiting for me!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_jiekuilin_promotion2_001.aac",
+            "text": "My goodness, is this really mine? Can I go farm in Paradeisos now?"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_jiekuilin_battlebegin_001.aac",
+            "text": "Where are we going for an adventure this time?"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_jiekuilin_battlewin_001.aac",
+            "text": "Victory! Let's celebrate! I want some cola!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_jiekuilin_battlelose_001.aac",
+            "text": "Cough cough... I let them off easy on purpose!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_jiekuilin_uniqueskill_001.aac",
+            "text": "Taste this!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_jiekuilin_dead_001.aac",
+            "text": "Sob... I'm not done playing yet..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_jiekuilin_greeting_001.aac",
+            "text": "Yoohoo, Chief! When can we get up to some mischief together? Hurry up, I'm so bored."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_jiekuilin_talk1_001.aac",
+            "text": "Chief, I want to drink some cola! Please... I promise to brush my teeth!"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_jiekuilin_talk1_002.aac",
+            "text": "Great! As long as I can fight every day, I'll be able to eat, drink and sleep well. The Bureau is such a great place - um... wait! Laziness seems like a bad thing, too! Marvelous! I'm the biggest rascal in DisCity!"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_jiekuilin_talk1_003.aac",
+            "text": "My grandpa said he always wanted to be a cowboy and explore the world, but in the end, he never left his hometown and remained a farmer all his life. To help him realize his dream, I stole and wore his hat! Haha!"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_jiekuilin_talk2_001.aac",
+            "text": "DisCity is huge! I couldn't see the edge of the city even after running for three hours! In my hometown, I could plow all the farm plots combined within three hours... so, when can I go to Paradeisos to farm?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_jiekuilin_talk2_002.aac",
+            "text": "Chief, if you run into thugs, just drop my name! It won't be of much use, but at least it'll give you some psychological support!"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_jiekuilin_talk2_003.aac",
+            "text": "I've been busy completing missions recently, so no time for mischief. If this keeps up, DisCity will forget my name. Well... it's decided! I'm going to stay up all night!"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_jiekuilin_obeyfull_001.aac",
+            "text": "Chief! Let's go farming! Let's go treasure hunting! Let's go fight those strange creatures! I can't wait!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_jiekuilin_idle_001.aac",
+            "text": "Ahhh... when are we leaving? I'm already sleepy from waiting."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_jiekuilin_clicking_001.aac",
+            "text": "What is it? Did my clothes get stained? No?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_jiekuilin_specialattention_001.aac",
+            "text": "Got any new plans?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_jiekuilin_dispatch_001.aac",
+            "text": "Off we go to an adventure in DisCity!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_jiekuilin_dispatch2_001.aac",
+            "text": "Done! Quick, praise me!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_jiekuilin_levelup_002.aac",
+            "text": "Start running!"
+        }
+    ],
+    "peppy_shepherdess": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_cacha_001.aac",
+            "text": "Hey Chief, come look at my little lambs! My baaaa-rilliant fluffy pookie! Aren't they just adorable? So, you wanna herd them with me maybe?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_levelup_001.aac",
+            "text": "Hmm... \"Care for Sheep Step by Step\"? Ohh I get it, so that's how I can keep my lambies happy and healthy!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_greeting_001.aac",
+            "text": "Hey Chief, over here! The sunshine, the breeze, and my lambs—they're all so softy 'n fluffy! Ahh, what a life!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_body_001.aac",
+            "text": "Let's see, today's jobs... Take my lambies to the new ranch, clean up the pen... Oh right! And pack up the morning milk for the farmer's market!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_body_002.aac",
+            "text": "Do I still wanna be the biggest rascal in DisCity? Sure thing! Rascals can be awesome ranchers too, y'know! Hmph, say I can't, I'm gonna chuck a lamb poop at you!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_idle_001.aac",
+            "text": "One sheep, two sheep, three... Ugh nope, I'm not gonna fall asleep counting sheep!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_clicking_001.aac",
+            "text": "Wait what? What do you mean my face's soft 'n fluffy like a ball of wool. No way! My lambs are waaay fluffier! For sure!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_specialattention_001.aac",
+            "text": "\nHehe, looks like you're enjoying the ranch too! I haven't seen a view like this since I left home. It feels so good to be back in nature.\nThanks for bringing me here, Chief. Let's stay until you clock off, okay?"
+        }
+    ]
+}

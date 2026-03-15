@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_langhuan_cacha_001.aac",
+            "text": "…이번엔 또 누구야? 오지마, 물러나… 물러 나라고!"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_langhuan_promotion_001.aac",
+            "text": "강해졌어? …어이, 너 나한테 무슨 짓을 한 거야?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_langhuan_promotion2_001.aac",
+            "text": "토끼, 줄게. 날 강하게 만들어 줬으니, 넌 고기 줄게."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_langhuan_battlebegin_001.aac",
+            "text": "바짝 따라와, 위험해."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_langhuan_battlewin_001.aac",
+            "text": "저녁은 고기다! 한 입으로 두말 안 하지."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_langhuan_battlelose_001.aac",
+            "text": "이건 무효야! 다시 해."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_langhuan_uniqueskill_001.aac",
+            "text": "사냥감, 도망갈 생각 마라!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_langhuan_dead_001.aac",
+            "text": "크흑…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_langhuan_greeting_001.aac",
+            "text": "우에? 우에우엥… 어? 왔어? 아, 그냥~ 피이랑 이야기하고 있었어."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_langhuan_talk1_001.aac",
+            "text": "러스트 리버에서는 실수하면 안 돼, 그렇지 않으면… 귀찮은 일이 생기거든."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_langhuan_talk1_002.aac",
+            "text": "'돈'이라는 것은… 도대체 뭔데… 인간들이 다 갖고 싶어서 난리야?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_langhuan_talk1_003.aac",
+            "text": "피이는 애완동물이 아니야, 점심 거리지. 근데 아쉬운건 너무 뚱뚱해서 먹으면 느끼할 것 같아."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_langhuan_talk2_001.aac",
+            "text": "어이! 저게 뭐야? 쟤… 지금 쓰레기를 먹고 있잖아? 오… 온다! 로… 로로로로봇 처, 청소기? 쟤 좀 저기 가라고 해!"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_langhuan_talk2_002.aac",
+            "text": "예전에 그들은 나를 집도 없는 떠돌이 들개라고 했어… 하지만 지금의 나는 아니지."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_langhuan_talk2_003.aac",
+            "text": "네가 있는 곳이라면, 나도 갈 것이다. 만약 네가 나를 두고 간다면, 나는 너를 찾으러 나갈 것이다."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_langhuan_obeyfull_001.aac",
+            "text": "너는 다른 인간들과 달라. 구체적으로… 잘은 모르겠지만, 느낌이 그래."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_langhuan_idle_001.aac",
+            "text": "어이! 어이! 이러고도 잘 수 있다고?… 어쩜 이렇게 피이랑 똑같지?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_langhuan_clicking_001.aac",
+            "text": "뭐 하는 거야?! 난 개가 아니라고!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_langhuan_specialattention_001.aac",
+            "text": "뭘 봐? 목적이 뭐지?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_langhuan_dispatch_001.aac",
+            "text": "너… 너는 안가는 거야?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_langhuan_dispatch2_001.aac",
+            "text": "자, 물건."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_langhuan_levelup_002.aac",
+            "text": "지루해."
+        }
+    ],
+    "summer_splash": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_langhuan_kuxiajiyang_cacha_001.aac",
+            "text": "난 오기 싫었는데… 피이가 여길 아주 좋아해서… 그런데 물놀이하는데 옷은 왜 갈아입으라는 거야?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_langhuan_kuxiajiyang_levelup_002.aac",
+            "text": "물싸움? 난 절대 안 져."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_langhuan_kuxiajiyang_greeting_001.aac",
+            "text": "너도 물에 들어오고 싶어? 그럼 이 뿔 난 말을 줄게… 물에 뜰 수 있어."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_langhuan_kuxiajiyang_talk1_001.aac",
+            "text": "우에우에우엥… 피이가 이 알록달록한 게 예쁘다는군."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_langhuan_kuxiajiyang_talk1_002.aac",
+            "text": "난 피이랑 놀고 있는 게 아니라 목욕시키는 중이야! 깨끗이 씻어야… 맛있으니까."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_langhuan_kuxiajiyang_idle_001.aac",
+            "text": "음… 여기 물은 러스트 리버의 오수보다 훨씬 좋군…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_langhuan_kuxiajiyang_clicking_001.aac",
+            "text": "어이, 너무 막무가내로 뿌리는 거 아냐? 물이 눈에 들어가겠어!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_langhuan_kuxiajiyang_specialattention_001.aac",
+            "text": "그냥 바지가 좀 젖은 건데 뭘 그렇게 쳐다봐?"
+        }
+    ]
+}

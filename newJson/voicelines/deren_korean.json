@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_deren_cacha_001.aac",
+            "text": "어… 절 어디로 데려가려는 거죠? 숙식은 제공된다니… 좋아요! 그럼 내 방은 몇 호죠?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_deren_promotion_001.aac",
+            "text": "네? 내가 찍은 영화가 보고 싶다고요?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_deren_promotion2_001.aac",
+            "text": "모든 사람이 절 바라보고, 절 인정하도록 만들 거예요."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_deren_battlebegin_001.aac",
+            "text": "자, 촬영 시작!"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_deren_battlewin_001.aac",
+            "text": "음… 제게 아직 직업 정신이 좀 남아 있다고요."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_deren_battlelose_001.aac",
+            "text": "하하… 망칠 줄 알았다니까요."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_deren_uniqueskill_001.aac",
+            "text": "이제부터 하이라이트다!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_deren_dead_001.aac",
+            "text": "결국 아무것도 남기지를 못했네…."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_deren_greeting_001.aac",
+            "text": "국장님 오셨어요? 오락실 프로젝터에 새로 추가된 영화가 있나요?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_deren_talk1_001.aac",
+            "text": "성공한 영화의 지표는 뭘까요? 하하… 사무실의 상자, 박스오피스예요~"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_deren_talk1_002.aac",
+            "text": "이 영화가 이해되지 않는다고요? 하지만 신성에서 엄청나게 유행하는 영화인데요…."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_deren_talk1_003.aac",
+            "text": "어흥이는 열정적인 애예요. 걔는 분명 꿈을 이룰 수 있을 거예요."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_deren_talk2_001.aac",
+            "text": "미노스 영웅전… 괜찮은 소재일지도 모르겠네요~"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_deren_talk2_002.aac",
+            "text": "'운명을 받아들이지 않는 것'들을 전부 필름에 기록해서 그들의 눈빛과 외침을 영원히 이 세상에 남기고 싶어요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_deren_talk2_003.aac",
+            "text": "저는 나약하고 평범할지도 모르지만… 어느 순간 영웅이 될 수도 있어요."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_deren_obeyfull_001_01.aac",
+            "text": "현실은 영화처럼 아름답지 않아요. 반짝반짝 빛나는 수많은 사람들은 유성처럼 빠르게 떠나가죠… 그 빛나는 별들 중 하나를 잡을 수 있다면… 그러니까, 제 눈에는 당신이 별처럼 빛나는, 이 세계의 절대적인 초점이라는 말이에요. 그럼, 제 영화의 남자 주인공이 돼주실래요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_deren_idle_001.aac",
+            "text": "여기서 할 일 없이 시간 낭비하는 것도 나쁘지 않네요~ 어차피 무슨 일이 생기든 국장님이 다 해결할 수 있으니까요~"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_deren_clicking_001.aac",
+            "text": "으음, 화 안 났어요. 계속하세요. 계속이요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_deren_specialattention_001.aac",
+            "text": "시키고 싶은 거 있으시면 말씀하세요. 괜찮아요. 뭐든 해드릴게요."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_deren_dispatch_001.aac",
+            "text": "그래요. 알겠어요. 올 때까지 기~다~려~요."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_deren_dispatch2_001.aac",
+            "text": "로케이션은 진짜 힘드네요… 자, 많지도 적지도 않죠… 이제 쉬러 갈게요! 모레 다시 불러줘요…."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_deren_levelup_002.aac",
+            "text": "아이고, 수고하시네요…."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_deren_head_001.aac",
+            "text": "이거… 잘했다고 칭찬해 주시는 건가요?"
+        }
+    ],
+    "eclat_eminence": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_deren_shijiejiaodian_cacha_001.aac",
+            "text": "고개 들고, 천천히, 웃는 표정으로, 절 보지 말고 카메라를 보세요… 괜찮아요, 처음엔 원래 다 긴장하니까요. 하지만 당신은 제가 선택한 주인공이니까 이런 거에 익숙해야 해요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_deren_shijiejiaodian_levelup_001.aac",
+            "text": "으음, 칭찬이라면 얼마든지, 다 들어줄게요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_deren_shijiejiaodian_greeting_001.aac",
+            "text": "에휴, 여기까지 왔는데 이렇게 수줍어하지 마세요. 설마… 제가 에스코트 해주길 바라는 건가요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_deren_shijiejiaodian_head_001.aac",
+            "text": "스포트라이트 아래에서 이런 짓을 하다니, 내일 우리 둘 사진이 신문 연예면에 대문짝만 하게 실려도 괜찮은 거예요? 하, 전 상관없지만요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_deren_shijiejiaodian_body_001.aac",
+            "text": "제가 몇 년 자리를 비운 사이에 다들 정말 열심히 했나 봐요. 그런데 이걸 어째… 내가 돌아와 버렸네? 두고 봐요, 좀 있다 신성 영화계의 스타들이 무대 아래에서 펼치는 멋진 눈물 연기를 가까이에서 볼 수 있을지도 몰라요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_deren_shijiejiaodian_body_002.aac",
+            "text": "이따 만찬에서 케이크는 절대 먹지 말아요. 퐁당 케이크라는 건데, 보기에만 예쁘지 맛은 별로예요… 어떻게 아냐고요? 먹어봤으니까 알죠."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_deren_shijiejiaodian_righthand_001.aac",
+            "text": "이제 와서 트로피 하나 더 받는다고 달라질 건 없을 거라 생각했어요. 예전부터 익숙했으니까… 하지만, 당신과 함께라서 그런지, 막상 돌아와 보니 정말 설레네요."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_deren_shijiejiaodian_lefthand_001.aac",
+            "text": "망했다… 등 뒤의 단추가 터진 것 같아… 분명 5년 전만 해도 잘 맞았는데… 쉿, 다른 사람이 보기 전에 얼른 단추 좀 잠가줘요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_deren_shijiejiaodian_idle_001.aac",
+            "text": "이럴 줄 알았으면, 거물급 티를 내고 좀 늦게 올걸. 웃느라 얼굴이 다 아프네…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_deren_shijiejiaodian_specialattention_001.aac",
+            "text": "들려요? 스포트라이트가 계속 깜박거릴 것이고, 박수와 환호 소리도 멈추지 않을 거예요... 흠, 자, 저와 함께 이 세상의 중심이 되어 볼래요?"
+        }
+    ],
+    "butterfly_shadow": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_deren_diezhiying_cacha_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_deren_diezhiying_levelup_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_deren_diezhiying_greeting_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_deren_diezhiying_body_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_deren_diezhiying_body_002.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_deren_diezhiying_idle_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_deren_diezhiying_clicking_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_deren_diezhiying_specialattention_001.aac",
+            "text": "죠죠 2탄 폐기"
+        }
+    ]
+}

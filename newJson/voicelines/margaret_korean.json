@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_margaret_cacha_001.aac",
+            "text": "안녕하세요, 국장 각하. 앞으로의 협력을 기대하겠습니다. 제 능력이 각하께 전혀 예상치 못한 방식의 '안녕'을 선사할 수 있을 거라 믿습니다."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_margaret_promotion_001.aac",
+            "text": "우리의 적들이 물러설 때를 아는 현명함을 지녔길 바랍니다."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_margaret_promotion2_001.aac",
+            "text": "평화의 환희로운 노래가 들리는군요."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_margaret_battlebegin_001.aac",
+            "text": "협상이 결렬되었군요. 참으로 유감입니다. 그렇다면 대비해 둔 방안을 사용하도록 하죠."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_margaret_battlewin_001.aac",
+            "text": "평화가 당신과 함께하길."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_margaret_battlelose_001.aac",
+            "text": "살아남아야, 대화도 변화도 이어갈 수 있는 법입니다."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_margaret_uniqueskill_001.aac",
+            "text": "순백의 평화를 위하여!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_margaret_dead_001.aac",
+            "text": "조금은… 아쉽군요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_margaret_greeting_001.aac",
+            "text": "오늘 하루 당신의 마음이 평온하길. 따스하고 향긋한 허브차 한잔하시겠습니까?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_margaret_talk1_001.aac",
+            "text": "저는 밝은 것들을 좋아합니다. 진주, 조개껍데기, 흰 비둘기, 선량한 사람들… 그리고… 불멸의 희망."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_margaret_talk1_002.aac",
+            "text": "제가 더러워지지 않도록 조심하라고요? 걱정 마세요, 조심할게요. 저는 이런 더러운 것들을 다루는 데 익숙하니까요~"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_margaret_talk1_003.aac",
+            "text": "제 일은 양측이 서로를 좋아하게 만드는 게 아니라, 그들의 이익이 교차하는 부분을 찾는 것입니다. 가장 깊은 원한을 가진 적대 관계라 해도, 공통의 이익은 반드시 존재하니까요."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_margaret_talk2_001.aac",
+            "text": "저는 많은 새들을 키우고 있어요. 새들에게 전갈을 맡기기도 하고, 감시를 부탁하기도 하지요. 조심하는 게 좋을 거예요. 당신 창밖의 참새도 제 눈과 귀일지 모르니까요."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_margaret_talk2_002.aac",
+            "text": "다양한 수단으로 타인을 '설득'하는 것, 이것이 선생님께서 제게 가르쳐주신 첫 번째 가르침이었죠. 저는 그것을 아주 빨리, 그리고 누구보다 완벽하게 익혔지요. 국장님께도 알려드릴까요?"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_margaret_talk2_003.aac",
+            "text": "최종적인 평화로 향하는 길은 결코 하나뿐이 아닙니다. 제가 택한 길이든, 당신이 택한 길이든 말이지요. 비록 험난하고 굽이치며 서로 어긋나는 듯 보일지라도, 결국에는 하나로 합쳐져 가장 이상적인 지점에 닿게 될 것입니다."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_margaret_obeyfull_001.aac",
+            "text": "저는 정직함과 솔직함, 두려움을 모르는 용기, 이 암흑 같은 세상 속에서도 따스하고 찬란한 빛을 내뿜는 당신이 참 부러워요. 저도 모르게 당신의 곁에 머물고 싶게 만들고, 당신을 지켜주고 싶어지죠. 언젠가 그 빛이 세상의 모든 구석까지 닿는 날이 찾아온다면, 부디 잊지 말아 주세요. 제가 당신 곁의 가.장.가.까.운.곳에 서 있게 해주는걸요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_margaret_idle_001.aac",
+            "text": "조용히 잠드세요. 모든 분쟁은 이미 끝났어요…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_margaret_clicking_001.aac",
+            "text": "저는 이런 손을 원해요. 세상을 아름답게 그려낼 수도 있고, 단호한 명령을 내릴 수도 있는 이런 손을요. 제게 내주실 순 없나요? 아니면… 제가 직접 가져가도 될까요?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_margaret_specialattention_001.aac",
+            "text": "하, 누가 저를 감시하라고 시켰나요? 제9대대? EDGE? 아니면… 당신의 생각인가요?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_margaret_dispatch_001.aac",
+            "text": "좋아요, 제가 가서 그들과 잘 이야기해 보겠습니다~"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_margaret_dispatch2_001.aac",
+            "text": "이해가 한 조각 더해지면, 충돌은 한 조각 줄어드는 법이지요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_margaret_levelup_002.aac",
+            "text": "이제 더 많은 수단을 통제할 수 있겠군요."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_margaret_head_001.aac",
+            "text": "국장님, 제게서 온화한 위로를 받고 싶으신가요, 아니면… 더 효과적인 해결책을 원하시나요?"
+        }
+    ]
+}

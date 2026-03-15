@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_siglinde_cacha_001.aac",
+            "text": "你好，MBCC的局长，我是来自旧狄斯军的战时高级联络官希格林德。在统一战线期间，请把我视为你的下属，我将尽心协助你的工作，以达成双方合作的顺利推进。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_siglinde_promotion_001.aac",
+            "text": "感谢你的信任，我会确保前线通讯线路畅通无阻。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_siglinde_promotion2_001.aac",
+            "text": "荣誉，理想，生命……无论身处什么立场，有些事物都应该被誓死捍卫。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_siglinde_battlebegin_001.aac",
+            "text": "信号源展开，进入战斗模式。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_siglinde_battlewin_001.aac",
+            "text": "值得庆贺的胜利，看来我们拥有并肩作战的默契。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_siglinde_battlelose_001.aac",
+            "text": "战术失误，立即撤退！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_siglinde_uniqueskill_001.aac",
+            "text": "脉冲辐射启动！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_siglinde_dead_001.aac",
+            "text": "战死……也是属于军人的荣耀……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_siglinde_greeting_001.aac",
+            "text": "联络官希格林德已就位，听凭长官调遣。哪怕是局长想接通敌方指挥官的私人通信，我也会安排妥当。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_siglinde_talk1_001.aac",
+            "text": "我一直戴着耳机是在听什么？哦，只是为了方便接收针对FAC的秘密指令而已……说笑的，其实是些能让人保持专注的白噪音，局长也可以听听看。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_siglinde_talk1_002.aac",
+            "text": "请相信我的专业素养，就算身陷黑环，我也能保障通讯的流畅与安全，绝不会让情报被死役拦截……嗯，局长不理解我的幽默？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_siglinde_talk1_003.aac",
+            "text": "战场局势瞬息万变，但并非无法操控。调动资源，改进战术，预知危险……只要冷静分析，信号和情报能指引我实现一切目的。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_siglinde_talk2_001.aac",
+            "text": "许多人将我看作不值得信任的“间谍”，但这种误解我并不放在心上。只要我们仍是友军，我就会忠诚地履行我的职责，维护双方共同的利益。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_siglinde_talk2_002.aac",
+            "text": "也许这种暴戾的武器在你们看来危险难驯，但于我而言，这是父母留给我唯一的念想，也是一种传承的荣誉，或者说……是某种必须背负的责任。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_siglinde_talk2_003.aac",
+            "text": "FAC在战场上的表现十分英勇，我无法否认，他们同样是值得敬佩的军人，我过往的某些看法的确失之偏颇。别误会，我依然坚定原本的立场，只不过意识到自己应该换一种更客观的眼光。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_siglinde_obeyfull_001.aac",
+            "text": "跟随你的这段时间，我从你的视角下经历了许多事，这让我开始思考，自己曾坚持的认知是否正确——杀戮扩张和牺牲守护，究竟哪个才更能代表军人的荣誉？在找到这个答案之前，局长……你能否带我去亲眼见证更多的道路和真相？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_siglinde_idle_001.aac",
+            "text": "居然毫无防备地在我面前入睡……你的信任就是这样能随意挥霍的吗？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_siglinde_clicking_001.aac",
+            "text": "这样的举止可不符合礼仪……还是说，这就是管理局的局长亲近下属的方式？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_siglinde_specialattention_001.aac",
+            "text": "我完全能理解你对我仍然心怀警惕——毕竟你一直用这么专注的目光看着我，我无法不多想呢。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_siglinde_dispatch_001.aac",
+            "text": "请放心，外勤任务我也能胜任。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_siglinde_dispatch2_001.aac",
+            "text": "任务完成，幸不辱命。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_siglinde_levelup_002.aac",
+            "text": "愿意同我分享这么多情报，局长果然如传闻中一样慷慨。"
+        }
+    ]
+}

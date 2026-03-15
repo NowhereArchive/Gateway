@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_qiao_cacha_001.aac",
+            "text": "这是辛迪加的Rap浪子，你谁长这副呆头样子；活着的方式，别在我面前放肆，不然在你的颅骨里面塞上九颗枪子——"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_qiao_promotion_001.aac",
+            "text": "新歌的灵感！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_qiao_promotion2_001.aac",
+            "text": "这才是巨星应有的待遇"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_qiao_battlebegin_001.aac",
+            "text": "跟上我的节奏！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_qiao_battlewin_001.aac",
+            "text": "想赢我？做什么白日梦呢！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_qiao_battlelose_001.aac",
+            "text": "嘶——即兴发挥难免会有些小失误。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_qiao_uniqueskill_001.aac",
+            "text": "Drop the beat！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_qiao_dead_001.aac",
+            "text": "这…一点都不hiphop……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_qiao_greeting_001.aac",
+            "text": "哟，你来啦？快给我倒杯水，写歌写半天渴死我了。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_qiao_talk1_001.aac",
+            "text": "还是金链子好啊，出事了跑路方便出手，打架还能照人脸上甩……真不懂我那些同行怎么喜欢钻石的。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_qiao_talk1_002.aac",
+            "text": "什么时候给我整个调音台？我现在想创作只能靠这个破录音机，好歹我也是rap界一代巨星，太窝囊了。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_qiao_talk1_003.aac",
+            "text": "我最烦在屋里还戴墨镜的人，正经Rapper谁靠那个耍酷？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_qiao_talk2_001.aac",
+            "text": "那些新城人，又是什么合同律师，又是什么条例，说白了就是不想给钱呗。嘁，谁稀罕。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_qiao_talk2_002.aac",
+            "text": "为了diss小人特地写歌？那也太没劲儿了。只有局长你的名字才配出现在我的作品里。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_qiao_talk2_003.aac",
+            "text": "咱们建个新的厂牌吧，就叫“MBCC”！我是创始人，你就是我厂牌下的第一个签约艺人！别跟老子说你不会，没什么难的，我教你。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_qiao_obeyfull_001.aac",
+            "text": "我以前一直觉得出了辛迪加就没一个好东西，但你……你是第一个没出生在辛迪加，还能跟我聊到一块儿去的。以后跟我混吧，我罩着你。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_qiao_idle_001.aac",
+            "text": "饶舌不是炫富，别刻意演出，燃烧的loops就是全部。灵感像瀑布，battle不输，和我比下水道才是你出路。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_qiao_clicking_001.aac",
+            "text": "你**手往哪儿放呢？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_qiao_specialattention_001.aac",
+            "text": "嘿哟，想听我唱歌？不然你来干嘛，难道你还指望我能帮你干活？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_qiao_dispatch_001.aac",
+            "text": "让我这样的天王巨星跑腿，你是不是喝多了？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_qiao_dispatch2_001.aac",
+            "text": "干完了，老子厉害吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_qiao_levelup_002.aac",
+            "text": "韵脚更丝滑了。"
+        }
+    ],
+    "sensory_hyperwave": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_qiao_jifeiyinlang_cacha_001.aac",
+            "text": "What's up？你们的巨星AKA说唱天王·佩姬强势归来——说佩姬凉了的，赶快睁开眼睛看看，谁才是狄斯说唱的天、花、板！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_qiao_jifeiyinlang_levelup_001.aac",
+            "text": "调高音量！我要听尖叫声把场子炸穿——"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_qiao_jifeiyinlang_greeting_001.aac",
+            "text": "后排的朋友还在等什么？赶紧跟上佩姬的flow，让我看到你最强劲的节奏——"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_qiao_jifeiyinlang_body_001.aac",
+            "text": "许多人说我做了条子的狗，但他们懂个*？要在舞台上浴血重生，得跟现实抗争、先死一次才行，还是那句话，keep real，音乐替我说话！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_qiao_jifeiyinlang_body_002.aac",
+            "text": "辛迪加教会我的生存法则，让我从那个肮脏的圈子爬了回来，重生就在此刻！记住，在你们谈论传说的时候，佩姬，永远在风暴的中心——！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_qiao_jifeiyinlang_idle_001.aac",
+            "text": "虽然离开了辛迪加，但我还是遇上不少臭味相投的朋友，那些人不为现实屈服，一次又一次挣扎着重生，我挺喜欢这群叛逆的疯子，他们够真实！够嘻哈！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_qiao_jifeiyinlang_clicking_001.aac",
+            "text": "还不尽兴？还没嗨够？那就再疯点，跟我一起跳进人海里，让人浪推着我们冲回舞台——够不够刺激？！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_qiao_jifeiyinlang_specialattention_001.aac",
+            "text": "喂，特邀席上的那位，就准备这样一直盯着我看？不上来露两手？"
+        }
+    ]
+}

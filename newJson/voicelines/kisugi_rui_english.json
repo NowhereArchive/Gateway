@@ -1,0 +1,163 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_rui_cacha_001.aac",
+            "text": "I'm Rui. You've come for me at last."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_rui_promotion_001.aac",
+            "text": "I'm beginning to see it more clearly."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_rui_promotion2_001.aac",
+            "text": "I've got a brilliant plan. Follow my lead."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_rui_battlebegin_001.aac",
+            "text": "Don't push yourself too hard, okay?"
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_rui_battlewin_001.aac",
+            "text": "Well done. Is everyone alright?"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_rui_battlelose_001.aac",
+            "text": "What a pity. Let's go back to the drawing board."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_rui_uniqueskill_001.aac",
+            "text": "Flawless execution. Just as planned."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_rui_dead_001.aac",
+            "text": "I'm asking you, please."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rui_greeting_001.aac",
+            "text": "I'm beginning to see it more clearly."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_rui_talk1_001.aac",
+            "text": "You seem to be in a good mood. Did... something good happen?"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_rui_talk1_002.aac",
+            "text": "I've got a brilliant plan."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_rui_talk1_003.aac",
+            "text": "Follow my lead."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_rui_talk2_001.aac",
+            "text": "Flawless execution."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_rui_talk2_002.aac",
+            "text": "Just as planned."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_rui_talk2_003.aac",
+            "text": "The pieces are falling into place."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_rui_obeyfull_001.aac",
+            "text": "Aren't you full of surprises? I appreciate the initiative."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rui_idle_001.aac",
+            "text": "You've come for me at last."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_rui_clicking_001.aac",
+            "text": "Oh? Such persistent attention."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rui_specialattention_001.aac",
+            "text": "Such an honor. I'll do my best to live up to it."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_rui_dispatch_001.aac",
+            "text": "Sure, I was getting a little bored anyway."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_rui_dispatch2_001.aac",
+            "text": "Target secured. The next move... is your call."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rui_levelup_002.aac",
+            "text": "Hehe, the pieces are falling into place."
+        }
+    ],
+    "kisugi_rui_-_rank_up": [
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_rui_head_001.aac",
+            "text": "Oh my... are you sure you've got the right person?"
+        }
+    ],
+    "tipsy_nocturne": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_rui_weixunyese_cacha_001.aac",
+            "text": "Be honest now... do you think it fits me?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rui_weixunyese_levelup_001.aac",
+            "text": "You won't let me down, will you?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rui_weixunyese_greeting_001.aac",
+            "text": "Hehe, I'm glad you're here."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_rui_weixunyese_talk_001.aac",
+            "text": "Just staring at me won't get you anywhere, you know."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_rui_weixunyese_talk_002.aac",
+            "text": "Can you hear me? Hehe... look at you... so cute."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rui_weixunyese_idle_001.aac",
+            "text": "This night is taking a pleasant turn... Not bad at all."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_rui_weixunyese_clicking_001.aac",
+            "text": "Hehe... Just how much of that is a joke, I wonder."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rui_weixunyese_specialattention_001.aac",
+            "text": "We've bridged quite a distance tonight, you and I."
+        }
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_linglan_cacha_001.aac",
+            "text": "就来这儿陪你玩玩吧。毕竟……你努力追赶我的样子，实在太可爱了。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_linglan_promotion_001.aac",
+            "text": "想当白记实业的老板，当然要有点本事。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_linglan_promotion2_001.aac",
+            "text": "偶尔也得拿出点认真劲儿，你说对吧？局长。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_linglan_battlebegin_001.aac",
+            "text": "完工之后记得陪我喝几杯。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_linglan_battlewin_001.aac",
+            "text": "工作完成！算算报酬吧？"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_linglan_battlelose_001.aac",
+            "text": "留得青山在——溜了溜了。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_linglan_uniqueskill_001.aac",
+            "text": "你们——逃不掉了。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_linglan_dead_001.aac",
+            "text": "照顾好他们……拜托你了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_linglan_greeting_001.aac",
+            "text": "MBCC白记分店竭诚为您服务——你来的话，打八折哦。嘘……别告诉蔻蔻。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_linglan_talk1_001.aac",
+            "text": "睡觉时间到。可以的吧，局长？为了你，我已经那——么努力了。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_linglan_talk1_002.aac",
+            "text": "我认真起来，能比闪电还快，你呀，根本拦不住。怎么，不相信？那就放我出去试试呀~"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_linglan_talk1_003.aac",
+            "text": "白记这公司，能在辛迪加活到现在，全靠我这个老板奔波养家。那两个小鬼太靠不住了，真是的……你干嘛这么看着我，我说错什么了吗？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_linglan_talk2_001.aac",
+            "text": "我没有什么崇高的信仰，能守护好身边的人就足够了。我再也不想失去任何人了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_linglan_talk2_002.aac",
+            "text": "城里那种“扫码下单立减十元”的小广告，一半都是我贴的。狄斯城所有的角落我都去过，你想调查的事，我也都知道。你想听吗……给钱呀！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_linglan_talk2_003.aac",
+            "text": "地底之城？你怎么老喜欢打听这种东西，有人见过吗？没人见过就是假的嘛。不然……就是进去的人，都没能活着回来。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_linglan_obeyfull_001.aac",
+            "text": "我不喜欢努力，但我喜欢努力的人。比如蔻蔻，澈……还有你。相信我，你们的努力不会白费的——我不会让它白费的。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_linglan_idle_001.aac",
+            "text": "这儿伙食不错，还不用还债，房东也进不来，挺好……嗯，我就不出去了！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_linglan_clicking_001.aac",
+            "text": "哦？难得你这么主动，我就好好陪你玩玩吧~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_linglan_specialattention_001.aac",
+            "text": "你就这么想接近我吗？哎呀，真是个坦率的好孩子。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_linglan_dispatch_001.aac",
+            "text": "这算是给我的委托吗？按老规矩，要计费哦~"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_linglan_dispatch2_001.aac",
+            "text": "呼——真该让蔻蔻帮我搞定这事儿……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_linglan_levelup_002.aac",
+            "text": "行行行，如果你需要的话。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_linglan_head_001.aac",
+            "text": "嗯，真不安分，怎么，局长想跟我兜个风么？"
+        }
+    ],
+    "blade_of_night": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_linglan_yeyoushen_cacha_001.aac",
+            "text": "终究还是被你发现了。不用惊讶，辛迪加有不少藏在暗处的阴湿老鼠，总得有人处理，我只是顺手为之罢了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_linglan_yeyoushen_levelup_001.aac",
+            "text": "刀越快，麻烦就越少。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_linglan_yeyoushen_greeting_001.aac",
+            "text": "终于回来啦。你不在的时候，我可是一直待在这儿，绝对没有出去瞎晃悠……呃，斗篷上沾了什么？澈不小心洒出来的水吧。对，一定是这样。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_linglan_yeyoushen_head_001.aac",
+            "text": "这些发簪配饰可都有各自的用途，小心割着手哦。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_linglan_yeyoushen_body_001.aac",
+            "text": "委托？正经人谁在晚上做委托啊……大半夜闲逛只是我的个人爱好。嗯，你就当是这样吧。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_linglan_yeyoushen_body_002.aac",
+            "text": "我知道附近有家馆子，他们家的卤牛肉特别下酒。怎么样，一起去喝一杯？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_linglan_yeyoushen_hand_001.aac",
+            "text": "清风明月无人管，并作南楼一味凉……这么好的夜色，用来清理宿恶，再合适不过了。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_linglan_yeyoushen_leg_001.aac",
+            "text": "只要动作够快，刀划过的地方就会留下残影。很美，不是吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_linglan_yeyoushen_idle_001.aac",
+            "text": "嗯，熟悉的臭味……是在那边吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_linglan_yeyoushen_specialattention_001.aac",
+            "text": "这是打算……贴身监视我吗？你猜，是你的眼皮眨得快，还是我的动作快？"
+        }
+    ],
+    "wave_rider": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_linglan_langlibaitiao_cacha_001.aac",
+            "text": "我真去过海边，别不信。我当时包了一条豪华游艇，在那里打捞到了很多财宝……蔻蔻和澈也在，他们可以作证！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_linglan_langlibaitiao_levelup_001.aac",
+            "text": "然后啊，我就找到了更多的财宝。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_linglan_langlibaitiao_greeting_001.aac",
+            "text": "休息够了？休息够了就出发吧。海底还有很多宝物等着咱们去捞呢。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_linglan_langlibaitiao_head_001.aac",
+            "text": "啧啧啧，和我这样的大美女在同一条船上单独相处，难免有点小想法。好吧，原谅你了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_linglan_langlibaitiao_body_001.aac",
+            "text": "当时我那条船啊……哼哼，动力强劲，内饰豪华，各种配件应有尽有……你什么意思，不许我以前阔过？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_linglan_langlibaitiao_body_002.aac",
+            "text": "海上偶尔也会有些危险，风暴啊、海盗啊还有鲨鱼啊什么的。但是不用害怕，在我白逸面前，那都不过是发财路上的小插曲而已。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_linglan_langlibaitiao_hand_001.aac",
+            "text": "我的泳姿，那可真是游龙入海海晏河清清水芙蓉……等会儿我下水你就知道了。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_linglan_langlibaitiao_leg_001.aac",
+            "text": "呼，太阳真大，好热好热，都出汗了……哟，你的脸怎么红啦~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_linglan_langlibaitiao_idle_001.aac",
+            "text": "啊~累了的话，就在甲板上睡觉吧。正好阳光这么暖和，海风吹着也很舒服……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_linglan_langlibaitiao_specialattention_001.aac",
+            "text": "好了，所有水手就位。那我们要向深海进发咯！"
+        }
+    ],
+    "aeon's_vanguard": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_linglan_suianjiangjun_cacha_001.aac",
+            "text": "昔年剑动若惊雷，是岁长风犹可追。但得将军临此处，外邪岂敢入门楣。看下来，你这府上的确不安生。不过无妨，我既在此，它们便伤不得你。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_linglan_suianjiangjun_levelup_001.aac",
+            "text": "嗯，这身本事倒是还在。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_linglan_suianjiangjun_greeting_001.aac",
+            "text": "来了？过来喝一杯，顺道看看外头的景色。哎呀，如今这年岁，仓廪实，百姓足，也不枉我当初四方征战了……嗯，当浮一大白！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_linglan_suianjiangjun_body_001.aac",
+            "text": "这守宅的活计，比之我当年要做的可是简单多了。遇着知礼数的客人自然方便，放行便是；要是遇着不长眼的，还能叫我这柄青锋见见光，倒也不失为个好消遣啊。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_linglan_suianjiangjun_body_002.aac",
+            "text": "我知道外边人都传我“一将功成万骨枯。”说起来也不算胡话。只不过现在我也就是杀些邪祟精魅，叫那些个平常人家过个好年罢了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_linglan_suianjiangjun_idle_001.aac",
+            "text": "晓寒料峭尚欺人，春态苗条先到柳……如此好春好景，你却在这里打盹。也罢，明日之事，还是明日再说吧……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_linglan_suianjiangjun_clicking_001.aac",
+            "text": "我倒是不厌恶你这么摸索，只不过要是蹭掉了画上的漆，这年画可就不好看咯~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_linglan_suianjiangjun_specialattention_001.aac",
+            "text": "哟，有日子不见，精神气见长啊。别只是看着呀，来，朱砂水墨绘我金身，再来一壶好酒供上，本将军再守你一年又如何。"
+        }
+    ]
+}

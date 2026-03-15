@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_vautour_cacha_001.aac",
+            "text": "내 의뢰 비용은 꽤나 비싼데. 이렇게 어설픈 방법으로 날 초대한 걸 보면, 어디로 갈지는 벌써 정했나 봐?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_vautour_promotion_001.aac",
+            "text": "내 배에 올라타면 다시는 내리지 못할 거야."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_vautour_promotion2_001.aac",
+            "text": "이제 좀… 쉴 수 있겠네."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_vautour_battlebegin_001.aac",
+            "text": "그냥 놀아주는 거로 생각할게."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_vautour_battlewin_001.aac",
+            "text": "무서워할 것 없어, 다 해결했으니까 이제 괜찮아."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_vautour_battlelose_001.aac",
+            "text": "겁도 없이 감히 내 부두를 건드리다니."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_vautour_uniqueskill_001.aac",
+            "text": "이제 끝이야!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_vautour_dead_001.aac",
+            "text": "하, 그저… 현실의 끝일뿐이지…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_vautour_greeting_001.aac",
+            "text": "자꾸 밀입국 조직 보스한테 아는 척을 하다니, 내가 널 납치라도 하면 어쩌려고? MBCC에서… 몸값을 얼마까지 내주려나?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_vautour_talk1_001.aac",
+            "text": "'꿈'에도 가격이 정해져 있어. 거래를 거부하는 사람들은 단지 그 가격이 마음에 들지 않은 것뿐이야~"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_vautour_talk1_002.aac",
+            "text": "연락선이 디스 세관을 통과할 때면 예쁜 종소리가 울리거든? 나중에 기회가 되면 들려줄게… 꿈이 현실에 무너지는 소리야."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_vautour_talk1_003.aac",
+            "text": "보수만 넉넉히 챙겨주면 어디든 데려다줄 수 있어. 고객이 목적지에 도착했을 때 멀쩡히 살아있느냐는 장담 못 하지만."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_vautour_talk2_001.aac",
+            "text": "화이트 샌드에 묻혀있는 재물을 아까워할 필요 없어. 데실의 흥망성쇠는 시대의 흐름과 함께할 뿐이야. 그냥 같이 웃으면서 배웅해 주는 건 어때?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_vautour_talk2_002.aac",
+            "text": "너도 나처럼 화이트 샌드를 자유롭게 오가고, 네 건물을 소유하고, 언제든 신성의 디저트를 먹고 싶다면, 살아가는 데 있어서 '인심'이 가장 귀한 자본이라는 걸 기억해. 그걸 꼭 놓지 말고, 잘 사용하도록 해."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_vautour_talk2_003.aac",
+            "text": "이렇게 좋은 날씨를 나 혼자만 누리는 건 너무 아까워. 내가 비즈니스를 잊어버릴 테니까, 너도 일을 잠시 내려놓지 않을래? 그냥 이렇게 조용히, 아무 생각 없이 오가는 차와 떠나는 사람들을 구경하는 거야…"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_vautour_obeyfull_001.aac",
+            "text": "만약 화이트 샌드에서 보투르·블루라는 이름이 사라진다면, 찾지 말아 줘. 긴 비행에 지쳐 푹 자려는 거니까, 너의 축복만 남기면 돼. 쉴 수 있는… 나뭇가지를 찾을 수 있기를."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_vautour_idle_001.aac",
+            "text": "또 바보같이 달콤한 꿈이나 꾸고 있네… 내가 다른 도시에 팔아넘기면 어쩌려고."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_vautour_clicking_001.aac",
+            "text": "젊은 사람들은 참 감정 조절에 서투르다니까… 내가 도와줘?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_vautour_specialattention_001.aac",
+            "text": "봐도 봐도 또 보고 싶어? 그럼 더 가까이 와서 자세히 봐."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_vautour_dispatch_001.aac",
+            "text": "우리 국장이 뭐 때문에 이렇게 애가 타는지 어디 한번 볼까?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_vautour_dispatch2_001.aac",
+            "text": "바보 같긴, 겨우 이 정도에 놀라다니?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_vautour_levelup_002.aac",
+            "text": "나 주는 거야? 다정하기도 해라."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_vautour_head_001.aac",
+            "text": "어딜 가나 오냐오냐하면 머리끝까지 기어오르는 사람이 있다니까?"
+        }
+    ],
+    "languor_en_bleu": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_vautour_yiqingmian_cacha_001.aac",
+            "text": "이 비단과 보물들은 상단이 동방 대륙에서 가져온 거야. 마음에 드는 게 있다면 마음껏 가져가. 난 내가 좋아하는 사람한테는 아낌없이 퍼주는 편이거든."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_vautour_yiqingmian_levelup_001.aac",
+            "text": "여기 있는 화조 도자기보다 네 진심이 더 마음에 들어."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_vautour_yiqingmian_greeting_001.aac",
+            "text": "몸에 두른 비단이 아직 따뜻해지기도 전에 내 단잠을 깨우다니. 말해, 어떻게 보상할 거야?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_vautour_yiqingmian_head_001.aac",
+            "text": "향로의 연기조차 나를 보면 피해 가는데, 너는… 겁도 없구나."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_vautour_yiqingmian_body_001.aac",
+            "text": "그 녀석들 또 짹짹대면서 싸우고 있네. 무슨 길조의 새라고 하던데. 그래봤자 사람들한테 팔려고 예쁘게 포장한 것뿐이지, 뭐. 관심 있으면 나도 해줄게. 희망을 주는 뜬소문은 내가 얼마든지 할 수 있거든, 며칠 밤낮으로 해줘도 끝이 없을걸?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_vautour_yiqingmian_body_002.aac",
+            "text": "여기 있는 컬렉션들은 저마다의 이야기를 가지고 있어. 조각, 그림, 지문 심지어 깨져서 금이 간 균열까지도 이야기의 일부지… 해피엔딩이 없다는 게 조금 아쉬울 뿐이야."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_vautour_yiqingmian_righthand_001.aac",
+            "text": "난 동방 사람들이 쓰는 단어가 참 좋아. 걱정 어린 연기, 보랏빛 안개, 상서초… 글자 하나하나에 고향의 공기와 추억이 담겨 있다는 게… 참 부럽더라."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_vautour_yiqingmian_leg_001.aac",
+            "text": "뭘 그렇게 열심히 보고 있어? 동방 대륙에서 온 비단의 광택? 아니면… 그 안에 싸여진 거? 우리 국장이 이렇게 욕심쟁이인 줄은 몰랐네?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_vautour_yiqingmian_idle_001.aac",
+            "text": "햇살이 너무 좋다. 국장도 많이 졸릴 텐데, 여기 자리도 있는데 같이 쉴래?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_vautour_yiqingmian_specialattention_001.aac",
+            "text": "상도에 따라 보투르.블루의 땅에 왔으면 뭐라도 남겨야 하는데, 넌 그림도, 다도도 잘 모르니… 내가 쉴 수 있게 예쁜 꽃병처럼 옆에 있어 주는 건 어때?"
+        }
+    ],
+    "vin_nocturne": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_vautour_yeseruyun_cacha_001.aac",
+            "text": "오늘은 유난히 착하네. 보상으로 몸과 마음을 풀어주는 꽃잎 목욕을 선물할게. 어때? 이건 그냥… 착한 아이에게 주는, 내 애정이라 생각하면 돼."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_vautour_yeseruyun_levelup_001.aac",
+            "text": "서둘러 보답하려고 하지 마. 조금 더 이 기분에 취해 있어도 돼… 밤은 아직 기니까."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_vautour_yeseruyun_greeting_001.aac",
+            "text": "저녁 바람이 창문의 얇은 커튼을 스치고, 강 건너의 불빛도 마침 켜졌어… 넌 항상 내 마음이 가장 약해질 때만 나타나더라."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_vautour_yeseruyun_head_001.aac",
+            "text": "이런 행동은 오해를 부르기 쉬워… 아니면, 내가 오해하길 바라는 건가?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_vautour_yeseruyun_body_001.aac",
+            "text": "여기 꾸미느라 꽤 공을 들였어. 촛불, 아름다운 경치, 와인잔까지. 이제 욕조에 함께 들어올 꼬마 하나만 있으면 돼. 물 온도는 내가 확인했어. 딱 좋아~"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_vautour_yeseruyun_body_002.aac",
+            "text": "이 도시는 늘 스스로를 낭만적이고 정이 넘친다 떠들지만, 정작 깊은 밤이 찾아오면 나와 함께 밤을 보내줄 사람은 너밖에 없어. 약속 지켜줘서 고마워. 적어도 네 덕분에, 이 도시가 내세우는 낭만이 전부 거짓은 아니라는 걸 알게 됐으니까."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_vautour_yeseruyun_cigarette_001.aac",
+            "text": "연기가 자욱해지고, 수증기도 짙어졌어. 지금 날 보면, 마치 얇은 베일 너머로 보는 것 같지 않아? 후후… 이런 흐릿한 거리감이야말로 사람의 판단을 더 쉽게 흐려놓지."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_vautour_yeseruyun_wineglass_001.aac",
+            "text": "내가 이 잔에 든 게 홍차라고 하면… 믿을 거야? 착하지? 너무 많이 마시면 안 돼. 너 같은 어린애는 한 잔만 마셔도 금세 '통제 불능'이 되니까."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_vautour_yeseruyun_idle_001.aac",
+            "text": "정말 아름다운 밤이야. 너무 아름다워서, 현실 같지가 않아. 그러니 저렇게 많은 사람이 이 풍경을 보기 위해 모든 걸 걸었겠지…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_vautour_yeseruyun_specialattention_001.aac",
+            "text": "장미 목욕을 하면 몸에 향기가 남는다던데, 같이 확인해 볼래?"
+        }
+    ]
+}

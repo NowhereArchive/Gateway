@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_etti_cacha_001.aac",
+            "text": "行动判定成功，庆贺吧，勇者，你可以将我带走了。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_etti_promotion_001.aac",
+            "text": "哼哼，这才符合“游戏主宰者”的身份嘛！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_etti_promotion2_001.aac",
+            "text": "从今天起，游戏规则由我制定！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_etti_battlebegin_001.aac",
+            "text": "游戏开始，来选择转动命运的方式吧！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_etti_battlewin_001.aac",
+            "text": "恭喜通关~勇者们啊~快去开启属于你们的宝藏~"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_etti_battlelose_001.aac",
+            "text": "嘶……疼疼疼，我就说踢门团不好带嘛……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_etti_uniqueskill_001.aac",
+            "text": "遵从我的规则！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_etti_dead_001.aac",
+            "text": "一切都被……撕碎……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_etti_greeting_001.aac",
+            "text": "暗黑的力量即将降临世界……勇者啊，快踏上旅途吧~！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_etti_talk1_001.aac",
+            "text": "别怕，来告诉我你的下一步，想要怎样行动吧。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_etti_talk1_002.aac",
+            "text": "这个世界中，一切“有趣”都来源于“想象”，所以，不用在我面前束缚自己，明白吗~？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_etti_talk1_003.aac",
+            "text": "我的游戏可不是随便什么人就能通关的~不过，你看上去……好像很有潜力的样子，要来试试吗？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_etti_talk2_001.aac",
+            "text": "“善良”，“中立”，“邪恶”，在你眼里，我属于哪一方……又或者，你希望我属于哪一方呢？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_etti_talk2_002.aac",
+            "text": "他们都说龙是自私和贪婪的，但我想……那只是因为没人愿意和它亲近罢了……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_etti_talk2_003.aac",
+            "text": "即使是断裂的屠龙之枪，只要握在你手里，就是正义的代表。那么……你要对我这条恶龙，做什么呢？"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_etti_obeyfull_001.aac",
+            "text": "我沉迷黑暗刺激的想象，但也害怕那里的冰冷孤独……谢谢你打败我，谢谢你……陪着我。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_etti_idle_001.aac",
+            "text": "“世界”偶尔也会想偷懒一下的~休息一会儿，休息一会儿~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_etti_clicking_001.aac",
+            "text": "不经过判定就擅自行动……这个世界可是会惩罚你的。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_etti_specialattention_001.aac",
+            "text": "我的眼里~有你追寻的宝藏吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_etti_dispatch_001.aac",
+            "text": "春游团出发咯~"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_etti_dispatch2_001.aac",
+            "text": "获得了不少道具嘛~想不想打开看看都是什么？反正有我在，不会发生什么事的~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_etti_levelup_002.aac",
+            "text": "基础属性要有取舍权衡，才能玩得更开心。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_etti_head_001.aac",
+            "text": "你也喜欢我的角？那我来跟你说说它的来历吧！那是一个寒冷的冬天……哎哎！干嘛去啊你！"
+        }
+    ],
+    "noctivagation": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_etti_guiyeqilv_cacha_001.aac",
+            "text": "夜幕降临之时，幽幽灯火亮起。巨龙古堡也将重新开启它尘封已久的大门，以秘密和宝藏迎接被选召的无畏勇士……嘿嘿，怎么样，够有沉浸感的吧？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_etti_guiyeqilv_levelup_001.aac",
+            "text": "来自恶魔的注视生效，幸运值+1~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_etti_guiyeqilv_greeting_001.aac",
+            "text": "零点的钟声已经敲响，事不宜迟，赶快跟随来自遗忘之地的暗夜恶魔，嗯~也就是你的向导我本人，一同踏上全新的探险之旅吧！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_etti_guiyeqilv_talk1_001.aac",
+            "text": "……这些南瓜长得太可爱了？呃，被你这么一说好像确实……哎呀不对不对！我们今天玩的游戏是恐怖题材！它们明明可怕极了！怎么会可爱呢！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_etti_guiyeqilv_talk1_002.aac",
+            "text": "嗯？……糖果？你、你别以为用区区两块糖果就能收买我！我的设定可是恶魔，恶魔就是要捣乱的，你知道吧？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_etti_guiyeqilv_idle_001.aac",
+            "text": "亲爱的旅人啊，请不要放松警惕。石子小路上遍布着诱惑与陷阱，红翅的恶魔也终会露出巨龙的爪牙~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_etti_guiyeqilv_clicking_001.aac",
+            "text": "啊！不要拽我的尾巴！未经判定就擅自行动是要受到惩罚的！哪怕是对你的向导也不行！……你问是什么样的惩罚？哼哼，你猜、猜、看呢？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_etti_guiyeqilv_specialattention_001.aac",
+            "text": "光看着我干嘛？快跟上呀……咦？不会是真的被吓到了吧？哎呀放轻松啦，要是真的遇到了什么危险，我会破例为你提供一些小小的额外帮助……不过这件事可千万不能告诉别人！"
+        }
+    ],
+    "dances_&_dragons": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_etti_longyuyuanwuqu_cacha_001.aac",
+            "text": "我是主宰之龙，我掠夺成山的金银填满洞窟，将金碧辉煌的宫殿占为己有，我欢饮达旦如同贪婪的饿鬼，无尽狂舞好似身陷极欲的诅咒……无数屠龙者的剑断在我的利爪下，而我……却一直知道，预言中的勇者，终会佩剑来到我的身边，与我共舞~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_etti_longyuyuanwuqu_levelup_001.aac",
+            "text": "裙袂蹁跹，让我们转得再快些~！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_etti_longyuyuanwuqu_greeting_001.aac",
+            "text": "哎呀，我的下一位舞伴已经到啦！那么盔甲先生，这曲完毕之后，你就没有用处啦！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_etti_longyuyuanwuqu_body_001.aac",
+            "text": "我喜欢那些身殒龙脚下的勇者，他们有着高贵的灵魂——为了保护他人，浑身战栗也仍对着巨龙拔刀。你身上也有同样的味道！嗯……你猜是属于勇者的，还是属于恶龙的？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_etti_longyuyuanwuqu_body_002.aac",
+            "text": "旋转、摇摆、再滑行~跳得不错嘛……诶~不用急着动刀动枪的，好久没活人来了，我都寂寞了几百年呢，先陪我跳个尽兴再开战吧，预言中的勇者？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_etti_longyuyuanwuqu_idle_001.aac",
+            "text": "你睡着了？嘻嘻，那我偷偷告诉你哦~可千万别对我放松警惕，无论是在战场上，还是在舞池里，我都是你亲爱的……敌、人、哦~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_etti_longyuyuanwuqu_clicking_001.aac",
+            "text": "我的龙角很漂亮吧！很特别吧！这么爱不释手的话，以后自己长一个怎么样？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_etti_longyuyuanwuqu_specialattention_001.aac",
+            "text": "我喜欢你注视着我的眼神，像曾孕育我的那片岩浆……或许那道预言的下半句终会应验：你的瞳孔会坍缩成竖瞳，脊背长出羽翼，臂膀化为利爪，腹中涌出滚烫的火，永不停歇的舞步中，屠龙者即将彻底堕为恶龙……"
+        }
+    ]
+}

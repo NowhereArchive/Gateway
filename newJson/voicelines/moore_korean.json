@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_moore_cacha_001.aac",
+            "text": "안녕하세요? 저는 니르바나 사이버 보안 센터에서 특별 파견한 보안 전문가입니다. 이곳의 버그를 수정하라는 요청을 받았습니다. 기술팀은… 음? 왜 제게 수갑을 채우는 거죠?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_moore_promotion_001.aac",
+            "text": "시스템 업그레이드 완료, 당신의 방화벽이 이제 더 안전해졌어요."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_moore_promotion2_001.aac",
+            "text": "업그레이드 작업이 너무 힘들어서 잠들어버렸네요. 국장님, 뭐 훔쳐본 건 아니죠?"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_moore_battlebegin_001.aac",
+            "text": "아… 아? 갈, 갈게요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_moore_battlewin_001.aac",
+            "text": "적의 공격이 끝났고, 근원도 완전히 제거되었습니다. 국장님, 우리가 해냈어요!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_moore_battlelose_001.aac",
+            "text": "제가 적들의 추적을 차단할 테니, 국장님은 안심하고 철수하세요, 넘어지지 않게 조심하고요~"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_moore_uniqueskill_001.aac",
+            "text": "행렬 D, 가동!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_moore_dead_001.aac",
+            "text": "괜찮아요, 전 이미… 만족해요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_moore_greeting_001.aac",
+            "text": "헤헤, 국장님보다 먼저 들어왔으면 지각은 아닌 거죠! 좋은 아침이에요, 국장님."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_moore_talk1_001.aac",
+            "text": "국장님도 자주 밤을 새우고 야근하시나요? 밤늦게 졸음이 몰려오면 여기 와서 잠깐 휴식을 취하세요. 같은 야근 전문가끼리 서로 경험을 나눌 수 있을 거예요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_moore_talk1_002.aac",
+            "text": "국장님이 이렇게 인기 있는 사람인 줄 몰랐네요, 어딜 가든 도청에 감시라니. 제가 없애 줄까요? 아니면 그냥 둬서 배후의 인물에게 깜짝 이벤트를 선물해 줄까요?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_moore_talk1_003.aac",
+            "text": "'3개월마다 디스 다크웹의 규모는 2배씩 커진다.' 하하, 이 법칙은 사실이 아니랍니다. 눈에 보이지 않는 어둠을 측정할 수 있는 사람은 아무도 없죠."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_moore_talk2_001.aac",
+            "text": "전 수동적으로 침입을 막기보단 적극적으로 미끼를 설치하고, 속이고, 식별한 후 반격하여 모든 위협을 철저히 제거하는 걸 더 선호해요… 다들 이런 방법이 제 성격과는 어울리지 않는다고 말하긴 하지만, 빨리 일을 끝내고 돌아가 잠을 더 자는 게 더 좋지 않나요?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_moore_talk2_002.aac",
+            "text": "데이터 변이화의 본질은 정보와 인지의 오염이에요. 이런 오염은 물리적인 차단이 불가능하지만 물리적인 차원을 넘어 전이되죠. 그러니까 국장님이 디스 다크웹에서 서핑을 하실 땐 조심하세요. 아무거나 함부로 봐서는 안 돼요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_moore_talk2_003.aac",
+            "text": "전 생쥐들이 좋아요, 작은 게 너무 귀엽잖아요? 저와 함께 아주 많은 어두운 밤을 지새웠죠… 앗, 집에서 그런 건 아니었어요. 저희 집이 그렇게 더럽진 않아요! 진짜예요! 국장님이라도 저희 집엔 오시면 안 돼요!"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_moore_obeyfull_001.aac",
+            "text": "만약 이 세계가 커다란 프로그램이라면, 이 세계에도 버그가 있겠죠. 그럼 운명은 침입 되거나 수정될 수 있어서, 제가 더 일찍 국장님을 만나, 더 일찍 결과를 바꿀 수도 있겠죠… 앗, 잠꼬대라니, 제가 또 졸았나 봐요. 잊어버리세요, 국장님. 지금 이 시간을 소중히 여기세요, 지금 이 순간을…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_moore_idle_001.aac",
+            "text": "흑흑… 커피… 커피가 필요해…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_moore_clicking_001.aac",
+            "text": "히힛, 옆집 할머니네 고양이도 여기 누르는 걸 좋아해요. 다들 부드러운 촉감이 마음에 드나 봐요? 그럼 마음껏 눌러봐요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_moore_specialattention_001.aac",
+            "text": "제가 일하는 거 보려고요? 그럼 제가 졸다가 잠에 들어버리면 국장님이 깨워주셔야 해요?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_moore_dispatch_001.aac",
+            "text": "파견 임무요? 시간이 오래 걸리겠네요."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_moore_dispatch2_001.aac",
+            "text": "하하하, 역시 길을 잃었던 거였어요. 집에 돌아온 기분이 너무 좋네요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_moore_levelup_002.aac",
+            "text": "커피 한 잔 더 할까요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_moore_head_001.aac",
+            "text": "어머? 저 안 졸았어요."
+        }
+    ],
+    "ensnaring_eclipse": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_moore_luowangbiri_cacha_001.aac",
+            "text": "어디 보자, 어떤 쥐가 그물에 걸려들었나… 헤헷, 당신이었네요~ 급할 거 없어요, 지금 하는 일을 끝내고 천천히 놀아드릴게요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_moore_luowangbiri_levelup_001.aac",
+            "text": "들리세요? 종말이 한 걸음 더 가까워졌어요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_moore_luowangbiri_greeting_001.aac",
+            "text": "당신은 이 술래잡기 게임이 질리지도 않나 봐요. 이번에는 누가 술래를 할까요?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_moore_luowangbiri_body_001.aac",
+            "text": "지금의 평화로운 디스시티를 즐기세요… 당신에게 드리는 선물이거든요. 다만… 가짜 평화는 곧 끝나게 될 거랍니다."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_moore_luowangbiri_body_002.aac",
+            "text": "당신, 정말 다크웹을 파괴했네요… 다만 아쉽게도 지하에선 가짜 죽음이 일상이에요. 봐요, 저도 '죽었는데 살아난' 거잖아요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_moore_luowangbiri_idle_001.aac",
+            "text": "이 어두컴컴한 곳에 계속 있으니 역시 졸리네요… 커피 한 잔 더 부탁해요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_moore_luowangbiri_clicking_001.aac",
+            "text": "헤헷, 이미 그물에 걸려 몸부림칠 힘도 없으면서 아직도 계속 다가오려 하다니… 당신을 용감하다고 해야 할까요, 아니면 무모하다고 해야 할까요?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_moore_luowangbiri_specialattention_001.aac",
+            "text": "저는 당신이 교훈을 새기지 않고 무모하게 행동하는 모습이 좋아요… 자, 몇 번이든 상대해 드릴게요."
+        }
+    ]
+}

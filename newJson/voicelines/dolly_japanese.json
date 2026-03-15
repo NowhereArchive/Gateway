@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_duoli_cacha_001.aac",
+            "text": "またお前たちに捕まったのね。わかったわよ。前みたいに死瞳にヒットをくれてやるわ。あたしがこうなったのも、奴らのせいだもの。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_duoli_promotion_001.aac",
+            "text": "さらに力が強くなった……制御できたらいいんだけど。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_duoli_promotion2_001.aac",
+            "text": "もうこんなに強くなったの？ニューシティにいるときもこれくらい強かったらなぁ"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_duoli_battlebegin_001.aac",
+            "text": "へぇ～ここはファウルエリアなの？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_duoli_battlewin_001.aac",
+            "text": "バントより簡単だったね。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_duoli_battlelose_001.aac",
+            "text": "くそー！ゲッツーくらっちゃった……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_duoli_uniqueskill_001.aac",
+            "text": "ホーームラーン——！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_duoli_dead_001.aac",
+            "text": "どんなに……強くなっても……こんなもんなのおおぉ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_duoli_greeting_001.aac",
+            "text": "あたしの出番はいつなの？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_duoli_talk1_001.aac",
+            "text": "はぁ……予備のバットをもっと用意しておいてくれない？調達部門が持ってくるあれじゃ、ひと勝負ももたないわよ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_duoli_talk1_002.aac",
+            "text": "えっ、これはあたしの偽のニューシティID！コホン……試合に出るためだから、仕方なかったのよ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_duoli_talk1_003.aac",
+            "text": "あたしは感情を制御するのが難しいんだ。異様に興奮してるか、落ち込んでるように見えたら……距離を取ってよね。ぶっ飛ばされても知らないから。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_duoli_talk2_001.aac",
+            "text": "バットでボールを撃つときの音って素敵だと思わない？でしょ？あたしもこの音を聞いて、野球に興味を持ったんだ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_duoli_talk2_002.aac",
+            "text": "ニューシティの任務だけど……あたしは参加しなくてもいい？別に、怖いわけじゃなくて、単にあそこが嫌いなだけ……もちろん、任務が終わった後、ついでに「ニューシティリーグ」の試合が見られるなら、さっきの話はなかったことにしてね。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_duoli_talk2_003.aac",
+            "text": "明日はシンジケートチームの野球の試合があるんだ。一緒に生中継を見る？分からないことがあったら、解説してあげてもいいよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_duoli_obeyfull_001.aac",
+            "text": "できれば、強いチームとやりあってみたかったな……でも今はあんたがいるから、力を制御できるはず。ねえ、いつか野球場に行ってみない？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_duoli_idle_001.aac",
+            "text": "ああ～調達部門の人たち、リーグ戦のポスターを買ってきてくれないかな？せ……選手じゃなくなっても、やっぱりファンだからね！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_duoli_clicking_001.aac",
+            "text": "ちょっと！距離を取るって約束したよね！？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_duoli_specialattention_001.aac",
+            "text": "いい目をしてるね。トップレベルの野球選手が本気を出す時の目をしてる。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_duoli_dispatch_001.aac",
+            "text": "盗塁を始めるよ！"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_duoli_dispatch2_001.aac",
+            "text": "盗塁成功！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_duoli_levelup_002.aac",
+            "text": "……もう十分強くなったよ。"
+        }
+    ],
+    "sunset_swing": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_duoli_riluohuiji_cacha_001.aac",
+            "text": "局長、ここはあたしが野球の練習してる秘密基地だよ。どう？なかなかいいでしょ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_duoli_riluohuiji_levelup_001.aac",
+            "text": "ナイスバッティング！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_duoli_riluohuiji_greeting_001.aac",
+            "text": "スズメたちがピーピーうるさいなって思ったら、お前が来てたんだ！ふふ、ここを気に入ってくれると思ってたよ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_duoli_riluohuiji_body_001.aac",
+            "text": "ここは広いから、全力で打っても外に飛んでいって誰かを傷つけることはないわ。ちなみに……あたしがここで練習してるってこと、誰にも言ってないよね？へへ、その代わりいつでもここで休んでいいから。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_duoli_riluohuiji_body_002.aac",
+            "text": "ここにルールはないわよ。打たれないように気を付けて、疲れたら座って空を見上げて、スズメを見たり、喉が乾いたら工場の自販機を探したり……まぁ、動かなくなっちゃったんだけどね。この前練習してた時、1台壊しちゃって。中にまだソーダが数本入ってたんだけど、飲んでみる……？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_duoli_riluohuiji_idle_001.aac",
+            "text": "スズメを数えるのは気分転換になるのよ……1羽……2羽……3羽……ハ、ハックション！あれ？みんな、いなくなっちゃった……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_duoli_riluohuiji_clicking_001.aac",
+            "text": "どうしたの？これはあたしが発明した新しいバッティングフォームよ。死瞳を打つ時、かなり力を節約できるの。信じられないならやってみて！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_duoli_riluohuiji_specialattention_001.aac",
+            "text": "ほら、ここの景色は本当に綺麗でしょ？毎日練習して疲れ果てた後、汗を拭いて風に吹かれながら夕日を見上げると、すごく幸せな気分になるんだ。あたしばっかり見ないでよ！太陽が沈んじゃう！"
+        }
+    ]
+}

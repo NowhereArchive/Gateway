@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_tetra_cacha_001.aac",
+            "text": "自ら怪盗をおびき寄せるとはな。ふむ……何か盗んでほしいものでもあるのか？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_tetra_promotion_001.aac",
+            "text": "この数秒は、君だけを見つめるとしよう。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_tetra_promotion2_001.aac",
+            "text": "時間に追いついた瞬間、すべてを変えられる予感がする……。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_tetra_battlebegin_001.aac",
+            "text": "相手の計画はすべて把握してる。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_tetra_battlewin_001.aac",
+            "text": "これは私が考えた計画だ。勝利以外の結末はありえない。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_tetra_battlelose_001.aac",
+            "text": "時間がない。撤退だ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_tetra_uniqueskill_001.aac",
+            "text": "Time's up！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_tetra_dead_001.aac",
+            "text": "はっ……これもある意味、解放か。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_tetra_greeting_001.aac",
+            "text": "初めまして、MBCCの局長。君の時間を少し盗ませてもらった。今すぐ手持ちの仕事を止めて、私の話に付き合ってもらおうか。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_tetra_talk1_001.aac",
+            "text": "止まった時間の中で、この砂時計が唯一時間を計れる道具だ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_tetra_talk1_002.aac",
+            "text": "昼の私は縛られているが……夜の私は心行くまでとろけることができる……ふふ、ふふふふ～……"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_tetra_talk1_003.aac",
+            "text": "あのウサギさん……面白い子だと思わないか？だがあの子は隙がありすぎる。弱みを握って利用するより、むしろ……傍において縛ってしまいたい。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_tetra_talk2_001.aac",
+            "text": "背中はプリシラに預けてある……ロマンティックだろう？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_tetra_talk2_002.aac",
+            "text": "ニューシティも上庭も、あのキラキラとしたうわべはただの枷に過ぎない。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_tetra_talk2_003.aac",
+            "text": "ここに囚われてはいるが……案外自由がきくものだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_tetra_obeyfull_001.aac",
+            "text": "私はこの世でもっとも貴重なものを手に入れた。いっそ……今、君の目の前で足を洗うのはどうだろう？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_tetra_idle_001.aac",
+            "text": "こんな時間がもう少し長く続いたらいいのだが……。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_tetra_clicking_001.aac",
+            "text": "どうした？局長も刺激が欲しいのか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_tetra_specialattention_001.aac",
+            "text": "まばたきはしない方がいい。キツネに振り回されることになるぞ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_tetra_dispatch_001.aac",
+            "text": "その任務は完璧に遂行できるが……実際に引き受けるかどうかは、まだ決めていないぞ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_tetra_dispatch2_001.aac",
+            "text": "土産だ。どうした？盗んだものでは、土産にならないか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_tetra_levelup_002.aac",
+            "text": "む……どうやら、伸びしろはまだあるようだな。"
+        }
+    ],
+    "edge_of_nightfall": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_tetra_yemubianyuan_cacha_001.aac",
+            "text": "何をぽかんとしているんだ？ 今すぐ追いかければ、あの怪盗ウサギさんに盗まれた宝を取り戻すチャンスがあるぞ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_tetra_yemubianyuan_levelup_001.aac",
+            "text": "全てが計画通りだ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_tetra_yemubianyuan_greeting_001.aac",
+            "text": "私の登場の仕方で怖がらせたかな？だが、これが最短で追跡できるルートなんだ……それに、この嘘にまみれた派手なパーティーで騒ぎを起こすのは、とても楽しいことだろう？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_tetra_yemubianyuan_talk1_001.aac",
+            "text": "君の同伴者になることに興味はない。ただ、ディス治安局が内部システムを改修していた時、たまたま彼らが逮捕計画を立てていると知って、参加を志願しただけだ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_tetra_yemubianyuan_talk1_002.aac",
+            "text": "その予告状の差出人は本当に自信満々だな。逃げ道に花びらを残すとは……誰かに捕まることをそんなに期待しているのだろうか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_tetra_yemubianyuan_idle_001.aac",
+            "text": "この方向は、やはりテラスに行ったか……なぜ、あそこの警備が最も手薄なのか当ててみてくれ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_tetra_yemubianyuan_clicking_001.aac",
+            "text": "我に返った時、何かをなくしていたくなかったら大人しくしてくれ、局長？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_tetra_yemubianyuan_specialattention_001.aac",
+            "text": "しっかりついて来てくれ。この混乱の中でも君を守ろう。"
+        }
+    ]
+}

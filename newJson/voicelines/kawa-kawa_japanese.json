@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_kavakava_cacha_001.aac",
+            "text": "これからはここで寝ていいよね？うわぁー！大きいね。風も入らない。キャンプよりずっといいよ。よかった。これでやっとちゃんとしたところで寝られるよ！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_kavakava_promotion_001.aac",
+            "text": "ありがとう！これでもっと早く地図を完成させられそうだ！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_kavakava_promotion2_001.aac",
+            "text": "いつか必ずビーコンを砂の海の隅々にまで設置するんだ！今の僕ならきっとできるはず！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_kavakava_battlebegin_001.aac",
+            "text": "安心して。野外作業は僕の得意分野なんだ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_kavakava_battlewin_001.aac",
+            "text": "よし！これでここにも安全ビーコンを設置できる！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_kavakava_battlelose_001.aac",
+            "text": "はやく隠れて！大丈夫、何とかなるよ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_kavakava_uniqueskill_001.aac",
+            "text": "こいつの隣に隠れて！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_kavakava_dead_001.aac",
+            "text": "よくない……感じだ……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_kavakava_greeting_001.aac",
+            "text": "こんにちは！ずっと来ないから、迷子になったのかと思った。いま探しに行こうとしてたんだよ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_kavakava_talk1_001.aac",
+            "text": "もし砂嵐に遭ったら、周りにビーコンがないか確認してみてね……そう、これだよ。これに隠れておけば、何とか乗り切れるはずだから。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_kavakava_talk1_002.aac",
+            "text": "どうして、その……砂漠強盗を捕まえるの？　彼らは銃で僕を撃たないし、ガイドを頼んでくる時もあるんだ。無事に目的地に着いたら、お礼として水をくれるんだよ。僕、あの人たちはいい人だと思うんだけどな。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_kavakava_talk1_003.aac",
+            "text": "えへへ、父さんとおじいさんに比べれば、僕なんてすごくないよ。地理に関する知識は全部おじいさんが書いた本から学んだんだから。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_kavakava_talk2_001.aac",
+            "text": "ここの食事って美味しいよね。特にシチュー！こんなに大きな肉の塊を水に入れて煮込む料理があるなんて……サソリ焼きとかトカゲ焼きよりずっと美味しいよ！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_kavakava_talk2_002.aac",
+            "text": "砂の海には変なところがいくつかあるんだ。あそこにいる人はみんな不機嫌そうな顔して、銃を持ち歩いてるんだ。僕が中に入ってちょっと休もうとしたら、いつも追い払われちゃうんだ。——あんな広いところを独り占めしようなんて、ケチだよねぇ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_kavakava_talk2_003.aac",
+            "text": "ビーコンを砂漠全体に設置すれば、父さんが戻ってくると思ったけど、もう7年も経っちゃったなぁ……でも僕は、父さんとおじいさんの計画をちゃんと最後までやり遂げるつもりだよ。そしていつか、その時が来たら、僕は父さんを探しに行くんだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_kavakava_obeyfull_001.aac",
+            "text": "砂の海で見る星空は本当に綺麗だよ。特に流星群が見える時は……チャンスがあったら、一緒に見に行こうよ！とっておきの絶景スポットを教えてあげる！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_kavakava_idle_001.aac",
+            "text": "♪～♪～"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_kavakava_clicking_001.aac",
+            "text": "僕の帽子がほしいのかい？うーん、でもこれはもう古いから、新しいのを作ってあげる！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_kavakava_specialattention_001.aac",
+            "text": "傍にいてほしい？いいよ。ああ、でも、いつ砂の海に帰れるのかな？まだやらなきゃいけないことがたくさんあるんだ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_kavakava_dispatch_001.aac",
+            "text": "おっと、誰か迷子になったのかい？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_kavakava_dispatch2_001.aac",
+            "text": "お金ならいらないよ。使い道がないし、お役に立てればそれで十分！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_kavakava_levelup_002.aac",
+            "text": "砂嵐があっても、僕は止まったりしない！"
+        }
+    ],
+    "down_the_rabbit_hole": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_kavakava_tuzidong_cacha_001.aac",
+            "text": "遅刻？どういうこと？何言ってるの、懐中時計さん？朝起きたらたくさんのカラスが鳴いてたんだけど、なんできみまで壊れてるの！？もしかして、次は空から降ってくる新人さんに潰されるとか？……うわぁ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_kavakava_tuzidong_levelup_001.aac",
+            "text": "ウサギの穴に新しいお客さんだ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_kavakava_tuzidong_greeting_001.aac",
+            "text": "ありがとう、新しいサバイバー！きみが僕の上に落ちてきたおかげで、やるべきことを思い出したよ——お茶会に参加しなきゃ！貴重なカロリー補給のチャンスだよ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_kavakava_tuzidong_body_001.aac",
+            "text": "とにかく、きみは僕のお客さんだよ！でも、お茶会の準備はまだできてないんだ……あ、ハートの女王の宮殿に行こう！あそこはすごく広いし、美味しい食べ物もいっぱいあるよ！でも、彼女の赤い目のウサギはちょっと怖いんだよね……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_kavakava_tuzidong_body_002.aac",
+            "text": "甘いものは好き？ジャムにバターにスコーン……もし好きなら、僕と一緒にお茶会に行こう。このスプーンを持って、お茶会にいる人たちに「スプーン一杯だけいただきます」って言えばいいんだよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_kavakava_tuzidong_idle_001.aac",
+            "text": "この花は挨拶代わりの贈り物にぴったりだ……うん、このキノコもいいね！あとこのハーブも……よし、来週までは生きていけそう！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_kavakava_tuzidong_clicking_001.aac",
+            "text": "気をつけて、気をつけて。僕の箱にはここで生き残るために必要なアイテムがいっぱい入ってるんだ。もし壊したら……僕たち二人とも大変だよ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_kavakava_tuzidong_specialattention_001.aac",
+            "text": "そうそう、そんな感じでしっかりついてきて！ここは地上とちょっと違うから、一歩間違えるときみを探すのにすごく時間がかかるかもしれない！"
+        }
+    ]
+}

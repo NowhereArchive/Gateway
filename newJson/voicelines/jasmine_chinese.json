@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_jasmine_cacha_001.aac",
+            "text": "您……就是狄斯城那位有名的局长？和我想象的一样，果然是位亲切的大人~这么殷勤地找我来，是想让茉莉为您献上一支异域的舞蹈吗？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_jasmine_promotion_001.aac",
+            "text": "真是一份贵重的心意呀……您说，茉莉该如何报答您呢？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_jasmine_promotion2_001.aac",
+            "text": "漂亮的舞伶，笼中的宠物……我能为您变成任何模样，甚至是……您手中最致命的武器。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_jasmine_battlebegin_001.aac",
+            "text": "这一支舞，各位可要看仔细了！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_jasmine_battlewin_001.aac",
+            "text": "这满地的鲜红，是对舞者演出最好的奖赏。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_jasmine_battlelose_001.aac",
+            "text": "茉莉让您失望了吗……？"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_jasmine_uniqueskijasmine_001.aac",
+            "text": "来，与我共舞！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_jasmine_dead_001.aac",
+            "text": "我终于……要回到故乡了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jasmine_greeting_001.aac",
+            "text": "局长大人来我这里，是想要茉莉的陪伴，还是想看一舞作为消遣？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_jasmine_talk1_001.aac",
+            "text": "环刃旋舞的速度越快，观众的欢呼声就越大。人们向我投来鲜花和珠宝，要我做出更刺激的动作……嘻嘻~他们到底懂不懂呢？越是夺人眼球，就越是危险啊……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_jasmine_talk1_002.aac",
+            "text": "这是我家乡祖祖辈辈流传下来的祈福之舞，但现在除我之外，已经没人会跳啦！我从来不轻易跳给外人看，因为他们都配不上，只有您值得~"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_jasmine_talk1_003.aac",
+            "text": "在我的故乡，大家都爱茉莉花，因为它象征着纯洁与幸福，我的名字也是因此而来。局长大人，您认为现在的我……还能配得上它吗？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_jasmine_talk2_001.aac",
+            "text": "这儿比我以前住过的地方好多啦，无论是棚屋、帐篷，就连草堆我也躺过呢！但我记得最清楚的，还是一个金灿灿的笼子，白天我在里面起舞，夜晚也在那里入睡。那笼子小得大概……只有我们抱在一起才能钻进去吧~"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_jasmine_talk2_002.aac",
+            "text": "这对环刃可不只是华丽的道具，局长大人，您听……每天晚上，它们都会在我耳边说话，提醒我要去收割，那些夺走我一切的魔鬼——！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_jasmine_talk2_003.aac",
+            "text": "我能感觉到，您身边并不安全，那些冰冷和危险的目光，全都藏在了阴暗的角落……不用怕，牵住我的手，我就在这里。我去替您将敌人撕碎，绝不会让您变成他们的猎物！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_jasmine_obeyfull_001.aac",
+            "text": "我不习惯那些人看我的眼神，像野兽龇着獠牙，都想来咬我一口……可您和他们都不一样。您的眼神很温柔，就像是故乡的风。如果您允许的话，茉莉真想就这么依偎在您身边，只聆听您的话语。没有痛苦，没有伤害，只有我们一起度过的，安宁的时光……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jasmine_idle_001.aac",
+            "text": "咦，怎么缩在这里睡着了……是觉得冷吗？那让茉莉，来抱紧您吧……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_jasmine_clicking_001.aac",
+            "text": "人们都说我身上的疤痕，是开在皮肤上的血肉之花，都争着想要触摸赏玩……哈哈，难道这能为他们带去幸福吗？您要不要也试一下呢？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jasmine_specialattention_001.aac",
+            "text": "我喜欢您这样目不转睛地注视着我……只要能占据您全部的目光，我愿意一刻不停地为您起舞。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_jasmine_dispatch_001.aac",
+            "text": "您希望茉莉上哪儿表演呢？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_jasmine_dispatch2_001.aac",
+            "text": "快看快看，我在客人身上捡到的宝贝~哎呀，不小心沾了些不干净的东西……没事的，擦擦就好啦。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jasmine_levelup_002.aac",
+            "text": "感谢您的赏赐，茉莉都喜欢~"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_jasmine_head_001.aac",
+            "text": "您的手，真温暖啊……再多抚摸我一会儿，就当是，表扬茉莉漂亮的舞姿吧。"
+        }
+    ],
+    "gossamer_sway": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_jasmine_roufengyeying_cacha_001.aac",
+            "text": "从很久以前开始，我就一个人在这座宫殿里等着。直到今天，我终于听见了您的脚步声……大人，茉莉已经等了您很久了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jasmine_roufengyeying_levelup_001.aac",
+            "text": "谢谢大人，感觉我的身体好像变得更轻盈，能荡得更高些了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jasmine_roufengyeying_greeting_001.aac",
+            "text": "大人来到茉莉这儿，是想放松一下吧。那就……一起上来坐坐~"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_jasmine_roufengyeying_head_001.aac",
+            "text": "哈……好像只要一见到您，耳朵就会忍不住动起来了~"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_jasmine_roufengyeying_body_001.aac",
+            "text": "这秋千虽然看起来小，但我很喜欢待在这上面，每次往上荡去的时候，都让我觉得好像能离所有的烦恼忧愁都很远。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_jasmine_roufengyeying_body_002.aac",
+            "text": "我以前也常常和伙伴们玩这样的游戏，我们轮流推着彼此，笑啊闹啊……不过，伙伴们现在在哪儿呢……只留下我一个人……但现在，有您在茉莉的身边，我并不觉得寂寞。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_jasmine_roufengyeying_leg_001.aac",
+            "text": "呀！我会保持不了平衡掉下来的……不过，茉莉掉下来了的话……您会接住我，对吧~"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_jasmine_roufengyeying_background_001.aac",
+            "text": "这个窗帘摸起来很舒服吧~是丝绸做的，很轻盈呢。自从大人来了以后，我总觉得窗帘和秋千都在轻轻飘动，是风在吹着它们吗……？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jasmine_roufengyeying_idle_001.aac",
+            "text": "大人，这是在想着什么事呢？唔……我不会出声打扰的，就让茉莉安静地陪伴您吧。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jasmine_roufengyeying_specialattention_001.aac",
+            "text": "别担心，茉莉会一直在这里荡着秋千，陪着您……您只要时不时来看看我就可以了，我不会离开的……"
+        }
+    ]
+}

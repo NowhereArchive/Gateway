@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_wuhuanzi_cacha_001.aac",
+            "text": "这位居士，我看你印堂发黑，有心神失养之兆，不若我为你看诊一番开个方子，算我积攒功德救你一救……诶？无证行医？跟你走一趟？诶？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_wuhuanzi_promotion_001.aac",
+            "text": "我把先前那个方子改良了，不仅对症……味道也没那么怪了，应该。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_wuhuanzi_promotion2_001.aac",
+            "text": "山下有寒暑，人间有疾苦。既已入世，我只愿目之所及，都无病无灾，无忧无患。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_wuhuanzi_battlebegin_001.aac",
+            "text": "开始吧，但离我远些……你也不想被麻烦找上吧。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_wuhuanzi_battlewin_001.aac",
+            "text": "虽说方式不同……但这也算为百姓除了一患，多少能攒些功德吧。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_wuhuanzi_battlelose_001.aac",
+            "text": "早说了，带上我，能成的事也成不了了……眼下事不可为，还是快些逃命吧……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_wuhuanzi_uniqueskill_001.aac",
+            "text": "符令借法，破邪显威！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_wuhuanzi_dead_001.aac",
+            "text": "到头来，我还是谁也救不了……不过是无用功，一场空……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_wuhuanzi_greeting_001.aac",
+            "text": "居士，你来看诊吗？头痛我这里有符灰水，腹痛我可以熬草药汤，心神不宁也可以试试子午流注针……虽然要算下吉时，但起效很快……嗯？你只是，来打招呼而已……？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_wuhuanzi_talk1_001.aac",
+            "text": "医者仁心，悬壶济世……可医者也要钱过活，要粮维生，故而有了诊费。诊费有高有低，但我一概不需，想着这样能抵换我所需要的功德……可为什么还是没多少人找我看诊呢？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_wuhuanzi_talk1_002.aac",
+            "text": "我知道我看上去不足以让病人相信……可山羊胡、江湖幡我都试过了，对积攒功德并无助益……莫非，真要用药长个四十岁才行吗？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_wuhuanzi_talk1_003.aac",
+            "text": "就算时时刻刻伞不离身，我也会偏偏在下雨时，遇见比我更需要伞的人……运势玄之又玄，不可捉摸，我早已放弃与它对抗了……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_wuhuanzi_talk2_001.aac",
+            "text": "医书上说，束手无策时，新的水土和风俗会带来新的疗法和了悟，百试不爽……所以我才踏上旅途，想寻找一个答案，或者是，能给我答案的人……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_wuhuanzi_talk2_002.aac",
+            "text": "也不是没有人问我，为何要逆天而行……阎王要你三更死，谁能留人到五更？可我想，道法自然，我的所作所为，也算是“自然”的一部分吧……若是我能救人活命，岂不说明……阎王本就没打算带人走？"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_wuhuanzi_talk2_003.aac",
+            "text": "下了山，出了世，我才意识到伤身好治，伤心难治，光凭医术，难救身心俱疲对生活陷入绝望的人……我以为狄斯也是一样。可你的作为却告诉我，并非如此。你能不能……教教我？"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_wuhuanzi_obeyfull_001.aac",
+            "text": "大厦将倾，人命如草芥。我明白，我拉得回一个，拉不回所有，救得了一时，救不了一世。所谓妙手回春，不过是一点逆天改命的执念，一点愚蠢的无用功。但那又如何呢？若要有人搬走倾颓的大厦重起炉灶，那必然是执拗的愚人。……你说对吧？同道中人。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_wuhuanzi_idle_001.aac",
+            "text": "凝神入定，气归丹田……呼啊……神游天外……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_wuhuanzi_clicking_001.aac",
+            "text": "怎么突然神志失守，做出这等怪事了……？该不会是我招来什么不好的东西了吧……符来！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_wuhuanzi_specialattention_001.aac",
+            "text": "劳居士操心了，但你真的不用这样不错眼地盯着我……我和这运势相处已久，也算有些心得，不会惹出大事的……应该。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_wuhuanzi_dispatch_001.aac",
+            "text": "对对……云游四方，积德行善……"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_wuhuanzi_dispatch2_001.aac",
+            "text": "怎么狄斯的人也看见我就跑呢……好在早有准备，采了些药回来……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_wuhuanzi_levelup_002.aac",
+            "text": "此番磨炼技艺，倒是颇有助益。"
+        }
+    ],
+    "verdant_apothecary": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_wuhuanzi_xuanhumuke_cacha_001.aac",
+            "text": "呜哇！有恶妖！不对，有人类！……呼……原来只是人类啊……咳咳，药圃这一方结界是我为了阻止道行更高的恶妖设下的，没想到你一个人类居然也能闯入，奇也怪也……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_wuhuanzi_xuanhumuke_levelup_001.aac",
+            "text": "往后便能多治几个人了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_wuhuanzi_xuanhumuke_greeting_001.aac",
+            "text": "阁下今日来得正好，且小坐片刻，瞧这药圃长势多好，不多时便可采撷济人了，届时……阁下与我同去可好？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_wuhuanzi_xuanhumuke_talk1_001.aac",
+            "text": "人病治人，妖病治妖，众生平等，无甚区别。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_wuhuanzi_xuanhumuke_talk1_002.aac",
+            "text": "我只是药草化形的小妖，惧怕那些食魂摄命的恶妖有何怪处，初遇之事……阁下莫再笑话我了……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_wuhuanzi_xuanhumuke_idle_001.aac",
+            "text": "都说人妖殊途，可我瞧着阁下与我却无不同，亲近得很……睡着了吗？那便好好歇着吧。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_wuhuanzi_xuanhumuke_clicking_001.aac",
+            "text": "我虽是草妖，但已化形。阁下这般摇晃摩挲，也是取不下药材来的……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_wuhuanzi_xuanhumuke_specialattention_001.aac",
+            "text": "阁下这番仔细打量，莫不是我的化形之术有何破绽……能……能看出我的本体来？"
+        }
+    ]
+}

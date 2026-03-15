@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_pylgia_cacha_001.aac",
+            "text": "당신이… 깊고 어두운 바다를 비춰… 저의 아득한 기억을… 깨워줬어요… 인간 동료… 정말 오랫동안… 당신을… 기다렸어요…"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_pylgia_promotion_001.aac",
+            "text": "환경이 변화하는 한… 진화는 멈추지 않아요…"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_pylgia_promotion2_001.aac",
+            "text": "가장 깊은… 바닷속으로 헤엄쳐 갈 거예요…"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_pylgia_battlebegin_001.aac",
+            "text": "목표 해역… 탐색 시작…"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_pylgia_battlewin_001.aac",
+            "text": "위협이… 사라졌으니… 이제 계속 잠수할 수 있겠어…"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_pylgia_battlelose_001.aac",
+            "text": "심연이… 모든 걸 집어삼킬 거야…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_pylgia_uniqueskill_001.aac",
+            "text": "뚫고… 찢어내… 깊은 바닷속으로!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_pylgia_dead_001.aac",
+            "text": "이것도… 순환의 일부겠지…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_pylgia_greeting_001.aac",
+            "text": "해류가 교차하고… 어류가 회유하는 것처럼… 당신은… 다시 제 곁으로 돌아오셨군요…"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_pylgia_talk1_001.aac",
+            "text": "죽이고, 사냥하는 것도 어쩌면 죽음과… 탄생, 성장, 사랑처럼 생명의 순환 단계일지도 몰라요…"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_pylgia_talk1_002.aac",
+            "text": "우린 모두 바다가 길러낸 존재들이에요… 결국에는 만나서 합쳐지고 서로의 일부가 되겠죠…"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_pylgia_talk1_003.aac",
+            "text": "아무리 깊이 잠수해도… 언젠가는 떠오르겠죠… 인간은… 결국 깊고 차가운 바다에 속하지 않으니까요…"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_pylgia_talk2_001.aac",
+            "text": "저는 아주 어렸을 때부터… 바다에 살았어요… 육지는 너무 멀고… 인간의 감정은… 너무 복잡해서… 감히 헤아릴 수 없었어요…"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_pylgia_talk2_002.aac",
+            "text": "…진실은… 심연 끝의 바닷물보다… 더 차가운… 한 줄기 빛이에요… 그 존재를 보게 되면… 위험을 알면서도 거부할 수 없죠… 어둠 속에서… 더 이상 추구할 것이 없으니까요…"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_pylgia_talk2_003.aac",
+            "text": "저는… 여름날의 파도… 바닷속에 비친 햇살… 철새와 수면 위로 헤엄치는 물고기 떼가 좋아요… 당신도 그런 풍경을 보고 싶나요?"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_pylgia_obeyfull_001.aac",
+            "text": "인간은… 늙고… 죽기 마련이죠… 전 그게 싫어요… 언젠가 당신이 삶의 끝자락에 다다르면… 절 보러 와요. 저와 융합하고… 영원히 함께하는 거예요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_pylgia_idle_001.aac",
+            "text": "폭풍이 잠잠해진 순간에는… 모든 게 고요해지죠…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_pylgia_clicking_001.aac",
+            "text": "멈춰요… 따개비와 껍데기는… 날카로워서 조심해야 해요… 당신이 다치는 건 싫어요…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_pylgia_specialattention_001.aac",
+            "text": "당신 때문에… 심연에서 이곳으로 돌아왔어요… 역시… 당신은 절 실망시키지 않았군요…"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_pylgia_dispatch_001.aac",
+            "text": "바다로… 가는 건가요?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_pylgia_dispatch2_001.aac",
+            "text": "밀물이… 이들을 해안으로 돌려보냈어요…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_pylgia_levelup_002.aac",
+            "text": "더 깊어지고… 더 차가워졌어…"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_pylgia_head_001.aac",
+            "text": "부드러운… 촉감이군요… 해초 덩어리가 머리를 스치는 것 같아요… 느낌이 좀… 이상하긴 한데… 싫지는 않아요…"
+        }
+    ],
+    "shackled_dream_in_aqua": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_pylgia_shuixingzhiguan_cacha_001.aac",
+            "text": "저는 한때 물결 속의 거품이자, 심연 속의 푸른 빛이었어요. 해류가 교차하는 곳에서 태어난 생명이었죠… 하지만 자유를 잃은 지금은… 생기 없이 죽음이 다가오기만을 기다리는 전시품이 되어버렸어요. 당신을 여전히 이곳에 머물게 하는 건… 대체 뭐죠?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_pylgia_shuixingzhiguan_levelup_001.aac",
+            "text": "이렇게 하면… 장막을 넘어 당신 곁으로 갈 수 있는 걸까요?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_pylgia_shuixingzhiguan_greeting_001.aac",
+            "text": "이곳은… 어둠에 의해 굳어버린 깊은 도랑이에요… 바닷물도 흐르지 않고, 시간도 멈춘 듯하죠. 마치 거대하고 공허한 감옥 같아요… 하지만 오직 당신만이, 이곳에 희망과 변화를 불러올 수 있어요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_pylgia_shuixingzhiguan_talk_001.aac",
+            "text": "이곳에 발을 들인 여행객들은 대부분 제 곁에 머무르려 하지 않아요. 마치 바다 깊은 곳의 생명체들처럼 냉담하고 거리를 두죠. 그런데 당신은 달라요… 아, 싫다는 건 아니에요. 그냥… 신기해서요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_pylgia_shuixingzhiguan_talk_002.aac",
+            "text": "한때는 인간 세상을 동경했어요. 저 먼바다의 어선들을 거닐며, 매일 밤 항구의 별빛을 기대했죠… 아득히 멀지만, 외면할 수 없는 것들에 푹 빠져들었던 거예요. 마치… 지금의 제가 당신의 눈빛을 바라는 것처럼요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_pylgia_shuixingzhiguan_idle_001.aac",
+            "text": "물결이 유리를 두드리는 소리를 들어봐요. 파도가 암석을 때리는 소리와 비슷하죠… 이 소리를 들으면 금세 잠에 빠져들게 돼요…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_pylgia_shuixingzhiguan_clicking_001.aac",
+            "text": "이 투명한 인공 벽은 결코 넘을 수 없는 당신과 저 사이의 거리예요… 바다를 건너 육지에 이르는 것보다 훨씬 더 멀고 아득하죠."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_pylgia_shuixingzhiguan_specialattention_001.aac",
+            "text": "오가는 여행객들은 여기저기 둘러보며 마음에 드는 전시품을 골라요. 물론 저희도 그들을 관찰하고 있죠… 참 행운이에요. 저와 당신이 서로를 선택하다니, 어쩌면 이게 바로 당신들이 말하는 '영혼의 공명'일지도 모르겠네요."
+        }
+    ]
+}

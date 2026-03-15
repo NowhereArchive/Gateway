@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_moore_cacha_001.aac",
+            "text": "你好，我是涅槃网络中心特派的安全专家，接到需求来这里修复漏洞。请问技术部在——咦？为什么给我戴手铐了呀？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_moore_promotion_001.aac",
+            "text": "系统升级完毕，你的防火墙更可靠了哦。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_moore_promotion2_001.aac",
+            "text": "升级任务太艰巨，不小心睡着了呢。局长，你没趁机偷看什么吧？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_moore_battlebegin_001.aac",
+            "text": "啊……啊？来了来了。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_moore_battlewin_001.aac",
+            "text": "对方攻击结束了，源头确认消除。局长，我们成功了哦。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_moore_battlelose_001.aac",
+            "text": "我来拦截追击，局长安心撤退吧，小心别摔着~"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_moore_uniqueskill_001.aac",
+            "text": "D矩阵，启动！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_moore_dead_001.aac",
+            "text": "没关系，我……早已圆满。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_moore_greeting_001.aac",
+            "text": "嘿嘿，比领导先进门就不算迟到吧。早上好呀，局长。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_moore_talk1_001.aac",
+            "text": "局长也经常熬夜加班吗？那晚了累了，就来我这儿歇歇吧。同是通宵专家，我们可以多交流经验呢。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_moore_talk1_002.aac",
+            "text": "没想到局长这么受欢迎，到处都是窃听和监视。需要我帮忙排除它们吗？还是留着，给它背后的主人送点惊喜？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_moore_talk1_003.aac",
+            "text": "“每隔三个月，狄斯暗网的规模就会扩大一倍。”呵呵，那定律是假的啦，没人能测量不可见的黑暗。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_moore_talk2_001.aac",
+            "text": "比起被动抵御入侵，我更喜欢主动点，设置诱饵，欺骗，识别，然后反击，彻底清除所有威胁……虽然大家常说这不像我的性格，但能早点结束工作回去补觉……不是更好吗？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_moore_talk2_002.aac",
+            "text": "数据狂厄化本质是信息和认知污染，这种污染无法通过物理隔断，却能超越物质进行传播。所以，局长在狄斯暗网冲浪要小心，很多怪东西不可以乱看哦。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_moore_talk2_003.aac",
+            "text": "我挺喜欢小老鼠的，小小的，很可爱，陪我度过了很多漆黑的夜晚……等等，说的不是我家，我家没有这么乱，真的没有！就算是局长也不能去！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_moore_obeyfull_001.aac",
+            "text": "如果这世界是个巨大的程序，那它也会有漏洞吧。命运可以被入侵、被修改，让我更早遇见你，更早改变结局……呵，说什么梦话，我又睡迷糊了。忘了吧，局长。珍惜现在就好，珍惜现在……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_moore_idle_001.aac",
+            "text": "呜呜……咖啡……我需要咖啡……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_moore_clicking_001.aac",
+            "text": "呵呵，隔壁奶奶家的小猫也常按我这里呢，你们都喜欢软软的触感吗？那来吧。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_moore_specialattention_001.aac",
+            "text": "局长要看着我工作吗？那如果我不小心睡着了，你要叫醒我哦。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_moore_dispatch_001.aac",
+            "text": "外派工作？需要多花点时间呢。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_moore_dispatch2_001.aac",
+            "text": "啊哈哈，我果然迷路了。回家的感觉真好。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_moore_levelup_002.aac",
+            "text": "再续一杯咖啡吗？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_moore_head_001.aac",
+            "text": "哎呀？我没在打瞌睡啦。"
+        }
+    ],
+    "ensnaring_eclipse": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_moore_luowangbiri_cacha_001.aac",
+            "text": "让我看看，是哪只小老鼠自投罗网了……呵呵，是你呀~别着急，等我做完眼前的事，再来慢慢陪你玩吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_moore_luowangbiri_levelup_001.aac",
+            "text": "听到了吗，末日又近了一步。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_moore_luowangbiri_greeting_001.aac",
+            "text": "看来这场猫鼠游戏你怎么都玩不腻呢。这一次，谁是猎人，谁又是猎物呢？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_moore_luowangbiri_body_001.aac",
+            "text": "好好享受现在和平的狄斯城吧——那是我们留给你的礼物，只不过……所有祥和的假象都快走到终点了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_moore_luowangbiri_body_002.aac",
+            "text": "你的确亲手摧毁了暗网……只可惜在地底，欺瞒死亡再正常不过了。你看，我不也是“死而复生”了吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_moore_luowangbiri_idle_001.aac",
+            "text": "果然一直待在这种黑漆漆的地方很容易犯困呀……再来杯咖啡吧。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_moore_luowangbiri_clicking_001.aac",
+            "text": "呵呵，明明已经陷入网中无力挣扎，居然还想要主动接近……该说你无畏，还是无知呢？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_moore_luowangbiri_specialattention_001.aac",
+            "text": "我喜欢你这种不吸取教训的莽撞样子……来吧，无论多少次，我都会奉陪。"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hekadi_cacha_001.aac",
+            "text": "I've been waiting for you all this time."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hekadi_promotion_001.aac",
+            "text": "As long as you need me, I'll always stay by your side."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hekadi_promotion2_001.aac",
+            "text": "Everything that's mine will also be yours. This is the purpose of Hecate."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hekadi_battlebegin_001.aac",
+            "text": "Stay behind me."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_hekadi_battlewin_001.aac",
+            "text": "Now, what's next?"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hekadi_battlelose_001.aac",
+            "text": "I'm fine, I don't feel any pain."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hekadi_uniqueskill_001.aac",
+            "text": "You... mustn't be too close to the Chief!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hekadi_dead_001.aac",
+            "text": "It's okay... There will still be another me."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hekadi_greeting_001.aac",
+            "text": "Did you sleep well last night, Chief? Today's order, please."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hekadi_talk1_001.aac",
+            "text": "...All is well as long as you're safe, no?"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hekadi_talk1_002.aac",
+            "text": "How are Sinners different from Corruptors? After all, we all live, bleed, and die. What makes you think we're any different?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hekadi_talk1_003.aac",
+            "text": "If I'm gone, there will still be another Hecate. You shouldn't worry."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hekadi_talk2_001.aac",
+            "text": "You can be stricter with me. Those who are kind to me... always end up..."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hekadi_talk2_002.aac",
+            "text": "Ever since meeting you, I've always felt like I'm no longer Hecate. I don't know what I'll become. When that day comes... will you guide me?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hekadi_talk2_003.aac",
+            "text": "If one day... I no longer exist as Hecate, will you still keep me by your side, Chief?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_hekadi_obeyfull_001.aac",
+            "text": "I don't need any more orders, Chief. Whatever journey awaits us ahead, I'll follow my heart and walk with you till the end."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hekadi_idle_001.aac",
+            "text": "Sweet dreams."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hekadi_clicking_001.aac",
+            "text": "If it embarrasses you to say the order out loud, don't hesitate to just use me."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hekadi_specialattention_001.aac",
+            "text": "You don't have to do this. I'll always stay by your side."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hekadi_dispatch_001.aac",
+            "text": "Is this an order? Okay, I'll see to it."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_hekadi_dispatch2_001.aac",
+            "text": "It's done. I'm home."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hekadi_levelup_002.aac",
+            "text": "If this is what you wish for, I'll do it."
+        }
+    ],
+    "yesterday_revisits": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hekadi_zuorichongxian_cacha_001.aac",
+            "text": "Well, if you didn't request it... I wouldn't have had the chance to wear this outfit."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hekadi_zuorichongxian_levelup_001.aac",
+            "text": "I don't slack off even during breaks."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hekadi_zuorichongxian_greeting_001.aac",
+            "text": "What do I need to do today?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hekadi_zuorichongxian_head_001.aac",
+            "text": "My hat? They say only painters would wear it. By the way... what's a painter?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hekadi_zuorichongxian_body_001.aac",
+            "text": "People always take pictures of me when I wear this outfit, but it's been a long time since anyone has asked me to put it on."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hekadi_zuorichongxian_body_002.aac",
+            "text": "If there's a chance... would you please take me somewhere outside the battlefield?"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hekadi_zuorichongxian_lefthand_001.aac",
+            "text": "I used to listen to bedtime stories on the phone. But one day, I forgot what the story was about, then the phone never rang again."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hekadi_zuorichongxian_righthand_001.aac",
+            "text": "Adjutant Nightingale said my sketchbook was very dangerous and shouldn't be seen by anyone, so I hid it in this box."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hekadi_zuorichongxian_idle_001.aac",
+            "text": "I have painted some paintings related to you, Chief. They all said I must not let you see them."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hekadi_zuorichongxian_specialattention_001.aac",
+            "text": "If you like this style... Do you want to make it the Bureau's uniform?"
+        }
+    ],
+    "traveler's_tale": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_cacha_001.aac",
+            "text": "Hi, I'm an otherworld mage with the power to manipulate dreams and fantasies... These are my lines, right?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_levelup_001.aac",
+            "text": "Magic value increased."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_greeting_001.aac",
+            "text": "Are you going to join us too, Chief? All right, I will do my best to protect you, even if it's just a game."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_head_001.aac",
+            "text": "Mess told me that this is the gear only a mage gets to have... The bigger the hat, the higher the bonus stats. Want one too, Chief?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_body_001.aac",
+            "text": "It's nice to do something other than following orders once in a while... I guess this is what relaxing means."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_body_002.aac",
+            "text": "In the virtual world, anyone can become the character of their dreams, and do things that they can't do in reality... I guess this is what makes games so alluring."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_righthand_001.aac",
+            "text": "Nightmare also put on the new gear, it seems to like it a lot."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_lefthand_001.aac",
+            "text": "Mulangrador... Ah... EMP says that to really immerse yourself in the game, you should say the magic skill names out loud."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_idle_001.aac",
+            "text": "O brave warrior who have come here from afar, accept the guidance of the heavens and stars to embark on a quest for the secret treasure..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_specialattention_001.aac",
+            "text": "Where do you want to go for the mission, Chief? Just give me the order and I'll come with you."
+        }
+    ],
+    "darkwing_eclipse": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hekadi_anyushaguang_cacha_001.aac",
+            "text": "Chief, every moment we've shared since our first meeting, even the harsh, painful ones... they all help me conquer my fears in my dreams."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hekadi_anyushaguang_levelup_001.aac",
+            "text": "Wings... fully fledged..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hekadi_anyushaguang_greeting_001.aac",
+            "text": "Hmm...? Ah... it's you, Chief... No, you didn't disturb me, I was just waking up from a dream... Don't worry, it wasn't a nightmare. Dreams about you are always pleasant..."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hekadi_anyushaguang_body_001.aac",
+            "text": "Chief, throughout our journey so far, I've grown strong enough that nightmares can no longer harm me... So please, don't worry..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hekadi_anyushaguang_body_002.aac",
+            "text": "Our travels have shown me that this world is filled with things that can feed Nightmare... Disasters, destruction, and countless other sufferings. Yet I've met many fearless people. The light from their souls can dissolve fear... Chief, who taught them how to be this way?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hekadi_anyushaguang_idle_001.aac",
+            "text": "Waiting... is also part of the journey... Yes, it's my expertise."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hekadi_anyushaguang_clicking_001.aac",
+            "text": "Chief, are you curious about these wings? Just like real feathers, they're so smooth and soft..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hekadi_anyushaguang_specialattention_001.aac",
+            "text": "\nBy carefully documenting every experience and thought from our journey, I can clearly recall those memories even after a long time, even in dreams. I can gain power to control my dreams...\nThank you for always staying by my side, Chief."
+        }
+    ]
+}

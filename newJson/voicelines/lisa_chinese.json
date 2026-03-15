@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_monalisa_cacha_001.aac",
+            "text": "没有证据就抓人，你可真是名听话的好局长，和这个毫无艺术氛围的粗鄙之地，倒是非常般配。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_monalisa_promotion_001.aac",
+            "text": "啧，少拿这些与艺术无关的事来烦我。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_monalisa_promotion2_001.aac",
+            "text": "幻术再强又如何，终究无法代替真实的画笔。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_monalisa_battlebegin_001.aac",
+            "text": "你自己跟上，要是掉队了我可不会停下来等你。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_monalisa_battlewin_001.aac",
+            "text": "能欣赏到我的幻觉盛宴，你应该感到荣幸。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_monalisa_battlelose_001.aac",
+            "text": "失败的作品。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_monalisa_uniqueskill_001.aac",
+            "text": "俗物，必将湮没。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_monalisa_dead_001.aac",
+            "text": "美丽总是短暂的吗……？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_monalisa_greeting_001.aac",
+            "text": "局长今天又要如何挥霍自己毫无价值的生命？哦，不用告诉我答案，我其实不太感兴趣，这只是出于礼貌的日常问候而已。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_monalisa_talk1_001.aac",
+            "text": "我出车祸那天，新城半个艺术圈都在偷偷庆祝。这些俗不可耐的家伙不会知道，作为画家的我，不过是抢了他们的生意。而作为批评家，我会让他们彻底名声扫地。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_monalisa_talk1_002.aac",
+            "text": "那些没有思想的画作，和你晃一晃就能听到海浪声的大脑有什么区别？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_monalisa_talk1_003.aac",
+            "text": "艺术表达本就不存在权威标准，区区几百万狄斯币，就妄想定义一幅作品的价值？呵，这些新城的暴发户，比你还要肤浅。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_monalisa_talk2_001.aac",
+            "text": "你有艺术论坛的账号吗，借我用一下。我刚写了一篇评论，想要发布的时候才发现账号被封了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_monalisa_talk2_002.aac",
+            "text": "不要因为我总把你说得一无是处就自暴自弃了，你也是有优点的，比如说……额……你很善良！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_monalisa_talk2_003.aac",
+            "text": "艺术圈居然把我这个为净化行业做出巨大贡献的艺术批评家称为毒妇？……行，只要能骂醒那群无能的白痴，这个毒妇我当定了。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_monalisa_obeyfull_001.aac",
+            "text": "你的五官看久了居然还挺清秀的……可惜，我们认识得晚了些，没机会把你画成肖像留作纪念了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_monalisa_idle_001.aac",
+            "text": "欸！又画歪了……我的手，终于连条像样的直线也画不出了么……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_monalisa_clicking_001.aac",
+            "text": "你！……真是庸俗得无可救药！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_monalisa_specialattention_001.aac",
+            "text": "除非你是突然开窍了要聊聊《丽贝卡》这幅画里色彩对情绪表达的作用，否则，别来打扰我，我有好几篇评论要写，没时间陪你浪费。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_monalisa_dispatch_001.aac",
+            "text": "至少，别让我去太俗气的地方。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_monalisa_dispatch2_001.aac",
+            "text": "你一直等在这儿吗？看来局长这份工作还挺清闲的。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_monalisa_levelup_002.aac",
+            "text": "谢谢……怎么，我说谢谢很奇怪吗？"
+        }
+    ],
+    "trail_of_butterfly": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_lisa_tingjiandieying_cacha_001.aac",
+            "text": "见到我很意外？这里环境好又安静，不必担心被打扰，正适合专心写评论。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_lisa_tingjiandieying_levelup_001.aac",
+            "text": "留言发送成功，看看下一幅……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_lisa_tingjiandieying_greeting_001.aac",
+            "text": "如果不怕被我从头到尾评论一遍，对面有把空椅子，坐那儿吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_lisa_tingjiandieying_talk_001.aac",
+            "text": "在枝头挂了一个冬天的蛹可以蜕变成蝶，之前已经枯死的风信子也抽出了新芽……温室里总能出现这么多的奇迹……那……生命里呢？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_lisa_tingjiandieying_talk_002.aac",
+            "text": "呵，他们说我嫉妒？这帮除了营销什么都不会的投机分子有什么好嫉妒的？就算宣传得再怎么天花乱坠，也掩盖不了他们的作品就是垃圾的事实。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_lisa_tingjiandieying_idle_001.aac",
+            "text": "可以看出一点点的创意……但色彩的运用过于死板……可以更加大胆……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_lisa_tingjiandieying_clicking_001.aac",
+            "text": "这里的植物应该需要一些储备养料……我看你很积极啊？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_lisa_tingjiandieying_specialattention_001.aac",
+            "text": "身为局长，难道除了盯着我看就没什么正事可做了么？要是实在闲着无聊可以去给植物浇浇水，喏，壶就在那边。"
+        }
+    ]
+}

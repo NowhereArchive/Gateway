@@ -1,0 +1,198 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_tuoqier_cacha_001.aac",
+            "text": "これからどうぞよろしくお願いします……\nはぁ……私がいなくても、彼岸の患者さんたちはちゃんと薬を飲んでるかしら？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_tuoqier_promotion_001.aac",
+            "text": "今の私を見たら、あの人はびっくりするでしょうね？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_tuoqier_promotion2_001.aac",
+            "text": "あの時にこんな力を持っていたら、もう少し彼らの痛みを和らげることができたのかもしれませんね……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_tuoqier_battlebegin_001.aac",
+            "text": "準備はいいですか？それでは出発しましょう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_tuoqier_battlewin_001.aac",
+            "text": "無事で何よりです。私は何もしていませんよ。皆さんが頑張った結果です。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_tuoqier_battlelose_001.aac",
+            "text": "気を落とさないでください。これはあなたのせいじゃありません。あなたはよく頑張っていましたよ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_tuoqier_uniqueskill_001.aac",
+            "text": "は～い、注射の時間ですよ～"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_tuoqier_dead_001.aac",
+            "text": "あなたは必ず……生き延びてください……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_tuoqier_greeting_001.aac",
+            "text": "局長さん、何かお手伝いすることがあればいつでも言ってください。私の前では無理をしなくてもいいんですからね？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_tuoqier_talk1_001.aac",
+            "text": "人の悩みを聞くのも看護師長の役目です。私でよければ、いつでもお話を聞きますよ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_tuoqier_talk1_002.aac",
+            "text": "局長さんの微笑みは皆さんの元気の素なんですよ。だからもっと笑ってください。笑うとかわいいんですから。私が保証します。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_tuoqier_talk1_003.aac",
+            "text": "ふふ、確かにアインは怖い時もありますが……彼女は決して悪い人ではありません。私が保証します。彼女なりに理由があって行動しているはずです。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_tuoqier_talk2_001.aac",
+            "text": "子供って本当にかわいいですよね。天真爛漫で、悩みがなくて、単純で……ふふ、局長さんと同じで、つい守りたくなってしまいます。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_tuoqier_talk2_002.aac",
+            "text": "「アン姉さん、ずっと笑ってるのって疲れないの？」とビクトリアさんによく聞かれます。はぁ……局長さんも気をつけてください。あの子は意外と鋭いんですよ。私は返す言葉が見つかりませんでした。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_tuoqier_talk2_003.aac",
+            "text": "狂瞳病は本当に治るんでしょうか？私には分かりません。ですが、可能性がわずかでもある限り私は諦めません。これは厳しい持久戦になるでしょう。それでも一緒に……戦ってくれますか？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_tuoqier_obeyfull_001.aac",
+            "text": "あの……もっと私を頼ってくださっていいんですよ？　患者さんと関係があってもなくても、あなたのためなら、力になりたいんです。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_tuoqier_idle_001.aac",
+            "text": "こんなところで寝てしまうなんて……昨日も遅くまで仕事をされていたようですね？……ふふ、お疲れさまでした、局長さん。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_tuoqier_clicking_001.aac",
+            "text": "局長さん、ダメですよ。怒りますからね。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_tuoqier_specialattention_001.aac",
+            "text": "どうかしましたか？もしかして、私を見ているとドキドキしちゃうのかしら？\nふふ……はいはい、それじゃあもう少し見ていても構いませんよ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_tuoqier_dispatch_001.aac",
+            "text": "ひとまず、管理局の負傷者はお願いしますね。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_tuoqier_dispatch2_001.aac",
+            "text": "ただいま戻りました。私がいない間、患者さんたちはちゃんと湿布を取り換えていましたか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_tuoqier_levelup_002.aac",
+            "text": "お気遣い、ありがとうございます。"
+        }
+    ],
+    "steamy_night_chat": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_tuoqier_yinyunyehua_cacha_001.aac",
+            "text": "部屋が散らかっていてごめんなさい。片付ける時間がなかったので……ふふ、不意打ちされたのは私なのに、どうしてあなたが顔を赤くしているのですか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_tuoqier_yinyunyehua_levelup_002.aac",
+            "text": "温かいお風呂は、疲労回復に効果的ですよ～"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_tuoqier_yinyunyehua_greeting_001.aac",
+            "text": "やっぱり、お風呂に入るとお腹が空きますね。ん～餃子のいい匂い。一緒に食べませんか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_tuoqier_yinyunyehua_talk_001.aac",
+            "text": "彼らが生き延びるチャンスが増えるなら、大変でもやる意味はあります……それに、ここに戻ってくると疲れを洗い流してゆっくり休めますから～"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_tuoqier_yinyunyehua_talk_002.aac",
+            "text": "え？私が忙しくて夕飯を食べていないことを心配してくれたのですか？ふふ……安心してください。自分の面倒は見られますよ。逆に私がいない間、局長はちゃんとご飯を食べて休んでいましたか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_tuoqier_yinyunyehua_idle_001.aac",
+            "text": "少し眠いですね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_tuoqier_yinyunyehua_clicking_001.aac",
+            "text": "髪を拭いてくれるのですか？それなら、引っ張らないように気をつけてくださいね。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_tuoqier_yinyunyehua_specialattention_001.aac",
+            "text": "私からいい匂いがする？ローズオイルを使っているからかもしれません。心をリラックスさせ、疲れを癒やすのに役立つのですよ……ふふ、ちょっと眠くなってきましたか？でなければ、どうしてずっと私を見ているのでしょうか？"
+        }
+    ],
+    "glistening_raindrops": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_tuoqier_yeyuweiguang_cacha_001.aac",
+            "text": "すみません、突然パーティーを抜けてしまって……「ドアの外で突然気を失った人がいる。誰か応急処置ができる人はいないか」とウェイターが言っていたので、手伝えることがないか見に来たんです。応急処置は完了して、患者さんも無事なのでご安心ください。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_tuoqier_yeyuweiguang_levelup_002.aac",
+            "text": "応急処置は完了しました。患者さんは今のところ問題ありません。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_tuoqier_yeyuweiguang_greeting_001.aac",
+            "text": "お待たせしました。こちらの用事は終わりましたので、パーティー会場に戻りましょう。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_tuoqier_yeyuweiguang_talk1_001.aac",
+            "text": "あの患者さんのバイタルサインはもう問題ありません。血圧、心拍数、体温は全て正常に戻っていますし、救急隊員があの人の友人に連絡すると思うので、あまり心配しないでください。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_tuoqier_yeyuweiguang_talk1_002.aac",
+            "text": "どんなドレスを着ていようと、高価なアクセサリーをつけていようと、命を救うことが私の一番の本能なのです。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_tuoqier_yeyuweiguang_idle_001.aac",
+            "text": "ああ……ドレスの裾が泥だらけですね。このままパーティーに戻るのは少し失礼でしょうか。一度着替えに戻った方がいいかしら……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_tuoqier_yeyuweiguang_clicking_001.aac",
+            "text": "私のドレスの裾は汚れているので、泥がつかないように気をつけてくださいね局長さん。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_tuoqier_yeyuweiguang_specialattention_001.aac",
+            "text": "心配してくださってありがとうございます。安心してください、私は大丈夫です。ただ少し精神的に疲れているだけで……休めば問題ありません。"
+        }
+    ]
+}

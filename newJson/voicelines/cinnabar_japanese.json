@@ -1,0 +1,198 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_beisefenni_cacha_001.aac",
+            "text": "軍事企業「スネークアイ」の元責任者である辰砂です。セキュリティ関係のことなら、お力になれると思います。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_beisefenni_promotion_001.aac",
+            "text": "これで作戦能力を上げられるとは、コンビクトというのは……特別な存在ですね。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_beisefenni_promotion2_001.aac",
+            "text": "もう「必要な犠牲」が出なくても済むように、この力でみんなを守ります。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_beisefenni_battlebegin_001.aac",
+            "text": "わたしについてきてください。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_beisefenni_battlewin_001.aac",
+            "text": "大丈夫です。すべての危険は排除しました。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_beisefenni_battlelose_001.aac",
+            "text": "後は私に任せて、局長は撤退してください。早く！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_beisefenni_uniqueskill_001.aac",
+            "text": "私が守ります！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_beisefenni_dead_001.aac",
+            "text": "いえ……ダメです。まだみんなが……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_beisefenni_greeting_001.aac",
+            "text": "おかえりなさい、局長。局長がいない間、局内に異常は見られませんでした。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_beisefenni_talk1_001.aac",
+            "text": "今のところ、依頼の達成率は100％です。だから安心してください。私が必ず局長を守ります。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_beisefenni_talk1_002.aac",
+            "text": "私にとって、スネークアイの先輩たちは一番の先生でした。先輩たちが教えてくれたことは警察学校で学んだ「専門知識」より役に立ちますからね。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_beisefenni_talk1_003.aac",
+            "text": "これは「GH-2」型シールドジェネレータです。研究所が特注した優れモノで、かなり性能が安定しています。ただ、内部のパーツが多いため、メンテナンスが少し大変ですね。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_beisefenni_talk2_001.aac",
+            "text": "何を、どうやって守るのか、私も悩んだ時期がありました。でもあの事件の後、答えを見つけました。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_beisefenni_talk2_002.aac",
+            "text": "上庭での要人のボディーガードを除けば、様々な組織で安全評価も行ってきました。でもMBCCの場合……状況が複雑で、昔の経験は通用しないようです。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_beisefenni_talk2_003.aac",
+            "text": "これまでにここまで長時間、誰か一人を守ったことはありませんでした。まるで局長専属のボディーガードみたいですね。ふふ……こういう仕事も好きですよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_beisefenni_obeyfull_001.aac",
+            "text": "スネークアイを出てから、背中を預けられるような戦友に出会えたのは久しぶりのことです……局長と一緒に戦うことができて、光栄です。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_beisefenni_idle_001.aac",
+            "text": "うーん……おかしいな。防弾プレートはどこだ？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_beisefenni_clicking_001.aac",
+            "text": "一定の距離を保ってください……これでは仕事に支障がでます。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_beisefenni_specialattention_001.aac",
+            "text": "身辺警護が必要ですか？分かりました。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_beisefenni_dispatch_001.aac",
+            "text": "わかりました。できるだけ早く任務を遂行します。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_beisefenni_dispatch2_001.aac",
+            "text": "任務完了です。必要な時はいつでもお呼びください。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_beisefenni_levelup_002.aac",
+            "text": "セキュリティレベルがアップしました。"
+        }
+    ],
+    "special_escort": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_beisefenni_texuhuwei_cacha_001.aac",
+            "text": "錆の川の護衛任務に参加できて光栄です。もっと局長と一緒に過ごしたいと思っていたので……す、すみません……嬉しいと伝えたかっただけです。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_beisefenni_texuhuwei_levelup_002.aac",
+            "text": "セキュリティ強化。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_beisefenni_texuhuwei_greeting_001.aac",
+            "text": "来ましたか、局長。準備は万全です。出発しましょう。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_beisefenni_texuhuwei_talk_001.aac",
+            "text": "疲れたらいつでも言ってください。あなたのために安全な場所を確保しますので、ご安心を。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_beisefenni_texuhuwei_talk_002.aac",
+            "text": "危ない！錆の川では、落石と地盤沈下が多発しています。なるべく私のそばにいてください。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_beisefenni_texuhuwei_idle_001.aac",
+            "text": "ゆっくり休んでください、局長。どれだけ時間が経っても、私はあなたのそばにいます。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_beisefenni_texuhuwei_clicking_001.aac",
+            "text": "呼吸が速くなっていますが、何か異常を察知したのですか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_beisefenni_texuhuwei_specialattention_001.aac",
+            "text": "錆の川は確かに危険です。ですが安心してください。リスクは排除します——それが私の責務ですから。"
+        }
+    ],
+    "courteous_call": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_beisefenni_qianhouzhiyi_cacha_001.aac",
+            "text": "馬に乗るなんて大袈裟ですが、フェイさんが特別に用意してくれたんです。「管理局のメンツのため」だと……その好意を無にするわけにはいきません。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_beisefenni_qianhouzhiyi_levelup_001.aac",
+            "text": "乗馬スキルが更に上がったので、あなたに乗り心地の悪さは感じさせません。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_beisefenni_qianhouzhiyi_greeting_001.aac",
+            "text": "局長、約束の時間です。あなたをパーティーにお連れするために参りました——今日から私はあなたの専属騎士です。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_beisefenni_qianhouzhiyi_talk1_001.aac",
+            "text": "触ってみますか？大丈夫です、とても大人しいですから。乗ることもできますよ。ご心配なさらず。私がしっかり支えます。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_beisefenni_qianhouzhiyi_talk1_002.aac",
+            "text": "この服装は、美しさのために機能性を犠牲にしているので、少し窮屈で複雑なデザインですね……ですが、ご安心を。それでも私はすぐにあなたを守れますから。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_beisefenni_qianhouzhiyi_idle_001.aac",
+            "text": "しー、静かに……喉が渇いたのか？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_beisefenni_qianhouzhiyi_clicking_001.aac",
+            "text": "ゴホン……服の装飾を乱さないでください。身に着けるのに手間がかかっているので。パーティーが終わったら、ゆっくり見ていただけるように全て外してあなたに手渡しますから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_beisefenni_qianhouzhiyi_specialattention_001.aac",
+            "text": "この服装は私に似合っているでしょうか？ありがとうございます……気に入っていただけたなら、それで十分です。"
+        }
+    ]
+}

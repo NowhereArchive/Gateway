@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_geji_cacha_001.aac",
+            "text": "ふん。とうとう見つかったか。まあいい。ギターさえあれば、どこでも一緒だよ。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_geji_promotion_001.aac",
+            "text": "これだよ！早く、ペンとノートを貸して！新しいメロディを思いついた。これはちゃんと書いておかないと。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_geji_promotion2_001.aac",
+            "text": "三弦さえあれば、盛り上げられるよ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_geji_battlebegin_001.aac",
+            "text": "クリス、ゴー。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_geji_battlewin_001.aac",
+            "text": "一丁上がり"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_geji_battlelose_001.aac",
+            "text": "最悪なライブだったよ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_geji_uniqueskill_001.aac",
+            "text": "さぁ、あたしの時間だよっ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_geji_dead_001.aac",
+            "text": "27歳クラブにも……入れ……ないのか……ははは……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_geji_greeting_001.aac",
+            "text": "お、いいとこに来たね。このデモを聞いてほしいんだよ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_geji_talk1_001.aac",
+            "text": "あたしが生きてる限り、レコード会社のくそ野郎どもにAnavrinの歌は奪わせないよ！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_geji_talk1_002.aac",
+            "text": "一番好きな食べ物？そりゃあ、ミルクを入れたコーヒーとイチゴのケーキ……なんだよ？あたしがアルコールだけで生きてるとでも思ってたのかい？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_geji_talk1_003.aac",
+            "text": "神があたしに音楽の才能をくれたのは、道を誤らないためだって親父はいつも言ってたよ……はっ。残念だけど、あたしは神なんか信じないし、今の道が正しいとも思ってないけどね。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_geji_talk2_001.aac",
+            "text": "昔あたしのバンド仲間のヴォーカルが、この街を燃やしてやるって毎日騒いでたんだよ。まぁ、あのメンツの中で真っ先に灰になるのがあいつだったとは思わなかったけどね。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_geji_talk2_002.aac",
+            "text": "随分昔のことだけどね。もうあいつのことはそんなに憎んでないよ。Anavrinに手出しさえしなければ、あいつの邪魔はしないさ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_geji_talk2_003.aac",
+            "text": "全てが終わったら……はぁ、そんな日が来たら、またライブをするつもりだよ。もちろん、あんたには特等席を用意してやるから絶対に来なよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_geji_obeyfull_001.aac",
+            "text": "数年間、あたしはこのギターしか持ってなかった。今は……気色悪いことを言うつもりはないけど、ずっと傍にいてくれてありがとね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_geji_idle_001.aac",
+            "text": "「But I'm a creep, I'm a weirdo.What the hell am I doing here?I don't belong here.」"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_geji_clicking_001.aac",
+            "text": "ふっ、死ね！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_geji_specialattention_001.aac",
+            "text": "あたしの音楽を聞いてくれる奴を拒むつもりはないんだけどね、曲作りが終わる前に指摘したり何か言ったりするのはナシだよ。いいね？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_geji_dispatch_001.aac",
+            "text": "ちょうど良かった。ついでに古い友人に会ってくる。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_geji_dispatch2_001.aac",
+            "text": "「Come as you are，as you were，as I want you to be.」"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_geji_levelup_002.aac",
+            "text": "新しいリフ、いいかもね。"
+        }
+    ],
+    "backstage_break": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_geji_houtaijianqi_cacha_001.aac",
+            "text": "なんで楽屋まで来たんだい？ふん、あたしのことは心配しなくていい。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_geji_houtaijianqi_greeting_001.aac",
+            "text": "適当に座りな。ただ、前にここで喧嘩した時、どの椅子を壊したか覚えてないけどね。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_geji_houtaijianqi_body_001.aac",
+            "text": "この楽屋は暗くて狭くて乱雑で、耳が痛くなるほど音楽が鳴ってる。でもここにいると、自分がまだ生きてるって感じられるんだ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_geji_houtaijianqi_body_002.aac",
+            "text": "花をありがとう、局長。いつかワールドツアーを開催できたら、もっとデカい花束を贈ってくれよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_geji_houtaijianqi_idle_001.aac",
+            "text": "休憩中に話し相手がいるのも悪くないね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_geji_houtaijianqi_clicking_001.aac",
+            "text": "ふん、あたしがステージに立つ時は、そういうきっちりした格好はいらないよ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_geji_houtaijianqi_specialattention_001.aac",
+            "text": "あんたに用意した席、なかなかだろう？ステージもあたしもよく見える場所さ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_geji_houtaijianqi_levelup_001.aac",
+            "text": "ダークチョコレートだよ、1本食べるかい？"
+        }
+    ]
+}

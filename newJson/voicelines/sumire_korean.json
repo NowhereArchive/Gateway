@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_jin_cacha_001.aac",
+            "text": "드디어 또 뵙게 되었습니다. 진… 제비꽃이라는 뜻이지요. 이 꽃의 이름이자 제 이름입니다. 괜찮으시다면 받아주세요."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_jin_promotion_001.aac",
+            "text": "뿌리를 깊이 파묻을수록 피어나는 꽃은 더 아름답고… 치명적인 법이지요."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_jin_promotion2_001.aac",
+            "text": "이 몸은 활짝 피었어요, 오늘부터 저는 당신만의 칼날입니다."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_jin_battlebegin_001.aac",
+            "text": "저를 바짝 따라오세요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_jin_battlewin_001.aac",
+            "text": "당신만의 승리입니다."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_jin_battlelose_001.aac",
+            "text": "전부… 제 탓입니다…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_jin_uniqueskill_001.aac",
+            "text": "벚꽃이 지면… 당신의 목숨도 지게 될테니!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_jin_dead_001.aac",
+            "text": "죄송합니다, 안녕히 계세요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_jin_greeting_001.aac",
+            "text": "국장님, 이것 좀 보십시오. 찻잎이 서있으니 뜻하지 않은 좋은 일이 생길지도 몰라요."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_jin_talk1_001.aac",
+            "text": "살아 있는 꽃가지를 잘라서, 인간이 원하는 대로 여러 가지 모양으로 꾸민 후, 그들의 죽기 전 그 우아함을 감상한다… 이게 바로 화도예요, 참 잔인하게 들리죠?"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_jin_talk1_002.aac",
+            "text": "사람을 죽이는 것은 너무 쉬운 일입니다. 반대로, 살아가는 것이야말로 정말 힘든 일이죠."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_jin_talk1_003.aac",
+            "text": "꽃이 참 부럽습니다. 양지바른 곳에서 태어나 자라는 것이… 저는 그저 어두운 그림자 속에 숨어있는 독충에 지나지 않는 것을… 저는 근본적으로 이 이름에 어울리지 않습니다."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_jin_talk2_001.aac",
+            "text": "사람들은 종종… 익숙함에 속아 소중함을 잊지."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_jin_talk2_002.aac",
+            "text": "당신과 함께 있으면서 저도 꿈을 믿기 시작했습니다. 미래도, 희망도… 어쩌면 저는 더 이상 킬러가 될 자격이 없겠지요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_jin_talk2_003.aac",
+            "text": "처음 무기를 드는 순간, 전 다시는 돌아설 거라는 걸 바라지 않았어요. 당신을 만날 때까지는… 약속해 주세요… 절 떠나지 않겠다고."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_jin_obeyfull_001.aac",
+            "text": "저는 그저 당신 곁에만 있을 수 있다면 만족할 줄 알았습니다. 하지만 저는 생각보다 욕심이 많았어요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_jin_idle_001.aac",
+            "text": "국장님, 주무셨습니까? 분명 또 과로하셨을 테지요… 제가 기회를 봐서 귀찮게 하는 녀석들을 다 제거해 드릴 테니 국장님은 편히 주무십시오."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_jin_clicking_001.aac",
+            "text": "국장님, 지금은 아직 근무 시간입니다…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_jin_specialattention_001.aac",
+            "text": "국장님은 늘 남의 일만 열심히 해주시는데, 당신도 나름의 걱정거리가 있겠지요? 싫지 않으시다면 제가 당신의 걱정을 나누어 드려도 되겠습니까?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_jin_dispatch_001.aac",
+            "text": "무수히 많은 이가 이 길을 오가고, 나 역시 그 속에 있으니…"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_jin_dispatch2_001.aac",
+            "text": "낙화는 잎으로 돌아가고, 날아가는 저 새는 둥지로 돌아가네."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_jin_levelup_002.aac",
+            "text": "꽃이 피는 시기가… 더 가까워졌어."
+        }
+    ],
+    "flower_of_fantasy": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_jin_mengjiancao_cacha_001.aac",
+            "text": "약속대로 나와주셔서 감사해요… 올해의 벚꽃이 정말 예쁘게 펴서 어떻게든… 국장님과 함께 이 아름다운 풍경을 감상하고 싶었어요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_jin_mengjiancao_levelup_001.aac",
+            "text": "벚꽃은 꽃구경하는 사람을 위해 삶이 끝날 때까지 활짝 피어준다고 해요. 저도 마찬가지죠."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_jin_mengjiancao_greeting_001.aac",
+            "text": "늦게 오신 게 아니에요. 제가 국장님과 만난다는 생각에 참지 못하고 일찍 나온 거예요… 안심하세요. 국장님이랑 만나는 게 너무 기대돼서 기다리는 시간이 전혀 따분하지 않았답니다."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_jin_mengjiancao_head_001.aac",
+            "text": "…왜 그러세요? 제 얼굴에 꽃잎이 붙었나요? …어머, 얼굴에 붙은 줄도 몰랐네요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_jin_mengjiancao_talk1_001.aac",
+            "text": "꽃꽂이할 땐 적절한 꽃을 골라야 하듯 벚꽃 구경을 할 때도 풍경에 어울리는 복장을 입어야 꽃구경을 제대로 할 수 있죠. 국장님, 제 옷차림은 마음에 드세요?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_jin_mengjiancao_talk1_002.aac",
+            "text": "벚꽃은 꿈결처럼 비현실적인 아름다움 때문에 '몽견초'라고도 불려요… 마치 지금 이 순간처럼이죠. 국장님과 함께 보낸 시간은 벚꽃처럼 아름다워서 깊이 빠져버리게 돼요. 꿈처럼 덧없이 지나가 버린다 해도… 저는 기꺼이 받아들일 거예요."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_jin_mengjiancao_leg_001.aac",
+            "text": "제 옆에 앉으세요. 괜찮으시다면 제 무릎에서 잠깐 쉬셔도 돼요. 제가 양산을 들어드릴게요…"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_jin_mengjiancao_hand_001.aac",
+            "text": "사람들은 항상 '며칠 사이에 세상이 벚꽃으로 뒤덮인다'는 시로 시간의 흐름을 감탄하죠. 언제 또 국장님과 함께할 수 있을까요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_jin_mengjiancao_idle_001.aac",
+            "text": "보셨어요? 방금 지나간 그 나비, 날개에 꽃잎이 붙어 있었어요…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_jin_mengjiancao_specialattention_001.aac",
+            "text": "계속 저만 보시고 꽃구경은 안 하시네요… 하고 싶은 말이라도 있으신가요?"
+        }
+    ],
+    "moonrise_fondness": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_jin_yaoyehuashi_cacha_001.aac",
+            "text": "이 아름다운 풍경에 함께해 주셔서 감사해요… 이제 밤이 찾아올 때면 흐리든 맑든, 국장님과 함께 구경하던 달을 잊지 못할 거예요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_jin_yaoyehuashi_levelup_001.aac",
+            "text": "국장님께서 제게 주시는 찬사는 밤의 아름다움과 비교할 수 없을 만큼 값지답니다."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_jin_yaoyehuashi_greeting_001.aac",
+            "text": "구름에 가려진 보름달이 때마침 고개를 내미네요. 혹시 보름달도 지금 이 순간 우리를 만나고 싶은 걸까요?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_jin_yaoyehuashi_talk_001.aac",
+            "text": "좋은 술이네요. 마침 술잔도 비었으니 달이 떠오른 밤에 대한 이야기를 들어보시겠어요?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_jin_yaoyehuashi_talk_002.aac",
+            "text": "어릴 적, 달빛이 환하게 비추는 날이면 여우가 사람으로 변해 사랑하는 사람을 초대해 함께 밤을 보낸다는 이야기를 들은 적 있어요… 음? 설마 저를 사람으로 변한 여우라고 생각하시는 건가요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_jin_yaoyehuashi_idle_001.aac",
+            "text": "가을 잎과 달의 그림자는 함께 하지 못하고, 찻잎을 음미하던 노래도 가을바람에 쓸쓸히 읊조리네."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_jin_yaoyehuashi_clicking_001.aac",
+            "text": "바람이 부나요? 좀 더 따뜻하게 입으세요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_jin_yaoyehuashi_specialattention_001.aac",
+            "text": "달구경을 하다 보면 달의 밝은 빛에 넋이 나가 정작 마음에 드는 경치를 놓칠 수도 있죠~"
+        }
+    ]
+}

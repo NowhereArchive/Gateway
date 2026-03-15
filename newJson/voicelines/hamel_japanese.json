@@ -1,0 +1,335 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_hameier_cacha_001.aac",
+            "text": "わたしを夢から目覚めさせてくれたことに、お礼を言うべきなのでしょうけど……ステージを失ったダンサーは、どこへ行けばいいのですか？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_hameier_promotion_001.aac",
+            "text": "この力を使って、より多くの魂に安らぎを与えること——それがわたしの運命です。もう逃げません。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_hameier_promotion2_001.aac",
+            "text": "まだこれで終わりではありません。命が燃え尽きるまで、わたしのステップは止まりません。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_hameier_battlebegin_001.aac",
+            "text": "砕けた魂が歌でわたしたちを導いてくれています。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_hameier_battlewin_001.aac",
+            "text": "カーニバルは終わりました。眠りましょう。わたしが連れて帰りますから。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_hameier_battlelose_001.aac",
+            "text": "曲が終わり、踊りが止まり、人が去っていきます……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_hameier_uniqueskill_001.aac",
+            "text": "思いっきり踊りましょう——"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_hameier_dead_001.aac",
+            "text": "まだ……幕を下ろすわけには……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hameier_greeting_001.aac",
+            "text": "幻に迷うたびにあなたは現れて、わたしを現実に連れ戻してくれます……局長、お帰りなさい。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_hameier_talk1_001.aac",
+            "text": "ステージの外には芸術に対する最も純粋な鑑賞者がいますし、世の中には表現するに値するものがあります。わたしは決して孤独ではありません。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_hameier_talk1_002.aac",
+            "text": "飽くなき欲望、死瞳の包囲、黒い鉄窓、果たしてどれが真の檻なのでしょうか。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_hameier_talk1_003.aac",
+            "text": "手足はわたしの代わりに語ってくれます。感謝、喜び、苦悩、痛み……けれど、残念ながら、誰もがそれを読み取れるわけではありません。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_hameier_talk2_001.aac",
+            "text": "醜い化け物？そんな言い方はやめてください。死瞳と呼ばれる子供たちは、わたしにとって、一番の観客なのです。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_hameier_talk2_002.aac",
+            "text": "ブラックリングの中心は深い海の底のようです。そこでは、心の奥底の音が聞こえるんです。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_hameier_talk2_003.aac",
+            "text": "凶暴な獣は人の愛し方を知りません。ですから……絶対にそうはならないでください。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_hameier_obeyfull_001.aac",
+            "text": "ダンスを通してしか伝えられない感情もあります。さあ、手を貸してください。わたしのペースに合わせて……局長、あなたには……感じられますか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hameier_idle_001.aac",
+            "text": "シーッ、聞いてください。これはあなたの心臓の音です。ドキドキ、ドキドキと……踊っていますね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hameier_clicking_001.aac",
+            "text": "あなたは……寂しいですか？大丈夫です。触られるのは好みませんが、あなたは例外ですから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hameier_specialattention_001.aac",
+            "text": "きれいな目……そんな目に見つめられながら踊ることができるだなんて、きっと幸せでしょうね。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hameier_dispatch_001.aac",
+            "text": "風の音は……まるで自然が贈る舞曲のようですね。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_hameier_dispatch2_001.aac",
+            "text": "ただいま戻りました。……いい経験ができました。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hameier_levelup_002.aac",
+            "text": "なんだか……ふわふわしている？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hameier_head_001.aac",
+            "text": "えっ？わたしと……踊りたいのですか？"
+        }
+    ],
+    "joyful_tune": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hameier_huanyudiao_cacha_001.aac",
+            "text": "揺れる鈴の音、重く響く太鼓のリズム……さあ、共に踊りましょう。この雪夜の下で！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hameier_huanyudiao_levelup_002.aac",
+            "text": "リズムが……加速しました。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hameier_huanyudiao_greeting_001.aac",
+            "text": "踊らぬ日々は、命への背徳です。ですから……局長、わたしと1曲踊りませんか？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hameier_huanyudiao_head_001.aac",
+            "text": "え……？この髪は、このダンスに合わせてアレンジしたのです。気に入りました……？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hameier_huanyudiao_body_001.aac",
+            "text": "ステップ、情緒、体、精神……一つも欠かすことはできません。これはただのダンスではなく、魂の賛歌でもあるのです。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hameier_huanyudiao_body_002.aac",
+            "text": "このダンスの中にある熱い感情。この日の雰囲気にぴったりですね……皆さん、そう思いませんか？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hameier_huanyudiao_background_001.aac",
+            "text": "ステージの後で、こんなに純粋な笑顔を見たのは久しぶりです。本当に、不思議な感覚です……"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hameier_huanyudiao_leg_001.aac",
+            "text": "今夜の時間が、この瞬間で永遠に止まればいいのに……わたしは欲張りですね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hameier_huanyudiao_idle_001.aac",
+            "text": "練習の時、わたしはこのダンスに込められた力と情熱に心を動かされました。このダンスを見た皆さんが、苦痛や不快な気分から解放されると良いのですが。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hameier_huanyudiao_specialattention_001.aac",
+            "text": "わたしを見たからには、目をそらさないでくださいね。わたしの感情を、このダンスに乗せてあなたに伝えます。"
+        }
+    ],
+    "odile": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hameier_aojiliya_cacha_001.aac",
+            "text": "苦痛でありながら優雅。それぞれの羽には物語があります。これはあなたのためのダンス。あなただけのためのダンスです——"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hameier_aojiliya_levelup_002.aac",
+            "text": "思うがままに羽を広げましょう。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hameier_aojiliya_greeting_001.aac",
+            "text": "局長、今回のダンスはとても難しいので、関連するトレーニングをしていないなら、安易に挑戦しない方がいいですよ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hameier_aojiliya_head_001.aac",
+            "text": "まだ試してみたいのですね……では、最後にわたしを一人でリフトする部分なら、あなたでもできるはずです。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hameier_aojiliya_body_001.aac",
+            "text": "黒と白、光と闇は元々同じコインの裏表です。わたしが演じたオデットとオディールも、王子の目には常に同じ人物として映っています。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hameier_aojiliya_body_002.aac",
+            "text": "散り散りになった黒い羽根が、劇をクライマックスへと導きます。美と破壊は紙一重。これが美しさのための美の宿命なのです。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hameier_aojiliya_background_001.aac",
+            "text": "局長は今のわたしがどちらに近いと思いますか？聖女のような白鳥のオデット王女か、それとも自由奔放な黒鳥のオディールでしょうか？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hameier_aojiliya_leg_001.aac",
+            "text": "当時の観客たちは、わたしがオディールを演じるのを見たがりませんでした。わたしを通して、絶対的な幸福と美しさを見たかっただけなのです。わたしはダンサーというより……彼らの心の中の完璧な白鳥と言った方が正しいですね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hameier_aojiliya_idle_001.aac",
+            "text": "オディールの32回のフェッテは、この演目の神髄と難所であると誰もが認めています。ですがあなたが見守ってくださると、わたしは簡単にこなせるのです……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hameier_aojiliya_specialattention_001.aac",
+            "text": "あなたとわたしが音楽とダンスに囲まれ、永遠に自由に、楽しくこの瞬間に浸っていられたらどんなにいいでしょうか。"
+        }
+    ],
+    "azure_waltz_in_solace": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hameier_yiweilianyi_cacha_001.aac",
+            "text": "わたしを見つけるためだけに、海や川を越え、山を越え、平原を越えて来たのですか？ふふ……あなたとまた会えて心がこんなに躍るのも、無理ないですね。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hameier_yiweilianyi_levelup_001.aac",
+            "text": "あなたのおかげで、清泉の力はより強くなりました。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hameier_yiweilianyi_greeting_001.aac",
+            "text": "わたしたちが初めて会ったのは夢の中でした。あなたの目は澄んで輝いていて、微笑みながらわたしに手を差し伸べていましたね……今、あの時できなかった抱擁の続きをしましょう～"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hameier_yiweilianyi_head_001.aac",
+            "text": "月光でできたヘアバンドと、水滴でできたヘアクリップ……どちらをつけてほしいですか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hameier_yiweilianyi_talk_001.aac",
+            "text": "もしあなたがわたしの傍にいてくれるなら、月が昇っても沈んでも、ずっとあなたのために踊ります……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hameier_yiweilianyi_talk_002.aac",
+            "text": "夜の森は静かで、この湖はわたしが踊るためのステージです。精霊たちは羽ばたき、月に照らされて最も美しい光となります……あなたも酔いしれてしまいましたか？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hameier_yiweilianyi_lefthand_001.aac",
+            "text": "人間界の舞踏会では、パートナーは互いの手を取り合って踊ると聞いたことがあります……あなたの手を握ると、人間たちが手を離そうとしない理由が分かりますね。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hameier_yiweilianyi_righthand_001.aac",
+            "text": "夢と現実、女神と人間……両者の間には越えられない深い溝があります……ですが、心に最愛の人がいる者なら、その全てを乗り越えられると思っています。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hameier_yiweilianyi_idle_001.aac",
+            "text": "眠れ、眠れ……わたしは風のダンスに続き、あなたを傍で見守ります。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hameier_yiweilianyi_clicking_001.aac",
+            "text": "せっかくわたしの元に来てくれたのに、あなたから離れることなんてできません……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hameier_yiweilianyi_specialattention_001.aac",
+            "text": "この湖とダンスは多くの人々に称賛されてきました。わたしはそうした人々のために喜んで踊ります。ですが、あなたの眼差しだけが、この湖を波立たせ、ダンスをより感動的なものにするのです……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_hameier_yiweilianyi_battlebegin_001.aac",
+            "text": "前へ進みなさい、勇者よ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_hameier_yiweilianyi_battlewin_001.aac",
+            "text": "わたしと一緒に凱旋のダンスを踊り、この勝利を祝いましょう！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_hameier_yiweilianyi_battlelose_001.aac",
+            "text": "大地が乾燥し、ひび割れています。ひとまず森の中へ退きましょう……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_hameier_yiweilianyi_uniqueskill_001.aac",
+            "text": "泉は駆け、ここに集まるのです！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_hameier_yiweilianyi_dead_001.aac",
+            "text": "全てが……煙のように消えていく……"
+        },
+        {
+            "title": "交流1",
+            "filename": "File:vo_hameier_yiweilianyi_drag_001.aac",
+            "text": "この泉に足を踏み入れた者はいません。精霊に招待されたのはあなただけ。みんなに好かれているのですね。"
+        },
+        {
+            "title": "交流2",
+            "filename": "File:vo_hameier_yiweilianyi_dragback_001.aac",
+            "text": "表情が変？すみません、あなたがいるせいか、嬉しすぎて。"
+        },
+        {
+            "title": "交流3",
+            "filename": "File:vo_hameier_yiweilianyi_dragbody_001.aac",
+            "text": "横になるのは不快ですか？"
+        },
+        {
+            "title": "交流4",
+            "filename": "File:vo_hameier_yiweilianyi_draghand_001.aac",
+            "text": "笑ってくれましたね。よかった。ここでのひとときが、安らぎになれば幸いです。"
+        },
+        {
+            "title": "交流5",
+            "filename": "File:vo_hameier_yiweilianyi_dragleg_001.aac",
+            "text": "精霊たちはあなたが来て喜んでいるようです。彼らは……運命の人について話しています。聞きたいですか？"
+        },
+        {
+            "title": "交流終了",
+            "filename": "File:vo_hameier_dragreturn_001.aac",
+            "text": "ちゃんと休めましたか？それでは……また。"
+        }
+    ]
+}

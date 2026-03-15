@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_zuoyi_cacha_001.aac",
+            "text": "どーも。あんたがMBCCの局長？私にやられるまでしっかり自分の身を守っときなよ。あんたの命には価値があるんだから。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_zuoyi_promotion_001.aac",
+            "text": "危険だってわかってるくせに、私の力を上げさせるんだ。私じゃ脅威にならないって言いたいのかよ！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_zuoyi_promotion2_001.aac",
+            "text": "貴方様だけの刃になると誓いましょう……ハッ……私は花庭園に斬りかかる刃。私を見下したやつは全員……ぶった切ってやる！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_zuoyi_battlebegin_001.aac",
+            "text": "私に見つかった以上、逃げられると思わないで。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_zuoyi_battlewin_001.aac",
+            "text": "こんな弱い相手……舐めてんのかよ！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_zuoyi_battlelose_001.aac",
+            "text": "こんなの……ありえない！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_zuoyi_uniqueskill_001.aac",
+            "text": "大丈夫よ。痛くしないから！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_zuoyi_dead_001.aac",
+            "text": "弱さは……罪よ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_zuoyi_greeting_001.aac",
+            "text": "へー、セキュリティけっこう固いじゃん。ふふっ……やっと私の実力を認めたんだ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_zuoyi_talk1_001.aac",
+            "text": "ここ、静かすぎて花庭園の陰湿な感じを思い出しそう。でも、紛争ばっかのシンジケートよりはましかな。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_zuoyi_talk1_002.aac",
+            "text": "花庭園には「華道」に詳しい人がたくさんいるけど……私にはわかんない。暗殺は暗殺でしょ。そんな余計なもの、いらないじゃん。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_zuoyi_talk1_003.aac",
+            "text": "「強い者」たちの悲鳴は本当に気持ちがいいよね……そう思わない？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_zuoyi_talk2_001.aac",
+            "text": "花庭園に助けられたあの時、私はあいつらみたいな殺し屋になりたいと思った。でも、は……はは……あいつら、私は弱いから花庭園にふさわしくないって！！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_zuoyi_talk2_002.aac",
+            "text": "「ゲツライコウ」は私が自分でつけた名前。花庭園から名前を貰えるのはごく一部の人だけなの……。でも今はあんたの力があるし、花庭園最強の殺し屋になったら……あはは！その時の「師匠」の顔を見るのが楽しみね！"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_zuoyi_talk2_003.aac",
+            "text": "あの「落桜」で死ぬところだった。でも、あんたがいれば……あんな技、軽く流せるはず……。ふん……次……次はあいつの番だから！"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_zuoyi_obeyfull_001.aac",
+            "text": "ありがとう、局長。花庭園の殺し屋を全部殺して、その人たちの命をプレゼントしてあげる！それから……最後にあんたをゆっくり楽しむの！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_zuoyi_idle_001.aac",
+            "text": "美しい花たちがこの町で枯れていくと思うと……ああ、楽しみすぎて震えが止まんない！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_zuoyi_clicking_001.aac",
+            "text": "心臓、動脈、脳……どこを切られたい？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_zuoyi_specialattention_001.aac",
+            "text": "そんなに私のことを気にして……私にやられるのが怖いんだ？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_zuoyi_dispatch_001.aac",
+            "text": "私が行くの？刺激的で危険な任務ってことだよね？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_zuoyi_dispatch2_001.aac",
+            "text": "あーあ、つまんない。もっと楽しめる相手だと思ったのに。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_zuoyi_levelup_002.aac",
+            "text": "見てろよ……花庭園。"
+        }
+    ]
+}

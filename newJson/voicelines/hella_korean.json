@@ -1,0 +1,240 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_hella_cacha_001.aac",
+            "text": "사람 살려, 날 내보내 주라고, 미소녀를 납치했어요!"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_hella_promotion_001.aac",
+            "text": "나 좀 더 강해진 것 같은데?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_hella_promotion2_001.aac",
+            "text": "난 이미 무적인 것 같아."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_hella_battlebegin_001.aac",
+            "text": "Gogogo!"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_hella_battlewin_001.aac",
+            "text": "휴~ 드디어 이겼네."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_hella_battlelose_001.aac",
+            "text": "하, 나 분명 더…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_hella_uniqueskill_001.aac",
+            "text": "아직 끝나지 않았어!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_hella_dead_001.aac",
+            "text": "아파…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hella_greeting_001.aac",
+            "text": "국장니임～ 이 세상에서 최고로 귀여운 엘라에게 용돈 쪼~금만 주면 안 되나요? 제발, 제발요~~ 국장님 최고예요~~!!"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_hella_talk1_001.aac",
+            "text": "무슨 일이야, 국장? 앗… 지갑? 돌려줄게, 직업병이라…"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_hella_talk1_002.aac",
+            "text": "나? 귀여운 척한다고? 누가 그래?! 근데 나 안 귀엽나?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_hella_talk1_003.aac",
+            "text": "지나간 일들을 들먹이지 마. 난 더 이상 울며불며 위안을 찾던 꼬맹이가 아니라고. 오늘 이날까지 살아남은 건, ** 다 내 덕이라고."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_hella_talk2_001.aac",
+            "text": "이 파이프의 무게며 사이즈며 촉감이 아주 그냥 날 위해 맞춤 제작한 거네. 그러니까 더 이상 무기를 바꾸라는 소리는 하지 마, 절대 포기 안 하니까!"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_hella_talk2_002.aac",
+            "text": "기회가 되면 나인티나인이랑 같이 놀자. 걔가 생긴 건 무섭지만, 사람은 되게 좋거든."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_hella_talk2_003.aac",
+            "text": "사실 난 싸움을 별로 좋아하지 않아. 쉽게 죽지야 않지만 아프잖아, 귀찮기도 하고… 걱정마 걱정마, 네가 맡긴 일은 기꺼이 할 테니까 부담 갖지마~"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_hella_obeyfull_001.aac",
+            "text": "나 결정했어, 맨날 내 꽁무니를 졸졸 따라다니는 네가 안쓰러워서 내가 선심을 베풀어 널 제자로 받아주마. 배신은 영원히 없다. 알겠냐?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hella_idle_001.aac",
+            "text": "어우 졸려… 이리 와봐, 나 좀 기대서 자게…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_hella_clicking_001.aac",
+            "text": "지금 나 마사지해주는 거야?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hella_specialattention_001.aac",
+            "text": "하, 날 찾아와줄 줄 알았어. 왜? 또 내 생각 난 거야?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_hella_dispatch_001.aac",
+            "text": "드디어 우리가 밖으로 나갈 차례야! 국장, 비용 좀 더 주면 안 되나~?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_hella_dispatch2_001.aac",
+            "text": "일 다 끝냈어, 국장. 나한테 줄 보상은 준비했겠지?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hella_levelup_002.aac",
+            "text": "아싸!"
+        }
+    ],
+    "queen_of_hearts": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_hella_hongxinnvwang_cacha_001.aac",
+            "text": "어떤 **가 이 여왕님의 낮잠을 방해하는 거야? 어서 무릎 꿇지 못해! 어라… 국장이었잖아? 잘됐다! 내 크로켓 경기를 예정대로 열 수 있겠는데!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hella_hongxinnvwang_levelup_001.aac",
+            "text": "아악! 이 쪼그만한 녀석들이 대체 왜 이러는 거야? 온종일 귀찮게 굴잖아! 에휴, 됐다. 귀여워서 봐준다…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hella_hongxinnvwang_greeting_001.aac",
+            "text": "날 만나러 올 땐 하얀 꽃을 들고 오지 마. 난 붉은 장미를 더 좋아한단 말이야. 다음에 또 그러면, 머리가 날아갈 줄 알아!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_hella_hongxinnvwang_talk_001.aac",
+            "text": "이 지팡이의 무게와 크기, 그립감, 그리고 '블링블링'한 광택까지… 그야말로 나를 위해 특별 제작된 녀석이잖아! 게다가… 가장 중요한 건, 대가리가 엄청 크다는 거야! 비주얼이 아주 그냥 예뻐 미쳐!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_hella_hongxinnvwang_talk_002.aac",
+            "text": "과일이랑 생크림이 가득 박힌 그거 먹고 싶어! 그… 타, 뭐였는데…? 아, 맞다! 과일 타르트! 아, 먹고 싶어~ 빨리 만들어 줘!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hella_hongxinnvwang_idle_001.aac",
+            "text": "이제 곧 티파티 시간이야~ 국장, 얼른 세팅해… 왜냐고? 여기서 내가 아직 부숴버리지 않은 하인은 너뿐이니까."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_hella_hongxinnvwang_clicking_001.aac",
+            "text": "또 그러면 네 머리를 내 발밑에 두고 매트로 쓸 줄 알아."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hella_hongxinnvwang_specialattention_001.aac",
+            "text": "크흠, 우리의 평등한 관계를 유지하기 위해 여왕의 이름으로 너에게… 야! 이 자식, 또 족쇄로 이상한 짓하네!"
+        }
+    ],
+    "food_tour": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_hella_meishizhilv_cacha_001.aac",
+            "text": "헤헤, 여기서 먹을 거 시키는 건 정말 편해, 그림만 보면 되잖아! ** 왜 그런 눈빛으로 보는 건데, 흥… 경고하는데 난 지금 글 많이 알아보거든? 자꾸 그 얘기 꺼내지 말라고!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hella_meishizhilv_levelup_001.aac",
+            "text": "…맛이 꽤 있잖아."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hella_meishizhilv_greeting_001.aac",
+            "text": "나는 또 나와서 또 무슨 괴물이랑 한바탕 싸워야 하는 줄 알았잖아, 와보니 결국은 치킨과 감자튀김뿐인데. 이건 설마 괴변체가 우리를 유혹하기 위해 만든 함정은 아니겠지! …아 됐어, 몰라! 매번 이런 블랙링이 폭발하면 좋겠네…"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_hella_meishizhilv_talk_001.aac",
+            "text": "네 사무실에 있는 그 쓰디쓴 것보다는 훨씬 맛있잖아? 만약에 나한테 빌어본다면 네가 한 입 먹게… 줄 수도 있지."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_hella_meishizhilv_talk_002.aac",
+            "text": "나인티나인은 왜 고기구이만 좋아하는지 모르겠어, 햄버거도 엄청 맛있는데… 다음에 기회가 된다면 여기로 데리고 와야겠다!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hella_meishizhilv_idle_001.aac",
+            "text": "어이, 물어볼 게 있는데, 이곳의 목요일은 무슨 특별한 것이라도 있어? 왜 이날만 되면 이곳에 와서 밥 먹는 사람이 이상한 소리를 하는 건데? 뭐… 안 온 사람도 그 말을 한다고? 이상해… 진짜 1도 이해가 안 가."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_hella_meishizhilv_clicking_001.aac",
+            "text": "왜, 밥 먹을 땐 말 걸지 마! 감자튀김에 케첩을 찍어야지 왜 그레이비소스를 찍어 먹냐고? 아… 안 들려 안 들려, 국장 바보!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hella_meishizhilv_specialattention_001.aac",
+            "text": "어때, 이 포크 엄청 멋지지! 그리고… 더 중요한 건, 이건 그 사람들이 내게 사진을 찍어준 다음에 직접 준 거야! 흥흥, 공짜로 받은 게 항상 좋은 것이지!"
+        }
+    ],
+    "northward_to_whitesands": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_hella_shahaiqilv_cacha_001.aac",
+            "text": "바늘이 가리키는 곳은 북쪽, 목적지는 화이트 샌드 중심! 모두 길을 비켜라, 엘라 님의 위대한 모험이 시작된다!!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hella_shahaiqilv_levelup_001.aac",
+            "text": "우와, 모험 경비? 조금만 더 주라, 응?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hella_shahaiqilv_greeting_001.aac",
+            "text": "헤이! 햇살 좋을 때 빨리 가자. 저 앞에 보물이 우리를 기다리고 있다고!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_hella_shahaiqilv_talk_001.aac",
+            "text": "아까 길에서 어떤 나쁜 놈들이 보호비 명분으로 돈을 뜯어 가는 거 있지? 그래서 이 ***들을 ** 후려갈겼더니, ** *울더라? 나 혼자서 때려눕혔어! 어때, 진짜 멋있지?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_hella_shahaiqilv_talk_002.aac",
+            "text": "헤카테의 이야기책에서 본 건데, 사막 저 안쪽에 전설의 사막 도적 바바 뭐시기가 숨겨놓은 동굴이 있대. 그 안에는 엄청난 보물이 있는데, 디스 사람들이 평생을 써도 다 못 쓸 정도로 많대! 크흠, 마침 경험을 쌓으러 나왔으니, 슬쩍 보고 올까? 혹시라도… 그 이야기가 진짜일지도 모르잖아? 헤헤…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hella_shahaiqilv_idle_001.aac",
+            "text": "떠나기 전에 국장 주머니에서 몇 개월 치 용돈을 '선불'받았던 게 참 다행이네. 밖에서 돈을 이렇게 빨리 써버릴 줄은 몰랐어… 에휴, 바보 국장이랑 헤카테는 지금 뭘 하고 있으려나…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_hella_shahaiqilv_clicking_001.aac",
+            "text": "뭐야? 전설의 모험가 엘라 님이랑 악수하고 싶어? 한 번에 200 디스 코인. 선지급이다?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hella_shahaiqilv_specialattention_001.aac",
+            "text": "내 모험은 동화책에 나오는 이야기보다 훨씬 흥미진진하다고! 일지에 적어둘 테니까, 내가 돌아가면 한 번씩 읽어봐. 대신 약속해, 이번엔 맞춤법 지적하지 않기로!"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_hypatia_cacha_001.aac",
+            "text": "フィシャ研究所の研究員、ヒパティア・キャンベルよ。今回の訪問の目的は、天災防御に関する技術交流と共存の可能性を探ること……この協力が円滑に進むことを願うわ、局長閣下。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_hypatia_promotion_001.aac",
+            "text": "制限のない力は、破滅をもたらすだけよ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_hypatia_promotion2_001.aac",
+            "text": "決めたからには……後悔も振り返りもしないこと。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_hypatia_battlebegin_001.aac",
+            "text": "目立たず、さっさと終わらせましょう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_hypatia_battlewin_001.aac",
+            "text": "全て、あなたの望み通りに。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_hypatia_battlelose_001.aac",
+            "text": "もう1回よ。次はもっと上手くできるはず。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_hypatia_uniqueskill_001.aac",
+            "text": "バラが、瞳に咲く。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_hypatia_dead_001.aac",
+            "text": "ここで……やめるべきだった……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hypatia_greeting_001.aac",
+            "text": "こんにちは、局長閣下。今日の仕事を始める前に、キャンベルのバニラティーはいかが？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_hypatia_talk1_001.aac",
+            "text": "狂瞳を用いて金属を精製し、完全になるまで物質を分解、転移、再構築する……灰の結晶を操れば、天災に立ち向かう力を手に入れられるのよ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_hypatia_talk1_002.aac",
+            "text": "枷を解放し、狂瞳を抑え込み、ブラックリングを呑み込む。キャンベルがどれほど求めても手に入れられなかった技術が、たった一人の身に全て宿るなんて。一体どれほど残酷な過去が、今のあなたを作り上げたのかしら？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_hypatia_talk1_003.aac",
+            "text": "ディスから来たお嬢さんから色々と預かっているわ。あなたに渡してほしいって頼まれたの。手紙が何通かと、記念品がいくつか。それから……あなたの名前が書かれた借用書？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_hypatia_talk2_001.aac",
+            "text": "キャンベル一族は、成人の儀式でそれぞれ黄金のバラを授けられるのよ。それは栄誉であり、同時に責任でもあるわ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_hypatia_talk2_002.aac",
+            "text": "石を金に変えるのは、そう難しいことではないわ。ただ、そのために払う「代償」は、成果以上に高くつくわよ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_hypatia_talk2_003.aac",
+            "text": "故郷を失い、救いを求める人々の泣き声が聞こえるわ。でも、彼らは黄金でできた門に阻まれ、その声も風と砂にかき消されていく……局長、教えて。この未来は本当に正しいのかしら？私には……答えが出ないの。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_hypatia_obeyfull_001.aac",
+            "text": "いつか私もあなたのように勇敢になりたいわ。規則を覆し、自由で揺るぎない意志で、自分の道を選べるように。その日が来るまで、どうか傍にいて。私の勇気の源であり続けてほしいの。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hypatia_idle_001.aac",
+            "text": "原理さえ解明できれば、逆算して本質に辿り着き、それを再現できる。でも、あなたは違うわ。あなたの抱える謎はあまりにも複雑で……解析には、もう少し時間が必要かもしれない……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hypatia_clicking_001.aac",
+            "text": "ディスのもてなしは、あまりにも無礼だわ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hypatia_specialattention_001.aac",
+            "text": "時に、視線が伝える情報は言葉より鮮明なことがあるのよ。例えば……あなたが私を見つめる時、恋しく思っているんじゃない？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hypatia_dispatch_001.aac",
+            "text": "誰がやるべきかしら？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_hypatia_dispatch2_001.aac",
+            "text": "え？これだけで足りるというの？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hypatia_levelup_002.aac",
+            "text": "あなたの支援は本当に助かるわ、ありがとう。"
+        }
+    ],
+    "hypatia_-_rank_up": [
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hypatia_head_001.aac",
+            "text": "複雑な髪型は行動に支障をきたすけれど……見た目を整えるのも貴族の義務よ。"
+        }
+    ],
+    "crepuscular_bloom": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hypatia_yeyinjinqiang_cacha_001.aac",
+            "text": "「水銀の輪が輝く時、ここに黄金のバラが咲く」。あなたは私の謎を解き明かし、約束通り来てくれた……それなら、私も決意と勇気をもってあなたに報いましょう。さあ、私を連れて行って。一緒にもっともっと遠くへ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hypatia_yeyinjinqiang_levelup_001.aac",
+            "text": "夜風はこんなにも自由よ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hypatia_yeyinjinqiang_greeting_001.aac",
+            "text": "最初から分かっていたわ。余計なヒントや言葉がなくても、あなたならここに辿り着けると。だって……ここは私たちが出会った場所だから。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hypatia_yeyinjinqiang_head_001.aac",
+            "text": "今までこんな風に髪を編んで舞踏会に出席したことはなかったわ。でも、今は違う。今夜が終われば、私の髪は家族の体面を守るための道具ではなくなる。あなたと私の意志だけが、それを形作ることができるの。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hypatia_yeyinjinqiang_body_001.aac",
+            "text": "私も考えたことがあるわ。どうして、あなたはあなたで、あなたじゃなければならないのか……私たちは異なる立場にあって、陣営も対立している。本来、お互いを選ぶべきではなかった。でも、あなたのことを考えると、生まれ持った「役目」が重要ではなくなるのよ……きっと、これが答えなんでしょうね。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hypatia_yeyinjinqiang_body_002.aac",
+            "text": "子供の頃、私はよく家の中で迷子になっていたわ。でも後になって気付いたのよ。この場所は最初から、帰り道を見つけられるようにできていないと。だけど、あなたは……いつも軽々と棘が這う壁を越えて、正確に私を見つけることができるのね。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hypatia_yeyinjinqiang_leg_001.aac",
+            "text": "ロングスカートもハイヒールも動きづらいけれど、身分の象徴でもあるわ。だから家族は、その服装にふさわしくない場所へ私が行くことを決して許さなかった。それが大切に思われている証だと、愚かにも信じていたわ。でも、あなたと出会って初めて知ったの。守ることは、縛ることと同義ではないのだと。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hypatia_yeyinjinqiang_background_001.aac",
+            "text": "この邸宅は、今までの私の人生全てを背負っているわ。ここから逃げることは、簡単な決断ではなかった……でも、あなたが私に教えてくれたのよ。バラはその名で呼ばれなくても、変わらず香り高いように、家族から離れても、私は変わらず自分の価値を発揮し続けられると。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hypatia_yeyinjinqiang_idle_001.aac",
+            "text": "守衛が戻ってくる時間だわ。本当に、このまま空を眺め続けてもいいのかしら？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hypatia_yeyinjinqiang_specialattention_001.aac",
+            "text": "あなたの目は、私が何をしても受け止めると言っているかのようだわ。たとえ今、ここから飛び降りたとしても、あなたはしっかり私を抱き締めてくれるのでしょうね……"
+        }
+    ]
+}

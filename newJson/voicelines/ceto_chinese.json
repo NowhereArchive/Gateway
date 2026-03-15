@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_ceto_cacha_001.aac",
+            "text": "真新鲜，你把我从风暴中拖出来，就是为了扔进下一个战场？哼……好啊，那我也顺便看看你这位新长官，有没有活到最后的本事。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_ceto_promotion_001.aac",
+            "text": "只有命够硬，心够狠，才能从黑潮里活下来。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_ceto_promotion2_001.aac",
+            "text": "我是最后的守塔人，我所站的地方，即是灯塔最后一道防线。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_ceto_battlebegin_001.aac",
+            "text": "做好心理准备，风暴后的海是最脏的。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_ceto_battlewin_001.aac",
+            "text": "啧，这点货色也配让我动刀？"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_ceto_battlelose_001.aac",
+            "text": "算那些畜生走运。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_ceto_uniqueskill_001.aac",
+            "text": "风暴已至！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_ceto_dead_001.aac",
+            "text": "退潮了……终于，能归队了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_ceto_greeting_001.aac",
+            "text": "听脚步声就知道是你。这地方连海鸟都不敢落脚，只有不怕死的疯子会靠近……你算一个。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_ceto_talk1_001.aac",
+            "text": "在黑潮里生活可比这儿简单得多，不排班，不轮岗，天亮休息，天黑赌命。「一天」和「一年」对守塔人来说没有差别。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_ceto_talk1_002.aac",
+            "text": "磁带和海景不是消耗品，我可以分你一点，不用谢我，我很大方。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_ceto_talk1_003.aac",
+            "text": "海浪听久了会有节奏，像呼吸，也像倒计时……等浪的节奏乱了，怪物就要上岸了。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_ceto_talk2_001.aac",
+            "text": "生、死、冷、热，对我来说不过都是些参数和风险等级，你总想在这堆无聊的军务里塞点“人情味”，打乱我的生活……啧，算了，反正你已经打乱了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_ceto_talk2_002.aac",
+            "text": "岛上风浪最大的时候，怪物会从西边崖口顺水冲上来。我守着崖口，一脚下去踩到的不是烂泥就是骨头。到后来我都分不清脚下的是敌是友，是昨天的我，还是明天的我。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_ceto_talk2_003.aac",
+            "text": "我以为自己是最熟悉灯塔的人，你不过是个迷路误闯进来的累赘……但现在想想，或许你比我更清楚什么才是真正的灯塔。你找到信标了，我却还在路上。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_ceto_obeyfull_001.aac",
+            "text": "战友的铭牌我一直随身带着，就好像我还在守塔人的队伍中。至于我自己的铭牌……我会放在07号灯塔的塔顶。如果我不在了，你来取走它吧。不是留念，是交接。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_ceto_idle_001.aac",
+            "text": "安静地自娱自乐是孤岛生存第一课，恭喜你，总算学会了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_ceto_clicking_001.aac",
+            "text": "觉得冷就自己找个炉子，还没到需要抱团取暖的时候。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_ceto_specialattention_001.aac",
+            "text": "想陪我？可以，但别站那儿发呆。海风不养闲人。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_ceto_dispatch_001.aac",
+            "text": "啰嗦。我知道要带什么，饿不死你的。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_ceto_dispatch2_001.aac",
+            "text": "补给到了，够撑一阵。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_ceto_levelup_002.aac",
+            "text": "刀习惯了沾血，我也是。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_ceto_head_001.aac",
+            "text": "手不想要了就直说。"
+        }
+    ]
+}

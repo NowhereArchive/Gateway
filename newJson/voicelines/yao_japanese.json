@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_yao_cacha_001.aac",
+            "text": "儂を召喚したのはうぬか？金烏が出現すれば、作物は焼け焦げ、草木は枯れ、人間は食うに困ることとなろう……凡人よ、覚悟せい。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_yao_promotion_001.aac",
+            "text": "感謝する……何も思い出せはしなかったが。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_yao_promotion2_001.aac",
+            "text": "炎に焼かれた羽は、うぬのために川を守ろう。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_yao_battlebegin_001.aac",
+            "text": "至る所で、民が塗炭の苦しみをなめることがなくなるよう願う。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_yao_battlewin_001.aac",
+            "text": "炎の中で奴らを切り捨てる……儂もかつてはこうだったのであろうか。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_yao_battlelose_001.aac",
+            "text": "問題ない……金烏の身体は痛みを感じぬ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_yao_uniqueskill_001.aac",
+            "text": "天照流火——"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_yao_dead_001.aac",
+            "text": "端から……災厄となる運命だったのだ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_yao_greeting_001.aac",
+            "text": "日の出の勝報？……いや、儂を呼ぶうぬの声か。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_yao_talk1_001.aac",
+            "text": "伝説によれば、儂は太陽の裂け目から生まれ出たと言われておる……噂とは怖いものよ。儂は狂瞳病から生まれた存在だというのに……おっと、こういう言い方はまずかったか？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_yao_talk1_002.aac",
+            "text": "飢えや貧困、殺戮は、原野に火をくべるようなもの。始まれば決して終わらぬ。災厄と共に歩んできたうぬの苦労を称えよう。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_yao_talk1_003.aac",
+            "text": "儂のためにこの身体を見つけ、天災のないこの街の姿を見せてくれたこと、感謝する……かつての儂は、ようやく黄昏時に安らかに眠れるであろう。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_yao_talk2_001.aac",
+            "text": "こめかみがわずかに膨らみ、眉間は赤く、うぬの人相は……緊張するでない。これは吉兆だ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_yao_talk2_002.aac",
+            "text": "恐怖と信仰は共存するもの。儂は人々から恐れられる存在にならねばならん……もし過去に戻る機会があれば……儂はきっと、うぬと膝を交えて話すであろう。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_yao_talk2_003.aac",
+            "text": "儂は全ての生き物を守れぬかもしれんことを憂い、その反動で新たな災難をもたらすのではないかと恐れていた……だが今は何もかも安泰で、幸いにも儂にはうぬがいる。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_yao_obeyfull_001.aac",
+            "text": "次に十日が射落とされる時は、うぬが弓を持て。君子の矢にて落ちる所が、儂の帰る場所だ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_yao_idle_001.aac",
+            "text": "赤い炎が薄雲を燃やし、熱気が空を覆い、この世に災いの星が降るであろう！……おお、それは儂のことであった。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_yao_clicking_001.aac",
+            "text": "人間の体温とはこのようなものなのか……儂も、うぬに触れられたら良いのだが。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_yao_specialattention_001.aac",
+            "text": "なんと、うぬか……太陽を直視する勇気のある人間がいるとはのう。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_yao_dispatch_001.aac",
+            "text": "珍しく悠々と散歩ができるのう。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_yao_dispatch2_001.aac",
+            "text": "これが浮世の宝か？儂はこれを……よう知っておる……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_yao_levelup_002.aac",
+            "text": "照らそうぞ……より広い領域を。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_yao_head_001.aac",
+            "text": "太陽の輝きは、決して霞ませてはならぬ！"
+        }
+    ],
+    "fireborne_offering": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_yao_wujitianzhu_cacha_001.aac",
+            "text": "祭礼始まり、神に舞う。今日、巫覡は天地に舞捧げ、百の儀を成す。儂は……天啓を全ての人々に伝え、我が故郷に祝福を与えん。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_yao_wujitianzhu_levelup_001.aac",
+            "text": "神々の声がよりはっきりと聞こえるようになった。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_yao_wujitianzhu_greeting_001.aac",
+            "text": "ほう、今日占いで上上吉が出たのだが、なるほどうぬが来たからか。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_yao_wujitianzhu_head_001.aac",
+            "text": "よくもこのようなことを！凡人が儂に不敬を働くなど——冗談だ。だが、祭礼が終わるまで儂の髪飾りを乱すでない。全てに魂が宿っているゆえ、整え直すのは手間がかかるからのう。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_yao_wujitianzhu_body_001.aac",
+            "text": "古いことわざには、このような言葉がある。賢者、祭礼を行いし時、必ずその言動に誠実であれ……ふむ、儂はそれほど誠実ではないが、皆の願いにはとても忠実だ！ゆえに、儂を先祖の言葉にある「賢者」と言っても差し支えないであろう？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_yao_wujitianzhu_body_002.aac",
+            "text": "ゴホン。今日の占いの結果は、「古きものを取り除く」……ふむ、つまり、この塗装が剥がれた法器を交換すべきだと神が言っているということだな！"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_yao_wujitianzhu_hand_001.aac",
+            "text": "祭礼の舞では一挙手一投足に誤りは許されぬ。以前はわずかな誤りも許さぬなど、神はなんと器の小さいことかと思っておったが……今は、この舞を楽しみにしているのが神だけではないと知っておる。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_yao_wujitianzhu_clothes_001.aac",
+            "text": "これは巫覡が代々受け継いできた祭服で、一針一針に先人たちの加護と祝福が込められておる。次の巫覡がこれを着て舞う時、儂が残した祝福を感じられるであろうか？楽しみだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_yao_wujitianzhu_idle_001.aac",
+            "text": "ふむ、この災いを回避するにはどのような物語が良いであろうか……おお、これだ！「石獅子の赤き目は、大地が滅びる前兆」。今宵、祭壇の石獅子に豚の血を塗り、明日この危機を伝えよう。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_yao_wujitianzhu_specialattention_001.aac",
+            "text": "神を喜ばせるこの舞が気に入ったか？ならば、曲が終わるまで儂を見て、儂を信じよ。"
+        }
+    ]
+}

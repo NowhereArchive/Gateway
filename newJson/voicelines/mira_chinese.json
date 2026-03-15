@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_mira_cacha_001.aac",
+            "text": "“舟车劳顿”、“一路辛苦”……这些问候的话语通常都是由我来说的，没想到这次居然也当了一回客人。在我们那里，为远道而来的客人送上一杯清凉的薄荷茶象征着最高的礼仪和尊敬，你们狄斯又是怎么样迎接客人的呢？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_mira_promotion_001.aac",
+            "text": "房费已收到，入住愉快~"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_mira_promotion2_001.aac",
+            "text": "是啊，日落总是最美的……因为这是一些人可以看见的，最后一缕阳光了。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_mira_battlebegin_001.aac",
+            "text": "哎呀哎呀，别打了，至少别在我这里打呀！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_mira_battlewin_001.aac",
+            "text": "呵呵，都是大家的功劳，我并没有做什么。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_mira_battlelose_001.aac",
+            "text": "……是哪一环出了纰漏？还是……对方看透我了？有趣。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_mira_uniqueskill_001.aac",
+            "text": "该收网了！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_mira_dead_001.aac",
+            "text": "白沙……将会掩埋一切……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mira_greeting_001.aac",
+            "text": "你好呀，休息得怎么样了？要不要来一小口老板娘特调的仙人掌精酿提提神呢？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_mira_talk1_001.aac",
+            "text": "开旅店嘛，总免不了和各种各样的客人打交道。但无论来自哪里的客人，只要生活在了同一片屋檐下，那就跟一家人没什么分别。家人之间呢，只要多一些互相包容，很多摩擦和冲突自然也就解决了。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_mira_talk1_002.aac",
+            "text": "其实我还挺喜欢收拾房间的，不是什么难事也花不了多少力气。房间里的每样东西都得待在它该待的位置，特别是那些我为客人们精心布置好的“小惊喜”，可千万不能被弄乱了呀……"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_mira_talk1_003.aac",
+            "text": "我店里唯一的规矩就是在这片屋檐下必须停战。至于让那些家伙乖乖听话的办法嘛……呵呵，其实也没什么特别的，这个老板娘当得久了，自然就知道该怎么办了。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_mira_talk2_001.aac",
+            "text": "工作再忙也不能忘了吃饭哦，来，休息一下，尝尝我亲手做的沙漠小羊排！说起来你管理这个MBCC似乎跟我经营旅店也有些共通之处，如果是遇上困难了，那不妨来和我聊聊吧~！"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_mira_talk2_002.aac",
+            "text": "小时候我经常听父母提起狄斯，他们说这里没有烦人的砂盗和恶劣的气候，只要来了这里一切就都能变好……但其实哪里都是一样的吧？只有自己足够强大了，才能不被人欺负，真正拥有立足之地。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_mira_talk2_003.aac",
+            "text": "在我的家乡，大家都喜欢在夜里围着篝火唱歌跳舞，开怀畅饮。生活的艰难打不垮我们的热情和斗志，哪怕在最困难的时候也一样要笑得大声、唱得响亮……有机会的话跟我一起回去看看吧，你会喜欢那里的。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_mira_obeyfull_001.aac",
+            "text": "假如你选择只当一个规规矩矩的客人，我和这间旅店自然会用所有的温馨宜人来回馈你。可既然你并不满足于此，那我愿意信任你一次，暴露我藏起来的一切，带你去看看那些隐藏在暗处的，不那么美好的东西。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mira_idle_001.aac",
+            "text": "……我来给你唱一首家乡的小调吧~以前，母亲也是这样哄我睡觉的。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_mira_clicking_001.aac",
+            "text": "哈哈哈，好啦，小心一些，这些首饰是我昨晚刚打磨好的，小心它们……弄伤你哦。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mira_specialattention_001.aac",
+            "text": "来我这的客人，都爱这么盯着我看，我能从他们的眼中看到各种各样的小心思……可是，我为什么会看不透你在想什么呢……？能告诉我吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mira_dispatch_001.aac",
+            "text": "平时旅店的采购也是我来做的哦~这种活儿就放心交给我吧！"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_mira_dispatch2_001.aac",
+            "text": "采购的时候注意到你的清单里似乎还有一些缺漏，我就顺便一起补上了。不用谢我，举手之劳~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mira_levelup_002.aac",
+            "text": "还需要什么客房服务，随时吩咐就是。"
+        }
+    ]
+}

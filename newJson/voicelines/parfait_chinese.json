@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_parfait_cacha_001.aac",
+            "text": "哦尊敬的局长阁下，我想这一定是有什么误会。以防您不了解，我是芭·菲，是名金融家和慈善家，绝不是什么非法人士。狄斯城各行各业都有我的朋友，他们能为我作证……欸等等，请让我把话说完啊——"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_parfait_promotion_001.aac",
+            "text": "感谢您的信任。“芭·菲”这支概念股，就是这样一次又一次涨停翻番的。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_parfait_promotion2_001.aac",
+            "text": "不必太担心，在狄斯城这个最大的泡沫面前，我弄虚作假的本领也不过是些无伤大雅的小伎俩罢了，不是嘛？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_parfait_battlebegin_001.aac",
+            "text": "您是有什么项目需要我帮忙评估吗？没问题，我会好好把关的。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_parfait_battlewin_001.aac",
+            "text": "赢家通吃！果然选择您是我做过最正确的决定。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_parfait_battlelose_001.aac",
+            "text": "再怎么盛大的假象，也只是泡沫，终归还是会有破灭的一天。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_parfait_uniqueskill_001.aac",
+            "text": "全盘涨停！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_parfait_dead_001.aac",
+            "text": "到头来……还是一场空……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_parfait_greeting_001.aac",
+            "text": "我的运气不错，今天醒来遇见的第一个人就是阁下，看来接下来一整天都能有个好心情了。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_parfait_talk1_001.aac",
+            "text": "所谓“芭·菲”的晚餐，其实就是很多人找我寻求投资建议，或者干脆希望我带资入场的。但享用晚餐这么美好的时光，我更乐意和那些有趣的，充满故事的人一起度过……就比如阁下这样的，今晚有时间赏光么？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_parfait_talk1_002.aac",
+            "text": "哦我的天啊，差点忘了今天有个画展。我得赶紧联系画廊……看在我这个老主顾的份上，但愿他们能留几幅精品。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_parfait_talk1_003.aac",
+            "text": "我其实不懂“印钞”，对特定的纸张啊、水印啊什么的更是一知半解……但这不重要。货币的价值本就来自人们对它的信任。大家都愿意相信我，所以自然也没人会质疑从我手里流出来的钱。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_parfait_talk2_001.aac",
+            "text": "您的采购办负责人，就是那位紫色头发的菲小姐，她很有趣，不仅口舌伶俐，还总能让人忍不住购买她手里的那些小玩意儿。我和她可聊得来了……而且您看，我们就连名字里都一样带个“菲”字，说不定是失散的亲戚呢。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_parfait_talk2_002.aac",
+            "text": "这座城市里到处都是我的朋友，他们给予过我物质上的帮助，精神上的乐趣……所以我当然要予以回馈！美食、艺术、旅行……无论想要什么，只要我有，都可以与这些可爱的朋友们分享。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_parfait_talk2_003.aac",
+            "text": "嘿我的朋友，明天愿意和我一起去听新城剧院的音乐会吗？不用纠结身份、花销之类没有意义的问题。美好的事物就该被所有人享用。反倒是创造贫富啊阶级啊之类壁垒的家伙，就只能靠阻碍别人来获得优越感……那种人才是最没品味的呢。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_parfait_obeyfull_001.aac",
+            "text": "我的事业很庞大，也的确有些“小小的”风险，这些年我越发觉得需要一位……嗯，合伙人。这个人是什么身份不重要，但必须聪明、勇敢、有一副好心肠，最重要的是……希望他能相信我。我想和他分享一些真正的秘密。阁下就是我心目中最完美的人选了。怎么样，您意下如何？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_parfait_idle_001.aac",
+            "text": "睡着了？好好睡吧，美梦大概是唯一钱也买不来的好东西了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_parfait_clicking_001.aac",
+            "text": "喜欢我的这些衣服配饰？放心，不是假货，我辛辛苦苦“创造财富”当然是为了买真东西啦。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_parfait_specialattention_001.aac",
+            "text": "哦我亲爱的朋友，既然你来了，就多陪我聊聊吧，我对你经历过的那些惊心动魄的故事可太感兴趣了。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_parfait_dispatch_001.aac",
+            "text": "是去剧院？还是艺术展？我对这些地方都和自家后花园一样熟悉。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_parfait_dispatch2_001.aac",
+            "text": "路上遇见几个财经新闻的记者……好险，还好我反应快，不然一定被堵着回不来了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_parfait_levelup_002.aac",
+            "text": "这是……对我的投资？看来阁下最近的进账颇丰呀。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_parfait_head_001.aac",
+            "text": "有眼光，这是上庭都在流行的发型款式，可不是人人都会做的。要不我把那位理发师介绍给您？"
+        }
+    ],
+    "salon_rosé": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_parfait_guiyishalong_cacha_001.aac",
+            "text": "我总是很怜惜那些带着旧琴与信念走进我这儿的年轻人，若你也和他们一样是来恳求我的帮助，那请放心吧，我所给予的不是施舍，而是你们最需要的——赏识。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_parfait_guiyishalong_levelup_001.aac",
+            "text": "嗯~这才是真正的艺术。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_parfait_guiyishalong_greeting_001.aac",
+            "text": "你来了？快请入座。不用这样束手束脚的，无论你手上拿着的是账单还是曲谱，我都会欣然接纳。请记住，这厅堂和金库，随时愿意为你这样充满音乐艺术的灵魂敞开。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_parfait_guiyishalong_head_001.aac",
+            "text": "据说在上流社会，发髻一度是越高越好，甚至有位贵妇盘得太高，招来一只小鸟，停在她头上唱了一整曲。呵呵，但没想到我这做了三小时的发型，真引来了我亲爱的百灵鸟驻足啊~"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_parfait_guiyishalong_body_001.aac",
+            "text": "这些画挂在那里，可不是为了给人看价签上的零。对我来说，艺术品的价值与价格无关，它们不是奢侈品，而是点缀生活、充实生活的必需品。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_parfait_guiyishalong_body_002.aac",
+            "text": "我见过太多人用财富筑墙，把他人拒之门外，还美其名曰筛选，我不喜欢这样。财富应该用来铺路，让有心人走得更远，让本该所有人共享的美好，更唾手可得。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_parfait_guiyishalong_hand_001.aac",
+            "text": "其他贵族总是推崇整齐一致的珍珠链子，形状好色泽净不算什么，大小也得全都一样。我却觉得那样没什么意思，珍珠也像艺术一样，千篇一律不可取，得各有性格才贵重。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_parfait_guiyishalong_background_001.aac",
+            "text": "你也注意到它的缎子蝴蝶结和纯金项圈坠了？这是我资助过的一位设计师成名后送给我的，概念是“生命可以平等地享受装饰艺术”，是个有趣的题材。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_parfait_guiyishalong_idle_001.aac",
+            "text": "唉，我知道我收藏的这些杰作，总是能刺激到你们这些艺术家的灵感，叫你们忘记一切，满脑子只有创作。真拿你没办法，去吧去吧，这也算是我对你的另一种资助了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_parfait_guiyishalong_specialattention_001.aac",
+            "text": "啊，这种注视我见过……是艺术家凝视一件他想描绘的事物时才有的神情。如果你是在尝试用自己的方法定格我此刻的样子……我该摆个更优雅的姿势吗？"
+        }
+    ]
+}

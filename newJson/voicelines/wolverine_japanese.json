@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_langhuan_cacha_001.aac",
+            "text": "……今度は誰だ？来るな。下がれ……下がれ！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_langhuan_promotion_001.aac",
+            "text": "強くなった、のか？……おい、お前……俺に何をした？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_langhuan_promotion2_001.aac",
+            "text": "おい、このうさぎ……やるよ。お前は俺が強くなる手助けをしてもらった。だから肉をやる。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_langhuan_battlebegin_001.aac",
+            "text": "……ついてこい。危険だ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_langhuan_battlewin_001.aac",
+            "text": "晩飯は肉だ！約束は守ってもらうぞ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_langhuan_battlelose_001.aac",
+            "text": "さっきのはだめだ。もう一回。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_langhuan_uniqueskill_001.aac",
+            "text": "おい、逃げるな！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_langhuan_dead_001.aac",
+            "text": "うぅ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_langhuan_greeting_001.aac",
+            "text": "チチッチチチ……ああ、お前か。なんでもない。ピーちゃんと話しているだけだ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_langhuan_talk1_001.aac",
+            "text": "錆の川ではミスは許されない。でないと……面倒なことが起きる。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_langhuan_talk1_002.aac",
+            "text": "「金」……ってなんだ？　なんであいつらはそれを欲しがるんだ？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_langhuan_talk1_003.aac",
+            "text": "ピーちゃんはペットじゃない。昼飯だ。まぁ……脂肪が多くて食べられないんだけどな。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_langhuan_talk2_001.aac",
+            "text": "おい！そいつは何だ？ゴミを…食べてるのか？き、来たぞ！そーじ？ろぼっと？お、俺に近づけるな！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_langhuan_talk2_002.aac",
+            "text": "前にあいつらが言ったんだ。俺は野良犬には家がないってな。今は、そうじゃない……。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_langhuan_talk2_003.aac",
+            "text": "お前がどこへ行っても傍にいる。もし俺を置いて行くなら、お前を探しに行くさ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_langhuan_obeyfull_001.aac",
+            "text": "お前は他の人間とは違う。なんでかは……わからない。ただ、そう感じるだけだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_langhuan_idle_001.aac",
+            "text": "おい！おい？それで眠れるのか？……ピーちゃんと同じだな。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_langhuan_clicking_001.aac",
+            "text": "何するんだ？！俺は犬じゃないぞ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_langhuan_specialattention_001.aac",
+            "text": "なんで俺を見てる？目的はなんだ！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_langhuan_dispatch_001.aac",
+            "text": "おい。お、お前は……行かないのか？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_langhuan_dispatch2_001.aac",
+            "text": "おい、やるよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_langhuan_levelup_002.aac",
+            "text": "つまらないな。"
+        }
+    ],
+    "summer_splash": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_langhuan_kuxiajiyang_cacha_001.aac",
+            "text": "こんなとこ来たくなかったけど……ピーちゃんはここが好きみたいだ。でも……なんで水遊びに着替えが必要なんだ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_langhuan_kuxiajiyang_levelup_002.aac",
+            "text": "水の掛け合い？俺は負けないぞ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_langhuan_kuxiajiyang_greeting_001.aac",
+            "text": "お前も水遊びするか？じゃあ、この角が生えた馬をやる……水に浮くからな。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_langhuan_kuxiajiyang_talk1_001.aac",
+            "text": "チチッチチチ……ピーちゃんが、このカラフルなおもちゃが綺麗だって言ってる。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_langhuan_kuxiajiyang_talk1_002.aac",
+            "text": "遊んでるんじゃない。シャンプーしてるだけだ！綺麗にしたら……おいしくなるだろ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_langhuan_kuxiajiyang_idle_001.aac",
+            "text": "うん……ここの水は、錆の川のゴミだらけで腐った水より全然マシだ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_langhuan_kuxiajiyang_clicking_001.aac",
+            "text": "おい、水をかけるな！目に入るだろ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_langhuan_kuxiajiyang_specialattention_001.aac",
+            "text": "ズボンが濡れただけなのに、なんでじっと見てくるんだ？"
+        }
+    ]
+}

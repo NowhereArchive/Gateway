@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_mantis_cacha_001.aac",
+            "text": "당신 몸에서… 그것들과 다른 신기한 냄새가 나요… 겁먹을 필요 없어요. 포기하지 마요. 제가 곧 구해줄 테니…"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_mantis_promotion_001.aac",
+            "text": "더 강해진 이 몸이 마음에 드나요?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_mantis_promotion2_001.aac",
+            "text": "개체의 변이는 한계가 있는데… 제가 해냈어요… 이 상태를 기록해 놔야겠어요…"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_mantis_battlebegin_001.aac",
+            "text": "불쌍한 것… 편히 잠들기를…"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_mantis_battlewin_001.aac",
+            "text": "약육강식은 자연의 법칙이죠."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_mantis_battlelose_001.aac",
+            "text": "괴로워하지 말아요… 도망치는 것도 훌륭한 생존 전략이니까."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_mantis_uniqueskill_001.aac",
+            "text": "잡았다!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_mantis_dead_001.aac",
+            "text": "아악……"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_mantis_greeting_001.aac",
+            "text": "익숙한 냄새… 당신이군요. 그럴 줄 알았어요! 당신이 돌아오길 기다렸거든요… 절 데려가 줄 수 있나요? 전 여기 갇혀 있고 싶지 않아요…"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_mantis_talk1_001.aac",
+            "text": "당신은… 업무 강도가 높잖아요. 자, 받아요. 맛있는 거예요… 맛이… 닭고기와 비슷한데… 단백질과 지방을 제공하죠…"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_mantis_talk1_002.aac",
+            "text": "당신은 냄새가… 참 좋아요. 조금 더 가까이 가도 되나요?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_mantis_talk1_003.aac",
+            "text": "그… 그것들을 일부러 먹으려고 한 건 아닌데… 전 그냥… 배가 너무 고파서…"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_mantis_talk2_001.aac",
+            "text": "도움이 필요한 사람이… 많아요… 그러니까 그들을 잘 챙겨주세요. 제게만 신경 쓰지 않으셔도 돼요. 제 문제는, 제가… 해결할 수 있으니까요…"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_mantis_talk2_002.aac",
+            "text": "비정상적인 모든 것들은… 인간 자체, 그리고… 우리의… 내면에서 비롯되는 거예요… 그들은 괴물이 아니에요… 우리의 일부죠…"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_mantis_talk2_003.aac",
+            "text": "겁낼 것 없어요… 언젠가 당신이 길을 잃고 위험에 빠진다 해도 제가 꼭 구해줄게요… 전 한 번도 동료를 포기한 적이 없어요. 맹세해요…"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_mantis_obeyfull_001.aac",
+            "text": "제가 당신을 구하지 못 한 것 같네요… 오히려 당신이… 절 구했어요. 미안해요… 제가 모두의 발목을 잡고, 폐만 잔뜩 끼친 거죠… 정말 고마워요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_mantis_idle_001.aac",
+            "text": "오늘도 친구들을 즐겁게 해주었나요… 맡은 일은 잘했나요… 당신은… 그들을 구했나요…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_mantis_clicking_001.aac",
+            "text": "…이건 생물의 구애 행동 같은 건가요?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_mantis_specialattention_001.aac",
+            "text": "일부러 올 필요 없어요… 당신의 냄새는 기억하고 있으니까, 제가 당신을 찾을 수 있어요."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_mantis_dispatch_001.aac",
+            "text": "제가… 뭘 해야 하죠?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_mantis_dispatch2_001.aac",
+            "text": "이번 여정에선 새로운 걸 많이 발견했어요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_mantis_levelup_002.aac",
+            "text": "반드시… 환경의 변화에 적응해야 해요."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_mantis_head_001.aac",
+            "text": "그래봤자… 소용없어요… 제 외골격은… 감각이 없거든요…"
+        }
+    ],
+    "sylvan_silhouette": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
+            "text": "작은 배를 타고 늪, 숲, 안개를 지나 열매가 주렁주렁 열린 과수림에 도착했죠… 이곳은 요정의 입맞춤을 받은 세상이며, 지금껏 아무도 발견하지 못한 곳이죠… 그렇지만 당신은 절 찾아냈어요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_mantis_shenlinbangying_levelup_001.aac",
+            "text": "묵직한 열매가 품 안으로 떨어졌네요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_mantis_shenlinbangying_greeting_001.aac",
+            "text": "당신을 볼 때면 우리가 함께 뛰어들었던 급류가 생각나요… 다시 느껴볼래요? 자, 손을 내밀고 함께 뛰어들어 봐요."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_mantis_shenlinbangying_head_001.aac",
+            "text": "감히 그 정도의 나이로 정령의 귀를 만지는 건가요? 무례하군요… 크흠, 얼굴이 빨개진 건 힘이 넘쳐흘러서 그래요…"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_mantis_shenlinbangying_body_001.aac",
+            "text": "여정의 끝에는 맑고 투명한 수역, 열매가 주렁주렁 달린 사과나무, 끝없는 식량과 포도가 숨겨져 있다고 당신이 전에 말했었죠… 하지만 당신이 없으면 꿈에 그리던 곳에 도착해도, 이 모든 풍경은… 빛을 잃고 말겠죠…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_mantis_shenlinbangying_body_002.aac",
+            "text": "열매가 가득 달린 이 사과나무 가지는… 인류를 이곳으로 이끄는 증표에요… 받아요. 이렇게 하면… 절 찾을 때 길을 잃지 않을 거예요…"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_mantis_shenlinbangying_leg_001.aac",
+            "text": "전설 속의 그 요정은 여정을 마친 후, 사과를 두 손으로 든 채 물속으로 가라앉았다고 전해졌어요. 속이 가득 찬 씨앗은 요정의 양분으로 싹을 틔웠고, 결국 하늘을 가릴 정도의 거목으로 자라났죠. 가지에 꽃봉오리가 돋아났고, 꽃술 속에서 수없이 많은 새로운 자신이 탄생했어요… 숲속에서 자라난 요정은 대부분 이런 식이었죠…"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_mantis_shenlinbangying_arm_001.aac",
+            "text": "요정처럼 숲에서 자유롭게 살아가는… 이런 소원을 가지고 계신가요? 그럼… 절 꽉 잡으세요. 당신을 데리고 한 바퀴 날아볼게요~"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_mantis_shenlinbangying_idle_001.aac",
+            "text": "숲속의 날갯짓 소리가 시냇물의 개구리 울음소리와 함께 들려와요… 안심하고 잠드세요… 숲이 좋은 꿈을 꾸게 해주길 바라요…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_mantis_shenlinbangying_specialattention_001.aac",
+            "text": "여긴 아무도 없어요. 물에 비친 두 사람의 모습… 그리고… 우리의 마주 보는 눈빛뿐이죠…"
+        }
+    ]
+}

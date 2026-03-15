@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_letta_cacha_001.aac",
+            "text": "ふぁ～先～生～、おはよう～夢と現実を繋げる……レタ・デヴォンシャー……よぉ……ううん……他に質問がないなら……座らせてねぇ……"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_letta_promotion_001.aac",
+            "text": "うん～これでわたしは、もっと面白い所に行けるわねぇ～"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_letta_promotion2_001.aac",
+            "text": "ふふ。わたし、無邪気なレディーじゃないわよ……局・長・さ・ま。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_letta_battlebegin_001.aac",
+            "text": "深い霧の奥には……一体何があるんだろう？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_letta_battlewin_001.aac",
+            "text": "ふふ……なんて楽しい探検なのぉ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_letta_battlelose_001.aac",
+            "text": "うう……めまいが……早く危険な場所から離れないと……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_letta_uniqueskill_001.aac",
+            "text": "照らすわ……この果てしない霧を。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_letta_dead_001.aac",
+            "text": "お家に……帰りたい……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_letta_greeting_001.aac",
+            "text": "ふぁ～良い一日に……なりますように……うふふ……"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_letta_talk1_001.aac",
+            "text": "ごめんなさい。わたし、いつも寝ながら歩き回っちゃうから……変なことをしたら、すぐに起こしてね。絶対よ！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_letta_talk1_002.aac",
+            "text": "うーん……ベッドルーム……わたしのベッドルーム……ああ、ついたぁ……あっ！ここ、あなたのベッドルームだったの？ごめんなさ～い。邪魔してないといいんだけど～"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_letta_talk1_003.aac",
+            "text": "この壺に入ってるのは……野菜？えっ？腐ってないの？じゃあ、なんでこんな色を……ええっ！？コンビクトの中には、月末になるとこれを食べる人がいるの？なんか……奇妙な食べ物ね……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_letta_talk2_001.aac",
+            "text": "いつになったら……大人になれるんだろう？他の人に干渉されず……自分がしたいことだけをする……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_letta_talk2_002.aac",
+            "text": "あなたは……知ってたの？わたしが、寝ながら歩くふりをしてるって。やっぱりあなたは騙せないわね……でも、ずっと前から気付いてたんでしょ？ふふ、悪い人。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_letta_talk2_003.aac",
+            "text": "あなたと一緒にいると、何にも束縛されない、本当の自由と喜びを感じるの……だから、約束して！今度のニューシティでの冒険には、必ずわたしを連れて行くって！"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_letta_obeyfull_001.aac",
+            "text": "ここも、あそこも行ったわ……次は、どこに遊びに行く？行ったことのある場所でも、あなたがそばにいれば、どこでもきっと新しい体験ができると思うの！……お仕事？うう……わかったわ、待ってる！だって……夜はまだまだ長いから！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_letta_idle_001.aac",
+            "text": "もう食べられないわよぉ……うふふ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_letta_clicking_001.aac",
+            "text": "わ……わぁ～子猫ちゃん、むやみに踏まないでぇ……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_letta_specialattention_001.aac",
+            "text": "しーっ、今夜はわたしと一緒に、ディスシティの深い霧の中で楽しいことを探さない？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_letta_dispatch_001.aac",
+            "text": "はい……行ってきまぁす。心配しないで……迷子になんかならないからぁ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_letta_dispatch2_001.aac",
+            "text": "うふふ……今回も面白い所に行ってきたのぉ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_letta_levelup_002.aac",
+            "text": "灯りが、もっと温かくなった……"
+        }
+    ],
+    "spectral_shenanigans": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_letta_gubaoyouying_cacha_001.aac",
+            "text": "うーん……また探検中の旅人が来たみたい……眠ってる主人を起こしたんだから……一緒にゲームをしない？嫌なら……ここから永遠に出られないわよ～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_letta_gubaoyouying_levelup_001.aac",
+            "text": "ふふん、今は元気だから、あなたと一晩中遊べるわよ～"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_letta_gubaoyouying_greeting_001.aac",
+            "text": "さぁ、わたしのランタンを追って、わたしの足跡を辿って……最後まで粘り続けられたら、このゲームはあなたの勝ち～"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_letta_gubaoyouying_talk_001.aac",
+            "text": "ふふ、こんなことでびっくりしたの？これからもっと刺激的なことが起きるんだから、そんな簡単に怖がらないで……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_letta_gubaoyouying_talk_002.aac",
+            "text": "魂が宿る肖像画、今にも落ちそうなシャンデリア、点滅するキャンドル……このお城には色んな種類の奇妙なものがあるのよ。だから、怖がってわたしのゲームに負けないようにね～"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_letta_gubaoyouying_idle_001.aac",
+            "text": "霧をさまよう白い幽霊……消えないロウソク数えながら、道に迷う人を望む……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_letta_gubaoyouying_clicking_001.aac",
+            "text": "わっ、包帯を引っ張らないで……大丈夫、ズルはしないから～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_letta_gubaoyouying_specialattention_001.aac",
+            "text": "ふふ、そんなにわたしをじーっと見てるなんて、あなたも本気になってきたみたいね～じゃあ、よく見ておいて……じゃないと、壁を通り抜けて逃げちゃうから〜"
+        }
+    ]
+}

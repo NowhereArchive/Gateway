@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_rise_cacha_001.aac",
+            "text": "I can work for you, but let me be clear: I don't do overtime. My efforts should be reasonably scheduled. However, if the MBCC can promise me quadruple hourly pay, I might reluctantly consider it."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_rise_promotion_001.aac",
+            "text": "We have achieved milestones in our work."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_rise_promotion2_001.aac",
+            "text": "All evils... will be exterminated by this lightsaber!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_rise_battlebegin_001.aac",
+            "text": "I won't let any of this unsightly trash escape."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_rise_battlewin_001.aac",
+            "text": "Hah! Even the air feels fresher now!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_rise_battlelose_001.aac",
+            "text": "Next time, I'll slash you all to pieces!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_rise_uniqueskill_001.aac",
+            "text": "Hahahahah, that's all you got?"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_rise_dead_001.aac",
+            "text": "I must stand up... to change all this...!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rise_greeting_001.aac",
+            "text": "Is this today's request? Got it. I'll submit a report before I clock out."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_rise_talk1_001.aac",
+            "text": "My work stress comes almost entirely from the people I meet at work, not the work itself."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_rise_talk1_002.aac",
+            "text": "Still working overtime? Go do something more meaningful, like reading a book. DisCity Labor Law is a good one. I presented it at the Nirvana book club once. You should really give it a read."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_rise_talk1_003.aac",
+            "text": "Of course, I'll protest against unfair treatment and challenge incorrect propositions. Anything wrong should be corrected. I mean, how else will we make any progress in this world?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_rise_talk2_001.aac",
+            "text": "There are many ways to relieve stress. I relieve mine by playing racquetball. I'd imagine the ball as all the things that annoy me and just smash it with the racket. I can spend an entire evening doing that. I'll send you the address if you're interested."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_rise_talk2_002.aac",
+            "text": "My first boss was a useless freeloader, so I threw him to the dump. My second boss was competent, but I wondered if her intelligence was her only gift. As for you... You don't act like a typical superior, but you're probably the best boss I've ever had."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_rise_talk2_003.aac",
+            "text": "Doesn't every kid dream of becoming a hero in the novels? But we can't all be the chosen one who has the power to defeat evil. In reality, you either conform or get consumed. But I refuse to let them change me, so I choose to change them instead."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_rise_obeyfull_001.aac",
+            "text": "Working for you is really easy for me. I'm not saying the work here is simple, what I mean is... my mind can get a break here. I'm no longer chased by overwhelming pressure. An ideal world is forming gradually around you. Though it's just a rough model now... I can see its completed form in the future."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rise_idle_001.aac",
+            "text": "Work-life balance? Good point. Time to take five and grab a Dispresso."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_rise_clicking_001.aac",
+            "text": "Bother me again and I'll chop down on your face."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rise_specialattention_001.aac",
+            "text": "Get to the point. Don't ruin my plan of getting off on time."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_rise_dispatch_001.aac",
+            "text": "Request received."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_rise_dispatch2_001.aac",
+            "text": "Work's done. I'm off."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rise_levelup_002.aac",
+            "text": "The new model is more efficient now."
+        }
+    ],
+    "nebula_sentinel": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_rise_xingjieshouwang_cacha_001.aac",
+            "text": "Across thousands of galaxies and tens of thousands of planets, my lightsaber has guided me here. Throughout this long journey, you are the only one that I have been drawn to by destiny's pull. I ask of you, are you my companion?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rise_xingjieshouwang_levelup_002.aac",
+            "text": "This radiant glow grows ever brighter because of you."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rise_xingjieshouwang_greeting_001.aac",
+            "text": "May the light of justice be with you."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_rise_xingjieshouwang_head_001.aac",
+            "text": "Do you sense it too? The mysterious force that exists between all things. A vast and omnipresent energy. Heroes use it to uphold justice, while villains bend it to their will for their own purposes... It dwells within all of us."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_rise_xingjieshouwang_talk1_001.aac",
+            "text": "I've traveled through the universe, witnessing brilliant worlds consumed by darkness and tyrannical hells overthrown and shattered. No matter what, I swear never to stand idle as justice and light fade away."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_rise_xingjieshouwang_talk1_002.aac",
+            "text": "The chosen one who will defeat all evil? Surely you don't believe in that so-called prophecy, do you? Personally, I believe that if everyone could act with integrity, the world wouldn't fall into darkness and chaos, and we wouldn't need a messiah at all."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_rise_xingjieshouwang_hand_001.aac",
+            "text": "This lightsaber gives meaning to my existence as a warrior. It grants me the power to punish the wicked and uplift righteousness, it reminds me of my duty to protect justice, and it guided me to... you."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_rise_xingjieshouwang_shoulder_001.aac",
+            "text": "Do not falter before the darkness. As long as we fight side by side, we will surely cleanse and vanquish these evils. I believe light and hope will ultimately triumph through our hands."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rise_xingjieshouwang_idle_001.aac",
+            "text": "This radiant sky of iridescent stars is truly captivating, but I believe the shining virtues residing in people's hearts are equally worthy of our reverence."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rise_xingjieshouwang_specialattention_001.aac",
+            "text": "We will always walk together on the path of justice. You are never alone."
+        }
+    ]
+}

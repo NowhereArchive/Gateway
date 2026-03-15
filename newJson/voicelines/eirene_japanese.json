@@ -1,0 +1,255 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_heli_cacha_001.aac",
+            "text": "機が熟したから、会いに来たわ。親愛なる……私の共犯者。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_heli_promotion_001.aac",
+            "text": "力は目的を達成するための近道だけど……唯一の手段ではないの。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_heli_promotion2_001.aac",
+            "text": "頂点に達したわ。ここの景色は……あなたの期待に応えられるものだった？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_heli_battlebegin_001.aac",
+            "text": "ここにはどんなサプライズがあるの？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_heli_battlewin_001.aac",
+            "text": "すべて計画通りね。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_heli_battlelose_001.aac",
+            "text": "すぐに忘れてしまいそう。敗北ってこんな味だったの……。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_heli_uniqueskill_001.aac",
+            "text": "消滅するのね！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_heli_dead_001.aac",
+            "text": "ここで……倒れるなんて……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_heli_greeting_001.aac",
+            "text": "激変の時が迫っている今、あなたはどんな行動を取るの？楽しみにしているわ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_heli_talk1_001.aac",
+            "text": "私のことは囚人と見なしてもいいし、協力者と見なしても大丈夫よ……クイーン集団が提供できるのはお金だけじゃない。あなたが想像できないようなものだって、可能なのよ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_heli_talk1_002.aac",
+            "text": "私はチェスが好きなの。盤上ではお互いのことしか考えず、知恵を絞って相手を追い詰める——ふふ、これ以上純粋に楽しいものもないわ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_heli_talk1_003.aac",
+            "text": "あなたが素直な人だってことはわかっている。でも、何もかも顔に出るようじゃだめよ。もっと……予測不能な動きをしないとね。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_heli_talk2_001.aac",
+            "text": "ディスシティは本当に素晴らしい場所ね。世界の中心で、人類の未来でもある……私を受け入れてくれるかしら？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_heli_talk2_002.aac",
+            "text": "お金と地位、信頼と友情、あるいは恐怖と脅威……これらはすべて忠誠に替えられるわ。私なら、その忠誠を永遠にさせることができるの。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_heli_talk2_003.aac",
+            "text": "あなたと殺し合いたくはないけど……もしその日が来たら、私と最高の対决をしてほしいわ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_heli_obeyfull_001.aac",
+            "text": "あなたは……私のもの。私の駒で、私のコレクションで、私のすべての秘密の共有者。私を裏切らないでね……誰も私を裏切ることはできないのだけれど。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_heli_idle_001.aac",
+            "text": "私とチェスをしましょう……直ぐに断らないでよ。今回は少し手加減してあげるから。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_heli_clicking_001.aac",
+            "text": "ふふ、欲しいものがあったら言ってね。私たちの間に駆け引きは必要ないわ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_heli_specialattention_001.aac",
+            "text": "挑戦者？交渉相手？それとも……親しい友人？……あなたは私にとってどんな立場で会いに来たのかしら？ふふ、いずれにしても、嬉しいわ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_heli_dispatch_001.aac",
+            "text": "ふふ、見せてみてちょうだい。何を企んでいるのかをね。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_heli_dispatch2_001.aac",
+            "text": "仕事が終わったら、報酬はどうやって支払うつもり？もしかして、あなた自身なのかしら？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_heli_levelup_002.aac",
+            "text": "使える力は、いつだって多い方がいいわ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_heli_head_001.aac",
+            "text": "懐かしいわね。こんなふうに私を撫でてくれる人もいたのに……みんなこの世からいなくなってしまった。"
+        }
+    ],
+    "seaside_sunrise": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_heli_haiyuchenguang_cacha_001.aac",
+            "text": "どこまでも続く海岸線——こんな絶景が見られる場所なんて、そうないわ。局長、早くこっちに来たら？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_heli_haiyuchenguang_levelup_001.aac",
+            "text": "バカンスは勝者だけの特権よ。時世を読めない人に気を緩める余裕なんてないもの。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_heli_haiyuchenguang_greeting_001.aac",
+            "text": "ちょうどいいところに来たわね。この時この絶景、宿敵との一局に最適だわ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_heli_haiyuchenguang_head_001.aac",
+            "text": "あら、挑発しているのかしら？罰は、そうねーここで私と一緒に海を眺めなさい。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_heli_haiyuchenguang_leg_001.aac",
+            "text": "一見静かな海でも、いつ大きな波に襲われるかわからないわ……まぁ、私にとって「危険」はビジネスのおまけに過ぎないけどね。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_heli_haiyuchenguang_leg_002.aac",
+            "text": "陽の光は常に変化し続けるというのに、傲慢な人々は自分がいつも同じ太陽を見ているとしか思わない……彼らの愚かさのおかげで、今日のクイーンがあるのよ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_heli_haiyuchenguang_hand_001.aac",
+            "text": "共に築き上げた夜明けに、祝杯を。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_heli_haiyuchenguang_body_001.aac",
+            "text": "この水着のデザインが気に入ったの？あまり見惚れない方がいいわよ。柔らかな生地の下には、甘い優しさと、冷たい凶器が隠されているかもしれないもの。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_heli_haiyuchenguang_idle_001.aac",
+            "text": "こんなに安らげる日はそうないわ。少し酔いが回ってきたみたいなの。チェス以外のことも、してみない？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_heli_haiyuchenguang_specialattention_001.aac",
+            "text": "海辺の日の出を楽しんでいるの？それとも、別の「絶景」に気を取られているのかしら？目を逸らさなくていいわ。気にしていないから。"
+        }
+    ],
+    "daughter_of_fraser_city": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_heli_feishazhinv_cacha_001.aac",
+            "text": "あなたは誰！？……その目つきからして、お兄様やお姉様が差し向けた人間じゃないみたいだけど。それで……私に協力を求めに来たの？じゃあ、1分あげるから誠意を見せなさい。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_heli_feishazhinv_levelup_001.aac",
+            "text": "手札が多いことを嫌がる人はいない。私も例外じゃないわ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_heli_feishazhinv_greeting_001.aac",
+            "text": "ここにいない間、あなたが自分の能力を鍛えていると願うわ。隣に立つ協力者が、私の思考に追いつけないと困るから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_heli_feishazhinv_talk_001.aac",
+            "text": "私の敵は、全員キャンベル一族の嫡出子。彼らと比べると、私には何もないと言っていい。それでも、私の仲間になるつもり？ふふ、面白い。あなたの目的を疑い始めたわ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_heli_feishazhinv_talk_002.aac",
+            "text": "父は私たちの争いに介入しない。自分の優秀さを証明するのは、キャンベルの後継者の義務だから。勝者は全てを手に入れ、敗者は全てを失う。それがゲームのルールよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_heli_feishazhinv_idle_001.aac",
+            "text": "ここの人たちは、いつもこんなにのんびりしているの？ふふ、キャンベル一族の人間は、この歳でも休む資格がないのよ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_heli_feishazhinv_clicking_001.aac",
+            "text": "これが私に協力する目的？こういう手段は、祖母の代からもう使われていないわ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_heli_feishazhinv_specialattention_001.aac",
+            "text": "いいわよ。まず傍に来て。計画の詳細をゆっくり教えてあげるから。"
+        }
+    ],
+    "veil_of_flame": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_heli_yanseweisheng_cacha_001.aac",
+            "text": "花火やシャンパンに惑わされてはダメよ。パーティーは、一種の闘技場なのだから。乾杯のたび、談笑のたびに、殺意とチャンスが潜んでいるの——私と肩を並べてこの戦いに挑む準備はできたかしら？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_heli_yanseweisheng_levelup_001.aac",
+            "text": "賢明な投資に、乾杯。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_heli_yanseweisheng_greeting_001.aac",
+            "text": "これは勝者のための戴冠の宴。私の賓客さん、どうぞ見届けてちょうだい。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_heli_yanseweisheng_talk_001.aac",
+            "text": "ドレスの選び方も重要な交渉術よ。洗練された衣装は目を引き、隙を捉えることができるのだから。たとえばさっき……あなたの視線は、私のどこでどれだけ止まっていたかしら？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_heli_yanseweisheng_talk_002.aac",
+            "text": "もしあなたが私なら、今夜のパーティーをどう活かす？忠犬を手懐けるのか、一族を取り込むのか、それとも敵を寝返らせるのかしら？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_heli_yanseweisheng_idle_001.aac",
+            "text": "賑やかな晩餐会の中で、あなただけが部外者のように静かね。でも心配いらないわ。私はいつだって賢い人に考える余地を与えるのよ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_heli_yanseweisheng_clicking_001.aac",
+            "text": "身体的な接触は嫌いじゃないわ。ただ、その結果をお互い理解している方がいいわね。局長——覚悟はできているかしら？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_heli_yanseweisheng_specialattention_001.aac",
+            "text": "私をただ見つめていても、このパーティーは楽しめないわ。ダンスフロアに目を向けることね。「獲物」はまだまだいるのよ。"
+        }
+    ]
+}

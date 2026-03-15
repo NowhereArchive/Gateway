@@ -1,0 +1,198 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_dudu_cacha_001.aac",
+            "text": "いらっしゃい！一曲10万ディスコイン。悪いこと言わないから、死ぬ前に一度は聞いていきなよ。それとも、あんたの葬儀で演奏してやろうか？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_dudu_promotion_001.aac",
+            "text": "いくら練習しても、あたしはこの曲しか吹かないけど。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_dudu_promotion2_001.aac",
+            "text": "死生命有り、富貴天に在り。いや、あたしにあるかもね。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_dudu_battlebegin_001.aac",
+            "text": "人が多いなぁ。曲を聞きたいなら、人数分払いなよ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_dudu_battlewin_001.aac",
+            "text": "どう？いい曲だろ？"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_dudu_battlelose_001.aac",
+            "text": "聞きたくないからって、人を殴るんじゃないよ……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_dudu_uniqueskill_001.aac",
+            "text": "百鳥朝鳳、生死流転！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_dudu_dead_001.aac",
+            "text": "怖くない……あたし、もう……行くよ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dudu_greeting_001.aac",
+            "text": "こんな所で会うなんて、今日は運がいいみたいだねぇ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_dudu_talk1_001.aac",
+            "text": "こんな商売してるんだ。生死流転を信じないと職失っちまう。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_dudu_talk1_002.aac",
+            "text": "これは芸術。騒音なんかじゃない。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_dudu_talk1_003.aac",
+            "text": "オークで作られた棺はいい匂いがするね。中で寝ても、全然怖くない。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_dudu_talk2_001.aac",
+            "text": "死は別に怖くない。あたしがあんたを行くべき場所に導いて、そしてまた会えるから。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_dudu_talk2_002.aac",
+            "text": "生まれ変わるには炎に身を投じる必要があるらしい。その苦しみに耐えられたら、きっと新しい人生を手に入れられるよ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_dudu_talk2_003.aac",
+            "text": "もしかしたら、あの橋であたしを導いてくれるのはあんたかもね。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_dudu_obeyfull_001.aac",
+            "text": "生死流転は信じるけど、転生したら忘れることも多いんだろ？転生しても、あたしのこと覚えててくれるかい……？大丈夫、あんたが忘れても、あたしはどんな手段を使ってももう一度あんたと知り合って、二度と忘れないようにしてやるさ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dudu_idle_001.aac",
+            "text": "退屈だなぁ。一曲吹いてやろうか？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dudu_clicking_001.aac",
+            "text": "まだ昼なのに、そんなことしたら人呼ぶよ！口止め料があるなら話は別だけど！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dudu_specialattention_001.aac",
+            "text": "あたしが可愛いからって、そんなじろじろ見なくてもいいんじゃないか？それとも、曲が聞きたいのかい？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_dudu_dispatch_001.aac",
+            "text": "どれどれ？その仕事は現世からの？それとも、黄泉の国からの？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_dudu_dispatch2_001.aac",
+            "text": "やぁ、あんまり稼いでないけど、少しくらいなら分けてやってもいいよ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dudu_levelup_002.aac",
+            "text": "いいね。もっとおくれよ！"
+        }
+    ],
+    "unsung_maestro": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_dudu_zhiyinnanmi_cacha_001.aac",
+            "text": "二胡パフォーマンス！寄ってらっしゃい見てらっしゃい！あたしは芸を売ってご飯代を稼いでるんだ。通りすがりの心優しい旦那に姉さん方、聞いていっておくれよ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dudu_zhiyinnanmi_levelup_001.aac",
+            "text": "へへ、ありがとうございます！ありがとうございます！あなた様が昇進して給料が上がりますように。道端で大金を拾えますように。宝くじで一等が当たりますように！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dudu_zhiyinnanmi_greeting_001.aac",
+            "text": "ご清聴ありがとう！いいと思ったら投げ銭をよろしく。ディスコインを持ってるならディスコインを、イレギュラーキューブを持ってるならイレギュラーキューブをどうぞ。二次元コードのスキャンでもいいよ。色んな支払い方法に対応してるから、好きなのを選んでおくれ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_dudu_zhiyinnanmi_talk_001.aac",
+            "text": "おいおいおい！そこのガキ！人が苦労して稼いだお金を盗むなんて、罰当たりな！早く箱に戻しなよ。聞いてるのかい？あたしが本当に目が見えないと思ってるようだね……あーあ、世の中がどんどん悪くなってくよ。最近の人は昔みたいに心が綺麗じゃないねぇ……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_dudu_zhiyinnanmi_talk_002.aac",
+            "text": "……は？あたしの演奏がのこぎりで木を切ってるみたいだって？バカ言わないでよ。あんたの鑑賞レベルが足りてないだけだろ。二胡の名曲を30曲も流してるのに……このゴミスピーカー、なんでまた止まってんのさ！大枚はたいて中古屋で買ったのに。頼むよ……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dudu_zhiyinnanmi_idle_001.aac",
+            "text": "……ん？今は誰もいないし、ちょっと休憩……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dudu_zhiyinnanmi_clicking_001.aac",
+            "text": "ゴホン、気をつけな。勝手に触るんじゃないよ。あたしは真面目な芸術家なんだ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dudu_zhiyinnanmi_specialattention_001.aac",
+            "text": "あたしをずっと見てたようだけど、どうしたんだい？合奏でもしたいのか？……ほらほら、照れなくていいよ。二胡をあんたに貸して、あたしはチャルメラを吹こう……"
+        }
+    ],
+    "bewitching_piper": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_dudu_huoyinmonv_cacha_001.aac",
+            "text": "あたしは、この街で唯一の魔女であり、夜の奏者。あたしのチャルメラはあらゆる願いを叶えることができるよ。ただしやるかやらないかは、あんたが出す報酬次第。だから取引しないかい？金貨10万枚だ。騙したりしないさ……そんな目であたしを見るんじゃないよ。どうしても無理なら、賄賂としてキャンディーいっぱいの籠一つで許してやるよ～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dudu_huoyinmonv_levelup_001.aac",
+            "text": "あんたがくれたキャンディーだから、もう返してやらないよ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dudu_huoyinmonv_greeting_001.aac",
+            "text": "ニャ～こんにちは、眠りネズミちゃん。あたしの音楽と一緒に生死流転する準備はできてるかい？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_dudu_huoyinmonv_body_001.aac",
+            "text": "トリックオアトリート！？いいね、一軒一軒訪ねておねだりして、何も貰えなかったら曲を演奏しよう。そうすればネズミはキャンディーをくれるんじゃないかい？え？無理？そんなわけないだろ、このトト様が演奏するんだから！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_dudu_huoyinmonv_body_002.aac",
+            "text": "ミルクキャンディー、タフィー、チョコレートキャンディー、マシュマロ、今日は大収穫だ！よだれ垂らしてないで、手を出しなよ。ほら、あんたの分だ。他のネズミには内緒にしとくんだよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dudu_huoyinmonv_idle_001.aac",
+            "text": "木の上に座ってポーズしなきゃならないなんて、魔女の奏者は大変だよ。そうだ、街に忍び込んで妖魔たちからカツアゲするのはどうだい？あたしが演奏すれば、妖魔たちはきっと魅了されて跪くはずさ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dudu_huoyinmonv_clicking_001.aac",
+            "text": "ひぃ～危なかった。あんたに落とされるとこだったよ。もし落ちたら、あたしは自分のために演奏しなきゃならなくなるだろ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dudu_huoyinmonv_specialattention_001.aac",
+            "text": "あれ、おかしいね～魔法の音に操られてるわけでもないのに、なんであたしに目が釘付けなんだい？おお～チャルメラの音色よりあたしの方が魅力的ってことか！へへ、多くは求めないよ。金貨1万枚で好きに見ていきな。どうだい？"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_korryn_cacha_001.aac",
+            "text": "フゥ～盛大な歓迎式じゃん。あんたが、あのネズミちゃんが言ってたディスを救った英雄の局長で、超金持ちの頼りになる人？それならよかった。これからディスであんたの世話になるからね～"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_korryn_promotion_001.aac",
+            "text": "公平で公正？ウケる～これは「決闘」だから。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_korryn_promotion2_001.aac",
+            "text": "早く車に乗りなよハニー。大事なのは荷物じゃなく、誰と旅するかっしょ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_korryn_battlebegin_001.aac",
+            "text": "急がないでハニー、列に並びなよ。弾は十分あるからさ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_korryn_battlewin_001.aac",
+            "text": "宝物たんまりあるじゃ～ん。悪いけど、もう全部あたしのもんだから。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_korryn_battlelose_001.aac",
+            "text": "なにぼけーっとしてんの？早く逃げて！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_korryn_uniqueskill_001.aac",
+            "text": "いい……旅を！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_korryn_dead_001.aac",
+            "text": "あたしを連れ帰って……あの砂の海に……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_korryn_greeting_001.aac",
+            "text": "こんないい日に仕事とかなくない？ほら、砂の海にドライブに連れてってあげる——じゃなく、あんたのパトロールに付き合ってあげる。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_korryn_talk1_001.aac",
+            "text": "チッ、どこの天才が作った懸賞首のポスターか知らないけどさぁ、顔と名前合ってなくない？だから誰も捕まらないわけだ。あたし悪くないよね。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_korryn_talk1_002.aac",
+            "text": "あーあ、やっぱディスシティっていいわ～。嵐もないし、砂漠強盗もいないし、イレギュラーキューブの使い方も贅沢だし～。局長、MBCCにはもっと人手が必要だったりする？ここで働いてくれる友達紹介するけど。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_korryn_talk1_003.aac",
+            "text": "どれどれ……コリン。砂の海の指名手配犯。航路付近にいることが多い……極めて危険。懸賞金は3000万ディスコイン？よっ、いい伸び具合！"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_korryn_talk2_001.aac",
+            "text": "砂の海で生き延びたいなら、最高の火力とイカす見た目の武器がいるよ。ほら、あのリボルバーなんかよりこっちの方が超カッコいいじゃん！どう？あんたのために調達してこよっか？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_korryn_talk2_002.aac",
+            "text": "「次の仕事を終えたら家に帰る」とか叫びながら次々に仕事して、最終的にお金も命もなくした人たち何人も見てきたんだよねぇ。ああ、可哀想な人たち。最後は超大事にしてた宝物と一緒に白い砂に埋もれてたから、願いを叶えたって言えるかも？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_korryn_talk2_003.aac",
+            "text": "砂の海で晴れた夜を見たことある？嵐が止んで、誰にも邪魔されずに、この世にあるのは足元の流砂と満天の星だけ……あたしにとって、あの場所にいることが本当の自由なんだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_korryn_obeyfull_001.aac",
+            "text": "動くな——ここを通るなら金出しな。財布、アクセサリー、荷物……ん？何も持ってないわけ？じゃあ、あんた連れてくしかないか～"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_korryn_idle_001.aac",
+            "text": "ねぇ保安官、あたしたちが砂の海を征服したら、あんたに……ベッド代わりの新しい帽子をあげるよ。どう？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_korryn_clicking_001.aac",
+            "text": "そんなに暇なら、ゲームでもしない？人間を囲むのに何発の弾丸が必要か知ってる？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_korryn_specialattention_001.aac",
+            "text": "あたしと二人きりになりたいの？見てるだけじゃダーメ。もっと……積極的にならなきゃ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_korryn_dispatch_001.aac",
+            "text": "あたしを雇うには超お金かかるよ。局長ちゃん、報酬は用意できてる？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_korryn_dispatch2_001.aac",
+            "text": "さてと、現金と商品は同時に交換だから。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_korryn_levelup_002.aac",
+            "text": "ワオ、ディスのハイテクじゃ～ん。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_korryn_head_001.aac",
+            "text": "知ってる？あたしの髪を触る人のほとんどは……ふふっ、大丈夫、あんたは違うから。"
+        }
+    ],
+    "aureate_ambush": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_korryn_huangjinku_cacha_001.aac",
+            "text": "よくここに辿り着いたね。すごいじゃん。30秒前までここは砂漠強盗たちがお宝を隠す場所だったんだけど、今は——あたしたちトゥコの縄張りだよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_korryn_huangjinku_levelup_001.aac",
+            "text": "いいものは、いつだって自分からやってくる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_korryn_huangjinku_greeting_001.aac",
+            "text": "珍しい。この地下洞窟にこんな立派なお客さんがくるなんてね——局長、今日は太ったカモとして来たの？それともここに腰を据えるつもり？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_korryn_huangjinku_body_001.aac",
+            "text": "あの砂漠強盗たち、命がけで奪った財宝を隠してばっかで、使い方も知らないんだよね。そんなの無駄にしてるだけじゃん……でも幸い、ここにあるものはあたしと出会った。つまりちゃ～んと行き先ができたってこと。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_korryn_huangjinku_body_002.aac",
+            "text": "自慢じゃないけど、この強力な武器と皮の服を着てここに座ってるだけで、砂漠強盗どもは近づきもしないよ……そうだ、そのコートに付けてるMBCCのバッジ、ちゃんと見せといてね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_korryn_huangjinku_idle_001.aac",
+            "text": "保安官、ここのコインが奪われないうちに、金のネックレスをつけてあげる。そうすれば、あんたは砂の海で一番目立つトカゲだよ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_korryn_huangjinku_clicking_001.aac",
+            "text": "ハニー。ルールでは、手を出す前にまず「お願い、コリン姉さ～ん」って言わなきゃ。え？いつ決めたルールかって？たった今だよ～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_korryn_huangjinku_specialattention_001.aac",
+            "text": "わぁ、超積極的じゃん。人生について語りたいの？それとももっと大人な話？つまり——この財宝の分け前について！え～？何だと思ったわけ？"
+        }
+    ]
+}

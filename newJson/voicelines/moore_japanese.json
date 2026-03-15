@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_moore_cacha_001.aac",
+            "text": "こんにちは。私は涅槃ネットワークセンター所属のセキュリティ専門家です。バグを修正するために来ました。技術部門はどちらに……え？なぜ私に手錠をかけたんですか？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_moore_promotion_001.aac",
+            "text": "システムのアップグレードが完了し、ファイアウォールの信頼性が向上しました。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_moore_promotion2_001.aac",
+            "text": "アップグレードの作業が大変すぎて、うっかり寝ちゃいました。 局長、この隙に何か覗いてないですよね？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_moore_battlebegin_001.aac",
+            "text": "ん……え？ああ、行きますね。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_moore_battlewin_001.aac",
+            "text": "相手の攻撃が終了し、ソースの除去が確認されました。局長、やりましたね。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_moore_battlelose_001.aac",
+            "text": "私が追撃を阻止するので、局長は安心して撤退してください。転ばないように気をつけて～"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_moore_uniqueskill_001.aac",
+            "text": "Dマトリックス、始動！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_moore_dead_001.aac",
+            "text": "大丈夫、私はもう……十分です。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_moore_greeting_001.aac",
+            "text": "ふふ、上司より先に入れば遅刻じゃないですよね。おはようございます、局長。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_moore_talk1_001.aac",
+            "text": "局長も夜遅くまで残業することが多いんですか？夜更かしして疲れたら、私のところに来て休んでください。お互い徹夜のスペシャリストということで、経験を共有しましょう。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_moore_talk1_002.aac",
+            "text": "局長がこんなに人気者だったなんて。盗聴や監視があちこちで行われていますよ。取り除いておきましょうか？それとも……このままにして向こう側にいる持ち主にサプライズを送りますか？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_moore_talk1_003.aac",
+            "text": "「3ヶ月ごとにディスダークウェブの規模は2倍になる」。ふふ、そんな法則は嘘ですよ。目に見えない闇は誰にも測れないですから。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_moore_talk2_001.aac",
+            "text": "受動的に侵入に抵抗するより、積極的に餌を仕掛け、欺き、特定し、反撃して脅威を完全に排除する方が好きです……私らしくないとよく言われますが、仕事を早く終わらせて帰って寝る方が……いいんじゃないでしょうか？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_moore_talk2_002.aac",
+            "text": "データ狂瞳化の本質は情報と認知の汚染です。この汚染は物理的に隔離できない上に、物質を超えて拡散する可能性があります。なので、局長はディスダークウェブをネットサーフィンする時は気をつけてください。変なものを見ないように。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_moore_talk2_003.aac",
+            "text": "私は小さなネズミが好きなんです。小さくて可愛くて、暗い夜をたくさん一緒に過ごしました……いえ、私の家での話じゃないですよ？私の家はそんなに散らかってません。本当です！局長でも来ちゃダメですからね！"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_moore_obeyfull_001.aac",
+            "text": "もし世界が巨大なプログラムなら、バグがあるはずでしょう？運命も侵入されて改変される可能性があるなら、私はもっと早くあなたと出会えるように、より早く結末を変えられます……なんて、何を言ってるんでしょう。また寝ぼけていたみたいです。忘れてくださいね、局長。今を大切にしてください。今を大切に……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_moore_idle_001.aac",
+            "text": "うう……コーヒー……コーヒーが欲しい……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_moore_clicking_001.aac",
+            "text": "ふふ、ふふふふ……隣のおばあちゃんの子猫もよくここをもみもみしていました。みんな柔らかい感触が好きなんでしょうか？じゃあ、どうぞ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_moore_specialattention_001.aac",
+            "text": "局長は私の仕事が見たいんですか？それなら、もし私がうっかり寝てしまったら、起こしてくださいね。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_moore_dispatch_001.aac",
+            "text": "派遣任務？少し時間がかかりそう。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_moore_dispatch2_001.aac",
+            "text": "あはは、やっぱり迷子になっちゃいました。帰ってこられて今すごくいい気分です。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_moore_levelup_002.aac",
+            "text": "コーヒーのおかわりはどうですか？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_moore_head_001.aac",
+            "text": "わわっ……！居眠りはしてないですよ。"
+        }
+    ],
+    "ensnaring_eclipse": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_moore_luowangbiri_cacha_001.aac",
+            "text": "さて、どんな小ネズミが自ら網に飛び込んできたのかしら……ふふ、あなただったんですね～焦らないでください。目の前の用事を片付けてから、ゆっくり遊んであげますから。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_moore_luowangbiri_levelup_001.aac",
+            "text": "聞こえましたか？終末がまた一歩近づいてきました。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_moore_luowangbiri_greeting_001.aac",
+            "text": "どうやらあなたは、この猫とネズミのゲームに飽きていないようですね。今回は誰が狩人で、誰が獲物なんでしょう？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_moore_luowangbiri_body_001.aac",
+            "text": "今の平和なディスシティを存分に楽しんでください——それは、わたしたちがあなたに残した贈り物です。ただし……その安らかな幻は、もうすぐ終わりを迎えるのですが。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_moore_luowangbiri_body_002.aac",
+            "text": "確かにあなたは自らダークウェブを破壊しました……ただ残念なことに、地底では死を偽ることなど日常茶飯事なんです。ほら、わたしだってこうして「死から蘇った」でしょう？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_moore_luowangbiri_idle_001.aac",
+            "text": "やっぱりこんな真っ暗な場所にずっといると、眠くなっちゃう……コーヒーをもう1杯もらおうかな。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_moore_luowangbiri_clicking_001.aac",
+            "text": "ふふ、網に捕らわれてもがくことすらできないのに、まだ近づいてくるなんて……無謀と言うべきか、無知と言うべきか。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_moore_luowangbiri_specialattention_001.aac",
+            "text": "あなたの懲りずに無茶をするところは好きですよ……さぁ、何度でも来てください。いつだって相手をしてあげますから。"
+        }
+    ]
+}

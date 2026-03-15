@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_owo_cacha_001.aac",
+            "text": "果然！没有人能拒绝嗷呜的舞狮！连管理局都被吸引过来了，什么狄斯大邦，不过如此~"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_owo_promotion_001.aac",
+            "text": "嗯~不愧是我嗷呜！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_owo_promotion2_001.aac",
+            "text": "你对嗷呜的支持，嗷呜不会忘记的！……暂时不会忘记……至少这个月不会！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_owo_battlebegin_001.aac",
+            "text": "便宜你了狄斯人，一般人可没有机会在嗷呜身后当狮尾喔~"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_owo_battlewin_001.aac",
+            "text": "居然敢看不起我霹雳无敌舞狮大王，被打得屁滚尿流了吧！略略略！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_owo_battlelose_001.aac",
+            "text": "可恶——！你们给我等着！我，我嗷呜还会再回来的！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_owo_uniqueskill_001.aac",
+            "text": "威武狮王，堂堂驾到！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_owo_dead_001.aac",
+            "text": "嗷呜很强的……是他们……呜，他们耍赖皮……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_owo_greeting_001.aac",
+            "text": "天真的狄斯人哟，我劝你别白费力气了，你和天才舞狮少女之间的差距，是永远无法弥补的！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_owo_talk1_001.aac",
+            "text": "古老的外邦有一头狮，她滴名字就叫——嗷呜！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_owo_talk1_002.aac",
+            "text": "是谁说我的狮头老土！谁说它过时了的！是谁！呜呜呜你让那混蛋出来！呜呜呜我……我要咬人了！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_owo_talk1_003.aac",
+            "text": "“&￥*￥，%*$@，&#*@……”哦，这是电影台词。不会有笨蛋以为是什么舞狮秘诀吧？哈哈哈哈哈！笨蛋！"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_owo_talk2_001.aac",
+            "text": "你！是不是忘记什么事了！再好好想想！就是那个！那个！……呜呜呜你今天没有夸嗷呜的大电影！"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_owo_talk2_002.aac",
+            "text": "我看你骨骼清奇，怎么样，要不要做舞狮第十八代传人？……不对，是十八还是十九啊……我是第几代来着？……一，二，三……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_owo_talk2_003.aac",
+            "text": "我们那里有句老话——“醒狮闹，财神到”！所以，为了你，嗷呜一定会努力大闹特闹的！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_owo_obeyfull_001.aac",
+            "text": "舞狮很辛苦的！要学好多年！还经常受伤！你真的想学？真的！不后悔？……嗷呜有徒弟了？嗷呜有徒弟了！嗷呜有徒弟咯！！！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_owo_idle_001.aac",
+            "text": "起床啦！！！不是吧，居然真的被吓到了？哈哈哈你们狄斯人真好玩！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_owo_clicking_001.aac",
+            "text": "我我我警告你，不尊重狮子的人是不会被保佑的嗷！怪物把你吃吃吃掉我也不会管你的！你……你不许过来哇！！！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_owo_specialattention_001.aac",
+            "text": "这可是天下第一无敌霹雳威风灵巧的小天才嗷呜的表演，不许眨眼喔！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_owo_dispatch_001.aac",
+            "text": "狄斯能有我家乡好玩么？要不是看你缺人手，我才不想出去玩呢！"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_owo_dispatch2_001.aac",
+            "text": "不许拿走不许拿走！这些都是嗷呜辛辛苦苦抢来的！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_owo_levelup_002.aac",
+            "text": "嗷——！"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_owo_head_001.aac",
+            "text": "狮头是不是很漂亮？很霸气？很威风？是不是很想摸一摸？哼哼……想得美！"
+        }
+    ],
+    "king_of_lion_dance": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_owo_wushizhiwang_cacha_001.aac",
+            "text": "咚滴隆咚，一口一个汉堡！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_owo_wushizhiwang_levelup_001.aac",
+            "text": "啊呜——大口吃肉！身体棒棒！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_owo_wushizhiwang_greeting_001.aac",
+            "text": "狄斯人，快点帮嗷呜把这家店搬回MBCC的食堂！这里的薯条太好吃啦，我每天都要吃！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_owo_wushizhiwang_talk_001.aac",
+            "text": "我是禁闭者嗷呜，我被黑环裂隙影响，现在无家可归，为了根除黑环，维护世界的和平，请v我50吃一顿大餐，不然打不动死役！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_owo_wushizhiwang_talk_002.aac",
+            "text": "摄像机！一定是用来拍我的吧！哼哼，没想到我世界第一无敌霹雳舞狮小天才的名号居然已经传到这里了！你们等着，我啃完这根鸡腿就来表演！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_owo_wushizhiwang_idle_001.aac",
+            "text": "……！番茄酱滴到裙子上了！……狄斯人！你赶紧来帮嗷呜擦一擦呀！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_owo_wushizhiwang_clicking_001.aac",
+            "text": "不可以！这是嗷呜的汉堡！你吃自己的去！你都多大了还要抢人东西吃，羞不羞！哼！我要是生气了，可是会把你也当成大汉堡狠狠咬一口的哦！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_owo_wushizhiwang_specialattention_001.aac",
+            "text": "汉堡、薯条、鸡翅、蛋挞，全都再来一份！……你这样看着我干嘛？我还能吃好多好多好多！不许小瞧我！"
+        }
+    ],
+    "auspicious_prancer": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_owo_xishiyingmen_cacha_001.aac",
+            "text": "喂——这里这里，快抬头！全天下最喜庆、最热闹、最不能错过的护宅舞狮就要开始了！嗷呜祝大家开门见喜~财源广进~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_owo_xishiyingmen_levelup_001.aac",
+            "text": "开门大吉，时（狮）运亨通！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_owo_xishiyingmen_greeting_001.aac",
+            "text": "今天的门神可是我——天下无敌、护佑四方的嗷呜大人！有本狮王守着，所有邪祟都要同我兜路行开！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_owo_xishiyingmen_talk_001.aac",
+            "text": "我怕舞狮的锣鼓声太响，你会听不见我的祝福，我怕新年的鞭炮太吵，你会收不到我的问候。所以——就是现在！嗷呜祝你每天都能食得饱、训得好！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_owo_xishiyingmen_talk_002.aac",
+            "text": "哇，这灯笼，这烟花，这排面——都是为我的登场准备的吗？太有眼光了狄斯人，将个心放落肚！嗷呜的表演绝不让你失望，我和我的狮头一定会把喜气传到千家万户！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_owo_xishiyingmen_idle_001.aac",
+            "text": "我的本领可是在梅花桩上练出来的，跳上门头不过是小事一桩，才不会掉下——哎啊啊啊！好险……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_owo_xishiyingmen_clicking_001.aac",
+            "text": "大胆狄斯人，居然敢碰门神大人的盔甲！哼，看在今天是个吉日，嗷呜原谅你了……只、只能再碰一下了哦！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_owo_xishiyingmen_specialattention_001.aac",
+            "text": "这、是嗷呜特地准备的新行头，这、是嗷呜和流民寨的叔叔姨姨们一起做的新狮头。好啦，狄斯人，可以开始夸我了~"
+        }
+    ]
+}

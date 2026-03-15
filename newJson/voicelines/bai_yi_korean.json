@@ -1,0 +1,265 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_linglan_cacha_001.aac",
+            "text": "와서 잠깐 놀아줄게. 어쨌든… 날 열심히 쫓아다니는 모습이 너무 귀여우니까."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_linglan_promotion_001.aac",
+            "text": "백기실업의 사장이 되려면, 당연히 어느 정도 능력이 받쳐줘야지!"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_linglan_promotion2_001.aac",
+            "text": "가끔은 진지한 면도 보여줘야지, 안 그래, 국장?"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_linglan_battlebegin_001.aac",
+            "text": "일이 끝나면, 한잔하는 거다?"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_linglan_battlewin_001.aac",
+            "text": "오늘 할 일 끝~! 어디 보자… 일당이…?"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_linglan_battlelose_001.aac",
+            "text": "아이쿠? 어쩌나~ 도망가자~ 도망가~"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_linglan_uniqueskill_001.aac",
+            "text": "어딜~도망가!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_linglan_dead_001.aac",
+            "text": "그들을… 잘 부탁해…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_linglan_greeting_001.aac",
+            "text": "MBCC 백기분점입니다. 당신에겐 언제나 20%를 할인해 드리겠습니다. 쉿… K.K.한테는 비밀입니다."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_linglan_talk1_001.aac",
+            "text": "잘 시간이야. 이제 됐잖아~! 국장~ 너를 위해 난 이미 엄청 노력했다고."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_linglan_talk1_002.aac",
+            "text": "내가 진지하게 하면 번개보다 더 빠르게 움직일 수 있어, 너는 도저히 막을 수 없을걸? 왜? 못 믿어? 그럼 한 번 그냥 내보내 줘보던가~"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_linglan_talk1_003.aac",
+            "text": "백기 이 회사가 신디케이트에서 지금까지 살아남을 수 있었던 것은, 전~부 이 백사장님이 동분서주 발로 뛰었기 때문이야. 그 두 꼬맹이는 믿을 수가 없다니까, 정말?… 뭐… 뭔데? 왜 그렇게 쳐다보는 거야? 내가 뭐 잘 못 말했니?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_linglan_talk2_001.aac",
+            "text": "나는 어떤 숭고한 신앙도 가지고 있지 않아, 그저 곁에 있는 사람들을 지켜낼 수 있으면 그걸로 충분해. 다시는 그 누구도 잃고 싶지 않아."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_linglan_talk2_002.aac",
+            "text": "시내의 그런 '첫 임무 위탁 시 10% 할인'이라는 작은 광고의 반은 내가 붙인 것일걸? 디스시티 구석구석 다 가봤어. 네가 조사하고 싶은 건 나도 다 알고 있어. 듣고 싶으면… 돈을 내!"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_linglan_talk2_003.aac",
+            "text": "땅속 도시? 왜 이런 걸 알아보는 걸 좋아해? 생각을 해 봐, 본 사람이 있어? 본 사람이 없다면 그건 가짜잖아? 아니면… 살아서 돌아온 사람이 아무도 없거나…"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_linglan_obeyfull_001.aac",
+            "text": "나는 노력하는 것을 좋아하지 않지만 노력하는 사람을 좋아하지. 예를 들어 K.K., 치이… 그리고 국장, 날 믿어봐! 믿음이 헛되지 않도록 해줄게!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_linglan_idle_001.aac",
+            "text": "여기 밥 잘 나오네! 빚도 안 갚아도 되고, 집주인도 못 들어오고, 좋은데? 음… 나 안 나갈래~"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_linglan_clicking_001.aac",
+            "text": "음? 모처럼 네가 이렇게 적극적이니, 내가 잘 놀아주지!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_linglan_specialattention_001.aac",
+            "text": "나한테 그렇게 가까이 다가오고 싶었어? 참, 솔직한 아이구나."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_linglan_dispatch_001.aac",
+            "text": "지금 나한테 의뢰한 거야? 규정에 따라 가격 책정할 거야~"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_linglan_dispatch2_001.aac",
+            "text": "후우… 이런 일은 K.K.가 알아서 해줘야 하는데…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_linglan_levelup_002.aac",
+            "text": "그래그래그래~ 네가 원한다면~!"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_linglan_head_001.aac",
+            "text": "왜? 국장도 나랑 같이 바람 좀 쐬러 나갈래?"
+        }
+    ],
+    "blade_of_night": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_linglan_yeyoushen_cacha_001.aac",
+            "text": "결국 들켜버렸네. 놀랄 것 없어, 신디케이트 어두운 그림자 속에 숨어 사는 시궁쥐가 얼마나 많은 줄 알아? 난 그저 누군가 처리해야 할 일을 맡았을 뿐이야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_linglan_yeyoushen_levelup_001.aac",
+            "text": "검이 빠를수록 귀찮은 일도 줄어들지."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_linglan_yeyoushen_greeting_001.aac",
+            "text": "드디어 왔군. 네가 없는 동안 계속 여기서 기다렸다고. 절대 돌아다니거나 한 적도 없어… 뭐? 망토에 뭐가 묻어 있다고? 치이가 실수로 물이라도 흘렸나 보지. 암, 그렇고말고."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_linglan_yeyoushen_head_001.aac",
+            "text": "그 비녀들은 다 각각의 쓰임새가 있으니까 조심해서 다뤄."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_linglan_yeyoushen_body_001.aac",
+            "text": "의뢰? 멀쩡한 사람이라면 야밤에 의뢰를 받을 리가 없잖아… 한밤중에 돌아다니는 건 그냥 내 취미일 뿐이야. 응, 그렇게 알고 있으면 돼."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_linglan_yeyoushen_body_002.aac",
+            "text": "근처에 아는 식당이 있는데, 거기 수육이 완전 술 도둑이거든. 어때, 같이 한잔하러 갈래?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_linglan_yeyoushen_hand_001.aac",
+            "text": "바람과 달은 사람의 손을 타지 않으니, 남쪽에서 불어오는 바람은 시원하고도 자유롭구나… 이렇게 좋은 밤에 악을 청산한다니, 이보다 더 좋을 수는 없구나."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_linglan_yeyoushen_leg_001.aac",
+            "text": "동작이 빠르면 검이 지나간 자리엔 잔상만이 남지. 아름답지 않니?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_linglan_yeyoushen_idle_001.aac",
+            "text": "흐음, 익숙한 악취가 나는군… 저쪽인가?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_linglan_yeyoushen_specialattention_001.aac",
+            "text": "나를… 딱 붙어서 감시할 셈이야? 어디 한번 네 눈꺼풀이 깜빡이는 속도가 빠른지, 내 움직임이 빠른지 볼까?"
+        }
+    ],
+    "wave_rider": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_linglan_langlibaitiao_cacha_001.aac",
+            "text": "진짜 바닷가에 가봤다니까? 왜 안 믿지? 그때 호화로운 요트를 빌렸는데, 거기서 보물을 엄청나게 많이 낚았어… K.K.랑 치이도 있었어. 그 애들이 증인이야!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_linglan_langlibaitiao_levelup_001.aac",
+            "text": "그다음에는 훨씬 더 많은 보물을 찾아냈지."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_linglan_langlibaitiao_greeting_001.aac",
+            "text": "다 쉬었어? 그럼 출발하자. 수많은 보물이 바다 밑에서 날 기다리고 있다고."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_linglan_langlibaitiao_head_001.aac",
+            "text": "흐음, 나처럼 아름다운 여인과 한 배에 단둘이 있으니 이상한 생각이 들 만도 하지. 기분이다, 이번 한 번은 용서해 줄게."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_linglan_langlibaitiao_body_001.aac",
+            "text": "그 시절 내 요트는… 후훗, 힘도 좋고, 내부도 화려했어. 그리고 각종 옵션이 다 있었지… 뭐야? 난 뭐, 부자였으면 안 돼?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_linglan_langlibaitiao_body_002.aac",
+            "text": "바다도 때로는 위험해. 해일이며, 해적이며, 상어 같은 것까지… 하지만 무서워할 것 없어. 이 백 님 앞에서는 부자가 되는 길에 생긴 작은 에피소드에 불과하니까."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_linglan_langlibaitiao_hand_001.aac",
+            "text": "내가 수영하는 모습은 그야말로 아름다운 용이 잔잔한 바다에 뛰어들었다가, 갓 피어난 연꽃처럼 솟아오르는 것만 같지. 이따 내가 물에 들어가면 알게 될 거야."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_linglan_langlibaitiao_leg_001.aac",
+            "text": "후, 해가 정말 뜨겁네. 너무 더워서 땀이… 어머, 국장? 지금 얼굴 빨개진 거야?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_linglan_langlibaitiao_idle_001.aac",
+            "text": "힘들면 갑판에서 한숨 자. 마침 햇빛도 따숩고 바닷바람도 포근하네…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_linglan_langlibaitiao_specialattention_001.aac",
+            "text": "자, 모든 선원은 자리로! 이제 깊은 바다로 떠나볼까!"
+        }
+    ],
+    "aeon's_vanguard": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_linglan_suianjiangjun_cacha_001.aac",
+            "text": "옛날에는 검술이 번개처럼 빠르더니, 오늘날에는 바람조차 쫓을 수 있네. 이 장군이 강림했으니, 사악한 것들이 어찌 이곳에 들어설 수 있겠는가. 너의 집은 확실히 평온하지 않아 보이는군. 하지만 괜찮아, 내가 있는 한 녀석들은 널 해치지 못할 거야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_linglan_suianjiangjun_levelup_001.aac",
+            "text": "음, 역시 내 능력은 여전하군."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_linglan_suianjiangjun_greeting_001.aac",
+            "text": "왔어? 와서 한잔해, 겸사겸사 바깥의 경치도 둘러보고. 음, 요즘에는 창고가 가득 차고 백성들이 풍족한 걸 보니 과거 이곳저곳으로 출정을 떠난 게 헛되지 않았나 보군… 음, 한잔하지!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_linglan_suianjiangjun_body_001.aac",
+            "text": "집을 지키는 건 내가 예전에 하던 일보다 훨씬 간단해. 예의범절을 지키는 손님을 만나면 편하게 보내주면 될 일이고. 무례한 녀석을 만나면 내 청봉검이 빛을 보게 될 테니, 재밌는 시간이 될 거야."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_linglan_suianjiangjun_body_002.aac",
+            "text": "바깥사람들이 날 두고 '장군 한 명의 공적은 병사 만 명의 희생으로 이루어진다'라고 말하는 걸 알아. 틀린 말은 아니지. 하지만 지금의 난 악령들을 무찔러 평범한 이들이 새해를 잘 보낼 수 있게 하려는 것뿐이야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_linglan_suianjiangjun_idle_001.aac",
+            "text": "새벽의 차가운 바람이 여전히 뼛속까지 스며들지만, 버드나무 가지에는 벌써 새싹이 돋아났구나… 봄 풍경이 이토록 아름다운데 넌 여기서 졸고 있다니… 됐어, 내일의 일은 내일 다시 생각해 보자."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_linglan_suianjiangjun_clicking_001.aac",
+            "text": "네가 이렇게 만지는 게 싫진 않지만, 그림의 색이 벗겨지면, 보기 안 좋을 거야~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_linglan_suianjiangjun_specialattention_001.aac",
+            "text": "오, 오랜만에 보니 기운이 넘쳐 보이네. 보고만 있지 말고, 자, 주사 물감으로 내 몸을 칠해 주고 좋은 술을 가져오면, 올해도 널 지켜줄게."
+        }
+    ]
+}

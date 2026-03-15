@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_irrheia_cacha_001.aac",
+            "text": "我厌倦无聊，也厌倦理所当然。你到访的方式太过普通，要不……重新来一次？我会假装是第一次见你。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_irrheia_promotion_001.aac",
+            "text": "我期待着，你替我翻开的下一幕。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_irrheia_promotion2_001.aac",
+            "text": "指针开始转动，序幕已然掀开……来吧，我在故事的终点等你！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_irrheia_battlebegin_001.aac",
+            "text": "我准备好了，让轮回开始吧。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_irrheia_battlewin_001.aac",
+            "text": "希望下一局也能让我如此惊喜。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_irrheia_battlelose_001.aac",
+            "text": "呵，也算是个有意思的结局。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_irrheia_uniqueskill_001.aac",
+            "text": "一息终结，一息重生！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_irrheia_dead_001.aac",
+            "text": "至少这次……是我自己的选择……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_irrheia_greeting_001.aac",
+            "text": "让我猜猜……你今天的到访，是定数，还是变数呢？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_irrheia_talk1_001.aac",
+            "text": "水面过于平静时，我总会投下一颗石子——它会变成涟漪还是炸弹，从来都取决于鱼儿的一个选择，或是一场背叛。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_irrheia_talk1_002.aac",
+            "text": "大部分人都带着预设剧本登场，出身是开场白，经历是章节名，翻几页……就能猜到他们的结局，无聊得令人打呵欠。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_irrheia_talk1_003.aac",
+            "text": "小局长，继续走吧，不要停，我早就看腻了那些安全温顺，屈服于规则下的故事。跟在你身边，是更有趣的选择，你不会让我失望的，对吗？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_irrheia_talk2_001.aac",
+            "text": "在我搭建的舞台上，有些人不管怎么轮回，都会走上那条无趣的路，变成一个稀烂的家伙，连拯救都不值得……但我没想到，你居然能带他们走向一个不同的结局。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_irrheia_talk2_002.aac",
+            "text": "我的世界曾被围困在那些红色的软管和规律的折线中，无趣得像每天送来的检测报告……直到我目睹有人为了反抗规则宁愿撕碎自己，我便无法对这些束缚视而不见了。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_irrheia_talk2_003.aac",
+            "text": "那些名为我亲人的家伙说着什么“家族传统”，用血缘关系规束我，让我心甘情愿地献祭自己，太可笑了……不过，我已经让他们知道了，现在，我才是这个家族规则的制定者。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_irrheia_obeyfull_001.aac",
+            "text": "我昨晚做了个梦——在轮回中，我经过了无数个出口，它们漆黑深幽，看不见底，可是其中一个出口，有你的身影……我毫不犹豫地走过去，最终却死在了你的怀里。但没想到，醒来后我居然有些开心……我似乎终于明白，无尽的轮回中，能让我满意的结局是怎样的了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_irrheia_idle_001.aac",
+            "text": "偶尔像这样无所事事地发呆，也是种新奇的体验。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_irrheia_clicking_001.aac",
+            "text": "你试探别人的方法还真是千篇一律，想试试更刺激一点的吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_irrheia_specialattention_001.aac",
+            "text": "我是故事里人们害怕直视的存在，但你却能这样毫不顾忌地看我……是喜欢魔女？喜欢刺激？还是单纯的……喜欢我呢？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_irrheia_dispatch_001.aac",
+            "text": "我不接无趣的差事，别让我失望。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_irrheia_dispatch2_001.aac",
+            "text": "都是些无关紧要的东西，喜欢就拿去，我没兴趣带走。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_irrheia_levelup_002.aac",
+            "text": "规规矩矩太无趣了，正好，我需要些新的变量。"
+        }
+    ],
+    "irrheia_-_rank_up": [
+        {
+            "title": "摸头",
+            "filename": "File:vo_irrheia_head_001.aac",
+            "text": "你总是能做出些出乎意料的举动，好在我并不讨厌你的触碰。"
+        }
+    ]
+}

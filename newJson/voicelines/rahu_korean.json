@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_rahu_cacha_001.aac",
+            "text": "같은 변이 억제 전투부대라… 나에 대한 이 일련의 행위를 '인사이동'쯤으로 이해하지. 물론 당신의 지시도 따를 거야. 하지만 당신의 명령이 그분과 충돌하게 된다면, 국장이 이해 좀 해줘야겠어."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_rahu_promotion_001.aac",
+            "text": "작은 물줄기가 모여 결국에는 거센 흐름을 만들어 내겠지."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_rahu_promotion2_001.aac",
+            "text": "그림자가 흩어지고 뜨거운 태양이 떠오르네… 자, 이제 때가 왔군."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_rahu_battlebegin_001.aac",
+            "text": "겁먹지 마, 누구도 당신에게 손대지 못할 거야."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_rahu_battlewin_001.aac",
+            "text": "움직여야 해… 여긴 아직 안전하지 않아."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_rahu_battlelose_001.aac",
+            "text": "…난 신경 쓰지 말고 국장을 데리고 떠나! 어서!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_rahu_uniqueskill_001.aac",
+            "text": "모든… 위협을… 제거한다!!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_rahu_dead_001.aac",
+            "text": "난 아직 지켜야 할 사람이… 사명이 남아 있는데… 이렇게…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_rahu_greeting_001.aac",
+            "text": "왜 그렇게 쳐다보는 거지? 혹시… 내 반응을 기다리는 건가? 음… 그래, 안녕."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_rahu_talk1_001.aac",
+            "text": "충성하는 것, 절대로 어길 수 없는 나의 철칙이지. 무슨 일이 일어나도 이 사실은 바뀌지 않아."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_rahu_talk1_003.aac",
+            "text": "목숨을 버린 대가로 목적을 이룰 수 있다면, 그것도 나쁘지 않은 선택이지."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_rahu_talk1_005.aac",
+            "text": "휴식? 내게 그런 건 사치야… 좋아, 정 대화 상대가 필요하다면 한번 시도는 해보지."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_rahu_talk2_001.aac",
+            "text": "이건 내가 선택한 힘이니까, 그때의 선택을 후회하지 않아. 좀 더 일찍 결심하지 못한 게 아쉬울 뿐이지. 그랬다면 지금처럼 의지할 곳 하나 없는 불쌍한 신세가 되진 않았을 테니까."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_rahu_talk2_003.aac",
+            "text": "내게 '충성'이 뭔지 알려준 사람은, 내가 처음으로 충성을 다한 사람이기도 했어… 그런데 이상하게도 그 사람이 누구였는지… 기억이 나질 않아…"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_rahu_talk2_005.aac",
+            "text": "변이의 힘으로 광기에 빠지는 것… 그게 바로 내가 목적을 이루기 위한 수단이자 대가였어. 언젠가 스스로를 통제할 수 없게 될지도 몰라. 그때가 되면 주저하지 말고 너의 안전을 위해 해야 할 일을 하도록 해."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_rahu_obeyfull_001.aac",
+            "text": "과거의 난, 눈앞에 어둠만 가득했지. 하지만 당신의 행동들이… 마치 끝없던 이 어둠에 한 줄기 빛을 내려주는 것과 같았어. 허망한 희망일지라도… 난 당신을 지키겠어… 내 모든 걸 바쳐서라도."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_rahu_idle_001.aac",
+            "text": "…난 신경 쓰지 마… 금방 끝날 거야…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_rahu_clicking_001.aac",
+            "text": "MBCC의 장관씩이나 되는 사람이 이런 짓을 하다니… 부끄럽지도 않아?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_rahu_specialattention_001.aac",
+            "text": "일부러 날 감시할 필요 없어. 족쇄가 그렇게 쉽게 벗어날 수 있는 속박도 아니고. 아, 나랑 단둘이 있고 싶은 거라고? 음, 그래."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_rahu_dispatch_001.aac",
+            "text": "알겠어, 갈게."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_rahu_dispatch2_001.aac",
+            "text": "임무 완료, 다음 지시는 뭐지?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_rahu_levelup_002.aac",
+            "text": "아주 좋아, 더 줘. 난 그것들이 필요해."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_rahu_head_001.aac",
+            "text": "내 머리카락이… 맘에 든다고? 고맙군."
+        }
+    ],
+    "radiant_stealth": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_rahu_qingkongmixing_cacha_001.aac",
+            "text": "대기 지점 도착, 다음 지시를 기다리는 중. 맞아, 햇볕도 강하고 기온도 높아서 타깃이 옷차림을 바꿔 수사를 피할 수도 있으니 각별히 주의해야 해."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_rahu_qingkongmixing_levelup_001.aac",
+            "text": "이 정도 계단은 아무것도 아니야, 계속 올라가자."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_rahu_qingkongmixing_greeting_001.aac",
+            "text": "확실하게 위장하고 주변 환경과 잘 어울리기 위해, 지금은 서로 수다를 좀 떨어야 할 것 같아. 저기 있는 직장인 두 명을 참고해서 냉정한 상사에 대해 이야기하면 돼."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_rahu_qingkongmixing_body_001.aac",
+            "text": "옷차림이나 역할이 바뀌었다고 내 직책도 바뀐 건 아니야. 옷차림이 어떻든 난 당신의 경호원이야. 당신의 안전을 위해서라면 모든 장애물을 제거해 주지. 어색해할 필요 없어."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_rahu_qingkongmixing_body_002.aac",
+            "text": "조금 먼 위치에 수상한 사람들이 여럿 모여있어, 게다가 우리 쪽 움직임을 면밀히 주시하고 있어… 무기를 가졌는지 확인하기엔 조금 먼 거리인데… 당신의 안전을 위해 자리를 이동하는 게 좋겠어. 뭐? 그저 내 연락처를 원하는 것뿐이라고? 어려운 일이 있으면 내가 아니라 치안국에 연락하는 게 더 좋을 거야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_rahu_qingkongmixing_idle_001.aac",
+            "text": "멈춰, 앉아, 일어서! 훈련 내용은 합격이지만 아직 외부 자극에 대한 반응이 남아 있어… 중요한 순간에는 정신을 집중하고 다른 요소에 주의를 뺏기지 않았으면 좋겠네."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_rahu_qingkongmixing_clicking_001.aac",
+            "text": "훈련받은 개들에겐 당신의 행동이 공격의 뜻으로 받아들여질 수도 있어. 이쯤에서 그만두는 게 좋을 거야."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_rahu_qingkongmixing_specialattention_001.aac",
+            "text": "다른 사람들이 도착할 때까지 그렇게 계속 쳐다볼 작정이야? 설정대로 하자고? 좋아… 내 대답이 필요하면 말해."
+        }
+    ],
+    "loyal_oath": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_rahu_rongguangqishi_cacha_001.aac",
+            "text": "나의 주군인 당신에게, 내 평생을 다 바쳐 충성하고 당신을 수호할 것을 맹세해. 이제부터 우리는 생사고락을 함께하고, 결코 서로를 배신하지 않을 거야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_rahu_rongguangqishi_levelup_002.aac",
+            "text": "네 기대를 저버리지 않을게."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_rahu_rongguangqishi_greeting_001.aac",
+            "text": "화원 순찰은 끝났어. 다 안전해. 오늘은 무슨 외부 일정이 있어? 내가 곁에서 지켜 줄게."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_rahu_rongguangqishi_head_001.aac",
+            "text": "함부로 만지지 마. 기사의 자태가 네 체면을 대변하기도 하니까. 난 단정하고 깔끔한 헤어스타일을 유지하고 싶어."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_rahu_rongguangqishi_talk1_001.aac",
+            "text": "많은 이들에게 칭송받는 기사도 정신을 진정으로 해낼 수 있는 사람은 얼마나 될까? …넌 내가 그렇다고 생각해? 응, 고마워. 앞으로도 계속 그렇게 할게."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_rahu_rongguangqishi_talk1_002.aac",
+            "text": "기사가 충성을 맹세하면, 주군에게서 증표를 받게 돼. 그건 총애와 인정의 표시야. 당신이 내게 준 신뢰가 바로 최고의 보상이야."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_rahu_rongguangqishi_hand_001.aac",
+            "text": "하고 싶은 대로 해. 난 언제나 네 곁에 있을 테니까. 네 안전을 위협하려는 게 누구든, 절대 털끝 하나 건드리지 못하게 할 거야."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_rahu_rongguangqishi_weapon_001.aac",
+            "text": "내 무기와 힘은 오직 지키기 위한 거야. 이것들로 네 명예를 지키고, 너의 의지를 실현하며, 네가 걸어갈 길의 모든 장애물을 제거해 줄게."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_rahu_rongguangqishi_idle_001.aac",
+            "text": "햇살이 참 좋네. 잠깐 아래 정원에 앉아서 홍차 한잔할까?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_rahu_rongguangqishi_specialattention_001.aac",
+            "text": "밀착 경호 역시 기사의 임무 중 하나야. 난 이미 너에게 맹세했으니, 내가 떠날 걱정은 하지 않아도 돼."
+        }
+    ]
+}

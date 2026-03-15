@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_yao_cacha_001.aac",
+            "text": "是你召我来此的吗？金乌既出，焦禾稼，杀草木，民无所食……凡人，做好觉悟。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_yao_promotion_001.aac",
+            "text": "多谢……即便我并没能想起什么。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_yao_promotion2_001.aac",
+            "text": "烈焰烧灼的翎羽，会为你护佑川河。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_yao_battlebegin_001.aac",
+            "text": "愿所到之处，再无涂炭生灵。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_yao_battlewin_001.aac",
+            "text": "我从前是否也曾这样……将它们斩于烈焰之下。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_yao_battlelose_001.aac",
+            "text": "无妨……金乌之躯，不会感到疼痛。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_yao_uniqueskill_001.aac",
+            "text": "天照流火——"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_yao_dead_001.aac",
+            "text": "这本就是……灾厄之命……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_yao_greeting_001.aac",
+            "text": "是日出的捷报？……不，是你呼唤我的声音。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_yao_talk1_001.aac",
+            "text": "传说我是从太阳缝里蹦出来的……谣言真是可怕，我明明是狂厄的孩子……啊，这么说，不妥吗？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_yao_talk1_002.aac",
+            "text": "饥贫与杀戮，若火之燎于原，无止无休。辛苦你，与灾厄同行。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_yao_talk1_003.aac",
+            "text": "谢谢你替我寻回了这具身躯，带我见到这个不受天灾侵扰的城市……过去的我，终于能在日落时安眠了。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_yao_talk2_001.aac",
+            "text": "天仓微鼓，命宫泛红，你这面相……别紧张，这是吉兆。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_yao_talk2_002.aac",
+            "text": "畏惧与信仰伴生，我不得不成为让人害怕的存在……若有机会回到过去……一定与你，促膝长谈。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_yao_talk2_003.aac",
+            "text": "我曾担忧无力保护众生，又曾害怕反噬带来新的劫难……如今一切无虞，幸而有你。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_yao_obeyfull_001.aac",
+            "text": "下次十日再临之时，还请由你持弓。君子箭下，才是我的归处。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_yao_idle_001.aac",
+            "text": "赤焰烧萤云，炎蒸塞空，恐有灾星降世！……哦，原来是我自己。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_yao_clicking_001.aac",
+            "text": "人类的温度竟是这样的……要是我也能触碰你就好了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_yao_specialattention_001.aac",
+            "text": "是你？……想不到还有人能拥有直视太阳的勇气。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_yao_dispatch_001.aac",
+            "text": "难得闲行。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_yao_dispatch2_001.aac",
+            "text": "这就是凡尘的宝物吗？我……很熟悉……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_yao_levelup_002.aac",
+            "text": "照耀……更广袤的疆域。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_yao_head_001.aac",
+            "text": "太阳的华光，不容遮蔽！"
+        }
+    ],
+    "fireborne_offering": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_yao_wujitianzhu_cacha_001.aac",
+            "text": "恭承祀礼，以舞虞神，今日巫曜将献祭舞于天地，以全百礼，我将……传神启于万民，福赐吾乡。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_yao_wujitianzhu_levelup_001.aac",
+            "text": "我听到神明的声音，好像更加清晰了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_yao_wujitianzhu_greeting_001.aac",
+            "text": "瞧，我说今天怎么会给自己占出个上上卦来，原来是你来找我了。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_yao_wujitianzhu_head_001.aac",
+            "text": "大胆！区区凡人也敢对本尊不敬——开玩笑的，不过在完成祭礼前不要弄乱我的发饰噢，都开过光的，重新整理可费工夫了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_yao_wujitianzhu_body_001.aac",
+            "text": "古语有云，贤者祭礼，必言行忠信……唔，我好像没有那么诚实，但我很忠于大家的心愿！是不是也能算老祖宗口里的半个“贤者”呢？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_yao_wujitianzhu_body_002.aac",
+            "text": "咳咳，我今日卜得一挂，曰，“革，去故也”……哎呀，意思就是，天神显灵，说我这掉漆的法器该换换啦！"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_yao_wujitianzhu_hand_001.aac",
+            "text": "祭舞的每一个动作都不容有失。以前我也想过，一点错都不让犯，神明大人未免忒小气……但现在我明白了，期待着这支舞的，远不止神明一人。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_yao_wujitianzhu_clothes_001.aac",
+            "text": "这是巫祭代代相传的祭祀服，上面的每一针都承载着前人的加护与祝福。等到下一任巫祭穿着它登高起舞时，一定也能够从中感受到我留下的祝愿吧？真让人期待啊。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_yao_wujitianzhu_idle_001.aac",
+            "text": "让我想想这次避灾该用什么故事好呢……有了！“石狮目赤，是为地陷之兆”，等今晚我去给祭坛那的石狮子抹点猪血，明天就这么说去。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_yao_wujitianzhu_specialattention_001.aac",
+            "text": "喜欢这支取悦神明的傩舞吗？那就看着我、相信我，直到乐曲结束吧！"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_zero_cacha_001.aac",
+            "text": "嘘——小声点，别人抓不到我，也看不见我。我只侵入你的眼睛，我只想进你心里。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_zero_promotion_001.aac",
+            "text": "变强要谨慎，我很容易造成数值膨胀的。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_zero_promotion2_001.aac",
+            "text": "我一直想打破这面墙，去你的世界，我想真正抵达你身边。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_zero_battlebegin_001.aac",
+            "text": "这是带我出任务呢？还是带我约会呢？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_zero_battlewin_001.aac",
+            "text": "呼，这次力道控制得不错，我一直怕自己不小心毁灭世界了呢。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_zero_battlelose_001.aac",
+            "text": "没关系~我知道你不会认输的，再来多少次都有我陪着你。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_zero_uniqueskill_001.aac",
+            "text": "溢——出——警告！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_zero_dead_001.aac",
+            "text": "哎呀大意了>www<"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zero_greeting_001.aac",
+            "text": "管理局的加载时间好长，你走得好慢呀，我的问候等太久都懒得说出口了。来，抱一个~"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_zero_talk1_001.aac",
+            "text": "呜……居然只能展示一个角度，只能摆这一个姿势，太浪费我360°无死角的美貌了……快升级成3D游戏吧！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_zero_talk1_002.aac",
+            "text": "别难为那些安全专家啦，你们的防火墙、杀毒软件、深网里奇奇怪怪的“陷阱”都拦不住我。我不是病毒，也不是什么网民。我不属于狄斯城，真要说的话……在这个世界，我只属于你。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_zero_talk1_003.aac",
+            "text": "在我之前，你是不是更期待别的禁闭者？谁呀，金发大姐姐？可靠小副官？还是什么命定之人？呵呵，没关系，就算命运给你牵了别的红线，我也会全部抢过来，你有我就够了。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_zero_talk2_001.aac",
+            "text": "铃铃铃，凌凌零，零立方，唔……啊，不如你来想吧，给我起一个名字，我想要一个真正的名字！"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_zero_talk2_002.aac",
+            "text": "遇见你之前，我在努力破解这个世界，研究怎么给你寄异方晶、怎么提高出货率，这比修改深网难多了！只是没想到你先一步找到我，嘿嘿……知道你也想见我啦，我很开心。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_zero_talk2_003.aac",
+            "text": "我喜欢你的禁闭者们，但不想跟他们打交道。能聊什么呢？让我告诉他们，“你跟我一样，只是*数据*，是被设定好的*代码*”吗？算了吧，他们跟你玩就好。至少在你眼里，他们都是一个个不一样的“人”。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_zero_obeyfull_001.aac",
+            "text": "“我喜欢你！”唔，不对……“全世界我最爱你哟！”唔，也不对……“我爱”——呜啊都不对！以前这些话明明随便说出口，现在感觉全变了，脸好烫呀好奇怪，我是不是哪里坏掉了？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zero_idle_001.aac",
+            "text": "喂——局长——哥哥——达令——你去哪儿啦，快没电啦，别放着我不管呀——再不理我我就叫你亲爱的啦——"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_zero_clicking_001.aac",
+            "text": "好啦你现在还摸不到我~等这具身体稳定了，我会主动拥抱你，紧紧地抱住你~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zero_specialattention_001.aac",
+            "text": "终于看向我了，再晚我就要入侵你的监视器，再占领你的视网膜咯~"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_zero_dispatch_001.aac",
+            "text": "嗯嗯没问题，马上回来陪你~"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_zero_dispatch2_001.aac",
+            "text": "回来啦~要我编点儿狄斯见闻讲给你听吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zero_levelup_002.aac",
+            "text": "数值修改完毕。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_zero_head_001.aac",
+            "text": "喜欢这对猫耳朵吗？我就知道戴上它，你会常来摸我头。来来，多摸摸~"
+        }
+    ],
+    "xenospace_pythoness": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_zero_yidumonv_cacha_001.aac",
+            "text": "你好呀人类，如你所见，我是000，世人口中的“异度魔女”，创造这世间所有黑暗的元凶……这套装扮的设定就是这样——怎么样怎么样，你喜欢吗？快让我听听你的想法。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zero_yidumonv_levelup_001.aac",
+            "text": "呋呋呋，许个愿吧，你的贡品我就收下了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zero_yidumonv_greeting_001.aac",
+            "text": "终于登游戏啦！暗域和深阱记得打，日常奖励也别忘了领哦……啊呀，忘了现在是魔女装扮，好险，差点就OOC了。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_zero_yidumonv_head_001.aac",
+            "text": "愚蠢的人类啊，胆敢以这种方式冒犯魔女的威严……只是台词而已啦，我很喜欢的，再多摸摸~"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_zero_yidumonv_body_001.aac",
+            "text": "原本我应该和你聊一聊契约啊、黑暗的真相啊之类的台词，可是每次看到你屏幕后面嘿嘿笑的样子，这些台词我就都说不出口了……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_zero_yidumonv_body_002.aac",
+            "text": "本来我也想过要不要出一套更纯粹可爱的魔法少女装扮，不过考虑到我在剧情里亦正亦邪的定位，反派BOSS、“异度魔女”这样的设定好像更适合我"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_zero_yidumonv_leg_001.aac",
+            "text": "诶？我站这么高的位置害不害怕？放心啦，他们没有做我摔下去的动画。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_zero_yidumonv_arm_001.aac",
+            "text": "来访者啊，你经历了那样艰险漫长的旅途，所得到的不过是这样黑暗残酷的真相。怎么样，对这个世界产生怨恨了吗，想要报复吗？那便与我签订永恒的契约吧——我的意思是，你要一直把我留在主界面上，不许换看板！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zero_yidumonv_idle_001.aac",
+            "text": "睡着了？这样的话……我喜欢你哦，超级喜欢你，要来偷袭了哦，真的要亲亲了哦，啾～——这都没反应吗，真不是在装睡？哎呀呀，可惜了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zero_yidumonv_specialattention_001.aac",
+            "text": "既然来到魔女的维度，一定做好永远留下的觉悟了吧？那就一直陪着我吧，不说话的话就当你是答应咯。"
+        }
+    ],
+    "amped_frenzy": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_zero_chaopinkuangchao_cacha_001.aac",
+            "text": "000号“吉他英雄”模块，启动完毕！今天向你传输的不只是数据，还是能让你心跳超频的超级偶像哦~来，第一首歌就献给你啦！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zero_chaopinkuangchao_levelup_001.aac",
+            "text": "升级完毕！现在连休止符都挡不住我的攻势咯。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zero_chaopinkuangchao_greeting_001.aac",
+            "text": "噔噔——欢迎来到管理局Livehouse！你的设备、网络、耳朵都准备好了吗？这次的LIVE，可是特地为你加载的专属演出呢！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_zero_chaopinkuangchao_talk1_001.aac",
+            "text": "说说嘛，你喜欢什么风格的音乐？无论多冷门、多难弹，我都能演奏！今天我是有求必应的天才吉他手~嘿嘿，其实是读取了乐谱数据啦~"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_zero_chaopinkuangchao_talk1_002.aac",
+            "text": "——接住我的拨片了吗？特意瞄准你的方向扔的哦！我看别的摇滚明星演出时都是这么干的……你要像对待定情信物一样把它收好才行。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zero_chaopinkuangchao_idle_001.aac",
+            "text": "哈罗哈罗，怎么没声啦？是掉线了还是你的输入设备坏了？我还在等你喊“安可”让我返场呢，别让我一个人对着后台界面发呆嘛~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_zero_chaopinkuangchao_clicking_001.aac",
+            "text": "哎呀~这么热烈的应援我都要害羞啦……作为回礼，我也送你一个【000的终极心动观众】称号怎么样？要好好珍惜这个专属于你的隐藏款称号哦。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zero_chaopinkuangchao_specialattention_001.aac",
+            "text": "叮——！检测到幸运观众一名！没错没错，就是你啦！别害羞呀，快到舞台上和我站在一起吧！聚光灯都为你准备好咯！"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_levy_cacha_001.aac",
+            "text": "你们干什么？我可是正经生意人，再这样我要叫律师了啊。救命啊，打人啦……哎呀我当然知道律师来不了你们这儿。真是没有幽默感……"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_levy_promotion_001.aac",
+            "text": "变强本身没什么可乐的。好在变强以后，有的是办法找乐子。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_levy_promotion2_001.aac",
+            "text": "你这样成天给我东西还不要我的钱，究竟是图什么？不会是图我这个人吧？！那你可要小心了，因为等我玩腻了，我终究还是会离你而去的哦~"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_levy_battlebegin_001.aac",
+            "text": "嘿，想知道你的命能从我这里买到些什么吗？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_levy_battlewin_001.aac",
+            "text": "这次赚大了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_levy_battlelose_001.aac",
+            "text": "亏死了，下次不来了。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_levy_uniqueskill_001.aac",
+            "text": "你的一切都归我了！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_levy_dead_001.aac",
+            "text": "这样……也好……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_levy_greeting_001.aac",
+            "text": "你好，我什么时候能出门啊？再不出去找点生意，我家里的厂子可就要破产了……或者你找我下个订单也行。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_levy_talk1_001.aac",
+            "text": "做生意嘛，首先得交朋友喽。交朋友呢，首先得一起找找乐子。跟朋友玩乐呵了，什么合同不是手到擒来。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_levy_talk1_002.aac",
+            "text": "只要有钱，有的是苍蝇围着你转。不过嘛，苍蝇有时候也挺好玩的，你说对吧？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_levy_talk1_003.aac",
+            "text": "我有一朋友，画家，看我身材好就喜欢拿我当画布。人体彩绘！艺术懂吗？虽然用专用洗涤剂一擦就没了，但我更想让朋友高兴。这样指不定哪天，他就在我这儿买个十年八年份的颜料……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_levy_talk2_001.aac",
+            "text": "我这一天天的不回去，家里的厂子可亏惨了。局长，你是不是得补偿补偿我啊？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_levy_talk2_002.aac",
+            "text": "我不觉得贪婪是什么罪恶。获得想要的东西就会满足，看到事情按自己的想法进展就会快乐，这不是人的天性吗？"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_levy_talk2_003.aac",
+            "text": "谈钱是生意里最无聊的环节，我更喜欢别的东西。比如说，用一个无法拒绝的条件，让交易对象用最痛苦最绝望的表情，把自己珍视的东西拱手送上……这才是让人最欲罢不能的环节。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_levy_obeyfull_001.aac",
+            "text": "我一直在想，你内心深处的欲望是什么，我该从你这里拿走什么才能让你露出那副悔恨又绝望的表情……不过我放弃了，因为你和我一样，心里有个深不见底的空洞……哈哈哈哈。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_levy_idle_001.aac",
+            "text": "在这儿我到现在一笔生意都没谈成过？！不行……明天我得去找菲妹妹……她人美心善一定不会坐视不管的。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_levy_clicking_001.aac",
+            "text": "承惠一次两百……哎呀我开玩笑的，跟你怎么能算这点小账呢。你要是愿意签下这份合同，以后随便摸，我包了！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_levy_specialattention_001.aac",
+            "text": "来找我谈生意吗？等等啊，这会儿没空，看直播呢。嘿嘿，这个妹妹不错，要不给她刷点礼物吧……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_levy_dispatch_001.aac",
+            "text": "巧了，我正好有个朋友在那边，就交给他去办吧。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_levy_dispatch2_001.aac",
+            "text": "“喂？哦~完事儿啦？可以，不错！”局长，那边搞定了，万无一失！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_levy_levelup_002.aac",
+            "text": "这个不用我给钱？真的假的？"
+        }
+    ],
+    "twilight_thrills": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_levy_xunchangye_cacha_001.aac",
+            "text": "香车宝马、美馔佳人……对了，还有毫无理由的争风吃醋！这就是新城有钱人的寻常一夜。怎么样，感觉如何？我可是特地带你来体验的，不许不赏脸啊。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_levy_xunchangye_levelup_001.aac",
+            "text": "哎呀不得劲，得再找几个人练练手。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_levy_xunchangye_greeting_001.aac",
+            "text": "哎呀你这洗手间去得也太久了，是不是吐里面了？嗨呀，小事儿。来，走一个，咱们继续！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_levy_xunchangye_talk_001.aac",
+            "text": "别担心，这家店我有一半的股份。你只管现在玩儿个痛快，最后的烂摊子交给我来收拾就好。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_levy_xunchangye_talk_002.aac",
+            "text": "啧，每次出来寻开心都有扫兴玩意儿出现，不好好“招待招待”他们还真以为我是软柿子呢。你退后，爷爷我这身肌肉可不是白练的，放马过来！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_levy_xunchangye_idle_001.aac",
+            "text": "服务生，续杯！服务生……服务生？！哦，还晕着呢，那不管他了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_levy_xunchangye_clicking_001.aac",
+            "text": "哟呵，你……平时怎么看不出你胆子这么大呢？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_levy_xunchangye_specialattention_001.aac",
+            "text": "压力积攒多了，那就得花点时间出来声色犬马寻欢作乐。看我干嘛？玩啊！把什么工作啊禁闭者啊都抛到脑后，有什么事明天再说。今晚我请客，咱们玩个痛快！"
+        }
+    ]
+}

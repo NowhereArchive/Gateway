@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_pylgia_cacha_001.aac",
+            "text": "あなたは……深く暗い海底を照らし……私と……私の遠い記憶を目覚めさせた……人間の仲間よ……私はあなたを……ずっと……ずっと待っていた……"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_pylgia_promotion_001.aac",
+            "text": "環境が変化し続ける限り……進化は止まらない……"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_pylgia_promotion2_001.aac",
+            "text": "私は……最も深い海底に到達する……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_pylgia_battlebegin_001.aac",
+            "text": "この海域で……探索を開始する……"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_pylgia_battlewin_001.aac",
+            "text": "脅威は……去った……これで潜り続けることができる……"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_pylgia_battlelose_001.aac",
+            "text": "深淵は……全てを飲み込む……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_pylgia_uniqueskill_001.aac",
+            "text": "突き刺し……引き裂く……深海に沈め！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_pylgia_dead_001.aac",
+            "text": "これも……循環の一部だ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_pylgia_greeting_001.aac",
+            "text": "海流が合流し……魚が回遊して……あなたは……私の傍に戻ってきた……"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_pylgia_talk1_001.aac",
+            "text": "殺害、捕食、あるいは死は……誕生、成長、愛と同じく、生命の循環の一段階だ……"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_pylgia_talk1_002.aac",
+            "text": "私たちは皆、この海が育んだ子供……やがて合流し、融合し……互いの一部となる……"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_pylgia_talk1_003.aac",
+            "text": "どんなに潜っても……浮上する日は必ず来る……人間は……結局、深く冷たい海底の生き物ではないのだ……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_pylgia_talk2_001.aac",
+            "text": "物心ついた時から……私は海で暮らしてきた……陸は遠すぎる……人間の感情は……複雑だ……私は……近づくことができない……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_pylgia_talk2_002.aac",
+            "text": "……真実は……深淵の果ての海水よりも……冷たい……一筋の光を……かの者を見た生物は……危険だと分かっていたが、拒むことはできなかった……あの暗闇の中で……もう他に追い求めるものがなかったからだ……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_pylgia_talk2_003.aac",
+            "text": "私は……夏の波……海底に差し込む太陽の光.....渡り鳥と水面の魚が好きだ……あなたも見てみたいか？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_pylgia_obeyfull_001.aac",
+            "text": "人間は……老いて……死ぬ……私は嫌だ……もしいつか、あなたが人生の終わりを迎えた時は……私に会いに来てほしい。私の身体と融合し、共存しよう……永遠に……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_pylgia_idle_001.aac",
+            "text": "嵐がやむひと時は……全てが静かだ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_pylgia_clicking_001.aac",
+            "text": "やめろ……このフジツボやサンゴは……鋭い。気を付けた方がいい……あなたに怪我をしてほしくない……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_pylgia_specialattention_001.aac",
+            "text": "あなたのおかげで……私は深淵の底からここに戻ってきた……やはり……あなたは……期待通りだ……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_pylgia_dispatch_001.aac",
+            "text": "そこは……海なのか？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_pylgia_dispatch2_001.aac",
+            "text": "潮が……彼らを岸に送り返した……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_pylgia_levelup_002.aac",
+            "text": "より深く……より冷たく……"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_pylgia_head_001.aac",
+            "text": "柔らかな……感触……海藻の塊が頭上をかすめるような……少し奇妙な感覚……だが……不快ではない……"
+        }
+    ],
+    "shackled_dream_in_aqua": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_pylgia_shuixingzhiguan_cacha_001.aac",
+            "text": "私はかつて潮の泡、深淵の青い光、海流が交わる場所で生まれた生命だった……しかし今は、自由を失い、命を失った死を待つ展示品だ。それなのに、何があなたをここに留まらせているんだ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_pylgia_shuixingzhiguan_levelup_001.aac",
+            "text": "これで……壁を越えて、あなたの元へ行けるのか？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_pylgia_shuixingzhiguan_greeting_001.aac",
+            "text": "ここは……闇に閉ざされた深い海溝……海水は流れず、時は止まったかのようで、まるで大きく空虚な牢獄だ……あなただけが、希望と変化をもたらすことができる……"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_pylgia_shuixingzhiguan_talk_001.aac",
+            "text": "この館の来場客は、ほとんど私の所には留まらない。深海の生き物のように、冷たくよそよそしい。だが、あなたは違う……いや、それが嫌なわけではなく、ただ……とても不思議な心地がする。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_pylgia_shuixingzhiguan_talk_002.aac",
+            "text": "私はかつて人間の世界を遠くから眺め、遠洋の漁船に心を寄せ、毎晩港の星明かりを待ちわびていた……あの遠く無視できないものに夢中になっていた……いつもあなたの瞳に映る光を期待しているのと同じように。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_pylgia_shuixingzhiguan_idle_001.aac",
+            "text": "聞いてほしい。水の流れがガラスを叩く音を。波が岩を打つ音によく似ている……つい眠ってしまいそうだ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_pylgia_shuixingzhiguan_clicking_001.aac",
+            "text": "この人工の透明な隔たりは、私たちが決して越えられない距離だ……海から陸地への距離よりも、遥かに遠い。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_pylgia_shuixingzhiguan_specialattention_001.aac",
+            "text": "来場客は行き来し、立ち止まり、じっくり見て気に入った展示品を選ぶ。そしてこちらもまた、あなたたちを観察している……とても幸運だ。あなたも私も互いを選んだなんて。きっとこれが、あなたたちの言う「魂の絆」というものなのだろう。"
+        }
+    ]
+}

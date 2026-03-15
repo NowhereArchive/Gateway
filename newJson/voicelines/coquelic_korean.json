@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_coquelicot_cacha_001.aac",
+            "text": "내가 여기 와준 걸 영광으로 알라고~ 내 방밖에는 작은 화원이 있었으면 좋겠는데, 그럼 수고해~"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_coquelicot_promotion_001.aac",
+            "text": "노력하는 아이들은 내가 인정해 줄게."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_coquelicot_promotion2_001.aac",
+            "text": "꽃에 둘러싸인 지금 이 순간을 즐기렴."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_coquelicot_battlebegin_001.aac",
+            "text": "오늘은 또 누가 내 칼날의 꽃이 될까?"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_coquelicot_battlewin_001.aac",
+            "text": "여기 흩뿌려진 꽃잎들, 정말 너무 아름답다."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_coquelicot_battlelose_001.aac",
+            "text": "잠시 네 목숨을 살려주지…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_coquelicot_uniqueskill_001.aac",
+            "text": "꽃이여, 다시는 피지 않을 것처럼 만개하라."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_coquelicot_dead_001.aac",
+            "text": "이건… 가장 아름다운 꽃비가 될 거야…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_coquelicot_greeting_001.aac",
+            "text": "오늘은 아무 의뢰도 안 들어왔으면 좋겠다, 여기서… 하루 종일 쉴 수 있게~"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_coquelicot_talk1_001.aac",
+            "text": "난 화원의 모든 꽃을 아끼고 사랑을 주고 있어, 내 보살핌으로 그들의 가지와 잎이 더욱 날카로워지고, 고난을 이겨내어 끝내 그 영혼이 가장 아름다운 꽃으로 피어나길 바라…"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_coquelicot_talk1_002.aac",
+            "text": "이런 속박으로는 피어나는 욕망을 가둘 수 없어. 어둠 속에서 자라는 나뭇가지와 잎들도 언젠가는 울타리를 부수고 나오겠지."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_coquelicot_talk1_003.aac",
+            "text": "돈으로 해결하는 게 가장 정상적인 생활 방식이지~ 고객도 편리하고, 나도 즐겁고~ 껍데기뿐인 비현실적인 목표를 위해 힘을 쏟는 녀석들 보다 난 지금 생활이 더 마음에 들어~"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_coquelicot_talk2_001.aac",
+            "text": "꽃을 좋아하는 사람은 꽃을 꺾고, 꽃을 사랑하는 사람은 꽃에 물을 주지… 하지만 네가 날 꺾어 가도 난 상관없어~"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_coquelicot_talk2_002.aac",
+            "text": "그런 복잡한 원칙들은 듣기 싫어, 이 세상에서 가장 멋진 대답은 '내 맘이야', 이 네 글자야."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_coquelicot_talk2_003.aac",
+            "text": "나처럼 착하고 아름다운 사람은 그 더러운 것들을 가르치고 깨끗이 씻겨내 다음 생에선 아름다운 꽃으로 다시 태어날 수 있게 기회를 만들어 주지... 아~ 난 정말 너무 위대한 것 같아~"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_coquelicot_obeyfull_001.aac",
+            "text": "활짝 핀 꽃들도 언젠가는 시들기 마련이지, 그때가 되면 난 영원히 잠들지 않는 당신이라는 짙은 푸른색의 심연 속에 빠져 잠들고 싶어… 개양귀비처럼 붉게 물들어 네 마음속에 피어나는 거지… 이게 널 위한 나의 진심이자 내가 흘려둔 흔적이야…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_coquelicot_idle_001.aac",
+            "text": "만져주고 좋아해 주는 사람이 없어 사무치게 외롭고 견디기 힘들지만, 그럴수록 더욱 찬란한 꽃을 피울 수 있지."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_coquelicot_clicking_001.aac",
+            "text": "내가 좀 이뻐해 준다고 선 넘지는 말자? 한 번만 더 그러면… 화원 진흙 속에 누워 있는 사람들 옆에 고이 묻어버릴 거니까."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_coquelicot_specialattention_001.aac",
+            "text": "휴~ 나도 알아 나 이쁜 거, 그러니까 너도 날 계속 보고 싶은 거잖아?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_coquelicot_dispatch_001.aac",
+            "text": "외투 들기가 너무 힘들어서 그러는데, 옷 좀 대신 걸쳐줄래?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_coquelicot_dispatch2_001.aac",
+            "text": "다음부터 이런 일은 다른 사람 시켜줄래, 나랑은 안 맞거든."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_coquelicot_levelup_002.aac",
+            "text": "지금의 나 정도로 만족하지 않는 거야?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_coquelicot_head_001.aac",
+            "text": "이 꽃이 마음에 들어? 아니면… 꽃이 어떻게 붉게 물들었는지 보고 싶은 거야?"
+        }
+    ],
+    "blossom": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_coquelicot_shengfang_cacha_001.aac",
+            "text": "눈을 뜨자마자, 내게 달려오는 너의 모습이 보였어. 알아, 계속 지켜온 네 덕분에 이번 만개에 특별한 의미가 생겼다는 거."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_coquelicot_shengfang_levelup_001.aac",
+            "text": "자, 성대하게 꽃을 피우렴!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_coquelicot_shengfang_greeting_001.aac",
+            "text": "잠깐 안 본 사이에 넌 왜 저 아이들처럼 날 졸졸 따라다니기 시작한 거야? 아이참, 아직 살아 있잖아. 네가 구해준 목숨, 잘 간직할게."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_coquelicot_shengfang_talk_001.aac",
+            "text": "과거 날 가두던 공간이 이제는 화려한 화원이 됐네. 무성한 꽃들은 나의 죽음을 의미하는 게 아니라 나의 새로운 삶을 의미해."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_coquelicot_shengfang_talk_002.aac",
+            "text": "내 화원에서 죽을상은 하지 말아 줄래? 너 때문에 꽃들도 슬퍼하잖아. 걱정하지 마, 다시는 작별 인사도 없이 떠나지 않을 테니까."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_coquelicot_shengfang_idle_001.aac",
+            "text": "난 줄곧 혼자서 모든 문제를 해결하려고 했지만, 이렇게 많은 일을 겪으면서 난… 그래도 너희가 있어야 내가 좀 더 안심할 수 있다는 걸 깨달았어."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_coquelicot_shengfang_clicking_001.aac",
+            "text": "왜? 너도 해보고 싶어? 이리 와, 대신… 네 다리 위가 내 자리로 되는 거야."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_coquelicot_shengfang_specialattention_001.aac",
+            "text": "새로 만든 화원에는 디스시티에서도 볼 수 없었던 희귀한 꽃들이 있어. 수련, 불보필룸… 응? 개양귀비만 보고 싶다고? 그럼… 날 많이 봐 둬~"
+        }
+    ],
+    "crimson_hunt": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_coquelicot_feisemilin_cacha_001.aac",
+            "text": "이번에도 어떤 귀염둥이가 제 발로 찾아왔네… 네 참여는 반갑지만, 포식자의 숲은 네가 생각하는 것보다 훨씬 위험해. 연회는 이미 시작됐어. 이 성대한 연회 속에서 네가 원하는 것을 가져갈 수 있을지 정말 궁금한걸?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_coquelicot_feisemilin_levelup_001.aac",
+            "text": "연회에 참석했을 때 어떻게 해야 하는지 그래도 잘 알고 있네. 나쁘지 않아."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_coquelicot_feisemilin_greeting_001.aac",
+            "text": "매일 이곳에 오는 건… 숲속의 부드러운 밤에 빠진 거야, 아니면 탐스러운 식탁 위의 음식에 끌린 거야? 그것도 아니면… 내가 거짓을 섞은 술 때문에 중독된 건가?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_coquelicot_feisemilin_talk_001.aac",
+            "text": "깊은 숲속에 우뚝 솟은 고성, 불빛 하나 없이 생기라곤 전혀 느껴지지 않았지. 연회에 초대된 손님들조차 그곳에 들어가길 꺼렸어. 그런데 밤이 깊어질수록, 창 너머의 그림자가 슬금슬금 꿈틀대기 시작했지. 누군가는 그건 깊은 잠에 빠진 뱀파이어가 다음 무도회를 기다리고 있는 거라고 했어…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_coquelicot_feisemilin_talk_002.aac",
+            "text": "숲속 연회의 규칙은 조금도 복잡하지 않아. 숨바꼭질하는 거랑 똑같아~ 사냥감을 잡은 사람은 푸짐하게 음식을 즐길 수 있고, 제대로 숨지 못한 사람은 먹잇감이 되는 거야… 걱정 마, 오늘 밤의 디저트는 이미 충분하니까. 네가 이렇게 빨리 '고양이'의 식사가 되는 건 나도 원치 않아~"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_coquelicot_feisemilin_idle_001.aac",
+            "text": "그럼 조용히 좀 더 여기 있어 볼까? 어쨌든 연회는 아직 끝나지 않았고, 이 숲도… 계속 너 같은 손님을 맞이하는 걸 즐거워하니까."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_coquelicot_feisemilin_clicking_001.aac",
+            "text": "내 술에 어쩌면 새로운 재료가 필요할지도 모르겠어. 예를 들면 얌전하지 못한 네 손가락이랄까?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_coquelicot_feisemilin_specialattention_001.aac",
+            "text": "하… 난 지금 네 눈빛이 좋아. 꾸밈없고 솔직하면서도, 생존과 승리, 그리고 정복에 대한 욕망으로 가득 차 있어… 바깥세상에는 제멋대로인 규칙이 수없이 많지만, 밀림 속에선 그런 속박이 존재하지 않아. 네가 만약 춤을 추고 싶다면, 음악이 나오길 기다릴 필요도 없어."
+        }
+    ]
+}

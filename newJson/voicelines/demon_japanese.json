@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_dimeng_cacha_001.aac",
+            "text": "ふっ、こういうところに入れられるのは初めてではない……さて、今回はどの拷問だ？　ウジ虫共は俺にどんな罪を着せるつもりだ？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_dimeng_promotion_001.aac",
+            "text": "代償は支払った。この力は俺が手に入れてしかるべきものだ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_dimeng_promotion2_001.aac",
+            "text": "時が来た。約束を果たさなければならない。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_dimeng_battlebegin_001.aac",
+            "text": "作戦開始だ。全員、警戒を怠るな。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_dimeng_battlewin_001.aac",
+            "text": "敵のターゲット一掃。行動継続。気を抜くな。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_dimeng_battlelose_001.aac",
+            "text": "はは……やはり何も守れなかった……。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_dimeng_uniqueskill_001.aac",
+            "text": "俺を超えられると思うな！！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_dimeng_dead_001.aac",
+            "text": "期待を……裏切ってしまったな……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dimeng_greeting_001.aac",
+            "text": "死瞳、暴徒、そして陰謀家がまだこの街には横行している……きみは動くべきだ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_dimeng_talk1_001.aac",
+            "text": "ウジ虫が街に入り込み、すべての人間を翻弄した。俺は、やつらの死を望んでいる。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_dimeng_talk1_002.aac",
+            "text": "この街の下に潜む闇を侮ってはならない。それがこれまでのすべてと引き換えに得た教訓だ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_dimeng_talk1_003.aac",
+            "text": "他のシンジケートの人たちと同じように俺も道端で死ぬべきだった。だがアベルが俺をそこから連れ出した。今考えると、それこそが間違いだったのかもしれない……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_dimeng_talk2_001.aac",
+            "text": "八年たっても、ディスシティはそのままだ。アベルと彼の夢は、すっかり忘れ去られてしまった。時々やつらは一体何を覚えているのだろうと思うことがある。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_dimeng_talk2_002.aac",
+            "text": "自分の手で自分の……父親を、長年の部下を殺し、大切にしてきたものすべてを葬って……どんな気持ちかと聞いてるのか？ははは、さぞかし気に入らないだろうよ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_dimeng_talk2_003.aac",
+            "text": "きみと一緒に戦うことは、俺の人生において間違っていない唯一の選択なのかもしれない。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_dimeng_obeyfull_001.aac",
+            "text": "友と呼べる者は、もういない。きみは……長生きしろ。俺より先に死ぬな。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dimeng_idle_001.aac",
+            "text": "アベル、ヴィラ……失望はさせない……もう二度と……。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dimeng_clicking_001.aac",
+            "text": "炭化タングステン装甲は確かに使いやすい。気に入ったのなら、着てみたらどうだ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dimeng_specialattention_001.aac",
+            "text": "俺を監視するつもりか？それとも……誰かに守ってほしいのか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_dimeng_dispatch_001.aac",
+            "text": "任務は了解した。今は作戦を立てているところだ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_dimeng_dispatch2_001.aac",
+            "text": "任務完了。報告書は提出済みだ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dimeng_levelup_002.aac",
+            "text": "まだまだ耐えられる。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_dimeng_head_001.aac",
+            "text": "それは……俺の好むものではない。"
+        }
+    ],
+    "under_the_neon_lights": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_dimeng_nihongzhixia_cacha_001.aac",
+            "text": "ここでいつまで待てばいい？「まだ返答がない」だと？はぁ、分かった……緊急事態となれば、どんな命令でも出してくれて構わない。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dimeng_nihongzhixia_levelup_001.aac",
+            "text": "目立つ必要はない。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dimeng_nihongzhixia_greeting_001.aac",
+            "text": "行動する時だ。こういった娯楽は人の心を惑わす。きみにはこんなところで溺れて欲しくない。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_dimeng_nihongzhixia_talk_001.aac",
+            "text": "「最も汚れた場所には、最も貴重な情報が埋もれている」。それについては俺も同感だ。ただ……もう少し時間が欲しい。ここのネオンの眩しさに、まだ慣れていない。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_dimeng_nihongzhixia_talk_002.aac",
+            "text": "肩を並べて戦う？ここは狭い。万一の時は、俺に任せればいい。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dimeng_nihongzhixia_idle_001.aac",
+            "text": "……気安く俺に近づくな。俺は……仲間を待っている。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dimeng_nihongzhixia_clicking_001.aac",
+            "text": "……任務遂行中に、こんな無駄なことはするな。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dimeng_nihongzhixia_specialattention_001.aac",
+            "text": "任務を無事果たせるよう、俺がきみを守ろう。だからあまりぐずぐずするな。時間の無駄だ。"
+        }
+    ]
+}

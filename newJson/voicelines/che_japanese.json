@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_che_cacha_001.aac",
+            "text": "俺なんか捕まえてもどうにもならないだろ？頑張って、次はもっとすごいコンビクトを捕まえてくれよ。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_che_promotion_001.aac",
+            "text": "いや、強くなっても俺はサボるからな。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_che_promotion2_001.aac",
+            "text": "よっしゃ、強くなった～。次はなんだ？　ブラックリングに送り込んで俺を死なせるのか？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_che_battlebegin_001.aac",
+            "text": "しっかり俺についてきてくれよ……お前だけでも、生きて連れ戻さないとな。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_che_battlewin_001.aac",
+            "text": "行こう。死体を見ても仕方ないだろ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_che_battlelose_001.aac",
+            "text": "ハハッ……予定より早く帰れそうだ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_che_uniqueskill_001.aac",
+            "text": "逃げるな！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_che_dead_001.aac",
+            "text": "こんなところでやられるとは……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_che_greeting_001.aac",
+            "text": "………俺からの挨拶を待ってるのか？お前ってほんっとうにつまらないやつだな……。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_che_talk1_001.aac",
+            "text": "砥石はある？ジョニーとジェーソンが鈍くなった。どうして武器に名前を付けるって？別に、面白いだけだ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_che_talk1_002.aac",
+            "text": "俺とおしゃべりがしたい？いやだ……おしゃべりする暇なんかない。他の奴を当たってくれ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_che_talk1_003.aac",
+            "text": "お金さえくれれば、雑用ぐらいやってやるよ。でも喧嘩はやらない。ああいうのは苦手なんだ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_che_talk2_001.aac",
+            "text": "おい、ちょっと取引しないか？今週、お前の命令はなんでも聞くし、絶対サボらない……その代わり、死恋ラジオの特典セットを買ってほしいんだよな。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_che_talk2_002.aac",
+            "text": "K.K.ってなんか昔の俺に似てるんだよなぁ——つまらなくて、毎日仕事ばっかりで、プライベートの時間なんかちっともない。俺が見ててやらないと、あいつは絶対いつかギャンブルの借金を返済するためにハクイツに売られちゃうと思うんだよ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_che_talk2_003.aac",
+            "text": "ハクイツってやつは、酒と賭博に溺れてるし、まともな仕事もしないで毎日厄介なことばかりして、酔っぱらったら俺のことをチビと呼びやがる……でも、あいつはこの世で一番面白いやつだ。俺が出会った時からそうだった。そんで、今でもそうなんだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_che_obeyfull_001.aac",
+            "text": "せっかくそんな顔してるのに、局長として上に媚を売るわけでもないし、毎日のように俺たちコンビクトと一緒にいるなんて。お前って、面白いな……あっ、勘違いしないでくれ。別にそういう意味じゃないから。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_che_idle_001.aac",
+            "text": "疲れたか？ならぐっすり寝るといい。安心しろ。局長様がサボってることが他のやつらにバレないように、俺がちゃんと見張っててやるから。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_che_clicking_001_01.aac",
+            "text": "えっと……なんだ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_che_specialattention_001.aac",
+            "text": "お前が仕事をする。俺がサボる。そして互いに干渉しない。これでいいだろ？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_che_dispatch_001.aac",
+            "text": "他の人に頼んでくれよ。俺は今取り込み中。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_che_dispatch2_001.aac",
+            "text": "それじゃ、先に帰るから。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_che_levelup_002.aac",
+            "text": "ちっ、面倒だな。"
+        }
+    ],
+    "unexpected_guest": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_che_busuzhike_cacha_001.aac",
+            "text": "ん？誰かと思ったら、お前か。俺はここで仕事中。白記が借金取り立ての依頼を受けたんだが、K.K.は他の仕事で手を離せなくてな。俺が来るしかなかったんだよ。で、相手をビビらせるためにこれ着てるってわけだ——ハクイツのアイデアだから、俺は関与してないぞ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_che_busuzhike_levelup_001.aac",
+            "text": "またか？戦ったり殺し合ったりするのは疲れるんだよなぁ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_che_busuzhike_greeting_001.aac",
+            "text": "まだ終わってないし、本当に殴ったりするわけでもないからな。この店は営業中だから、俺がずっとここに座ってたら、そのうち相手がうんざりしてくるんじゃないか。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_che_busuzhike_body_001.aac",
+            "text": "はぁ、依頼なら他にもあるのに、よりによってなんでこの借金取り立ての依頼を受けたんだ。しかも実行するのは俺……ま、失敗なら失敗でいい。どうせ白記が失敗した仕事は一つや二つじゃないからな。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_che_busuzhike_body_002.aac",
+            "text": "このまま座ってたら警備員になりそうだ。お茶とヒマワリの種がタダで貰えるのはラッキーだけどな。なぁ、お前も食えば？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_che_busuzhike_idle_001.aac",
+            "text": "お前も暇そうだし、裏で麻雀でもどうだ？心配するな。ここの社長と仲良くなったから、金は取られない。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_che_busuzhike_clicking_001.aac",
+            "text": "触るな。これは刺青じゃなく、ただのアームカバーだ。何の理由もなく自分の身体傷つける奴がどこにいるんだよ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_che_busuzhike_specialattention_001.aac",
+            "text": "よくここに来る暇があったな？まぁ、好きにしろ。そこに座って日光浴しながらビタミンDを補給するのも悪くない。"
+        }
+    ]
+}

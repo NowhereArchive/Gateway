@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_uni_cacha_001.aac",
+            "text": "わざわざ遠くから私を拐かして……自分の顔が気に入っていないのか？安心するといい。少なくとも、君の瞳は悪くない。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_uni_promotion_001.aac",
+            "text": "強くなるのは構わないが、本当に必要なことなのか？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_uni_promotion2_001.aac",
+            "text": "鏡像は人の心のようだ。教えてほしい。私の鏡に映っているのは人か？それとも欲望か？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_uni_battlebegin_001.aac",
+            "text": "来るといい。まだ救いがあるか見てみよう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_uni_battlewin_001.aac",
+            "text": "あまり楽しそうに笑うと、目尻に皺ができるぞ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_uni_battlelose_001.aac",
+            "text": "負け犬と脱走兵。まさに運命的な組み合わせだね。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_uni_uniqueskill_001.aac",
+            "text": "己の醜さをよく見ろ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_uni_dead_001.aac",
+            "text": "私は……彼女を連れ戻す……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_uni_greeting_001.aac",
+            "text": "今日も君の瞳は美しいね。緊張しなくていい。枷がある限り、私は何もできないのだから。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_uni_talk1_001.aac",
+            "text": "全てをあるべき場所で保持するのは、難しいことなのか？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_uni_talk1_002.aac",
+            "text": "額幅で縦三等分、目幅で横五等分。黄金比だ。この顔は彼らにとって最も価値あるものだというのに、なぜ急いで売ろうとするんだ？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_uni_talk1_003.aac",
+            "text": "私の鏡には見た者が最も望む顔が映るのだが、君の欲望はよく見えないな。局長、君は本当に何も求めていないのか？……それとも、他の企みがあるのか？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_uni_talk2_001.aac",
+            "text": "娯楽はニューシティの勲章であり、美しい顔はこのお祭り騒ぎの入場チケットだ。夢の実現には、代償を払わなければならない——私たちは、互いに協力してそれぞれの目的を達成しよう。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_uni_talk2_002.aac",
+            "text": "明日のスター？はっ、そういった量産型が好みなのか？能力を使わずとも、彼らの望みは分かる。月並みなセンスにマンネリ顔……死瞳の方がマシだよ。少なくとも、それぞれ違った醜さがある。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_uni_talk2_003.aac",
+            "text": "外見は自由に調整できるが、瞳は無理だ。一度目の表情が死ねば、希少価値はなくなる……だが、君は違うね。私のものになる気はないか？できるだけ優しくしよう。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_uni_obeyfull_001.aac",
+            "text": "君を見ていると、ある人のことを思い出す……誠実で、情熱的で、太陽のような目で私を、私だけをずっと見つめてくれる人だ。君の目も、永遠に私の元に留まってくれるか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_uni_idle_001.aac",
+            "text": "……足りないのは瞳だけだ。もう少し待ってくれ。すぐにあなたを連れ戻すから……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_uni_clicking_001.aac",
+            "text": "私も、君には近づいてもらいたいが……これは近すぎないか？落ち着け、行動には気をつけるんだ。まだナイチンゲール副官がいるのだから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_uni_specialattention_001.aac",
+            "text": "ふむ……君にとって、最も特別なのは私なのか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_uni_dispatch_001.aac",
+            "text": "手術以外の仕事？それなら別料金だ。忘れずに支払うように。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_uni_dispatch2_001.aac",
+            "text": "ん？こんな小さなゴミで、それほど喜ぶのか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_uni_levelup_002.aac",
+            "text": "これは、おまけのようなものだ。"
+        }
+    ],
+    "guise_into_life": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_uni_zhuanggumoying_cacha_001.aac",
+            "text": "国色天香でも美冠玉の如しでも、何でも言ってくれ。この皮にどんな美しさを描いてほしいんだ？必ず君を満足させよう。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_uni_zhuanggumoying_levelup_001.aac",
+            "text": "昔は、皮や肉や骨を描いてきた……これからは、精神や気質を描くことができる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_uni_zhuanggumoying_greeting_001.aac",
+            "text": "毎日私の所に来ているが、なりたい美しい顔を見つけたのか？忠告しておくが、こうした量産型の美しさは君の瞳にふさわしくない。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_uni_zhuanggumoying_body_001.aac",
+            "text": "良い皮を描きたければ、老いも若きも、美しきも醜きも見なければならないし、艶やかな顔にも枯れた骨にも触れなければならない。そうでなければ、抜け目ない人間を欺くことも、愚かな願望も叶えることもできないだろう。つまり、商売にならないんだよ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_uni_zhuanggumoying_body_002.aac",
+            "text": "ここでのルールは皮だけを描くこと。瞳は描かない。どんなに美しい顔を描いても、地上に戻れば自分の目しか使えないのだから。はぁ、魚や雁が圧倒されるほどの皮を描くのは簡単だが、花も恥じらい月も隠れるような瞳には滅多に出会えない。君のような澄んだ瞳は世界にいくつあるのだろうか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_uni_zhuanggumoying_idle_001.aac",
+            "text": "頬骨はもう少し描いてもよさそうだが……期待していたほどではないな。骨の作りに問題があるのかもしれない。一からやり直すか……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_uni_zhuanggumoying_clicking_001.aac",
+            "text": "ここで勝手に動いたり私の袖を引っ張ったりしないでくれ。もし私の手が震えてそばかすだらけの顔ができたら、依頼者が夜中に君のベッドに忍び込んで怒鳴るだろうね。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_uni_zhuanggumoying_specialattention_001.aac",
+            "text": "私の仕事姿が好き？それなら、ただ傍で見ていればいい。私の邪魔はしないでくれ。そうでなければ……君の顔の最も美しい部分を、私のものにするぞ。"
+        }
+    ]
+}

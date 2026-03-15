@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_synex_cacha_001.aac",
+            "text": "쓰읍, 족쇄를 이렇게까지 꽉 묶어놓다니. 내가 또 도망칠까 봐 그래? 안심해, 넌 내 새로운 '주인'이니까. 적어도 지금은 말이야."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_synex_promotion_001.aac",
+            "text": "이렇게 열심히 했는데, 보상을 더 줘야 하는 거 아니야?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_synex_promotion2_001.aac",
+            "text": "족쇄를 부수고, 이 몸이 완전히 망가지기 전에 나랑 한바탕 신나게 놀아보자!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_synex_battlebegin_001.aac",
+            "text": "찾았다. 사냥감이 떨고 있네~"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_synex_battlewin_001.aac",
+            "text": "이런, 게임이 너무 빨리 끝났잖아? 아직 마음껏 즐기지도 못했는데."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_synex_battlelose_001.aac",
+            "text": "아쉬워. 조금만 더 가면 놈들의 목덜미를 찢어버릴 수 있었는데……"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_synex_uniqueskill_001.aac",
+            "text": "하하, 잡았다!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_synex_dead_001.aac",
+            "text": "우린 모두… 조금씩 파멸로 향하고 있어…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_synex_greeting_001.aac",
+            "text": "무슨 임무를 맡기려는 거야? 혼란이란 건 언제나 흥미진진하지. 어디서부터 분탕을 쳐볼까?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_synex_talk1_001.aac",
+            "text": "캠벨의 비밀 호위가 하는 일은 네 귀여운 부관이 하는 일이랑 딱히 다를 거 없어. 차 따라 주고, 잡일 처리하고, 가끔 재미도 제공하고. 그러면서 윗분들의 작은 '골칫거리'들도 처리해 주지."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_synex_talk1_002.aac",
+            "text": "사냥꾼과 사냥감은 한 끗 차이야. 우리 사이에는… 과연 누가 노려지고 있는 걸까?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_synex_talk1_003.aac",
+            "text": "동족의 냄새가 나. 어둠 속에서 태어난, 인간도 짐승도 아닌 괴물… 훗, 너희 디스 관리국에도 숨기는 게 많구나?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_synex_talk2_001.aac",
+            "text": "사냥의 비결은 성급해하지 않는 거야. 숨을 죽이고 천천히 다가간 다음… 콱! 겁낼 필요 없어, 아직 진짜로 사람 목을 물어본 적은 없으니까. 네가 첫 번째 대상이 되어볼래?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_synex_talk2_002.aac",
+            "text": "아카니움의 사슬이 점점 조여들어, 피부에 흔적을 남겼어… 맞아, 이 심장이 뛰고 피가 끓어오르는 한, 고통은 영원히 끝나지 않을 거야."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_synex_talk2_003.aac",
+            "text": "아무리 정직하고 굳센 녀석이라도, 모든 원칙과 도의를 저버리고 야수가 될 수밖에 없는 상황에 내몰리면 알게 될 거야… 사실은 모든 사람이… 괴물이라는 걸! 아하하하!"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_synex_obeyfull_001.aac",
+            "text": "네게 충성을 바치고, 그림자 속을 누비는 네 발톱이 되어 모든 걸 찢어버릴게. 하지만 언젠가 너도 그 귀족 나리들처럼 시시해진다면… 쇠사슬에 묶인 맹견이 주인을 향해 이빨을 드러낼지도 모르지. 자, 네 족쇄를 꽉 붙잡고 마음껏 날 써먹어 봐."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_synex_idle_001.aac",
+            "text": "또각, 또각. 이렇게 많은 발걸음 소리가 오가는데, 가장 기대하는 그 소리는 들리지 않네. 사랑하는 국장, 대체 언제쯤 내게 와 줄 거야?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_synex_clicking_001.aac",
+            "text": "야수의 약한 모습을 믿지 마. 다음 순간 바로 덮쳐서 사냥감의 목을 물어뜯을지도 모르니까."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_synex_specialattention_001.aac",
+            "text": "어머, 드디어 날 발견했네? 여기서 꽤 오랫동안 널 지켜보고 있었거든… 물론 네가 원한다면 좀 더 가까이 다가가 널 바라봐 줄게."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_synex_dispatch_001.aac",
+            "text": "당신을 위해 일할 수 있어 참 영광이야."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_synex_dispatch2_001.aac",
+            "text": "짜잔~ 내가 가져온 선물 마음에 들어?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_synex_levelup_002.aac",
+            "text": "음? 나한테 이렇게 잘해준다고?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_synex_head_001.aac",
+            "text": "새 목줄인가? 그럼 제대로 채워 줘. 건드리면 안 되는 곳은 건드리지 말고…"
+        }
+    ],
+    "street_striker": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_synex_jietoueba_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_synex_jietoueba_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_synex_jietoueba_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_synex_jietoueba_head_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_synex_jietoueba_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_synex_jietoueba_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_synex_jietoueba_leg_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_synex_jietoueba_background_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_synex_jietoueba_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_synex_jietoueba_specialattention_001.aac",
+            "text": "###"
+        }
+    ]
+}

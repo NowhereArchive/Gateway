@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_kk_cacha_001.aac",
+            "text": "我这两年没犯任何事，现在抓我，你最好有站得住脚的理由，不然……我还有六个单子没结尾款，你替他们付钱？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_kk_promotion_001.aac",
+            "text": "在我身上花这么大力气……又有什么危险的工作要我做吗？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_kk_promotion2_001.aac",
+            "text": "现在的我，不需要白逸出手，也能轻松干掉那些家伙。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_kk_battlebegin_001.aac",
+            "text": "别乱跑，出什么事了我可管不了你。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_kk_battlewin_001.aac",
+            "text": "哼，还不如辛迪加的混混抗揍。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_kk_battlelose_001.aac",
+            "text": "别愣着，赶紧跑啊！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_kk_uniqueskill_001.aac",
+            "text": "你们就这点本事？"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_kk_dead_001.aac",
+            "text": "呵，没想到是这种死法……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_kk_greeting_001.aac",
+            "text": "来多久了？怎么还在这儿傻站着，不累吗？又不是没有坐的地方……"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_kk_talk1_001.aac",
+            "text": "这对棍子，是很多年前一个熟人的东西。他后来死在路边，我替他收了尸。这对棍子也就归我了。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_kk_talk1_002.aac",
+            "text": "我很抠门吗？要是不管，那两个混球能把账上的钱全拿去喝酒……"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_kk_talk1_003.aac",
+            "text": "以前白记接过一个找猫的委托。辛迪加那么大，我一个人找了七八天。最后把猫送回去的时候，却被老太太当成收保护费的赶了出去。说实话……有点受伤。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_kk_talk2_001.aac",
+            "text": "在白记，我每天四点半就得起床。来这边以后，反倒是闲下来不少。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_kk_talk2_002.aac",
+            "text": "以前，我每天都怕：怕没饭吃、怕被人从背后捅刀子、怕死……可自从认识了他们，好像那些事就没什么可怕的了……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_kk_talk2_003.aac",
+            "text": "我知道他们有事情瞒着我，但没关系。对我来说，能和他们一块儿，安安稳稳地活下去，就足够了。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_kk_obeyfull_001.aac",
+            "text": "我在想，说不定白记实业可以搬到你这里来，毕竟你没有太限制我们的自由，也很靠得住……至少比那两个人靠得住。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_kk_idle_001.aac",
+            "text": "……好闲啊，也不知道白逸和澈在干什么。呜……估计也没在做什么正事。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_kk_clicking_001.aac",
+            "text": "你……你欺人太甚！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_kk_specialattention_001.aac",
+            "text": "找我干嘛？有什么工作了？……啧，只是坐坐的话，随你喜欢吧。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_kk_dispatch_001.aac",
+            "text": "行，我去办，有什么特别要求么？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_kk_dispatch2_001.aac",
+            "text": "事儿办完了，我先去睡会儿。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_kk_levelup_002.aac",
+            "text": "唔，这样也不错。"
+        }
+    ],
+    "undercover_fill-in": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_kk_jietoutegong_cacha_001.aac",
+            "text": "嗯……白逸呃……有事，所以换我来。别盯着我看，我知道穿这一身很奇怪……好看？好吧，谢谢。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_kk_jietoutegong_levelup_001.aac",
+            "text": "这个点心挺好吃的，你也来点？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_kk_jietoutegong_greeting_001.aac",
+            "text": "别看了，接头人还没来呢。唉，牺牲这么多就为了干这一单，太不划算了……"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_kk_jietoutegong_body_001.aac",
+            "text": "这是很贵的茶吗？真可惜，我是喝不出茶的好坏。要是澈在这儿多少还能说出点名堂来。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_kk_jietoutegong_body_002.aac",
+            "text": "不用担心白逸，她只是拿前天剩下的火锅汤泡饭，吃坏肚子了。这事儿常有，别管她。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_kk_jietoutegong_idle_001.aac",
+            "text": "果盘？谢谢，我不用，我喝茶就可以了。免费？哦，那你放这儿吧。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_kk_jietoutegong_clicking_001.aac",
+            "text": "你犯什么病呢？再这样这活我可不干了！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_kk_jietoutegong_specialattention_001.aac",
+            "text": "只要坐在这里等人来就行了对吧？行，那就这样。等人来了我会通知你的。"
+        }
+    ]
+}

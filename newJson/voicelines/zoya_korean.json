@@ -1,0 +1,335 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_zoya_cacha_001.aac",
+            "text": "그 많은 경찰을 동원해서 겨우 신디케이트의 갱단 하나를 잡으려는 거였냐. 네 부하들도 참… 약해 빠졌네."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_zoya_promotion_001.aac",
+            "text": "힘만 세봤자 하등 소용이 없어, 역할에 맞게 힘을 발휘할 수 있게 해야지."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_zoya_promotion2_001.aac",
+            "text": "그놈들이 이것이 인류의 한계라고 말했다고? 웃기고 있네, 인간은 끊임없이 한계를 돌파할 뿐이야."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_zoya_battlebegin_001.aac",
+            "text": "오래 기다렸어."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_zoya_battlewin_001.aac",
+            "text": "상대를 잘못 찾았어."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_zoya_battlelose_001.aac",
+            "text": "이게 끝이 아니야, 항복하지 마."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_zoya_uniqueskill_001.aac",
+            "text": "내가 바로 군단이지!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_zoya_dead_001.aac",
+            "text": "나 여기서… 쓰러지면 안 돼…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_zoya_greeting_001.aac",
+            "text": "이봐, 한가해 보이는데, 나랑 신디케이트에 한 번 다녀오는 게 어때? 널 만나고 싶어 하는 사람들이 많아."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_zoya_talk1_001.aac",
+            "text": "네 상관이 매일 사람을 바꿔가며 날 감시해, 뭐야? 내가 그렇게 두렵나? 갇혀있는 수감자가 두려운 거냐? 신디케이트의 별 볼 일 없는 갱단이 두려운 거냐?"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_zoya_talk1_002.aac",
+            "text": "내 부하들이 모두 근육질만 있는 건 아니야, 머리 좋은 녀석들도 똑같이 환영받지. 음… 너 정도면 훌륭한 것 같은데 공무원 따위 때려치우고 군단에 가입해라!"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_zoya_talk1_003.aac",
+            "text": "총? 우린 그딴 거에 의지해서 싸우지 않아, 전사는 자신의 주먹과 의지만 신뢰하지. 게다가 신디케이트의 '총'은 오래전부터 더러워졌지."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_zoya_talk2_001.aac",
+            "text": "폭력을 멈출 수 있는 건 폭력뿐이다, 이것이 신디케이트의 유일한 해답이야. 한때 환상을 품고 있던 사람들은 모두 다 허무하게 목숨을 날렸지."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_zoya_talk2_002.aac",
+            "text": "그 버려진 공장들은 이 도시의 황금 시기를 기록하고 있어. 이것이 신디케이트 사람들이 반드시 되찾아야 하는 영광이야."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_zoya_talk2_003.aac",
+            "text": "'누구를 잃는다고 해도, 군단장은 반드시 냉정함을 유지해야 해.' 하지만 만약 너에게 무슨 일이 생긴다면, 나 자신도 무슨 일을 저지를지 몰라…"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_zoya_obeyfull_001.aac",
+            "text": "처음 만났을 무렵에 넌 내 한주먹 거리도 안 되는 초짜였는데… 지금도 똑같을 줄이야. 하지만 넌 내가 만났던 사람 중 제일 강한 사람이기도 해. 앞으로 많은 걸 부탁한다, 국장."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_zoya_idle_001.aac",
+            "text": "보아하니… 여기에는 내가 훈련하기에 적합한 놈이 몇 놈 있군."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_zoya_clicking_001.aac",
+            "text": "너 지금… 나에게 도발하는 거냐?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_zoya_specialattention_001.aac",
+            "text": "그냥 보고만 있을 거냐? 그럴 바에는 그냥 나랑 한 판 붙지, 그래? 난 가만히 서 있을게, 그리고 두 손도 양보하도록 하지."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_zoya_dispatch_001.aac",
+            "text": "이런 사소한 일은 군단에게 맡기면 바로 해결해 주지."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_zoya_dispatch2_001.aac",
+            "text": "봐, 쉽지?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_zoya_levelup_002.aac",
+            "text": "음… 아직 부족해."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_zoya_head_001.aac",
+            "text": "허, 용감하네…"
+        }
+    ],
+    "wolves_strike_soon": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_zoya_langxijiangzhi_cacha_001.aac",
+            "text": "모두에게 알려라, 군단이 왔다고!!!! 이건 나의 선전포고다."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_zoya_langxijiangzhi_levelup_001.aac",
+            "text": "흥, 전투가 기대되는군."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_zoya_langxijiangzhi_greeting_001.aac",
+            "text": "허허, 늦었구만, 빨리 따라와. 신디케이트의 변혁을 네 눈으로 직접 보고 싶은 것 아니었나? 그럼 매 순간 내 곁에 딱 붙어 있으라고!"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_zoya_langxijiangzhi_head_001.aac",
+            "text": "요즘 간덩이가 부은 것 같다?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_zoya_langxijiangzhi_body_001.aac",
+            "text": "누가 나의 첫 상대가 되고 싶냐? 테드? 야나기? 아, 됐어! 그냥 같이 덤벼, 어차피 결과는 똑같을 테니까."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_zoya_langxijiangzhi_body_002.aac",
+            "text": "계획은 켈시한테 맡기고, 나는 앞장서서 길을 열어주면 돼! 이게 팀을 위한 거야."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_zoya_langxijiangzhi_hand_001.aac",
+            "text": "녹슨 쇳덩어리, 총성, 끝나지 않는 폭력. 신디케이트는 한 번도 변한적이 없어, 난 이미 지긋지긋해. 난 이 모든 것을 파괴할 거야, 세상이 바뀔 때가 됐어."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_zoya_langxijiangzhi_background_001.aac",
+            "text": "군단은 거점이 필요 없어. 신디케이트 전체가 우리 늑대들의 영지이다."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_zoya_langxijiangzhi_idle_001.aac",
+            "text": "적은 결코 눈앞의 이것들 뿐만이 아냐, 하지만 저 도랑에 있는 녀석들이 모습을 드러내기만 하면…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_zoya_langxijiangzhi_specialattention_001.aac",
+            "text": "오? 드디어 군단에 들어올 마음이 생긴 건가?"
+        }
+    ],
+    "supreme_negotiation": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.aac",
+            "text": "보다시피 이번 만남은 아주 성공적이야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_zoya_zhigaojiaoshe_levelup_001.aac",
+            "text": "네가 충분히 강해져야 사람들이 네 말을 들어 주지."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_zoya_zhigaojiaoshe_greeting_001.aac",
+            "text": "왔어? 아쉽게도 협상은 이미 끝났어. 그렇지만 우리가 이야기를 나누기에 이곳도 나쁘지 않아 보이는걸?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_zoya_zhigaojiaoshe_head_001.aac",
+            "text": "용기가 가상하군."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_zoya_zhigaojiaoshe_body_001.aac",
+            "text": "하하, 맹수를 길들이고 싶다면 그 맹수보다 훨씬 강하고 사나워져야 해."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_zoya_zhigaojiaoshe_body_002.aac",
+            "text": "신디케이트의 미래? 흠, 나도 잘 모르겠지만… 내 방식대로 해답을 찾을 거야."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_zoya_zhigaojiaoshe_hand_001.aac",
+            "text": "그 눈빛은, 이 녀석들이 부러운 건가?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_zoya_zhigaojiaoshe_leg_001.aac",
+            "text": "전쟁의 상처는 여전히 사람들의 마음속에 남아 있지. 그렇게 남겨진 흔적들은 구석구석에서 자라나고 있어."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_zoya_zhigaojiaoshe_idle_001.aac",
+            "text": "경계 업무를 잘 수행하고 있군. 착하지."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_zoya_zhigaojiaoshe_specialattention_001.aac",
+            "text": "이 옷은 협상할 때 입기엔 적합하겠지만 싸울 때는 좀 불편하겠어… 어쨌든 다들 챙겨줘서 고마워."
+        }
+    ],
+    "lord_of_rimehowl": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_zoya_bingfengwangzuo_cacha_001.aac",
+            "text": "달이 핏빛으로 물들기 전, 설원 위의 늑대는 누군가 얼음을 밟으며 다가오고 있음을 감지했지. 이제 곧 시작될 마지막 교체의 순간을 지켜보는 걸 환영해."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_zoya_bingfengwangzuo_levelup_001.aac",
+            "text": "너와 함께라면, 거센 눈보라쯤은 충분히 막아낼 수 있어."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_zoya_bingfengwangzuo_greeting_001.aac",
+            "text": "내 옆에 붙어. 정신 바짝 차리고. 모든 게 끝날 때까지 여기서 한동안 더 버텨야 해…"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_zoya_bingfengwangzuo_head_001.aac",
+            "text": "하, 난 줄곧 배짱 큰 놈들을 높이 평가해 왔지. 그래서 말인데, 네 야망은 여기서 네 행동을 멈추게 할 정도로 하찮은 것이었나?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_zoya_bingfengwangzuo_talk_001.aac",
+            "text": "빙하를 스쳐 가는 바람 소리는 듣는 사람마다 다르게 들리지. 어떤 사람은 죽은 자들의 축복을 듣고, 또 어떤 사람은… 죽음이 그들을 향해 으르렁대는 소리를 듣기도 해."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_zoya_bingfengwangzuo_talk_002.aac",
+            "text": "난 내가 잃은 모든 이들의 이름을 모두 빙하 위에 새겨 두었어. 그들은 기억될 자격이 있어… 수천만 년이 지나 빙하가 녹아내릴 때까지 말이야. 하지만 그때쯤이면, 우리 모두가 흘러간 시간과 함께 완전히 잊혔겠지."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_zoya_bingfengwangzuo_lefthand_001.aac",
+            "text": "이 설원은 수많은 투쟁을 겪었어. 새하얀 눈은 짓밟혀 검게 변했고, 빙하는 녹아내렸으며, 달빛조차 선혈처럼 붉게 물들었지… 하지만 다행히도, 우린 이제 힘을 얻었고, 이 설원에 안정과 평화를 가져올 수 있게 되었어."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_zoya_bingfengwangzuo_righthand_001.aac",
+            "text": "설원의 늑대는 가장 충성스러운 동물이야, 무리를 배신하지 않고, 짝을 배신하지도 않아. 자신이 인정한 상대를 영원히 보호하고 신뢰하지."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_zoya_bingfengwangzuo_idle_001.aac",
+            "text": "오늘 밤이 지나면, 모두가 바라던 여명이 반드시 떠오를 거야."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_zoya_bingfengwangzuo_clicking_001.aac",
+            "text": "그냥 실수로 잘못 만진 것뿐이길 바라지. 옆에 있는 이 덩치 큰 녀석만으론 아직 만족이 안 되나?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_zoya_bingfengwangzuo_specialattention_001.aac",
+            "text": "그렇게 놀란 눈으로 날 볼 필요 없어. 내가 이 설원을 통솔하게 될 거라는 게, 네 예상 밖의 일이었던 건가?"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlebegin_001.aac",
+            "text": "준비됐나? 그럼 전투를 시작하지."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlewin_001.aac",
+            "text": "이건 늑대 무리의 영광이야."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_zoya_bingfengwangzuo_battlelose_001.aac",
+            "text": "눈보라가… 몰려오고 있어…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_zoya_bingfengwangzuo_uniqueskill_001.aac",
+            "text": "내가 어둠을 끝내주지!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_zoya_bingfengwangzuo_dead_001.aac",
+            "text": "한 마리의 늑대가 죽더라도, 늑대 무리는 영원할 거야…"
+        },
+        {
+            "title": "상호 작용1",
+            "filename": "File:vo_zoya_bingfengwangzuo_drag_001.aac",
+            "text": "경계할 필요 없어, 이건 나와 널 인정한다는 뜻이야."
+        },
+        {
+            "title": "상호 작용2",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragback_001.aac",
+            "text": "이 녀석이 마음에 드나 보네."
+        },
+        {
+            "title": "상호 작용3",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragbody_001.aac",
+            "text": "어딜 보는 거야? 이쪽이라고!"
+        },
+        {
+            "title": "상호 작용4",
+            "filename": "File:vo_zoya_bingfengwangzuo_draghand_001.aac",
+            "text": "어디 가려고?"
+        },
+        {
+            "title": "상호 작용5",
+            "filename": "File:vo_zoya_bingfengwangzuo_dragleg_001.aac",
+            "text": "나, 그리고 내가 인정한 자와 함께 맹세한다."
+        },
+        {
+            "title": "상호 작용 나가기",
+            "filename": "File:vo_zoya_dragreturn_001.aac",
+            "text": "의식은 완료되었어. 혈월은 물러갈 거고, 우리도… 집으로 돌아가야 해."
+        }
+    ]
+}

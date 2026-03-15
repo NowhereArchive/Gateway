@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_yingying_cacha_001.aac",
+            "text": "若问春何处，怀中花簪落……来~花神到了，把手张开，要稳稳地接着我哦！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_yingying_promotion_001.aac",
+            "text": "在我们那儿有种说法。只有喜欢一人，才会想着法儿把好东西都留给她。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_yingying_promotion2_001.aac",
+            "text": "星河流转，华灯璀璨……这便是我日夜盼望与你共度的良辰美景。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_yingying_battlebegin_001.aac",
+            "text": "小郎君真有兴致~那我也舍命陪君子吧！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_yingying_battlewin_001.aac",
+            "text": "下次来要乖一点，这样我就不会下手太重，说不定还会送你糖葫芦哦~"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_yingying_battlelose_001.aac",
+            "text": "呜~~别气别气，花有再开时，下次我一定帮你教训它。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_yingying_uniqueskill_001.aac",
+            "text": "紫藤花开，胜景迎来——"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_yingying_dead_001.aac",
+            "text": "庙会……结束了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_yingying_greeting_001.aac",
+            "text": "哎呀跑得真快，就那么想我吗？别急嘛，我又不会溜走，说好了要一直陪着你呀。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_yingying_talk1_001.aac",
+            "text": "郎君郎君~我刚才听到一句词：“邂逅相遇，与子偕臧。”然后啊……我一出门就见着了你。这就是天意吧，你说呢？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_yingying_talk1_002.aac",
+            "text": "要是我突然不见了，就去千年紫藤树那儿找找吧！我会藏在花间，看千百年人们许愿时绑上的牌子。风一吹，许愿牌晃得叮当响，和那些祈福的低声细语一样好听……"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_yingying_talk1_003.aac",
+            "text": "我跟你说~许愿啊，要诚心，来，闭眼，努力想想你愿望实现的样子——眉头别皱那么紧呀，不用这么使劲儿！"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_yingying_talk2_001.aac",
+            "text": "我喜欢你们这儿的灯火，长明不灭，色彩斑斓……你们也会对着这样的灯火祈愿吗？给我说说，你会许下什么愿望？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_yingying_talk2_002.aac",
+            "text": "在我记忆中的那条街，住着全世界最好的人。他们带我回家，护我长大，教我唱歌，为我梳妆，给我所有的爱和美好……那么多年，他们许下的愿望都为祝福我。所以，我也许愿，愿我能永远守护大家。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_yingying_talk2_003.aac",
+            "text": "我在一个梦里徘徊了好久，想等一位英雄，在末日里保住万家灯火还有一树花开。等不到他来，我也不敢醒，就这么睡着，睡着……你可真让我等了好久呀。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_yingying_obeyfull_001.aac",
+            "text": "嗯……紫藤花听到你的愿望了，你的愿望马上就要实现了。以后她会永远陪伴你，绝不离开你。那么现在……你愿意听听我的愿望吗？一个小小的，只跟你有关的愿望。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_yingying_idle_001.aac",
+            "text": "香风暖，檀口懒，纤纤一握芳丛乱……哎，有没有人来陪我尽兴到深夜、到清晨呢？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_yingying_clicking_001.aac",
+            "text": "唔？！轻点，下手别这么重，你弄疼我了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_yingying_specialattention_001.aac",
+            "text": "嘻嘻，眼神躲躲藏藏，耳朵红红热热……想看我就光明正大点，你不知道我也喜欢这样看着你吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_yingying_dispatch_001.aac",
+            "text": "我很想出去逛逛，不过……小郎君，你不陪我一起吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_yingying_dispatch2_001.aac",
+            "text": "嗯~~这次心满意足，让我们来日再会吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_yingying_levelup_002.aac",
+            "text": "这些，都是只给我一人的？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_yingying_head_001.aac",
+            "text": "只是摸摸头发丝儿就够了吗？来，我闭上眼，送你几秒钟，还想碰哪里？睫毛？鼻子？还是……想碰碰我的嘴唇呢？"
+        }
+    ],
+    "fluttered_heartstrings": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",
+            "text": "风过船舷，月照琵琶……小郎君，今晚这首曲子，是专门为你而奏的。若是听得情痴了，心乱了……那要记住都是因我而起哦～"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_yingying_xiaoxianchushang_levelup_001.aac",
+            "text": "你听，这曲子是不是比从前更动人了？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_yingying_xiaoxianchushang_greeting_001.aac",
+            "text": "小郎君~今夜的风儿里都带着花香呢，你可闻到了？我刚刚还在想，若是你来了，便为你弹一曲新学的调子，让你也尝尝这荷花下的甜。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_yingying_xiaoxianchushang_head_001.aac",
+            "text": "哎呀呀，簪子都被你碰歪了，这可是我为了今天的表演精心佩戴好的呢。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_yingying_xiaoxianchushang_body_001.aac",
+            "text": "看来小郎君真的很喜欢听我弹琵琶呢……你听过东洲“高山流水遇知音”的故事吗？真没想到我的知音，原来就在眼前啊。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_yingying_xiaoxianchushang_body_002.aac",
+            "text": "任何手艺啊，都是台上一分钟，台下十年功。当年教我弹琵琶的姐姐们，才是真的厉害——手指一拨，连风都跟着她们的节奏跳舞，边上茶楼里说书的都要歇一歇，偷听几句呢。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_yingying_xiaoxianchushang_hand_001.aac",
+            "text": "嗯~你是听得高兴了，可我拨弦拨的手都酸啦，小郎君，快来帮我揉揉嘛！"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_yingying_xiaoxianchushang_background_001.aac",
+            "text": "这种船呀，叫画舫。过去在东洲，每逢华灯初上时，舫上的琉璃灯映着河水，就像把星星都揉碎了洒在水面上一样……当年我在岸边看姐姐们弹琵琶，总觉得她们是坐在月亮船里呢。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_yingying_xiaoxianchushang_idle_001.aac",
+            "text": "这画舫上静悄悄的，像是连风都屏住了呼吸……有时候啊，无声无曲，反倒比琴音更动人——因为，身边有心爱的人在呢。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_yingying_xiaoxianchushang_specialattention_001.aac",
+            "text": "我的这身打扮是照着古画里的样式来的，可还入得小郎君的眼？嗯？怎么光顾着看都不说话？莫不是被我迷了魂，连夸一句都忘了？若真是这样，可得盯紧我些，不然我说不定就回到画里去啦！"
+        }
+    ]
+}

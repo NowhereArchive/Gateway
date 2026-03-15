@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_vanilla_cacha_001.aac",
+            "text": "機械の動作のズレは……アンタが原因か……アンタは未来に……どんな変化をもたらすんだ？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_vanilla_promotion_001.aac",
+            "text": "デバッグが完了した……これで更に前へ進める……"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_vanilla_promotion2_001.aac",
+            "text": "変化の終わりは……永遠だ……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_vanilla_battlebegin_001.aac",
+            "text": "これは経験しなければならないプロセスだ……"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_vanilla_battlewin_001.aac",
+            "text": "機械はアンタたちを助けるために作られているんだ。行け、私はずっとここにいる。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_vanilla_battlelose_001.aac",
+            "text": "たった一回失敗しただけだ。全員連れ戻せ。私が全て修復する。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_vanilla_uniqueskill_001.aac",
+            "text": "ここまでだ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_vanilla_dead_001.aac",
+            "text": "やがて機械が止まる日がやってくる……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_vanilla_greeting_001.aac",
+            "text": "アンタ、少し変わったか？……時間は偏差をもたらす。私たちが最後に会ってから……どれくらい経った？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_vanilla_talk1_001.aac",
+            "text": "行動には……基準が必要だ……壊れた機械は……人を永遠に道から外れさせる……私が代わりに……直そう……"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_vanilla_talk1_002.aac",
+            "text": "変わらず……否定せず……精確で……安定を……保つ……私は壊れない……私という存在は最後のフロンティアまで到達する……"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_vanilla_talk1_003.aac",
+            "text": "ぜんまいや歯車から……軸受けや内燃機関へ……そして電気回路や半導体へ……今の人類や100年後のテクノロジーは……どうなっているんだろうな……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_vanilla_talk2_001.aac",
+            "text": "内海では、全ての法則が改ざんされている……時間も、空間も、記憶も……もう信用できない……私が執着しているのは、きっとこの大きな流れの中で頼りになるものだ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_vanilla_talk2_002.aac",
+            "text": "時間が人の心を歪めることはない……そうさせるのは絶望だ……アンタの目的を、最初の約束を覚えておけ。そうすれば……たとえ絶望に追いつかれても……飲み込まれたりはしない……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_vanilla_talk2_003.aac",
+            "text": "内海の外の世界は……こうなってしまったのか……私は……この光景が、終わることのない災害が、私の監視塔が……永遠が来るまで……ずっと変わらないと思っていた……"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_vanilla_obeyfull_001.aac",
+            "text": "前は、アンタとの出会いが何を意味するのか分かっていなかった……でも今は理解できる……不朽の歯車が滑らかになり、方向を間違えた電流が原点に戻るように……アンタの到来は、私に……永遠の最初の1秒が過ぎたことを教えてくれたんだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_vanilla_idle_001.aac",
+            "text": "時間……正しい流れ……本当に……慣れないな……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_vanilla_clicking_001.aac",
+            "text": "なぜこのような動きを繰り返す？アンタの手足は故障しているのかもしれないな……すぐ修理しよう……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_vanilla_specialattention_001.aac",
+            "text": "仲間は、迷った時によく私の所に来ていた……多分、人間というのは混乱の中でも変わらない錨を求めるんだろう……アンタもそうなのか？アンタは……不安を感じるのか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_vanilla_dispatch_001.aac",
+            "text": "これが、私の方向だ……"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_vanilla_dispatch2_001.aac",
+            "text": "帰り道は外れていない……戻ったぞ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_vanilla_levelup_002.aac",
+            "text": "より安定した……"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_vanilla_head_001.aac",
+            "text": "ここにはスイッチがない。私の電源を……落とすことはできない……"
+        }
+    ],
+    "aether_runner": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_vanilla_cheyeliuming_cacha_001.aac",
+            "text": "この光が……好きなのか？それらは……私の飛行の軌跡だ……もしよければ、私と一緒に……飛んでみないか。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_vanilla_cheyeliuming_levelup_001.aac",
+            "text": "攻撃モジュールが強化された。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_vanilla_cheyeliuming_greeting_001.aac",
+            "text": "データの記録に協力してくれて感謝する……よし、一緒に街の一番高い所まで飛ぼう……そこに最高の観測スポットがあるんだ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_vanilla_cheyeliuming_talk1_001.aac",
+            "text": "ここから見ると、街全体が巨大で複雑な機械のようだ……明かりが消えることなく……永遠に稼働し続けるかのような……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_vanilla_cheyeliuming_talk1_002.aac",
+            "text": "テストの結果によると……ロボットアームは、機動性、柔軟性、航続距離の面で良好な実戦データを得られた……今のところ期待値に達している……だが、まだ最適化する余地があるな。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_vanilla_cheyeliuming_idle_001.aac",
+            "text": "滞空性能が優れている……次のテストを行おう。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_vanilla_cheyeliuming_clicking_001.aac",
+            "text": "心配するな……私を完全に信頼してくれ……アンタを墜落させることはない。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_vanilla_cheyeliuming_specialattention_001.aac",
+            "text": "アンタは……もっと高い所へ飛びたいのか？分かった……これはテスト機だが、その要望に十分応えられる性能だ……アンタが望むなら……私はいつでも、アンタを連れて行ける。"
+        }
+    ]
+}

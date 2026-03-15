@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_fuluola_cacha_001.aac",
+            "text": "신성 소방대사 플로라가 왔습니다! 제가 있는 곳에는 작은 불씨 하나도 용납할 수 없습니다! 정말로요!"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_fuluola_promotion_001.aac",
+            "text": "이렇게 되면 진화가 한결 수월해집니다. 저의 활약을 기대하세요, 국장님."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_fuluola_promotion2_001.aac",
+            "text": "만약 그 큰불이 나기 전에, 제가 이러한 힘을 가질 수 있었다면 얼마나 좋았을까요… 하지만, 지금의 저는, 더 많은 일을 할 수 있어요!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_fuluola_battlebegin_001.aac",
+            "text": "빨리 따라오세요! 놓치면 안됩니다."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_fuluola_battlewin_001.aac",
+            "text": "철수 준비 중, 현장 상황을 인계하고 있습니다."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_fuluola_battlelose_001.aac",
+            "text": "불길이… 더 이상 걷잡을 수 없어졌어."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_fuluola_uniqueskill_001.aac",
+            "text": "물대포 발사!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_fuluola_dead_001.aac",
+            "text": "아직… 사람이 있는데…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_fuluola_greeting_001.aac",
+            "text": "굿모닝입니다, 국장님. 정기적으로 소방 시설을 점검하는 걸 잊지 마세요, 안전제일이에요!"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_fuluola_talk1_001.aac",
+            "text": "저는 소방 도끼를 별로 좋아하지 않습니다. 왜냐하면… 항상 실수로 동료들에게 상처를 주기 때문입니다."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_fuluola_talk1_002.aac",
+            "text": "나의 예전 동료들… 나를 대하는 태도가 늘 이상했는데. 저 왕따 당한 건가요?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_fuluola_talk1_003.aac",
+            "text": "수도관과 관련된 물건만 있어도 저는 불을 끌 수 있습니다. …그저 준비가 다소 미흡했을 뿐…"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_fuluola_talk2_001.aac",
+            "text": "미안해요, 제가 화염으로 전투하는 사람을 싫어하는 것은 아닌데. 다만… 아니에요, 아무튼 저는 사고를 미연에 방지하기 위해서 그들을 잘 지켜볼 거예요."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_fuluola_talk2_002.aac",
+            "text": "그때는 소방대사가 되는 것도 좋았어요. 도움이 될 수 있을 것 같았거든요. 불에 타는 건물들, 그리고 나에게 구조 요청을 하는 사람들을 보기 전까지는 말이죠. 그때 나는 화재 현장만이 나의 최종 목적지라고 생각했어요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_fuluola_talk2_003.aac",
+            "text": "저는 짧은 머리보다는 긴 머리가 더 좋아요. 하지만…현장에서는 긴 머리는 부담스러우니까요."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_fuluola_obeyfull_001.aac",
+            "text": "비록 이곳이 화재 현장은 아니지만, 많은 사람들을 도울 수 있습니다. 감사합니다, 국장님… 이것이야말로 저의 진정한 바람이에요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_fuluola_idle_001.aac",
+            "text": "음… 워터 피스톨은 어느 정도로 들어야 했지? 잠깐만요! 제가 수첩을 뒤져볼게요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_fuluola_clicking_001.aac",
+            "text": "장난치지 마십시오. 저는 아직 훈련이 남았단 말입니다."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_fuluola_specialattention_001.aac",
+            "text": "당신에게 소방 지식을 알려드리는 것도 제 역할의 일부입니다. 소방 안전 매뉴얼을 첫 페이지로 넘겨주세요!"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_fuluola_dispatch_001.aac",
+            "text": "플로라, 준비 완료. 출발 신호를 기다립니다."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_fuluola_dispatch2_001.aac",
+            "text": "플로라, 임무를 완수했습니다. 이제 복귀합니다."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_fuluola_levelup_002.aac",
+            "text": "또 강해졌어."
+        }
+    ],
+    "fire_safety_tips": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_cacha_001.aac",
+            "text": "여러분 잘 보세요! 소화기 사용법은 '들고, 뽑고, 잡고, 누르기'를 기억하세요… 앗… 크흠! 이, 이건 잘못된 시범이에요! 여러분, 침착함을 유지하는 게 중요하다는 걸 명심하세요. 이제 정확한 사용법을 보여드릴게요!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_levelup_001.aac",
+            "text": "새로운 소화기 사용 매뉴얼이라면 이미 달달 외워 두었답니다!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_greeting_001.aac",
+            "text": "안녕하세요, 국장님! 소방 안전 교육 들으러 오셨나요? 그럼 맨 앞자리에 앉으세요. 국장님이 오실 줄 알고 자리를 남겨뒀었거든요!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_talk1_001.aac",
+            "text": "아, 죄송해요… 소화기 분사구가 막힌 줄 알고 힘을 줬더니 너무 세게 뿜어 버렸네요. 하필이면 옆에 계셔서… 괜찮으세요? 휴지를 가져다드릴게요. 머리 좀 닦아요…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_talk1_002.aac",
+            "text": "캠퍼스 곳곳에 쌓인 잡동사니들은 전부 안전 문제가 생길 수 있어요. 더미 속에 가연성 물질이 많거든요. 예를 들면 종이 상자나 헌 교과서, 그리고… 59점짜리 시험지? 어라?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_idle_001.aac",
+            "text": "쉬는 시간이라고 연습을 게을리할 수는 없죠! 10분밖에 안 되더라도, 동작을 열 번은 더 연습할 수 있는걸요!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_clicking_001.aac",
+            "text": "아이, 제 옷소매 좀 그만 잡아당겨요. 조준을 제대로 할 수가 없잖아요… 어라? 제가 안전핀을 안 뽑았네요? 아하, 그렇군요! 어쩐지 아까부터 아무리 눌러도 반응이 없더라니."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_specialattention_001.aac",
+            "text": "국장님! 최적의 화재 대피 경로를 작성했어요. 이번 훈련에서는 모두를 안전하게 운동장으로 안내해 보일 테니, 잘 지켜봐 주세요!"
+        }
+    ]
+}

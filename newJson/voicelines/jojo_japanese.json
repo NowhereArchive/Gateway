@@ -1,0 +1,89 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_weather_cacha_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_weather_promotion_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_weather_promotion2_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_weather_battlebegin_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_weather_battlewin_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_weather_battlelose_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_weather_uniqueskill_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_weather_dead_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_weather_greeting_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_weather_talk2_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_weather_talk2_002.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_weather_talk2_003.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_weather_obeyfull_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_weather_idle_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_weather_clicking_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_weather_specialattention_001.aac",
+            "text": "テスト1"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_weather_levelup_002.aac",
+            "text": "テスト1"
+        }
+    ]
+}

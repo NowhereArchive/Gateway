@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_jin_cacha_001.aac",
+            "text": "やっとお会いできましたね……菫、それは花の名であり、わたしの名でもあります。よろしければ、どうぞお受け取り下さい。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_jin_promotion_001.aac",
+            "text": "根を地面に深く伸ばす花ほど美しく咲き誇り……そして命を奪うのです。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_jin_promotion2_001.aac",
+            "text": "この身は、すでに咲き誇っています。これからは、貴方様だけの刃になると誓いましょう。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_jin_battlebegin_001.aac",
+            "text": "ついてきてください。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_jin_battlewin_001.aac",
+            "text": "これは貴方様の勝利です。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_jin_battlelose_001.aac",
+            "text": "すべてはわたしの……わたしのせいです……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_jin_uniqueskill_001.aac",
+            "text": "落桜……落命！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_jin_dead_001.aac",
+            "text": "申し訳ありません。永遠のお別れです……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jin_greeting_001.aac",
+            "text": "局長様、見てください。茶柱が立っています。これは意外な幸運が訪れるかもしれませんね。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_jin_talk1_001.aac",
+            "text": "まだ命のある花の枝を切り、人間の意志通りに形づくり、死に行く花の最期の優雅さを楽しむ……これが華道です。酷いものでしょう？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_jin_talk1_002.aac",
+            "text": "命を奪うのはあまりにもたやすいことです。それに比べ、生きることは難しいですわ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_jin_talk1_003.aac",
+            "text": "太陽のもとで生きられるなんて、花はなんとうらやましいものでしょう。わたしなど、影に潜む毒虫に過ぎません……\n「菫」という名前はわたしには勿体なさ過ぎますね。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_jin_talk2_001.aac",
+            "text": "花も人も、失ってからその大切さがわかるのです。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_jin_talk2_002.aac",
+            "text": "貴方様と一緒にいると、わたしまで夢や未来、そして希望を信じるようになりました……もはや殺し屋失格です。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_jin_talk2_003.aac",
+            "text": "初めて武器を手にした時、もう戻れないと覚悟しました。貴方様に出会うまでは……これだけは約束してください。わたしから、決して離れないで。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_jin_obeyfull_001.aac",
+            "text": "傍に居るだけで満足だったのですが……わたしは自分が思っているよりも貪欲なようですね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jin_idle_001.aac",
+            "text": "局長様？お休みになられてしまったのですか？　お疲れなのですね……機会を見て邪魔な者は排除します。その時はもっとゆっくりお休みくださいね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jin_clicking_001.aac",
+            "text": "局長様、まだ仕事の時間ですよ……。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jin_specialattention_001.aac",
+            "text": "局長様はいつも自分のことは二の次なのですね。貴方様にも悩み事があるでしょうに。わたしでよければ、話を聞かせてください。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_jin_dispatch_001.aac",
+            "text": "この道を、行き来する者は数え切れぬほど。わたしもまたその一人。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_jin_dispatch2_001.aac",
+            "text": "花は地に帰り、鳥は巣に帰る。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jin_levelup_002.aac",
+            "text": "花開く刻……間近に……。"
+        }
+    ],
+    "flower_of_fantasy": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_jin_mengjiancao_cacha_001.aac",
+            "text": "来てくださってありがとうございます……今年のモチヅキザクラはよく咲いているので、どうしても……貴方様と一緒に、この美しい景色を楽しみたいのです。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jin_mengjiancao_levelup_001.aac",
+            "text": "桜は見てくれる人のために、命が尽きるまで咲こうとします。わたしも同じです。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jin_mengjiancao_greeting_001.aac",
+            "text": "貴方様は遅刻などしていません。お会いできると思うと落ち着かず、わたしが早く来てしまっただけなのです……ご安心ください。待っている間も、退屈ではありませんでした。貴方様への想いで心が満たされていましたので。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_jin_mengjiancao_head_001.aac",
+            "text": "……どうされましたか？顔に花びらが？わざわざ取ってくださって、ありがとうございます。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_jin_mengjiancao_talk1_001.aac",
+            "text": "生け花にふさわしい花材を選ぶのと同じく、花見にふさわしい装いをしなければ、花に申し訳ありませんわ。局長様、この服装はいかがでしょうか？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_jin_mengjiancao_talk1_002.aac",
+            "text": "桜は、夢のように儚く美しいことから「夢見草」とも呼ばれています……今この瞬間と同じです。貴方様と過ごす時間は、桜のように酔いしれるほど美しい。たとえ脆く消えやすくても、わたしは……飴のように甘く感じるのです。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_jin_mengjiancao_leg_001.aac",
+            "text": "隣へどうぞ。よろしければ、わたしの膝を枕にして休んでください。傘をさしますので……"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_jin_mengjiancao_hand_001.aac",
+            "text": "「世の中は三日見ぬ間の桜かな」。人々は、時の流れの速さを表現するためにこの句を使います……次に貴方様と出かけられるのは、いつになるのでしょう？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jin_mengjiancao_idle_001.aac",
+            "text": "ご覧になりましたか？先ほど飛んでいた蝶の羽に、花びらが乗っていました……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jin_mengjiancao_specialattention_001.aac",
+            "text": "花を見ずに、ずっとわたしをご覧になっていますが……何か言いたいことがあるのですか？"
+        }
+    ],
+    "moonrise_fondness": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_jin_yaoyehuashi_cacha_001.aac",
+            "text": "この美しい景色を一緒に楽しんでくださり、ありがとうございます……これから夜が来るたび、どのような月が見えても、必ず今夜貴方様と見た月を思い出すでしょう。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jin_yaoyehuashi_levelup_001.aac",
+            "text": "夜の美しさには限りがありますが、貴方様がわたしに向けてくださる賛辞は比類のないものです。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jin_yaoyehuashi_greeting_001.aac",
+            "text": "雲に隠れていた月が顔を出していますわ。今この瞬間、わたしたちに会いたいと思ったのでしょうか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_jin_yaoyehuashi_talk_001.aac",
+            "text": "美酒を飲み終え、盃の底も見えたことですし、月夜だけの物語を語って差し上げましょうか？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_jin_yaoyehuashi_talk_002.aac",
+            "text": "幼い頃に聞いた噂では、キツネはたいてい明るい夜に人間の姿に化け、運命の人を夜遊びに誘うそうです……あら？もしかして、わたしをキツネだと思っていらっしゃいますか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jin_yaoyehuashi_idle_001.aac",
+            "text": "紅葉散り、月夜を彷徨う、酒の詩。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jin_yaoyehuashi_clicking_001.aac",
+            "text": "風が強くなってきましたか？もう一枚羽織ってください。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jin_yaoyehuashi_specialattention_001.aac",
+            "text": "月を見る時、あの清らかな美しい光だけを眺めていると、本当に気に留めなければならない景色を見逃してしまうかもしれませんよ。"
+        }
+    ]
+}

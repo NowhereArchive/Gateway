@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_kuangdu_cacha_001.aac",
+            "text": "로레카를 잡다니, 운이 좋은데? 로레카랑 내기해 볼래요?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_kuangdu_promotion_001.aac",
+            "text": "럭키- 오늘도 로레카에게 행운의 날인가?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_kuangdu_promotion2_001.aac",
+            "text": "더 크게 걸어, 더 크게~ 아예, 모두 목숨을 걸어버리자~!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_kuangdu_battlebegin_001.aac",
+            "text": "나가 놀자앙~"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_kuangdu_battlewin_001.aac",
+            "text": "로레카는 더 짜릿한 내기를 하고 싶어~"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_kuangdu_battlelose_001.aac",
+            "text": "졌어? 로레카가 졌다고? 하.. 하하…!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_kuangdu_uniqueskill_001.aac",
+            "text": "하하하하, 하하하하하!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_kuangdu_dead_001.aac",
+            "text": "드디어… 날 데리러 왔군요?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_kuangdu_greeting_001.aac",
+            "text": "혼자는 너무 심심하단 말이야, 국장님, 로레카랑 뭐하고 놀아줄 거예요?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_kuangdu_talk1_001.aac",
+            "text": "45 구경의 총알이 머리를 관통하는데 필요한 시간이 고작 0.45초라는데, 음… 누구를 데려다 실험해 볼까나?"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_kuangdu_talk1_002.aac",
+            "text": "로레카는 엄~청 유명한 킬러에요. 기술? 전술? 정보? 재수 없는 녀석들이나 그런 게 필요하지. 일단 로레카 눈에 띄면 하늘이 가만두지 않는다고!"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_kuangdu_talk1_003.aac",
+            "text": "어릴 때부터 어떤 게임도 로레카는 진 적이 없어요. 커닝을 하지 않아도, 노력을 하지 않아도, 왜냐하면 다들 로레카를 너~무 예뻐해 줬거든요. 그렇죠? 국장님, 국장님도 로레카가 너~무 예쁘지?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_kuangdu_talk2_001.aac",
+            "text": "복수는 결코 로레카의 목적이 아니었어요. 헤헤, 로레카가 살아갈 이유였지."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_kuangdu_talk2_002.aac",
+            "text": "폭탄도, 적도, 무슨 블랙워터도, 사이비도, 사람을 죽이는 괴물도, 로레카는 두렵지 않아! 나는 배후에 있는 모든 것을 끄집어낼 거야."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_kuangdu_talk2_003.aac",
+            "text": "로레카는 당신에게 베팅했다고! 그러니까 아무에게나 목숨을 잃지 마요."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_kuangdu_obeyfull_001.aac",
+            "text": "로레카가 또 네잎 클로버를 찾았어! 헤헤, 국장님처럼 운이 나쁜 사람은 아마 평생 하나도 못 찾을걸. 됐어…이건 국장님한테 줄게요, 보답으로 국장은 로레카랑 더 많이 놀아줘야 해."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_kuangdu_idle_001.aac",
+            "text": "빵야 빵야, 빵야 빵야~!!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_kuangdu_clicking_001.aac",
+            "text": "국장님, 되게 한가한가 봐. 로레카랑 놀래요? 예를 들어~~ 이거 내기할까요?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_kuangdu_specialattention_001.aac",
+            "text": "오오오~ 국장님 로레카랑 놀아주러 온 거야?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_kuangdu_dispatch_001.aac",
+            "text": "출바알~!"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_kuangdu_dispatch2_001.aac",
+            "text": "로레카 다녀왔어요~! 오늘은 여기저기 돌아다니지 않고 곧장 돌아왔어요~!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_kuangdu_levelup_002.aac",
+            "text": "에? 로레카가 더 강해질 수 있었단 말이야~?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_kuangdu_head_001.aac",
+            "text": "머리 만지기 없기! 난 어린애가 아니에요! 으악! 멈춰!"
+        }
+    ],
+    "seaside_dessert_stand": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_cacha_001.aac",
+            "text": "탕탕탕~! 에헤헤, 깜짝 놀랐죠? 물총이었어요, 국장님! 어서 와서 로레카랑 같이 놀아요!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_levelup_001.aac",
+            "text": "로레카가 아이스크림을 더, 더, 더~ 많이 따낼 거예요!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_greeting_001.aac",
+            "text": "국장님~ 로레카와의 내기는 잘 준비해왔죠? 진 사람이 아이스크림 세 개 사기에요!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_talk_001.aac",
+            "text": "로레카는 이리나의 커다란 크루즈에서 노는 게 좋아요. 거기 사람들은 내가 아무리 많이 따가도 화내지 않거든요. 오히려 자꾸 로레카랑 사진을 찍으려 해요. '도박왕'이라나 뭐라나… 정말 이상한 사람들이라니까요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_talk_002.aac",
+            "text": "럭키~ 오늘 케이크를 엄청 따냈어요! 근데 그전에도 사람들이 자꾸 로레카한테 디저트를 선물해 주곤 했어요. 그게… 누구였더라? 우웅… 아이쿠, 로레카 기억이 안 나요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_idle_001.aac",
+            "text": "와아~ 날씨가 너무 좋아요. 국장님, 얼른 와서 로레카랑 놀아줘요! 서핑이나, 비치 발리볼도 좋고, 뭐든 괜찮아요!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_clicking_001.aac",
+            "text": "아하핫… 국장님, 간지러워요! 앗~ 로레카도 질 수 없어!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_specialattention_001.aac",
+            "text": "국장님… 로레카를 왜 그렇게 빤히 쳐다보는 거예요? 설마… 국장님도 로레카의 상어 인형을 탐내는 거예요? 흥, 이건 로레카도 어렵게 따낸 거거든요, 절대 안 빌려줄 거예요!"
+        }
+    ],
+    "puerile_maniac": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_cacha_001.aac",
+            "text": "로레카가 오늘 아침에 이상한 케이크를 먹었더니 이렇게 변해버렸어요. 음… 여름 언니가 테이블 위에 놓아둔 것 같은데, 너무 맛있어 보이길래… 로레카가 참지 못하고… 헤헤…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_levelup_001.aac",
+            "text": "로레카가 키가 더 커진 것 같아요!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_greeting_001.aac",
+            "text": "숨바꼭질이요? 안 할래요… 로레카가 작아졌다고 해서 로레카와 이런 유치한 게임을 하면 안 되죠! 그럼, 로레카가 국장님 품에 숨어 있어도 돼요?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_talk_001.aac",
+            "text": "어…? 자기 전에… 간식 먹으면 안 돼요? 하… 한 입만 먹을게요! 로레카에겐 행운이 따르니까 충치는 생기지 않을 거예요! 응!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_talk_002.aac",
+            "text": "음… 로레카는 조금 졸려요… 국장님, 로레카한테 곰 인형 좀 갖다줄래요? 로레카는 어릴 때처럼 인형을 꼬옥 안고 자고 싶어요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_idle_001.aac",
+            "text": "그때의 로레카가 지금처럼 강했다면 좋았을 텐데… 그랬다면 이 총만으로도 그 녀석들을 다 해치워 버릴 수 있었을 거예요!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_clicking_001.aac",
+            "text": "로레카를 애 취급하지 마세요! 로레카는 키가 작아졌지만, 여전히 똑똑하다고요! 국장님을 가뿐하게 이길 수 있어요! 이얍! 빵야빵야빵야!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_specialattention_001.aac",
+            "text": "흠흠~ 로레카가 이렇게 입으니까 잘 어울리죠? 국장님은 로레카의 가족으로서 로레카를 칭찬해 줘야 해요!"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_fupo_cacha_001.aac",
+            "text": "난 갇혀있는 걸 싫어해… 여길 떠나는데 얼마면 되니?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_fupo_promotion_001.aac",
+            "text": "그래? 시트리의 청결도가 올라간 거 아니야?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_fupo_promotion2_001.aac",
+            "text": "앞으로 아무도 우리를 해칠 수 없어, 아무도."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_fupo_battlebegin_001.aac",
+            "text": "휴가 떠나야 하는 거야?"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_fupo_battlewin_001.aac",
+            "text": "겨우 이거야?"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_fupo_battlelose_001.aac",
+            "text": "흑… 이거 거절당하는 것보다 더 괴로운데…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_fupo_uniqueskill_001.aac",
+            "text": "시트리, 그들을 막아!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_fupo_dead_001.aac",
+            "text": "어떻게… 이럴 수가?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_fupo_greeting_001.aac",
+            "text": "어머, 돌아왔나 보네. 한동안 안 보여서 걱정했어."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_fupo_talk1_001.aac",
+            "text": "왜 자꾸 날 오만하다고 하는 거지? 나는 단지 돈이 많다는 사실에 대해 솔직할 뿐이야."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_fupo_talk1_002.aac",
+            "text": "이 에메랄드의 빛깔 좀 봐, 정말 예쁘지? 훗, 이 원석의 순도는 사실 별로지만 훌륭한 커팅 기술로 살려낸 거야."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_fupo_talk1_003.aac",
+            "text": "이곳의 아이들은 다 너무 귀여워, 근데 왜 다들 내 돈을 받지 않으려 하는 거지?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_fupo_talk2_001.aac",
+            "text": "집에 있는 고양이들이 어떻게 됐는지 모르겠어… 국장, 애들을 여기로 데려와도 될까? 몇 마리 안 돼, 그래봤자… 백 마리 정도야."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_fupo_talk2_002.aac",
+            "text": "나는 내가 보석을 위해 태어난 거라 생각해… 그런데 내가 정말 보석만큼 눈부실까?"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_fupo_talk2_003.aac",
+            "text": "국장, 내가 너를 거둬 키우겠다고 하면 어떨 것 같아? 난 진지해."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_fupo_obeyfull_001.aac",
+            "text": "이건 유산 배분 협의서야, 여기 와서 네 이름을 써…만약 어느 날 내가 잘못되면 이 돈으로 그 귀여운 녀석들을 잘 돌봐줘… 그리고 시트리도, 알겠지?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_fupo_idle_001.aac",
+            "text": "시트리, 착하지, 이따가 누가 오면 어떻게 해야 할지 알지?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_fupo_clicking_001.aac",
+            "text": "난 아직 돈으로 누군가의 손발을 사 본 적이 없는데, 정말 해보고 싶어."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_fupo_specialattention_001.aac",
+            "text": "이렇게 정중하게 찾아오다니… 국장, 요즘 돈이 부족해?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_fupo_dispatch_001.aac",
+            "text": "식은 죽 먹기지."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_fupo_dispatch2_001.aac",
+            "text": "다녀왔어. 봐봐, 여러분을 위해 기념품을 챙겨왔어."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_fupo_levelup_002.aac",
+            "text": "좋았어 좋았어."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_fupo_head_001.aac",
+            "text": "어? 내 턱 안 만져주는 거야? 나도 그릉그릉 소리를 내줄지 몰라."
+        }
+    ],
+    "moonlight_rendezvous": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_fupo_yueyinsheqing_cacha_001.aac",
+            "text": "나의 장원에 온 걸 환영해, 국장! …모처럼 방문한 거니까 내 집처럼 편하게 지내도록 해. 너무 딱딱하게 굴면 재미없다?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_fupo_yueyinsheqing_levelup_002.aac",
+            "text": "밤은 기니까, 좀 더 재밌는 걸 해보지 않을래?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_fupo_yueyinsheqing_greeting_001.aac",
+            "text": "같이 한잔할래~? 걱정 마, 국장… 이건 그냥 석류 주스니까."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_fupo_yueyinsheqing_talk_001.aac",
+            "text": "좀 더 가까이 와. 네 숨소리를 들을 수 있게… 아… 마치 고양이처럼."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_fupo_yueyinsheqing_talk_002.aac",
+            "text": "이 방에서 거울을 보며 '첼시 백작이 날 스폰 해준다, 첼시 백작이 날 스폰 해준다'라는 말을 반복하면, 내가 어디에 있든 바로 이곳에 나타난대. 어때, 한번 해볼래?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_fupo_yueyinsheqing_idle_001.aac",
+            "text": "시트리, 오늘도 밥을 잘 못 먹는구나… 다이아몬드가 입에 안 맞니? 휴… 알았어. 얼른 가서 네가 제일 좋아하는 블랙 오팔로 바꿔올게."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_fupo_yueyinsheqing_clicking_001.aac",
+            "text": "국장, 드디어 철이 들었구나? 나를 향한 사랑의 표시라고 생각할게!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_fupo_yueyinsheqing_specialattention_001.aac",
+            "text": "커튼을 쳐야겠어. 우리 둘만의 밤을 즐길 수 있도록 말이야."
+        }
+    ],
+    "lake_of_mythos": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_fupo_yiluoxinhu_cacha_001.aac",
+            "text": "네가 떨어뜨린 게 금도끼야 아니면 보석도끼야? 사양하지 말고 마음에 들면 다 가져가도록 해~"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_fupo_yiluoxinhu_levelup_001.aac",
+            "text": "후우~ 역시 물이 맑아지니까 기분도 좋아지네~"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_fupo_yiluoxinhu_greeting_001.aac",
+            "text": "하하~ 호수에 뭘 떨어뜨린 척할 필요 없어. 원하는 건 내가 다 줄 수 있으니까. 난 아주 작은 보답만 있으면 돼. 그건 바로 네가 영원히 내 곁에 남아있는 거야~"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_fupo_yiluoxinhu_head_001.aac",
+            "text": "이 화환은 호수 밑 정령들이 내게 준 귀중한 선물이야. 어때? 뒤에 0만 많이 붙은 값비싼 액세서리보다 훨씬 예쁘지 않아?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_fupo_yiluoxinhu_body_001.aac",
+            "text": "내 취향에 안 맞는 녀석들은 아무리 진실을 말해도 내 소장품을 가져갈 자격이 없어~"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_fupo_yiluoxinhu_body_002.aac",
+            "text": "매일 같이 잊힌 것들, 버려진 것들, 놓쳐버린 것들이 수면 위를 맴돌다 내 곁으로 밀려오지… 그렇다면 네 손가락 사이로 빠져나간 건 이 중에 어떤 것일까?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_fupo_yiluoxinhu_hand_001.aac",
+            "text": "네 손바닥은 건조하고 따스하네… 촉감이 마음에 들어! 가격을 말해봐. 계속 이렇게 내 손을 잡고 있게 하려면 보석을 얼마나 주면 돼?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_fupo_yiluoxinhu_background_001.aac",
+            "text": "호수는 나의 팔과 다리이자 심장, 치맛자락이야… 호수를 건드리는 건 날 쓰다듬는 것과 같아… 하하, 왜, 안 믿겨? 하지만 난 정말 물속에 녹아들 수 있는걸~"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_fupo_yiluoxinhu_idle_001.aac",
+            "text": "시트리, 또 호수 바닥에서 보물찾기 놀이를 하고 있었구나. 몇백 년 전의 낡은 물건들을 다 파헤쳐 놨네… 하아, 발톱을 닦아줄 테니까 어서 이리 오렴."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_fupo_yiluoxinhu_specialattention_001.aac",
+            "text": "나한테 관심 있으면 그냥 말로 해. 당장이라도 우리 집에 초대할 수 있으니까~ 안심하라고. 호수 밑의 네 방도 다 준비되어 있거든. 특별히 널 위해 진주 커튼과 보석 침대도 마련했어. 분명 마음에 들 거야~"
+        }
+    ]
+}

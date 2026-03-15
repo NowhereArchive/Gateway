@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_aida_cacha_001.aac",
+            "text": "初めまして、ニューシティ銀行、カスタマーマネージャーのマキアートと申します。何か気になる商品は……え、ここの局長でいらっしゃるのですか？申し訳ありません。知らない方に会うと、いつもつい尋ねてしまうのです。でも、仕事は安心してお任せください。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_aida_promotion_001.aac",
+            "text": "これがあなたの望みですか？分かりました。あなたを満足させましょう。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_aida_promotion2_001.aac",
+            "text": "さてと、経験したことのない気持ちいい思いをさせてあげるわ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_aida_battlebegin_001.aac",
+            "text": "みんなに踏ん張る力を与えましょう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_aida_battlewin_001.aac",
+            "text": "手が痺れちゃった……でも、なかなか楽しかったわ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_aida_battlelose_001.aac",
+            "text": "どうしましょう。もう終わりです。死んでしまいます……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_aida_uniqueskill_001.aac",
+            "text": "思いっきりこの快感を噛みしめなさい……！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_aida_dead_001.aac",
+            "text": "ここで死ぬわけには……私には、まだ……家族が……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_aida_greeting_001.aac",
+            "text": "お帰りなさい、局長様。昨日の仕事の報告書はデスクに置いてあります。何かお飲みになりますか？コーヒー、お茶、その他のものでも、ご用意いたします。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_aida_talk1_001.aac",
+            "text": "肉体に与えられる痛みは一瞬だけだが、精神に与えられる快感はいつまでも続く——彼らはそう言っていますが……お試しになられますか？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_aida_talk1_002.aac",
+            "text": "ニューシティ銀行が新しく出した投資信託商品についてですが、これは本当に素晴らしいものでした。年間収益率はなんと12%。ローリスクハイリターンなので、私も購入しました。局長様もいかがでしょうか？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_aida_talk1_003.aac",
+            "text": "朝九時から夜五時まで働くのも悪くないですね......このおかけで「趣味」に使う時間はたっぶりありました。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_aida_talk2_001.aac",
+            "text": "弟と妹たちが就職したら、私はようやく本当の意味で自由を手に入れられます。その時は砂の海でトラックの運転手になるか、シンジケートでロックバンドのドラマーになるつもりです……ニューシティから離れられるなら、なんでもよくって……。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_aida_talk2_002.aac",
+            "text": "ニューシティでの生活はストレスばかりです。業績、借金、株、欲望……みんな数えきれないほどの悩みを持っています。だからこそ、私を必要とするのかもしれませんね。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_aida_talk2_003.aac",
+            "text": "こんなことを言うのもなんですが、私は「女王様」という呼ばれ方は好きじゃないんです……でも局長が望むなら、あなただけの女王様になりますよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_aida_obeyfull_001.aac",
+            "text": "この能力と立場にずっと抵抗がありました。でもあなたと出会って、やっと本当の意味で満足できました……ふふ、あなたの虜になりそう、愛しい局長様……。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_aida_idle_001.aac",
+            "text": "ニューシティ銀行へようこそ！あ、間違えました。ここはMBCCでしたね……申し訳ありません。ちょっと居眠りをしてしまっていたようです。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_aida_clicking_001.aac",
+            "text": "本当にストレスがたまってるなら、手伝ってあげなくもないわよ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_aida_specialattention_001.aac",
+            "text": "秘書は初めてなのですが、何をすればいいんでしょうか？あなたの言ったことをすればいいんでしょうか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_aida_dispatch_001.aac",
+            "text": "必ずこの仕事を完遂させてみせます。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_aida_dispatch2_001.aac",
+            "text": "仕事が完了しました。領収書は誰に清算してもらえばよろしいでしょうか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_aida_levelup_002.aac",
+            "text": "お引き立ていただきありがとうございます。"
+        }
+    ],
+    "beguiled_heart": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_aida_yiluanqingmi_cacha_001.aac",
+            "text": "そう、それがあなたの望みなら、あなたのためにもう一度鞭を振り上げ、あなたの……深い欲望を満たしてあげる。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_aida_yiluanqingmi_levelup_001.aac",
+            "text": "どう？身体が軽くなった気がしない～？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_aida_yiluanqingmi_greeting_001.aac",
+            "text": "あなたも私からのご褒美が欲しいの？大丈夫、恥ずかしがらないで……私はあなたのあらゆる面を喜んで受け入れてあげるから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_aida_yiluanqingmi_talk1_001.aac",
+            "text": "もうダメになったの？あと少し我慢すれば、完璧なタイミングで快楽の絶頂に導いてあげるわよ——信じて。私は……あなたの限界をよ～く知ってるから。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_aida_yiluanqingmi_talk1_002.aac",
+            "text": "さぁ、口を開けなさい。従順で協力的なあなたへのご褒美よ……一緒に楽しみましょう〜"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_aida_yiluanqingmi_idle_001.aac",
+            "text": "ふぅ……良かった、みんな満足してくれて……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_aida_yiluanqingmi_clicking_001.aac",
+            "text": "そんなに待てないの？じゃあ、姿勢を正してじっとしてなさい……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_aida_yiluanqingmi_specialattention_001.aac",
+            "text": "頷いてくれれば、あなたに……最高に甘いご褒美をあげるわ。"
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_duruo_cacha_001.aac",
+            "text": "またお会いしましたね、局長さん。ここであなたと会ったのは神の御意志、運命、偶然……それとも人為的なものでしょうか？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_duruo_promotion_001.aac",
+            "text": "このように助けてくださって、どのような恩返しを求めているのですか？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_duruo_promotion2_001.aac",
+            "text": "天地に鳴り響く鐘の音。奏でるは民の儀式であり、歌うは人々の声である……いわゆる「奇跡」は、実は既にあなたと私の間に起きているんですよ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_duruo_battlebegin_001.aac",
+            "text": "いいタイミングで来ましたね。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_duruo_battlewin_001.aac",
+            "text": "勝ちを譲ってもらいました～"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_duruo_battlelose_001.aac",
+            "text": "私のような無名な学者は、やはりまだ神の下す災いに逆らえないようですね～"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_duruo_uniqueskill_001.aac",
+            "text": "煙霞は立ち込めました。後はあなたたち次第です——"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_duruo_dead_001.aac",
+            "text": "流れに身を任せる……ふふ、悔しいですね……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_duruo_greeting_001.aac",
+            "text": "いいお知らせがあります。聞きたいですか、局長さん？占ってみたのですが、今日あなたは幸運をもたらしてくれる人と出会うようですよ……何を探しているんですか？私は目の前にいるじゃないですか。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_duruo_talk1_001.aac",
+            "text": "神は仕事を分担してあなたのストレスを軽減することはできませんが、私ならできるかもしれません。どうです？私にお願いしてみませんか？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_duruo_talk1_002.aac",
+            "text": "奇妙な物語に憧れる人もいれば、制御できない奇跡を恐れる人もいます……局長さんはどちらでしょうか？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_duruo_talk1_003.aac",
+            "text": "緑の煙、優れたアイデア、真実を尊ぶ探求心——神話学者にとって、これらがあれば十分です。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_duruo_talk2_001.aac",
+            "text": "もし本当に幽霊や神がこの世にいるのなら、なぜ誰も敬虔な願いに応えてくれないのでしょう？もしそういった存在がいないのであれば……人々の祈りはどこへ行ってしまったのでしょうね……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_duruo_talk2_002.aac",
+            "text": "見えましたか？太陽は東から昇り、西に沈みます……あの人たちが求めても手に入れられなかったありふれた日常が、ここにあったんですね……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_duruo_talk2_003.aac",
+            "text": "私はあなたにたくさんの伝説をお話ししたので、次はあなたが語ってください。ただ、私は器が小さいのであなたが誰にも話していない内容を聞きたいです。天と地、そしてあなたと私だけが知っていることを。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_duruo_obeyfull_001.aac",
+            "text": "あなたは私に真実、信頼、力、そして家と呼べる場所を与え、私はあなたを利用しました。これからは、ゆっくり恩返しをさせてください。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_duruo_idle_001.aac",
+            "text": "ご存知ですか？実は金烏は泳げるんです……しーっ、これは極秘中の極秘ですよ。誰かに聞かれないようにしてください。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_duruo_clicking_001.aac",
+            "text": "ダメですよ～私の香炉が精霊となって、あなたを一口で食べてしまいますからね！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_duruo_specialattention_001.aac",
+            "text": "日が沈む方向に三跪九叩すると、願いが叶うという言い伝えがあるんですが……あら、騙せませんでしたね。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_duruo_dispatch_001.aac",
+            "text": "賑やかで華やかな異国の地で、この色とりどりの世界に惹かれ、帰りたくなくなったらどうしましょう。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_duruo_dispatch2_001.aac",
+            "text": "手ぶらで帰るわけには——いきませんね～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_duruo_levelup_002.aac",
+            "text": "これが「大都市ディス」の技術ですか？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_duruo_head_001.aac",
+            "text": "私の故郷では、勝手に人の頭を触ると……まあいいでしょう。知らない方が幸せですよ。"
+        }
+    ],
+    "lunaria_enigma": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_duruo_jingyechangxi_cacha_001.aac",
+            "text": "潮汐の幻境を破って私を見つけられたということは、あなたは月と縁があるということです。ここに留まり、月光の洗礼を受け、私の信使になりませんか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_duruo_jingyechangxi_levelup_001.aac",
+            "text": "潮が西に満ち、月の光がより明るくなりました。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_duruo_jingyechangxi_greeting_001.aac",
+            "text": "空には満月が浮かび、人間界には団らんが広がる。そんなロマンチックで温かな瞬間が訪れるたびに、私もここを離れて人間の世界を味わいたいと思います。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_duruo_jingyechangxi_head_001.aac",
+            "text": "これが人間界の一番新しい祈りの儀式なんですか？表面的な礼節なんて私にとってはどうでもいいんですよ。敬虔で純粋な信仰心があれば、自然と月神の祝福を受けられるでしょう。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_duruo_jingyechangxi_body_001.aac",
+            "text": "私のスカートの裾についた水の跡をとても気にしているようですね……普通の水は、当然ながら神の身体を汚すことはできません。この水は、清らかな池が神の降臨を感じ、自らその信心を捧げ、私の力となっただけです。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_duruo_jingyechangxi_body_002.aac",
+            "text": "世間では、太陽は明るく輝き、月はその光を吸収したから太陽に対抗する力を得たと言われています。ですが、月がその熱い日光のエネルギーを変換しなければ、この優雅で静謐な人間界の景色は今のままでいられるでしょうか？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_duruo_jingyechangxi_righthand_001.aac",
+            "text": "満月の光の輪が夜を突き破り、あなたの血の中にある潮汐の力が私と共鳴し、絆を結びました……水を見てください。あなたの気色がずっと良くなっているでしょう？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_duruo_jingyechangxi_lefthand_001.aac",
+            "text": "世間では、老夫婦が竹を割って私を見つけたという噂もあれば、私が神の薬を欲しがり、空に飛んで神になったという言い伝えもあります……どれも面白い推測ですね。私の信使さん、どのような来歴が私の身分にふさわしいか、考えてくれませんか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_duruo_jingyechangxi_idle_001.aac",
+            "text": "月は明るく澄んでいて、時折彷徨う雲に隠れてしまう……しかしそれは一時的なもの。明るい月はやがて霞を突き破って、人間界を照らすのです。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_duruo_jingyechangxi_specialattention_001.aac",
+            "text": "月があなたの祈りを伝えました。神は忠実な信使に褒美を授けましょう。この月桂樹の船に乗り、神々のお告げを聞いてください。"
+        }
+    ],
+    "breezy_embrace": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_duruo_qingfengruhuai_cacha_001.aac",
+            "text": "目が覚めると、鶴の首にこの煙が巻きついていました。これは高貴なお客様がいらっしゃる兆しだと思い、すぐに茶席を整えて、吉報を静かに待っていたのです。そして案の定、あなたがいらっしゃいました……ふふ、この華麗な衣装に着替え、古木の春芽を用意した甲斐がありましたね。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_duruo_qingfengruhuai_levelup_001.aac",
+            "text": "ん～お茶の色が澄みきっていて、最も良い頃合いですね。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_duruo_qingfengruhuai_greeting_001.aac",
+            "text": "清風に乗りて香漂い、古きを語りて茶深まる。局長さんが多忙なのは知っていますが、せっかくいらしたのなら、どうぞお席へ。一緒にお茶を味わいながら、この東洲のお茶に秘められた奥深さを聞いていきませんか？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_duruo_qingfengruhuai_head_001.aac",
+            "text": "お茶はまだ冷めていないのに、あなたの心は落ち着かないようですね？もう少しお待ちください。あまり焦ると、このお茶を味わい尽くせませんよ～"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_duruo_qingfengruhuai_body_001.aac",
+            "text": "この衣装は、古い様式で新たに作ったものです。時代遅れだと思ったこともありましたが、今となっては、伝統というものもお茶と同じだと思えます。古いものには、古いものなりの味わいがあるのだと。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_duruo_qingfengruhuai_body_002.aac",
+            "text": "東洲の人々はお茶を愛しており、銘茶も多くあります。例えば、白毫銀針、六安瓜片、碧螺春……名の響きもそれぞれ雅で、高い評価を受けたものばかりです。しかし風雅ばかりを楽しみ、その裏にある山道や薪火を味わうのを怠れば、物足りなさを感じることでしょう。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_duruo_qingfengruhuai_hand_001.aac",
+            "text": "この小さな茶碗を侮ってはいけません。東洲の茶道において、とても重んじられているものなのです。手に馴染む温もり、きめ細やかな土の質感、そして季節ごとに異なる様式……春は牛の目、夏は栗の実、秋は蓮の葉、冬は釣鐘と茶碗を使い分けるのです——ですが私は、誰が来てもこのように細かく茶碗を変えるわけではありません。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_duruo_qingfengruhuai_background_001.aac",
+            "text": "あの窓の外の竹が気に入りましたか？ふふ、竹は力強く物静かで、謙虚で節操を貫くような存在です。私は、その凛々しく高潔な様子を好んでいます……あなたに少し似ている気がして。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_duruo_qingfengruhuai_idle_001.aac",
+            "text": "美味しいお茶に良い景色。本来ならこれだけで十分素晴らしい時間です……ですが、話し相手がいないと、何かが欠けている気がしますね。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_duruo_qingfengruhuai_specialattention_001.aac",
+            "text": "あら、お湯はまだ沸いていないのに、茶碗の方が先に温まってしまったようですね？もしかしたら、誰かさんの視線が熱すぎたせいかもしれません。"
+        }
+    ]
+}

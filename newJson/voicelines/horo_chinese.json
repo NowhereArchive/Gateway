@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_mojila_cacha_001.aac",
+            "text": "怎么又是这儿！放我出去！军团不会放过你，我老大迟早找上门，砸了你这破地方。听到没！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_mojila_promotion_001.aac",
+            "text": "哇，这力量……我得赶紧去跟卓娅老大比划比划试试！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_mojila_promotion2_001.aac",
+            "text": "从今以后，军团，就交给我吧。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_mojila_battlebegin_001.aac",
+            "text": "别怕，有我罩着你呢。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_mojila_battlewin_001.aac",
+            "text": "哼，这下知道我的厉害了吧。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_mojila_battlelose_001.aac",
+            "text": "没关系的，只要人还在，我们总有机会赢的！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_mojila_uniqueskill_001.aac",
+            "text": "啊——"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_mojila_dead_001.aac",
+            "text": "我们……不会输……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mojila_greeting_001.aac",
+            "text": "唷，是你啊？我正热身呢，你要一起不？优秀的战士决不能疏于练习，否则身体迟早会生锈的。这是卓娅老大教我的！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_mojila_talk1_001.aac",
+            "text": "都是一个妈生的，凭什么厄尔希就能长那么高……等着瞧吧，我一定会超过他的。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_mojila_talk1_002.aac",
+            "text": "强大的秘诀？勤练，一往无前的勇气，还有每天一公升牛奶……你笑什么？！摄取营养很重要的！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_mojila_talk1_003.aac",
+            "text": "这柄斧头是军团的兄弟们送我的。怎么样，和勇猛无敌的我很般配吧？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_mojila_talk2_001.aac",
+            "text": "卓娅老大超强的，人又体贴，脑子还好使。真希望有朝一日我能像她那样。嗯，有她一半厉害就好了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_mojila_talk2_002.aac",
+            "text": "裙子？我不穿裙子，不方便战斗还容易走光。你……你胡说！我上次才没盯着橱窗里的裙子看……闭嘴！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_mojila_talk2_003.aac",
+            "text": "我现在很强，没人再把我当作累赘了。可我最在乎的那个人，已经不在了。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_mojila_obeyfull_001.aac",
+            "text": "当初你说你是卓娅老大派来救我的，其实都是骗我的吧？哼，算了，我原谅你了。为一点小事和重要的人斤斤计较……这种蠢事我不会再做第二遍了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mojila_idle_001.aac",
+            "text": "喂，你知道采购办在哪儿吗？那个紫毛小妞说要处理临期牛……商品，全场5折，我得去看看。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_mojila_clicking_001.aac",
+            "text": "啊！别跑，我砍了你！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mojila_specialattention_001.aac",
+            "text": "来找我干嘛？只是来看看？我有什么好看的。或者说，你想和我练练？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mojila_dispatch_001.aac",
+            "text": "放心，包在我身上。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_mojila_dispatch2_001.aac",
+            "text": "都让我出马了，这点小事还不是轻轻松松？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mojila_levelup_002.aac",
+            "text": "好！再来点儿。"
+        }
+    ],
+    "limit_breaker": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_mojila_jixianyundongjihua_cacha_001.aac",
+            "text": "……来找我干嘛？只是来看看？我有什么好看的。来都来了，不如先和我练练再说，看你这细胳膊细腿的，我都怕哪天内海刮大风给你吹走了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mojila_jixianyundongjihua_levelup_002.aac",
+            "text": "……啊——！运动之后就是得喝牛奶才行！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mojila_jixianyundongjihua_greeting_001.aac",
+            "text": "这都几点了？你怎么还在这磨蹭呢？优秀的战士可不能疏忽了锻炼！来！先和我一起跑两公里热个身再说。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_mojila_jixianyundongjihua_body_001.aac",
+            "text": "颈前下拉五组，反握下拉五组，哑铃弯举五组，杠铃弯举五组，这些只是第一阶段的训练计划，做完这些咱们再……喂你别跑啊！那先三组，三组总行了吧！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_mojila_jixianyundongjihua_body_002.aac",
+            "text": "那句话怎么说来着……量变引起……什么变的……啊记不住了！唉总之就是坚持锻炼肯定没错！总有一天，我会超过那个家伙，还有卓娅老大，成为军团最强的！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mojila_jixianyundongjihua_idle_001.aac",
+            "text": "呸呸呸，这草莓味香精也太浓了，甜到齁……我，我当然知道蛋白粉要兑水喝了，你就不好奇它本来的味道么！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_mojila_jixianyundongjihua_clicking_001.aac",
+            "text": "诶，你小心点！这外套可是我花了大价钱定制的，说它是军团之魂也不为过！你也想穿穿看？行吧，看在你认可军团的份上，我就……不对！等，等我先把衣服洗了再说……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mojila_jixianyundongjihua_specialattention_001.aac",
+            "text": "你穿成这样怎么跟我一起运动啊？来，先跟我回军团，让大伙儿给你凑几件轻便的衣服吧。"
+        }
+    ],
+    "abiding_moment": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_mojila_tianyacishi_cacha_001.aac",
+            "text": "这些年走镖，日子过得也算自在。可一旦闲下来，从前的事反倒更清晰了……大概人就是这样吧，走得再远，却也总想回头看看。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mojila_tianyacishi_levelup_001.aac",
+            "text": "刃无锋，意自成。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mojila_tianyacishi_greeting_001.aac",
+            "text": "我去准备篝火。明天又来了趟新生意，你要是感冒着凉，这镖可就走不成了。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_mojila_tianyacishi_head_001.aac",
+            "text": "又拿我当小孩子哄……不对，你手怎么这么凉？再等一会儿，火马上生好了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_mojila_tianyacishi_body_001.aac",
+            "text": "江湖上的人总爱看皮相，这次走镖记得备两件和我差不多的衣服，不然他们可会把你当外行看。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_mojila_tianyacishi_body_002.aac",
+            "text": "话本故事里常说：“江湖自在逍遥”，如今看来，也不过是刀尖舔血，风餐露宿。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_mojila_tianyacishi_wine_001.aac",
+            "text": "月色正好，不如来喝一杯？……果子露怎么就不能说喝一杯了！你们这些大人真是烦得很！"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_mojila_tianyacishi_leg_001.aac",
+            "text": "再多动一下，刀可不认人……算了，看你冷成这副刺猬模样，就先饶了你吧。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mojila_tianyacishi_idle_001.aac",
+            "text": "这芦苇丛在夜风里沙沙作响的声音，倒真像小时候听过的雨……那时只嫌它扰人清梦，如今听来，却是难得的安稳。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mojila_tianyacishi_specialattention_001.aac",
+            "text": "你都看了一路了……等我们这趟进了城，就去看看给你置办一套像我这样方便行走江湖的衣裳吧。"
+        }
+    ]
+}

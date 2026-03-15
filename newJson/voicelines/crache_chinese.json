@@ -1,0 +1,255 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_crache_cacha_001.aac",
+            "text": "玻璃关不住影子，这里也困不住我。别白费力气了，米诺斯的局长，你们这些大人只会把事情越搞越糟。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_crache_promotion_001.aac",
+            "text": "只要不暴露在日光下，任何人都没办法发现我。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_crache_promotion2_001.aac",
+            "text": "狄斯城每一寸阴影，都是我的领地。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_crache_battlebegin_001.aac",
+            "text": "我可不适合出现在这种地方。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_crache_battlewin_001.aac",
+            "text": "就这种货色……用得着我出手吗。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_crache_battlelose_001.aac",
+            "text": "哈哈，我就知道，什么都改变不了。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_crache_uniqueskill_001.aac",
+            "text": "如影……随形。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_crache_dead_001.aac",
+            "text": "好黑……好冷啊……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_crache_greeting_001.aac",
+            "text": "米诺斯的局长，请注意一下房间中的阴影，你刚才差点撞到我。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_crache_talk1_001.aac",
+            "text": "“流浪儿”们闯的祸跟我无关。我不是头领，也没下过指令，不过是被借个名头扯虎皮罢了。不过……辛迪加的坏小孩很让你们头疼吗？呵呵，活该。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_crache_talk1_002.aac",
+            "text": "你是个成熟的大人了，还有什么事非要找一个小鬼帮忙？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_crache_talk1_003.aac",
+            "text": "没有人想出生在辛迪加，那里的谎言和暴力永远都不会改变。我放弃了，想离远点，不过分吧？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_crache_talk2_001.aac",
+            "text": "这里……还算不错。卧室的床，比辛迪加那边软上很多。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_crache_talk2_002.aac",
+            "text": "墙壁上的是“流浪儿”的徽记，想加入的话，就自己照着画一个吧……不过单单从年龄上来看，你就已经失去资格了。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_crache_talk2_003.aac",
+            "text": "禁闭室的空间可以适当扩大一些么？我不是讨厌狭小的地方，我只是……有些不好的回忆。或者……你要不然就……和我聊聊管理局的事吧……"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_crache_obeyfull_001.aac",
+            "text": "你……真是个奇怪的人。如果辛迪加的那些人都像你一样，我们也能少受很多罪吧……你为什么没有早点来……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_crache_idle_001.aac",
+            "text": "啊——难得的放松时间，没有任务要出，也没有人来打扰我。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_crache_clicking_001.aac",
+            "text": "唉……你们这些大人，真的是……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_crache_specialattention_001.aac",
+            "text": "……当你凝视阴影时，阴影也在凝视着你。放弃吧，你碰不到影子。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_crache_dispatch_001.aac",
+            "text": "哈？来你这儿还要工作的吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_crache_dispatch2_001.aac",
+            "text": "唔……我果然，还是不适应在阳光下活动……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_crache_levelup_002.aac",
+            "text": "阴影……在向我聚集。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_crache_head_001.aac",
+            "text": "——干嘛……这身高……只是暂时的。"
+        }
+    ],
+    "eternal_night_hunt": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_crache_yongyeshoulie_cacha_001.aac",
+            "text": "你还在听那些老掉牙的故事？好好看看吧，属于我们的“童话”，究竟长什么样……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_crache_yongyeshoulie_levelup_001.aac",
+            "text": "影子，你闻到了吗，腐烂的、腥臭的气味……该加餐了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_crache_yongyeshoulie_greeting_001.aac",
+            "text": "喂，待在这儿，别出去。森林里……即便是你，也会被当成兔子吃掉。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_crache_yongyeshoulie_head_001.aac",
+            "text": "耳朵、影子、眼睛……还不明白吗？我可不是那个戴着红帽子、任人欺负的小孩。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_crache_yongyeshoulie_talk_001.aac",
+            "text": "那些混蛋用童话把孩子们变善良，利用他们的善良，伤害他们，最后将他们丢掉……我不会上当了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_crache_yongyeshoulie_talk_002.aac",
+            "text": "你真的相信狼会把到嘴的肉吐出来？它只会一口接一口，吃掉所有猎物。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_crache_yongyeshoulie_hand_001.aac",
+            "text": "“小红帽”饼干，你也想要么？可以，不过……别太好奇它的原料。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_crache_yongyeshoulie_leg_001.aac",
+            "text": "没人会把猎物让给一个穿裙子的小姑娘。除非，你比他们更强。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_crache_yongyeshoulie_idle_001.aac",
+            "text": "安静点，再等等，夜还不够深……黑色的角落才是我们的领域。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_crache_yongyeshoulie_specialattention_001.aac",
+            "text": "别抱什么期待，我是不会陪你玩过家家的。"
+        }
+    ],
+    "lucida_mystica": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_crache_fanxinghuanshi_cacha_001.aac",
+            "text": "这里是魔女的集市，不是你这种小鬼该来的地方……迷路？好吧，想要回家的话，就把你最珍贵的宝物给我，我会平等交换给你一颗星星，它会让你平安回到家的。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_crache_fanxinghuanshi_levelup_001.aac",
+            "text": "星星，不断地在向这里汇集。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_crache_fanxinghuanshi_greeting_001.aac",
+            "text": "你怎么又出现在这里？真麻烦。说吧，这一次，你打算用什么来换星星送自己回家？先说好，我可不会再接受路边的鲜花了，多大束都不行。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_crache_fanxinghuanshi_body_001.aac",
+            "text": "棒棒糖，这就是你最珍贵的东西？把它放到天秤上试试吧，如果双方达成平衡，你就能换走这颗星星……好了，算你走运，是平衡的。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_crache_fanxinghuanshi_body_002.aac",
+            "text": "少在这个集市里乱跑，那些帐篷看着漂亮，随便走进去一顶，都会让你骨头都不剩。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_crache_fanxinghuanshi_idle_001.aac",
+            "text": "呼，可算是把迷路的小鬼都送走了。最近误闯进来的小鬼怎么越来越多了，换来的棒棒糖和布娃娃都要堆不下了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_crache_fanxinghuanshi_clicking_001.aac",
+            "text": "啧……最烦你这种好奇心旺盛的小鬼头了，这件披风可是我裁下一小片星空做的，你掉进去那就出不来了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_crache_fanxinghuanshi_specialattention_001.aac",
+            "text": "星星已经给你了，还看着我做什么？不如好好想想，你拥有的那些“宝贝”还够你交换几次……想清楚了，以后出来玩就别到处乱跑了。"
+        }
+    ],
+    "shadow_groove": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_crache_anlv_cacha_001.aac",
+            "text": "明明警告过那帮小鬼别跟来，怎么还是溜到台下了......是你又心软了吧？算了，别给我在下面尖叫喊我的名字就行。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_crache_anlv_levelup_001.aac",
+            "text": "贝斯的低音够扎实，才能撑起整首曲子。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_crache_anlv_greeting_001.aac",
+            "text": "一会儿我们会有演出，你……也要过来看看吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_crache_anlv_talk1_001.aac",
+            "text": "从台上看下去，那片荧光一浪接一浪地晃动着，就像潮水一样……有点壮观，也有点不真实。没想到有一天，我会站在这样的地方。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_crache_anlv_talk1_002.aac",
+            "text": "贝斯的声音……低沉、稳重，就像心跳一样。明明是头一次接触，却意外地……挺合我胃口。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_crache_anlv_idle_001.aac",
+            "text": "聊天互动这种环节交给那几个喜欢说话的人就好，让我一个人在这里安静一会儿吧。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_crache_anlv_clicking_001.aac",
+            "text": "啧，不要乱动我的琴，刚刚调准的弦，你们这些大人就是喜欢搞破坏。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_crache_anlv_specialattention_001.aac",
+            "text": "贝斯手的存在不张扬，他们就像影子一样藏在旋律的缝隙里，大多数人都不会去注意……但你看到了我。嗯，你的目光和鼓励，我都收到了。"
+        }
+    ]
+}

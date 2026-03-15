@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_eleven_cacha_001.aac",
+            "text": "欢迎收听凌晨三点的问候，在无光之夜四处寻求的你，是想要对我说些什么吗？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_eleven_promotion_001.aac",
+            "text": "午夜的铃声已经响起，来，继续陪着我吧……"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_eleven_promotion2_001.aac",
+            "text": "我会把你给予我的一切，构造成束缚你的囚笼……！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_eleven_battlebegin_001.aac",
+            "text": "电话铃响了，亲爱的，我在你身后哦……"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_eleven_battlewin_001.aac",
+            "text": "再见了，亲爱的。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_eleven_battlelose_001.aac",
+            "text": "电话没完没了的一个接一个……放过我吧……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_eleven_uniqueskill_001.aac",
+            "text": "感谢您的收听。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_eleven_dead_001.aac",
+            "text": "不……不……别再说了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_eleven_greeting_001.aac",
+            "text": "今天的你……要向我倾诉怎样的故事呢？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_eleven_talk1_001.aac",
+            "text": "如果睡不着，就去收听我的节目吧，凌晨三点的问候，希望能带给您黑夜中的温柔。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_eleven_talk1_002.aac",
+            "text": "人们总喜欢在我身上寻找他们想要的，得以安慰他们的价值，多可悲啊……啊，不过，我很期待你能来我的节目做客~"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_eleven_talk1_003.aac",
+            "text": "我能接收到一切他人灌注下来的情绪，用大脑和心脏研磨消化后，转化成声音和笑容，通过电波，传达出去。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_eleven_talk2_001.aac",
+            "text": "人就是如此奇妙的生物，双眼对视，过电一般的感觉过后，你我眼中的你我，都不再是原来的样子了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_eleven_talk2_002.aac",
+            "text": "如果没有那些传说和错误的认知，我可以在深夜伴着雨声，读一篇散文，讲一个故事……一起迎接雨夜后的第一缕阳光……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_eleven_talk2_003.aac",
+            "text": "“她的身影从背后慢慢地接近你，笼罩你，最后……拥抱你……！”哎呀，你被吓了一跳吗？别怕……是我而已。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_eleven_obeyfull_001.aac",
+            "text": "我的认知被颠覆，世界被改变，但我知道……这并不是坏事。谢谢你愿意化身成世界的裂缝，让我脱离桎梏……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_eleven_idle_001.aac",
+            "text": "它的小诗，第1237行：“如果只是做了一个梦，世界都有可能改变，那我愿在这梦中沉睡不醒，直到我认知中的幸福世界创造而成。”"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_eleven_clicking_001.aac",
+            "text": "这么不想和我分开吗……？没事的，我会在今晚……给你打电话的。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_eleven_specialattention_001.aac",
+            "text": "别这么紧张，我可以一直和你挂着语音的，你只要继续做你的事，我会陪在你身边。要是不放心……我还可以给你唱一首歌，如何？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_eleven_dispatch_001.aac",
+            "text": "让我看看，你的世界有什么不一样吧。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_eleven_dispatch2_001.aac",
+            "text": "我能带给你的价值，就是这些了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_eleven_levelup_002.aac",
+            "text": "来，再过来点，再……近一点儿。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_eleven_head_001.aac",
+            "text": "想要知道我是如何想念你的吗？"
+        }
+    ],
+    "rippling_heartthrobs": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_eleven_xinchaomanxia_cacha_001.aac",
+            "text": "你终于醒了！现在感觉怎么样？还觉得头晕或是恶心吗？呼……没事就好，你刚才中暑昏过去，吓得我声音都发不出来……还好我离你比较近，就赶紧把你带回来休息了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_eleven_xinchaomanxia_levelup_001.aac",
+            "text": "谢谢你的冷饮，一起喝吧，来解解暑~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_eleven_xinchaomanxia_greeting_001.aac",
+            "text": "如果还是觉得难受，我来陪你说说话怎么样？听着我的声音，你或许能舒服一点。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_eleven_xinchaomanxia_head_001.aac",
+            "text": "你在担心我也中暑吗？呵呵……放心吧，我很好。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_eleven_xinchaomanxia_talk1_001.aac",
+            "text": "想来试试“精神降温法”吗？据说，在炎炎夏日里听些诡异怪谈也是一种很好的消暑方法。嗯……就拿这片海滩来说好了，别看它白天热闹，其实发生过的怪事可一点也不少，就比如前几天的夜里，一位工作人员在巡逻的时候……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_eleven_xinchaomanxia_talk1_002.aac",
+            "text": "在海边游泳时切记不可离开安全水域，同时在下水之前也要先把准备活动做充分。喏，你看，那边几位朋友就是学着你之前的样子直接往水里跳，结果腿抽筋了，其他救生员正在捞他们呢……"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_eleven_xinchaomanxia_hand_001.aac",
+            "text": "还是很热？我这里有用凉水洗过的毛巾，可以用来降温。来，我帮你擦擦额头和脖子，这样是不是感觉凉爽了一些？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_eleven_xinchaomanxia_rubberring_001.aac",
+            "text": "不行哦，你的身体没有完全恢复，还不能回去游泳，就算带着救生圈也不行……如果是觉得无聊了，那这个章鱼小玩偶就送给你吧？捏起来手感很好的。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_eleven_xinchaomanxia_idle_001.aac",
+            "text": "虽然没法下水，但像现在这样躺在遮阳伞下面看看云，吹吹风，听听海浪也挺好的，不是吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_eleven_xinchaomanxia_specialattention_001.aac",
+            "text": "别总盯着我呀，既然来了海边，好好享受大海才是正事……要是你实在想和我多聊一会儿的话，不如等我下班了，一起去海边走走？呵呵，好，到时候等我的电话~"
+        }
+    ],
+    "trickling_heartstream": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_eleven_xinliuweilan_cacha_001.aac",
+            "text": "现在，请将你的一切都交给熏香、流水，还有我的声音，让我帮你忘记所有疲倦。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_eleven_xinliuweilan_levelup_001.aac",
+            "text": "声音好像将你我联系得更紧密了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_eleven_xinliuweilan_greeting_001.aac",
+            "text": "我……等你很久啦。今天想听些什么？一段新曲，一首小诗，或者一个总讲不到结尾的故事。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_eleven_xinliuweilan_head_001.aac",
+            "text": "散下来的头发好像会刮到你，是不是有点痒？稍等，我用抓夹重新固定一下。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_eleven_xinliuweilan_body_001.aac",
+            "text": "闭上眼睛，慢慢地，将注意力带到你的呼吸上。吸气，呼气，你做得很好，再来一次……嗯？怎么感觉你有些分心……？是因为我吗？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_eleven_xinliuweilan_body_002.aac",
+            "text": "想象一下，阳光透过云层，落在你的眼睑上。你躺在一片莲叶中央，听着潺潺溪流，蜿蜒而下。不要去评价，就这样让画面从脑海中一点点浮现出来，享受此刻的温暖与舒适吧……"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_eleven_xinliuweilan_clothes_001.aac",
+            "text": "我想要给你一个放松、温柔、舒缓的空间，所以呢，衣物要尽量柔软，室温和湿度也要调高一点，那些令人愉悦的声音，就会更加清晰了……我这样像不像……在等你回家，听你敞开心扉的感觉？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_eleven_xinliuweilan_candle_001.aac",
+            "text": "你喜欢这种香薰蜡烛的味道吗？闻起来，仿佛能让人置身于一片晚春的花海。我们并肩躲在里面，和现在一样，一起窃窃私语，说着只属于我们的小秘密。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_eleven_xinliuweilan_idle_001.aac",
+            "text": "在想什么呢？不，没什么事……只是突然间想让你知道，我一直在这里，在你身边。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_eleven_xinliuweilan_specialattention_001.aac",
+            "text": "如果我是你入睡前看到的最后一个人，那你今晚的梦里会不会有我的出现？"
+        }
+    ]
+}

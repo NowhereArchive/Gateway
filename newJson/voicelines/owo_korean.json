@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_owo_cacha_001.aac",
+            "text": "역시! 어흥의 사자춤을 거부할 수 있는 사람은 없어! 관리국도 매료시키고 말았네. 대국 디스도 겨우 이 정돈가~"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_owo_promotion_001.aac",
+            "text": "음~ 역시 나야, 어흥!"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_owo_promotion2_001.aac",
+            "text": "어흥이를 지지해 준걸, 잊지 않을게! …당분간은… 적어도 이번 달까지는!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_owo_battlebegin_001.aac",
+            "text": "운 좋은 줄 알아, 거기 디스인. 일반인은 어흥이 뒤에서 사자 꼬리 역할을 맡을 기회조차도 없다고~"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_owo_battlewin_001.aac",
+            "text": "감히 이 무적의 사자춤 왕을 얕보더니, 오줌 지릴 정도로 맞아버렸네! 메롱이다!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_owo_battlelose_001.aac",
+            "text": "젠장…! 너희 딱 기다려! 어, 어흥 님이 다시 돌아오마!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_owo_uniqueskill_001.aac",
+            "text": "사자왕의 행차시다!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_owo_dead_001.aac",
+            "text": "어흥이는 엄청 강한데… 저 녀석들이… 흑, 저 녀석들이 생떼를 써서…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_owo_greeting_001.aac",
+            "text": "순진한 디스인, 헛수고하지 말도록 해. 아무리 노력해도 이 사자춤 천재 무용수와의 격차는 영원히 좁혀지지 않아!"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_owo_talk1_001.aac",
+            "text": "♪옛날 옛적에 사자 한 마리~ 그녀의 이름은 바로… 어흥!"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_owo_talk1_002.aac",
+            "text": "내 사자 머리가 촌스럽다 한 사람 누구야! 유행 지난 거라고 한 사람 누구냐고! 누구야! 흑흑흑, 그 나쁜 녀석 나오라 그래! 흑흑흑… 콱 물어 버릴 거야!"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_owo_talk1_003.aac",
+            "text": "'&￥*￥，%*$@，&#*@……' 아, 이거 영화 대사야. 사자춤 비법인 줄 안 바보는 없겠지? 하하하하하! 바보!"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_owo_talk2_001.aac",
+            "text": "너! 뭐 잊은 거 있지! 다시 생각해 봐! 그 있잖아! 그거! …으아앙, 오늘은 어흥이의 영화를 칭찬해 주지 않았잖아!"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_owo_talk2_002.aac",
+            "text": "너 골격이 참 훌륭한 것 같은데, 어때? 사자춤의 18대 계승자가 돼 볼래? …아니, 18대던가 19대던가… 내가 몇 대였지? …1, 2, 3…"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_owo_talk2_003.aac",
+            "text": "우리한텐 '사자가 신나면, 재물신 오시네'라는 속담이 있어! 그러니까, 어흥이가 너를 위해서 열심히 소란을 피워줄게!"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_owo_obeyfull_001.aac",
+            "text": "사자춤은 정말 힘들어! 몇 년씩 공부해야 하고! 자주 다치기도 해! 정말 배우고 싶어? 정말이지! 후회 안 해? …어흥이한테 제자가 생긴 건가? 어흥이한테 제자가 생겼다! 어흥이한테 제자가 생겼어!!!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_owo_idle_001.aac",
+            "text": "일어나!!! 아니지? 정말로 놀랐다고? 하하하, 너희 디스인들은 참 재밌다니까!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_owo_clicking_001.aac",
+            "text": "겨, 경고하는데 사자를 존중하지 않는 사람은 가호받을 수 없어! 괴, 괴물이 너를 먹어버린다고 해도 신경 안 쓸 거야! 오… 오지 마!!!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_owo_specialattention_001.aac",
+            "text": "천하무적 위풍당당한 천재 어흥이의 공연이니, 잘 봐봐!"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_owo_dispatch_001.aac",
+            "text": "디스가 재미있어 봤자 내 고향보다는 못하겠지. 네가 일손만 부족하지 않았어도 놀러 가고 싶은 생각 없었을 거야!"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_owo_dispatch2_001.aac",
+            "text": "가져가면 안 돼! 가져가면 안 돼! 이거 다 어흥이가 고생해서 뺏어온 거란 말이야!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_owo_levelup_002.aac",
+            "text": "어흥~!"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_owo_head_001.aac",
+            "text": "사자 머리가 엄청 예쁘지 않아? 패기 넘치지? 위엄 있지? 엄청 만져보고 싶지? 흐흥… 꿈 깨셔!"
+        }
+    ],
+    "king_of_lion_dance": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_owo_wushizhiwang_cacha_001.aac",
+            "text": "둥디기둥, 한입에 햄버거 한 개!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_owo_wushizhiwang_levelup_001.aac",
+            "text": "아우…… 고기 많이 많이 먹고! 몸은 쑥쑥 자라고!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_owo_wushizhiwang_greeting_001.aac",
+            "text": "디스인, 빨리 와서 이 가게를 MBCC의 식당으로 옮겨! 이곳의 감자튀김이 너무 맛있어, 나 매일 먹을래!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_owo_wushizhiwang_talk_001.aac",
+            "text": "난 수감자 어흥이야, 지금 블랙링의 영향을 받아 돌아갈 곳이 없게 됐지. 블랙링을 완전히 뿌리 뽑고 세계의 평화를 위해, 나에게 50을 주고 밥을 배불리 먹게 도와줘, 안 그럼 난 괴변체를 쓰러뜨리지 못한다고!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_owo_wushizhiwang_talk_002.aac",
+            "text": "카메라! 이건 분명 날 찍는 카메라야! 흥흥, 이 천하무적 울트라 썬더 토네이도 꼬마 천재의 이름이 여기까지 울렸다니! 너희 기다려, 이 닭 다리를 해결하고 나서 바로 보여줄게!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_owo_wushizhiwang_idle_001.aac",
+            "text": "…! 케첩이 치마에 떨어졌어! …디스인! 빨리 와서 어흥을 도와 닦아주지 못해!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_owo_wushizhiwang_clicking_001.aac",
+            "text": "안 돼! 이건 어흥의 햄버거야! 넌 네 것이나 먹어! 몇 살인데 다른 사람 것을 뺏어 먹으려 해, 부끄럽지도 않아? 흥! 내가 화나면 널 햄버거 삼아 크게 한입 물어버릴 거야!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_owo_wushizhiwang_specialattention_001.aac",
+            "text": "햄버거, 감자튀김, 치킨 윙, 에그타르트, 모두 한 개씩 더! …왜 그렇게 쳐다보는데? 난 더 많이 많이 많이 먹을 수 있어! 얕보지 말라고!"
+        }
+    ],
+    "auspicious_prancer": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_owo_xishiyingmen_cacha_001.aac",
+            "text": "어이… 여기야, 어서 고개 들어! 세상에서 가장 즐겁고 활기찬 집지킴 사자춤이 곧 시작되니 놓치지 말라고! 어흥이가 모두의 행운을 빌어줄게~ 기쁨이 가득하고, 재물운이 가득하길~"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_owo_xishiyingmen_levelup_001.aac",
+            "text": "운수대통, 만사형통!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_owo_xishiyingmen_greeting_001.aac",
+            "text": "오늘의 수문신은 바로 나, 세상을 지키는 천하무적 어흥 님이시다! 사자왕이 지켜주면 모든 악한 것들이 저 멀리 도망쳐버리지!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_owo_xishiyingmen_talk_001.aac",
+            "text": "사자춤의 북소리가 너무 커서 내 축복을 듣지 못할까, 새해의 폭죽 소리가 시끄러워서 내 인사를 듣지 못할까 걱정돼. 그래서… 바로 지금! 어흥이의 축복을 내려줄게! 매일 잘 먹고 잘 자길 바랄게!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_owo_xishiyingmen_talk_002.aac",
+            "text": "와, 이 등불, 이 폭죽, 이 규모… 전부 날 위해 준비한 거야? 안목이 정말 훌륭하네, 디스인. 걱정하지 마! 어흥이의 공연은 절대 실망시키지 않을 거야, 나와 내 사자탈이 모두에게 행운을 전해줄게!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_owo_xishiyingmen_idle_001.aac",
+            "text": "내 실력은 말뚝 위에서 갈고닦은 거야, 지붕에 올라가는 것쯤은 식은 죽 먹기지. 절대 떨어지지 않을… 으아아앗! 위험했다…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_owo_xishiyingmen_clicking_001.aac",
+            "text": "간 큰 디스인 녀석, 감히 수문신님의 갑옷에 손을 대다니! 흥, 오늘은 길일이니 용서해 주지… 딱, 딱 한 번만 만져!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_owo_xishiyingmen_specialattention_001.aac",
+            "text": "이건, 어흥님이 특별히 준비한 새 의상이야. 이건, 어흥이랑 유랑민 촌락의 아저씨 아주머니들이 함께 만든 새 사자탈이고. 좋아, 디스인, 마음껏 칭찬해 봐~"
+        }
+    ]
+}

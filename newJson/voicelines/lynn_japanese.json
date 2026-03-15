@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_lynn_cacha_001.aac",
+            "text": "こん……こんにちは……ミノスの局長さん……あの、わ……わたしは、ニューシティの「独眼悪魔」です！……こう言ったら、誰もいじめてこないはず……"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_lynn_promotion_001.aac",
+            "text": "力が、強くなった？……はぁ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_lynn_promotion2_001.aac",
+            "text": "頑張って……この力を受け入れて……この力をコントロールできるような人に……なります。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_lynn_battlebegin_001.aac",
+            "text": "ああ……戦闘なんてなければいいのに。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_lynn_battlewin_001.aac",
+            "text": "まさか、勝った……"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_lynn_battlelose_001.aac",
+            "text": "こ……怖い……わ、わたし、本当に戦うのがヘタです。ごめんなさい……ごめんなさい！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_lynn_uniqueskill_001.aac",
+            "text": "見ないでください……わたしから離れて！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_lynn_dead_001.aac",
+            "text": "二度と……こんな経験……したくない……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lynn_greeting_001.aac",
+            "text": "局長さん……今日は手芸をしてみました。ちょうどあなたにあげようと思っていたんです。あなたがいい一日を送れますように……"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_lynn_talk1_001.aac",
+            "text": "あの……これは全部……わたしが撮った写真です……でも、人を撮るのは苦手で。え？局長さんも撮ってほしい……？……わ、わたし！わたし、頑張ります！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_lynn_talk1_002.aac",
+            "text": "きょ、局長さん……あれは、前にわたしが緊張し過ぎて、無意識に部屋の中に掘った穴です……隠れようと思って……"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_lynn_talk1_003.aac",
+            "text": "お父さんとお母さんは会いに来てくれるかな……や……やっぱりこんなこと考えちゃダメ。二人に迷惑ばっかりかけて……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_lynn_talk2_001.aac",
+            "text": "え……ここ……ここにもニューシティの人がいるんですか？……その人たち……その人たちは、ひどいことしませんよね……局長さん？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_lynn_talk2_002.aac",
+            "text": "下水道の中の環境は悪いですが……でも安全です。FACの人に追われることも、誰かにいじめられることもありません……だから……ずっと出てこなかったんです……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_lynn_talk2_003.aac",
+            "text": "ここは変わった人がいっぱいいますが、でも……みんな親切です！わたしの生い立ちを嫌がらないし、変な臭いがするとかも言ってこない……写真のモデルになりたいって言ってくれる人もいて、本当に新しくて不思議……"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_lynn_obeyfull_001.aac",
+            "text": "ヘルメットを脱いで見た世界は、もっと鮮明で、もっと素敵で……本当に、あなたに感謝しています。わたしにこの力に慣れて、コントロールする勇気を与えてくれて……わ……わたしはもう逃げません！でも……もう少し頼ってもいいですか？まだ、戦闘は得意じゃないかもしれないので……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lynn_idle_001.aac",
+            "text": "えへへ……またいい景色が撮れちゃった！局長さん、見て見て——あ……ごめんなさい……ちょっと興奮し過ぎました……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_lynn_clicking_001.aac",
+            "text": "えっ……あ！あ……あの……ヘルメット、汚いですよ……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lynn_specialattention_001.aac",
+            "text": "あの……そう！そんなに……じっと見ないで……ください……緊張しちゃいます……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_lynn_dispatch_001.aac",
+            "text": "これは……危険な任務じゃないですよね……戦闘なんてしないですよね？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_lynn_dispatch2_001.aac",
+            "text": "ほっ……無事でよかった……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lynn_levelup_002.aac",
+            "text": "わたしはこのままでいいんです！これ以上……強くなる必要なんてない……"
+        }
+    ],
+    "skittish_star": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_lynn_ouxiangdubai_cacha_001.aac",
+            "text": "あっ！局長……わ、わたしは大丈夫です……うっかりオーディオケーブルに絡まって転んだだけなので……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lynn_ouxiangdubai_levelup_001.aac",
+            "text": "えへへ……演奏、上手くなってきたな。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lynn_ouxiangdubai_greeting_001.aac",
+            "text": "局長は……今、わたしの演奏を聴きたいんですか？で、でも……ま、まだ準備ができてなくて……ほ、本番まで待ってください！まだ上手く弾けないんです……もっと練習しないと……！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_lynn_ouxiangdubai_talk1_001.aac",
+            "text": "ステージで演奏だなんて、わたし……本当に上手にできるんでしょうか？学校に通ってた頃、ステージで輝いてるバンドを見て、凄いなって思いました……わたしにも……できると思いますか？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_lynn_ouxiangdubai_talk1_002.aac",
+            "text": "……「衣装が可愛い」？あ、ありがとうございます！この飾りは漫画を参考に作ったんですが、アイドルっぽいですよね。えへへ……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lynn_ouxiangdubai_idle_001.aac",
+            "text": "このケースはふわふわしてるので、中で横になると……ちょうどいいんです……包み込まれてるような、抱き締められてるような安心感があって……すぅ……すぅ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_lynn_ouxiangdubai_clicking_001.aac",
+            "text": "ご、ごめんなさい！お手数ですが、ほどいてもらってもいいですか……あ……！なんで……どんどんきつくなってる……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lynn_ouxiangdubai_specialattention_001.aac",
+            "text": "うぅ……そんな目で見ないでください……またヘルメットを被りたくなるので……"
+        }
+    ]
+}

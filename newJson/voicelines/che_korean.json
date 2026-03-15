@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_che_cacha_001.aac",
+            "text": "나 같은 녀석 잡았다고 좋아할 일은 아니지 않나? 파이팅 하십시오. 다음에는 더 강한 수감자를 잡길!"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_che_promotion_001.aac",
+            "text": "아니, 설마 내가 강해졌다고 게으름 피우지 않을 거라고 생각하는 건 아니죠?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_che_promotion2_001.aac",
+            "text": "좋았어, 난 지금 아주 강하다고. 이제 날 블랙링에 죽으라고 보낼 겁니까?"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_che_battlebegin_001.aac",
+            "text": "잘 따라오십시오. 난 당신을 산 채로 데려가야 한단 말입니다."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_che_battlewin_001.aac",
+            "text": "갑시다. 시체 몇 구일뿐, 별로 볼 것도 없습니다."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_che_battlelose_001.aac",
+            "text": "하하… 조기 퇴근입니다."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_che_uniqueskill_001.aac",
+            "text": "도망갈 생각 마라!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_che_dead_001.aac",
+            "text": "이런 곳에서 최후를 맞이하다니…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_che_greeting_001.aac",
+            "text": "설마 내가 인사라도 해주기를 바라는 것은 아니겠지요? 한가한가 봅니다."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_che_talk1_001.aac",
+            "text": "혹시 숫돌 있습니까? 챙챙이랑 걸걸이가 약간 무뎌진 것 같아요. 왜 무기에 이런 이름을 지어줬냐고요? 그냥, 재밌으니까요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_che_talk1_002.aac",
+            "text": "수다를 떨자는 말입니까? 됐습니다… 난 지금 수다 떨 기분이 아닙니다… 다른 사람 찾으십시오."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_che_talk1_003.aac",
+            "text": "돈만 충분히 준다면, 당신의 허드렛일을 해줄 수 없는 것도 아닙니다. 싸움은 됐어요, 그건 못합니다."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_che_talk2_001.aac",
+            "text": "저기… 상의할 것이 있는데, 이번 주에 게으름 피우지 않을 테니까... 데드 러버 라디오의 특집 앨범 하나만 사다 주십시오."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_che_talk2_002.aac",
+            "text": "K.K.를 볼 때마다 과거의 나 자신을 보는 것 같았어요. 지루함 그.자.체. 하루 종일 일만 할 줄 알고, 내 생활이라는 것도 없고, 내가 조금 지켜보고 있지 않았다면 그녀는 벌써 백사장 도박 빚으로 팔렸을지도 모릅니다."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_che_talk2_003.aac",
+            "text": "백사장 이 사람이 비록 술이랑 도박을 좋아하고, 온종일 사고나 치고 다니고, 과음하면 나한테 난장이 똥자루라고 욕하기도 하지만… 그녀는 세상에서 가장 재미있는 녀석입니다. 제가 그녀를 알게 되었을 때부터 지금까지 줄곧 그랬어요."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_che_obeyfull_001.aac",
+            "text": "국장으로서 고위 간부에게 아첨하지 않고, 종일 우리 수감자들하고 어울릴 줄이야. 당신이란 사람… 정말 재밌군요. 오해는 마십시오, 다른 뜻은 없습니다."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_che_idle_001.aac",
+            "text": "피곤하십니까? 피곤하면 좀 쉬십시오. 안심하십시오. 내가 당신 대신 망을 봐줄 테니. 절대 당신의 부하들이 자신의 국장 어르신이 농땡이 부리고 있는 걸 알아채지 못하게 해드리겠습니다."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_che_clicking_001_01.aac",
+            "text": "윽… 뭐…뭡니까? 무슨 문제 있습니까?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_che_specialattention_001.aac",
+            "text": "당신은 당신 볼일 보시고, 나는 내 농땡이 부리고. 우리 서로 방해하지 않는 걸로 합시다. 어떻습니까?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_che_dispatch_001.aac",
+            "text": "다른 사람 보내면 안 됩니까? 나 바쁜데…"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_che_dispatch2_001.aac",
+            "text": "이 정도로 하죠. 먼저 갑니다."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_che_levelup_002.aac",
+            "text": "쯧. 귀찮군."
+        }
+    ],
+    "unexpected_guest": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_che_busuzhike_cacha_001.aac",
+            "text": "어라? 누군가 했더니 당신이었군요. 난 여기서 일하는 중이에요. 백기실업에서 빚 독촉 의뢰를 받았는데 K.K.는 다른 일이 있어서 내가 왔어요. 위협적으로 보이려고 이런 옷을 입긴 했는데, 이건 전부 백사장의 아이디어에요. 나랑은 상관없어요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_che_busuzhike_levelup_001.aac",
+            "text": "왜 또? 폭력적인 일은 피곤하단 말이에요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_che_busuzhike_greeting_001.aac",
+            "text": "아직 안 끝났어요. 내가 설마 진짜로 폭력을 쓰겠어요? 장사하는 사람이니까, 내가 여기서 계속 버티고 앉아있으면 골치 좀 아프겠죠."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_che_busuzhike_body_001.aac",
+            "text": "하아, 하필이면 빚 독촉 같은 의뢰를 받아서 나한테 맡기다니… 뭐 못 하면 마는 거죠. 백기실업이 실패한 의뢰가 한둘도 아니고."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_che_busuzhike_body_002.aac",
+            "text": "계속 이렇게 앉아 있으면 내가 꼭 업장 지키는 사람처럼 보이겠어요. 다행히 여긴 차랑 간식이 공짜예요. 아, 당신도 먹지 그래요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_che_busuzhike_idle_001.aac",
+            "text": "한가한 모양인데, 저기 뒤에 가서 마작이나 할래요? 걱정하지 말아요. 내가 주인이랑 꽤 친해졌으니까, 테이블 요금은 안 받을 거예요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_che_busuzhike_clicking_001.aac",
+            "text": "아, 그만 만지세요. 이거 타투가 아니라 토시거든요. 뭐 하러 괜히 몸에 칼을 대요?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_che_busuzhike_specialattention_001.aac",
+            "text": "할 일 없이 여긴 왜 왔어요? 뭐, 마음대로 해요. 여기 앉아서 일광욕하며 비타민D를 보충하는 것도 나쁘지 않죠."
+        }
+    ]
+}

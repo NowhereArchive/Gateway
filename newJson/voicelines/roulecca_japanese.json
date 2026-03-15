@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_kuangdu_cacha_001.aac",
+            "text": "ルリを捕まえられるなんて、あんた、運がいいね！あたしと何か賭けをしない？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_kuangdu_promotion_001.aac",
+            "text": "ラッキー！もしかして、今日もルリのラッキーデー？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_kuangdu_promotion2_001.aac",
+            "text": "もっと大きな賭けをしようよ。それから……もっといっぱい賭けをしよう？一番ワクワクする賭け金は……みーんなの命とか！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_kuangdu_battlebegin_001.aac",
+            "text": "ふんふんふん～、遊びに行こ——"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_kuangdu_battlewin_001.aac",
+            "text": "ルリはもぉっと刺激的な賭けがしたいの！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_kuangdu_battlelose_001.aac",
+            "text": "負けた？ルリが負けたの？！ハハハ、ハハハ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_kuangdu_uniqueskill_001.aac",
+            "text": "ははは、はっはっはっはっは！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_kuangdu_dead_001.aac",
+            "text": "やっと……迎えに来てくれた……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_kuangdu_greeting_001.aac",
+            "text": "一人はつまんないんだもん……ルリと何かして遊ばない？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_kuangdu_talk1_001.aac",
+            "text": "四十五口径の弾丸が頭を貫通するのにかかる時間は0.45秒なんだって。うーん……誰かに試してみる？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_kuangdu_talk1_002.aac",
+            "text": "ルリは超有名な殺し屋だよ。テクニック？戦術？情報？そんなのが必要なのは運の悪いやつだけでしょ。ルリが目をつけたら、神様がやつを見逃さないんだもん！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_kuangdu_talk1_003.aac",
+            "text": "子供の頃から、どんなゲームでも、ルリは負けたことがないんだぁ。ズルする必要もないし、努力する必要もない。みんながルリを超——可愛がってくれるから。局長、あんたもそうでしょう？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_kuangdu_talk2_001.aac",
+            "text": "復讐はルリの目的じゃないよ。へへ、ルリが生きていく理由だもん。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_kuangdu_talk2_002.aac",
+            "text": "爆弾も、敵も、ブラックウォーターも、カルトも、殺人モンスターも、ルリは恐くない！いつか黒幕を引きずり出してやるもん。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_kuangdu_talk2_003.aac",
+            "text": "ルリはあんたにありったけのお金を賭けてるんだから、勝手に命を落としちゃダメ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_kuangdu_obeyfull_001.aac",
+            "text": "また四つ葉のクローバー見つけちゃった！ふふ、局長ほど運が悪いと、きっと一生に1本だって見つけられないよね。いいや……これはあげる。その代わり、もう少しルリと遊んでね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_kuangdu_idle_001.aac",
+            "text": "バン！バンバンバーン！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_kuangdu_clicking_001.aac",
+            "text": "局長、暇なの？ルリと遊びたい？じゃあ——ロシアンルーレットとか、どう？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_kuangdu_specialattention_001.aac",
+            "text": "あっ、局長、ルリと一緒に遊ぶ？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_kuangdu_dispatch_001.aac",
+            "text": "しゅっぱ～つ！"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_kuangdu_dispatch2_001.aac",
+            "text": "ルリが帰ってきたよ！今回は走り回ってないもん。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_kuangdu_levelup_002.aac",
+            "text": "え？ルリってばもっと強くなれるの——？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_kuangdu_head_001.aac",
+            "text": "頭を触らないで！子供じゃないもん！わあああやめてよ！"
+        }
+    ],
+    "seaside_dessert_stand": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_cacha_001.aac",
+            "text": "バンバンバン——！へへっ、びっくりした？これは水鉄砲だよ、局長！早くルリと一緒に遊ぼうよ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_levelup_001.aac",
+            "text": "ルリが勝ったら、もっともっとアイスをくれる？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_greeting_001.aac",
+            "text": "局長——ルリとの勝負、ちゃんと準備できた？負けた方はメロンアイス三つ奢りだからね！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_talk_001.aac",
+            "text": "エイレーネーの大きな船に遊びに行くの、大好き！あそこの人、ルリがたくさん勝っちゃっても怒らないし、ルリと写真を撮りたがるの。「ギャンブルの神」とか言って……なんかよくわかんない。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_talk_002.aac",
+            "text": "ラッキー！今日もこんなにいっぱいケーキ勝ち取っちゃった！嬉しい！でも、なんだか、昔も色んな人からスイーツをもらった気がするの。あの人たち……誰だっけ？うーん……どうしよう、よく思い出せないの……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_idle_001.aac",
+            "text": "うーん、いい天気。局長、何か遊んでくれない？サーフィンでも、バレーボールでも、ルリはなんでもいいよ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_clicking_001.aac",
+            "text": "あはははは……局長、くすぐったいよ！もうールリも負けないんだから！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_kuangdu_haibintianpinjiao_specialattention_001.aac",
+            "text": "局長……なんでルリのことじっと見てるの？うーん、もしかして……局長もサメのぬいぐるみが好きなの？でも、これはルリが勝ち取ったものだから、貸してあげないもん！"
+        }
+    ],
+    "puerile_maniac": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_cacha_001.aac",
+            "text": "今朝、変なケーキを食べたらこうなっちゃったんだ。えーっと……夏音おねえちゃんがテーブルに置いたらしいんだけど、美味しそうだったから……ルリ、我慢できなくて……えへへ……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_levelup_001.aac",
+            "text": "ルリ、また背が伸びたような気がする！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_greeting_001.aac",
+            "text": "かくれんぼ？ヤダ……ルリが小さくなったからって、そんな子供っぽい遊びさせないでよ！それとも、ルリを局長の腕の中に隠す？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_talk_001.aac",
+            "text": "え……？寝る前に……お菓子を食べちゃダメなの？ひ……一口だけ！ルリは運がいいから虫歯にならないよ！うん！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_talk_002.aac",
+            "text": "んー……ルリ、ちょっと眠くなっちゃった……局長、クマちゃんのぬいぐるみ、いくつか取ってきてくれる？……小さい時みたいに、抱き締めて寝たいんだ……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_idle_001.aac",
+            "text": "あの時のルリもこんなに強かったら……この銃だけであいつら全員殺せたのに！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_clicking_001.aac",
+            "text": "ルリを子供扱いしないで！身体は小さくなったけど、頭の良さは変わらないんだから！局長に勝つのも簡単だよ！食らえ！バンバンバン！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_kuangdu_xiuzhenkuangtu_specialattention_001.aac",
+            "text": "ふふん、この服ルリに似合ってると思わない？ルリの家族として、局長も褒めてよ！"
+        }
+    ]
+}

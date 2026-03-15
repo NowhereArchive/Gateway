@@ -1,0 +1,163 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_rui_cacha_001.aac",
+            "text": "我是泪。你终于来接我了呢。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_rui_promotion_001.aac",
+            "text": "渐渐有点头绪了呢。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_rui_promotion2_001.aac",
+            "text": "我想到一个好主意！听我指示！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_rui_battlebegin_001.aac",
+            "text": "千万不要勉强自己哦。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_rui_battlewin_001.aac",
+            "text": "搞定了。大家没有受伤吧？"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_rui_battlelose_001.aac",
+            "text": "真遗憾啊，再重新制定一下计划吧。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_rui_uniqueskill_001.aac",
+            "text": "进展顺利，一切都在按照计划推进。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_rui_dead_001.aac",
+            "text": "拜托你了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_rui_greeting_001.aac",
+            "text": "渐渐有点头绪了呢。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_rui_talk1_001.aac",
+            "text": "看起来很开心呢。是不是……发生了什么好事？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_rui_talk1_002.aac",
+            "text": "我想到一个好主意！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_rui_talk1_003.aac",
+            "text": "听我指示！"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_rui_talk2_001.aac",
+            "text": "进展顺利"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_rui_talk2_002.aac",
+            "text": "一切都在按照计划推进。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_rui_talk2_003.aac",
+            "text": "头脑越来越清晰了。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_rui_obeyfull_001.aac",
+            "text": "哎呀，没想到你还挺主动的呢。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_rui_idle_001.aac",
+            "text": "你终于来接我了呢。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_rui_clicking_001.aac",
+            "text": "你那么在意我呀？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_rui_specialattention_001.aac",
+            "text": "这是我的荣幸。我会好好回应你的心意的。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_rui_dispatch_001.aac",
+            "text": "好啊，我正好有些无聊。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_rui_dispatch2_001.aac",
+            "text": "东西已经到手，接下来如何使用……就由你决定了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_rui_levelup_002.aac",
+            "text": "呵呵，头脑越来越清晰了。"
+        }
+    ],
+    "kisugi_rui_-_rank_up": [
+        {
+            "title": "摸头",
+            "filename": "File:vo_rui_head_001.aac",
+            "text": "哎呀……确定不是找错人了吗？"
+        }
+    ],
+    "tipsy_nocturne": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_rui_weixunyese_cacha_001.aac",
+            "text": "……怎么样？适合我吗。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_rui_weixunyese_levelup_001.aac",
+            "text": "不要让我失望哦。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_rui_weixunyese_greeting_001.aac",
+            "text": "呵呵。你能来我很高兴哦。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_rui_weixunyese_talk_001.aac",
+            "text": "喂，只是看着可不明白哦？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_rui_weixunyese_talk_002.aac",
+            "text": "听得到吗？……呵呵，是啊……真可爱呢。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_rui_weixunyese_idle_001.aac",
+            "text": "本以为今天晚上会很无聊......还不赖嘛。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_rui_weixunyese_clicking_001.aac",
+            "text": "呵呵……到底有多少算是玩笑呢？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_rui_weixunyese_specialattention_001.aac",
+            "text": "这样一来，你我之间的距离也拉近了。"
+        }
+    ]
+}

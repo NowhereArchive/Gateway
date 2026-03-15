@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_eve_cacha_001.aac",
+            "text": "여기가 미노스 위기관리국인가요? 이번에는 '이브'라는 짐 덩어리가 다른 결말을 맞이할 수 있을까요?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_eve_promotion_001.aac",
+            "text": "제게 기적이라는 건 일어나지 않겠죠?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_eve_promotion2_001.aac",
+            "text": "부서진 몸도 새로운 한계를 넘어서는데, 찢어진 사진은 왜 되돌릴 수 없는 걸까…"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_eve_battlebegin_001.aac",
+            "text": "저까지 갈 필요 있을까요? 전 짐만 될 거예요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_eve_battlewin_001.aac",
+            "text": "그들의 불행도 드디어 끝이군요."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_eve_battlelose_001.aac",
+            "text": "또 만났네요… 잔혹한 '현실'."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_eve_uniqueskill_001.aac",
+            "text": "가봐..."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_eve_dead_001.aac",
+            "text": "드디어… 함께 할 수 있게 됐어…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_eve_greeting_001.aac",
+            "text": "당신도 이곳에 있었군요… 저는 걱정하지 마세요, 그냥 마음 놓고 쉴 수 있는 곳이 필요했거든요."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_eve_talk1_001.aac",
+            "text": "제가 잠깐 다른 생각을 할 때면 휠체어는 항상 저를 아주 먼 곳으로 '데려가요'… 아마 '집'이라는 곳을 찾고 있나 봐요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_eve_talk1_002.aac",
+            "text": "국장님은 자정의 종소리를 좋아하세요? 전 무척 좋아해요. 종이 울릴 때면 꿈과 현실을 구분하지 못하는 척할 수 있거든요."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_eve_talk1_003.aac",
+            "text": "저는 장난감이 평생 주인 곁을 지켜줄 줄 알았어요. 하지만 플라스틱은 분해되고 도자기는 쉽게 깨지며 금속은 녹이 슬고 사람은 나이를 먹죠… 알고 보니 '변한다'는 게 변하지 않는 거였어요."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_eve_talk2_001.aac",
+            "text": "세상에서 가장 달콤한 사탕을 가졌던 적이 있죠. 하지만 시간이 너무 흘러 이제는 약보다 더 쓴맛이 나요. 제게 그 단맛을 다시 느낄 수 있게 해주셔서 감사해요."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_eve_talk2_002.aac",
+            "text": "당신의 웃음과 희망을 제게 나눠줄 순 없나요? 언제부턴가 저도 국장님이 보는 세상을 동경하고 있나 봐요… 그토록 찬란하고 열렬한 세상을요…"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_eve_talk2_003.aac",
+            "text": "정말로 밝아지지 않는 밤이 있다면, 저와 함께 가 주실래요? 끝없는 밤 속에서 함께 별을 세고 함께… 영원히 깨어날 수 없는 꿈을 꿔요."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_eve_obeyfull_001.aac",
+            "text": "동화 속에 '가장 사랑하는 사람은 항상 곁에 있다. 그저 당신이 그 사람을 보지 못했을 뿐.'이라는 말이 있죠… 동화가 또 거짓말을 했어요. 이번에는 제가 당신을 봤으니까요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_eve_idle_001.aac",
+            "text": "곰돌아 무서워하지 마, 이브가 있잖아. 영원히 내가 함께할게… 아쉽게도 이브는 더 이상 이런 말을 들을 수 없게 됐어요…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_eve_clicking_001.aac",
+            "text": "이렇게 터치해서 당신의 호기심을 채울 수만 있다면 상관없어요. 동정하지 않아도 돼요. 다리는 제가 잃었던 것들 중에 가장 하찮은 거였거든요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_eve_specialattention_001.aac",
+            "text": "같이 있어 줘서 고마워요, 괜찮으시다면 휠체어 좀 밀어주실래요? 바깥 공기를 쐬면 잠깐이긴 하지만 예전에 있었던 일들을 잊을 수 있거든요."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_eve_dispatch_001.aac",
+            "text": "휠체어를 타고 갈 수 있는 곳은 제한되어 있어요, 제게 너무 기대하진 마세요."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_eve_dispatch2_001.aac",
+            "text": "다녀왔어요. 다른 일이 없으면 저 혼자 좀 쉬게 해주세요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_eve_levelup_002.aac",
+            "text": "왜 저같이 쓸모없는 짐 덩어리를 포기하지 않으시는 거죠…?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_eve_head_001.aac",
+            "text": "그 손… 조금만 더 머물 수 있어요? 예전처럼 이 따스함도 순식간에 사라질까 두려워요…"
+        }
+    ],
+    "agleam_escapade": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_eve_xinghuizhiye_cacha_001.aac",
+            "text": "정말로 사악한 마녀의 보복을 두려워하지 않는 용사님이 계셨군요. 수정구의 반대편에서 저와 함께 이 투명한 장벽을 깨기 위해 노력하다니…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_eve_xinghuizhiye_levelup_001.aac",
+            "text": "저를 구속하던 저주가 사라졌어요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_eve_xinghuizhiye_greeting_001.aac",
+            "text": "도와주셔서 정말 감사해요. 하지만 오랜 세월 수정구에 갇혀 있다 보니 저의 공주라는 신분은 더 이상 의미가 없어져, 아마 걸맞은 보상을 드리진 못할 거예요… 혹시, 이 보석을 답례로 드려도 될까요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_eve_xinghuizhiye_head_001.aac",
+            "text": "수없이 멈춰버린 나날들 속에서 저는 줄곧 이 왕관을 쓰고 있었어요. 대관식에서 백성들이 절 바라보며 기대하는 시선만큼 무거운 왕관이죠, 전 좀처럼 이 왕관을 내려놓을 수 없었어요… 용사님께서 생각하기에도 제가 좀 바보 같은가요?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_eve_xinghuizhiye_body_001.aac",
+            "text": "모두의 부러움을 샀던 예언 속의 미모도, 마녀가 간절히 바라던 맑고 투명한 영혼도, 저에게는 모두 중요하지 않아요. 하지만 운명은 이런 것들을 제게 강요하며 대신 제게 소중한 가족들을 앗아갔죠… 대륙을 거닐던 용사님, 과연 이 세상에 이보다 더 황당한 거래가 있을까요?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_eve_xinghuizhiye_body_002.aac",
+            "text": "동화에선 용사가 공주를 구해내기만 하면, 그들은 행복한 삶을 살게 되고, 훌륭한 결말을 맞이하게 되죠. 하지만 저의 이야기에는 결말이 없는 것 같아요… '행복한 삶'은 어디에 있죠? 용사님께서 이미 가져다주었지만, 제가 행복한 삶을 볼 수 있는 능력을 잃어버린 걸까요?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_eve_xinghuizhiye_hand_001.aac",
+            "text": "마녀의 저주가 모든 것을 굳어지게 했어요. 저의 몸도 플라스틱으로 만든 인형처럼 굳어져 버렸죠… 그런데 방금, 용사님의 손길에서 온기를 느꼈던 것 같아요."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_eve_xinghuizhiye_background_001.aac",
+            "text": "저의 기사들은 어떠한 대가를 치르더라도 제게 용사님을 데려오겠다고 했죠. 그때의 전, 이 역시 동화 같은 달콤한 거짓말이라고 생각했는데… 사실은 제가 틀렸다는 게 증명됐죠. 플라스틱 검일지라도 저를 지킬 수 있고, 동화 속 용사님 역시 실제로 존재했어요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_eve_xinghuizhiye_idle_001.aac",
+            "text": "말아, 말아. 어서 이브를 고향으로 데려다줘… 풍요로운 평원, 숲을 이룬 잣나무, 고요히 흐르는 강, 나를 아름답지만 낯선 고향 땅으로 데려다주지 않겠니…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_eve_xinghuizhiye_specialattention_001.aac",
+            "text": "왜 그렇게 저를 쳐다보세요? 만약 더 나쁜 소식이 있다면 그냥 말해주세요. 걱정하지 마세요. 오랜 세월 수정구에 갇혀 있었던 것보다 더 나쁜 상황은 없을 테니까요."
+        }
+    ],
+    "frostling_whisper": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_eve_cangjimilin_cacha_001.aac",
+            "text": "아무도 발을 들이지 않는 이 화원은 조금씩 얼어붙고 있었죠. 그런데 이렇게 생각지도 못한 손님이 올 줄은 몰랐어요… 어차피 당분간 이곳에서 나갈 수 없을 텐데, 여기 남아서 만물이 동면에 빠지기 전 열리는 마지막 연회에 참여하는 게 어때요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_eve_cangjimilin_levelup_001.aac",
+            "text": "곰돌아, 곰돌아, 어서 무럭무럭 자라렴…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_eve_cangjimilin_greeting_001.aac",
+            "text": "눈 내린 숲은 길이 좋지 않아요. 제 곁에 앉아 따뜻한 차 한 잔 어때요? 실례가 안 된다면… 제게 얼음 밖의 세상이 지금은 어떤 모습을 하고 있는지 알려주실 수 있어요?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_eve_cangjimilin_talk1_001.aac",
+            "text": "이 연회의 참가자는 항상 저와 곰돌이 둘뿐이었어요. 우리는 눈밭에서 서로 의지하고 체온을 나눴죠. 당신이… 우리와 함께하기 전까지요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_eve_cangjimilin_talk1_002.aac",
+            "text": "이곳은 너무도 고요하고 춥고 창백하고 단조로워요. 그런데 사람들은 이곳을 동화 속 눈의 나라라고 부르죠… 만약 정말 저와 같은 동화 주인공이 있다면, 그 이야기는 너무나도 슬프지 않을까요?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_eve_cangjimilin_idle_001.aac",
+            "text": "들어봐요. 저건 바람이 나뭇가지 위를 스치는 소리예요… 겨울 단꿈의 자장가이기도 하죠."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_eve_cangjimilin_clicking_001.aac",
+            "text": "제 곰돌이는 아직 어리지만, 저의 충성스럽고 용맹한 수호자가 될 수 있을 만큼 충분한 힘을 가지고 있어요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_eve_cangjimilin_specialattention_001.aac",
+            "text": "연회가 아직 끝나지 않아서 이곳을 함부로 떠날 수 없어요. 어쩌면 다음 봄이 오면 누군가가 저를 데리고 이 얼음과 눈으로 뒤덮인 세상에서 벗어나게 해줄지도 모르죠."
+        }
+    ]
+}

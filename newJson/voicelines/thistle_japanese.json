@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_thistle_cacha_001.aac",
+            "text": "苦労してようやく花庭園を守ったのに、またあなたにめっちゃくちゃにされたわ！どうやって償うつもり！？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_thistle_promotion_001.aac",
+            "text": "これなら……みんなの足を引っ張ることもなくなりそう。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_thistle_promotion2_001.aac",
+            "text": "花庭園は、私が守る！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_thistle_battlebegin_001.aac",
+            "text": "はいはい、今回は絶対回り道はしないわ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_thistle_battlewin_001.aac",
+            "text": "これで、師匠も誇りに思ってくれるはず。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_thistle_battlelose_001.aac",
+            "text": "また花庭園に恥をかかせた……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_thistle_uniqueskill_001.aac",
+            "text": "ここで燃え尽きるわ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_thistle_dead_001.aac",
+            "text": "花庭園に……連れて帰って……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_thistle_greeting_001.aac",
+            "text": "師匠を探しに来たの？……えっ、私を？わ、私はあなたの助けになることなんてできないわよ。もちろん、私がしくじるのが怖くないなら、手伝ってあげてもいいけど。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_thistle_talk1_001.aac",
+            "text": "師匠の信頼をかすめ取ったからといって、私たち全員を服従させられると思わないことね！ずっと見張ってるから、気をつけなさい！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_thistle_talk1_002.aac",
+            "text": "ふーん、MBCCの局長は1日働いた後、レタスすら入ってないサンドイッチを食べるのね。不規則な食生活に偏った栄養。道理で痩せてるわけだわ……何を感動してるの？私があなたを心配してるとでも思った？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_thistle_talk1_003.aac",
+            "text": "師匠は言っていたわ。どんな花も、折られて、踏みにじられるために生まれてきたわけじゃないって。でも、自分のみっともない欲望のために、他人の人生を踏みにじって破壊しようとする人間は常にいる……そういう奴らが、炎に燃やされる感覚を味わうのは当然のことよ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_thistle_talk2_001.aac",
+            "text": "今度また商店街での任務があったら、早めに出発してね。 クレーンゲーム？いや、クレーンゲームが新しくなるのはもっとずっと先よ。そうじゃなくて、あなた任務で出かけるといつもチンピラにバカにされてるでしょ？次からスタッズ付きの上着を買って着るといいわよ。経験者の私が言うんだから、信じて。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_thistle_talk2_002.aac",
+            "text": "このページのフレームが可愛い？お母さんがデザインしてくれたものよ。手帳にはいいことしか書かないで、悪いことは風に任せて消してもらえばいいって言ってたわ……師匠がいなくなってから、見えるものが全部灰色になって、手帳に書くこともなくなったと思ってた。でも、また師匠が私に色を取り戻してくれたの……ああ、あなたもね。あなたも色を取り戻してくれた功労者よ。これで満足？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_thistle_talk2_003.aac",
+            "text": "1日中端末やファイルと向き合って疲れないの？少し息抜きしてもいいんじゃない？えっ、何をすればいいか分からない？街の散策はオススメよ。私もよくやってるわ。見て、揺れる花や木々、行き交う人の流れ、賑やかなお店を……うん、これが日常ってものよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_thistle_obeyfull_001.aac",
+            "text": "花庭園が安らげる場所をずっと探していたけど、まさかここに辿り着くなんてね……ゴホン！私が言いたいのは、花庭園が丸ごとここに引っ越してきたわけだし、私が花庭園と師匠を守る時、ついでにあなたも守ってあげられるってことよ。き、きっとあなたをしっかり守れば、師匠も喜んでくれるから……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_thistle_idle_001.aac",
+            "text": "やっと寝た……まったく、この人師匠にそっくりね。アドバイスなんて全然聞かないし、休まないし。せめて立ち止まって私たちを見て……あなたのことを心配してる人はたくさんいるのよ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_thistle_clicking_001.aac",
+            "text": "はぁ～？まさかトゲのある花を摘みたいの？それなら手を残す準備をしなさい！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_thistle_specialattention_001.aac",
+            "text": "何見てるのよ？私がいじめられっ子に見える？これ以上見るなら、その目玉がどうなるか分からないわよ！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_thistle_dispatch_001.aac",
+            "text": "私をパシる気？まあいいわ、問題ない。花庭園で練習したから！"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_thistle_dispatch2_001.aac",
+            "text": "あなたが欲しがってたものよ……あ、合ってるでしょ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_thistle_levelup_002.aac",
+            "text": "剣を100回振れば、その意味が分かる。"
+        }
+    ],
+    "oneiric_flexagon": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_thistle_huaxintianmeng_cacha_001.aac",
+            "text": "ふふん、驚いたでしょ。あなたへのサプライズプレゼントは庭付き妖精人形よ！ちょ、ちょっと！その目は何？開けたんだから、返品はできないわよ。ちゃんと受け取りなさい！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_thistle_huaxintianmeng_levelup_001.aac",
+            "text": "折り鶴ちゃんがまた手紙を届けに来てくれたわ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_thistle_huaxintianmeng_greeting_001.aac",
+            "text": "庭には……花が咲き乱れて……すくすく育って……空のように高く……うーん……そうすれば空まで飛べる……"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_thistle_huaxintianmeng_body_001.aac",
+            "text": "初めまして？ふん。あなたみたいな、人を本棚に押し込んで放っておくような忙しい人と違って、私は毎日あなたを見ていたわよ！窓を閉め忘れたことも、面倒くさがって掛け布団を畳まなかったことも、そういう恥ずかしいことを全部知ってるんだから！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_thistle_huaxintianmeng_body_002.aac",
+            "text": "ま、まぁ、あなたにもいいところはあるわよ！例えば……えーっと……例えば……そう！1日に7～8回も人形を着替えさせて、写真を撮った後そのままにするような巨人たちよりだいぶマシよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_thistle_huaxintianmeng_idle_001.aac",
+            "text": "……寒さに強く、暑さを恐れ、砂壌土を好む……この本いいわね。折り紙の花だけじゃなく、本物の花の植え方もすごく分かりやすく書かれてる！新しく植えた花をちゃんと育てられそうな気がするわ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_thistle_huaxintianmeng_clicking_001.aac",
+            "text": "1本の指で触れてくれるなんて、優しいじゃない……うん、あなたは確かにいい巨人だわ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_thistle_huaxintianmeng_specialattention_001.aac",
+            "text": "な、何でそんな目で私を見るの？着せ替えごっこがしたくなったわけじゃないわよね？"
+        }
+    ]
+}

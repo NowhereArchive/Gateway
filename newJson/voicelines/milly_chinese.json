@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_milly_cacha_001.aac",
+            "text": "呀，我、我还没有准备好呢！这里没有聚光灯，也没有美酒和鲜花，和我设想的都不一样。我可一直希望能跟你有最特别的相遇啊。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_milly_promotion_001.aac",
+            "text": "这样算是对我的一点点偏心吗？我好高兴。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_milly_promotion2_001.aac",
+            "text": "我希望你在我身边的时候，只需要感受美好，只记得品尝甜蜜，幸福欢悦，直到天明。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_milly_battlebegin_001.aac",
+            "text": "好了蜜莉，别紧张，在他面前好好表现！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_milly_battlewin_001.aac",
+            "text": "盛大落幕～局长，你喜欢这场演出吗？它有让你感受到幸福快乐吗~？"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_milly_battlelose_001.aac",
+            "text": "呜……别看，太丢脸了，我唯独不想在你面前失败……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_milly_uniqueskill_001.aac",
+            "text": "给你最真挚的爱～"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_milly_dead_001.aac",
+            "text": "我等的人……不会来了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_milly_greeting_001.aac",
+            "text": "甜蜜的拥抱已经准备好，你可以过来抱抱我吗？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_milly_talk1_001.aac",
+            "text": "我喜欢听别人的爱情故事，特别在夜晚，倾诉能酿成美好的蜜糖。能不能说说，你会爱什么样的人，又盼着什么样的人……来爱你呢？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_milly_talk1_002.aac",
+            "text": "别看大家口口声声地说自己不可能心动，不可能爱上别人，可谁知道呢？爱情就像命运，从来不是我们能控制的啊。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_milly_talk1_003.aac",
+            "text": "书上说“爱就是满心满眼都只有那一人。”真是这样，我的心就已经容不下其他人了……过来点嘛，让我看看你，看看你的眼中会映出谁的身影。你的眼中一定也只有唯一一人吧，对吧？ 只有一个吧？"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_milly_talk2_001.aac",
+            "text": "真爱就像包着玻璃纸的糖果，只有剥开外层，才能清晰看到里面的糖。可是有的人不愿意自己去剥，有的人剥开了却不承认自己喜欢，等到四下无人的时候再偷偷舔一口，却发现糖已经变质了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_milly_talk2_002.aac",
+            "text": "我听说，蜜蜂就算知道尾针会带出自己的五脏六腑，为了所爱之人，也会毫不犹豫地刺向敌人。感觉我能理解它们呢。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_milly_talk2_003.aac",
+            "text": "爱情是生命里最闪亮的光点，就像在最黑的夜里，见到一双星星一样的眼睛。只有它是闪亮的，只有它是温柔的，只要看着它，我就能找回继续奔跑的勇气。嘿嘿，别笑我傻嘛，我终于还是追上它了呀，现在我已经跟我的星星重逢了。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_milly_obeyfull_001.aac",
+            "text": "我喜欢你，不是因为你做了什么，而是因为你让我想变得更好。我知道我不像别人那样聪明或者完美，但我在努力，在和你一起跑向光明……也请你相信，所有我给的爱，都是真的。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_milly_idle_001.aac",
+            "text": "我很擅长等待的，也不是很难挨，独自一人一边等一边想……相信着迟早有一天，你会出现……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_milly_clicking_001.aac",
+            "text": "哈哈~我知道！这也是恋人之间经常玩的小游戏，对吗！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_milly_specialattention_001.aac",
+            "text": "原来与你四目相对是这种感觉……这个夜晚结束之前，请你一直这样看着我，好吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_milly_dispatch_001.aac",
+            "text": "好久没去岛外的世界了，我有点紧张……可以离你再近一些吗？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_milly_dispatch2_001.aac",
+            "text": "我听到了很多充满爱意的故事，还得到了很多小礼物……我想把它们都送给你……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_milly_levelup_002.aac",
+            "text": "你为我准备的礼物就是全世界最好的礼物。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_milly_head_001.aac",
+            "text": "你也喜欢这头金发吗？那太好了！很多人和你一样喜欢它，可是……他们都不像你这么温柔。"
+        }
+    ],
+    "timeless_silhouette": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_milly_liuguanghuaying_cacha_001.aac",
+            "text": "这就是东洲的照相馆吗？和我见过的那些完全不一样呢！最漂亮的衣服，最特别的拍摄～亲爱的，你一定会来支持我在狄斯的第一次亮相吧？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_milly_liuguanghuaying_levelup_001.aac",
+            "text": "再拍一张吧，就像你对我说的夸奖一样，永远不嫌多~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_milly_liuguanghuaying_greeting_001.aac",
+            "text": "欢迎光临蜜莉的私人片场～今天来探班的人好多，可我最期待的……果然还是你呀。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_milly_liuguanghuaying_head_001.aac",
+            "text": "嘿嘿，造型检查完毕～今晚，我会是你镜头里最耀眼的darling吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_milly_liuguanghuaying_body_001.aac",
+            "text": "你有没有试过，在无数闪光灯与镜头的注视下，眼睛却只追着一个人。嘿嘿，我经常这样……看着你呀！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_milly_liuguanghuaying_body_002.aac",
+            "text": "我喜欢相片，它能留下人最美的瞬间，这样即使相隔万里，恋人也能用它寄托一些思念……那个时候，我就是这样看着你，想着你……亲爱的，我不在时，你也会看着照片想念我吗？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_milly_liuguanghuaying_leg_001.aac",
+            "text": "好看吗？嘿嘿，她们说这裙子是从东洲带来的，那边的高人气明星都这么穿~！那……那穿上这条裙子，我是不是也能在你心里闪闪发光呢？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_milly_liuguanghuaying_background_001.aac",
+            "text": "这里的一切都像是从旧画报里走出来的呢。过去也有像我一样，守在电话旁的人吗？日日夜夜苦苦等待……只为某天能听到自己心上人的声音。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_milly_liuguanghuaying_idle_001.aac",
+            "text": "嗯……摆了好多姿势，好累呀……要是有个人能过来给我个拥抱就好啦~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_milly_liuguanghuaying_specialattention_001.aac",
+            "text": "别急~拍摄很快就结束了，接下来，就是留给我们两个的“私人时间”啦。"
+        }
+    ]
+}

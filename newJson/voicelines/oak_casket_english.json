@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_oak_cacha_001.aac",
+            "text": "I'd rather chat with you in the cemetery than in the interrogation room... you lie inside while I sit outside. I think our chat will be much better that way."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_oak_promotion_001.aac",
+            "text": "Shhh... I hear their whispers."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_oak_promotion2_001.aac",
+            "text": "Want to join... our tea party?"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_oak_battlebegin_001.aac",
+            "text": "Did you hear the bell tolling? The ceremony is about to begin."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_oak_battlewin_001.aac",
+            "text": "Don't worry, the elegy is already playing."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_oak_battlelose_001.aac",
+            "text": "It's okay, its not time for eternal sleep yet."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_oak_uniqueskill_001.aac",
+            "text": "Rest for eternity!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_oak_dead_001.aac",
+            "text": "Everyone... eventually ends up in an oaken casket..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_oak_greeting_001.aac",
+            "text": "Hello Chief. Let us both celebrate and mourn the fact that we are still alive today."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_oak_talk1_001.aac",
+            "text": "If you need a band... go find a musician named Dudu. Mention my name and maybe she'll give you a discount."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_oak_talk1_002.aac",
+            "text": "Syndicate needed a grand farewell to usher in another perfect rebirth."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_oak_talk1_003.aac",
+            "text": "Rest beneath the ground, glide with the wind, or drift along the tide? It doesn't really matter, my friend. They are just one necessary step to salvation."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_oak_talk2_001.aac",
+            "text": "Those who're inside caskets do not pine for the weeping of mourners. Their tears will only wash away the last of their traces and drown out their cries."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_oak_talk2_002.aac",
+            "text": "Only when there is an eternity of silence, the stupidity, boredom, and vileness of life will be changed into something intriguing... However, there is something different about you."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_oak_talk2_003.aac",
+            "text": "I cannot personally preside over my own funeral, but I will leave you my last word. Will you accept it?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_oak_obeyfull_001.aac",
+            "text": "You intrigue me more than the dead. Please forgive me for burdening you with my darkness, loneliness, and desperation... Even upon death, I will stay by your side."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_oak_idle_001.aac",
+            "text": "Pray? I don't do such... useless things."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_oak_clicking_001.aac",
+            "text": "Do you like me this much? Too bad I can't blow fragile bubbles inside my skull."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_oak_specialattention_001.aac",
+            "text": "What do you see through my eyes?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_oak_dispatch_001.aac",
+            "text": "Want to go for a walk in the cemetery with me?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_oak_dispatch2_001.aac",
+            "text": "Hmm, yes... I heard a lot of little secrets."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_oak_levelup_002.aac",
+            "text": "I can tell that you really need me."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_oak_head_001.aac",
+            "text": "Skulls typically hold the most information because human brains tend to think about their unsettled business upon death."
+        }
+    ],
+    "forest_of_enthrallment": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_oak_chenlunzhisen_cacha_001.aac",
+            "text": "Since the moment you stepped into the forest, you've belonged to me. I shall grant you eternal slumber. As for me, I will get everything I want."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_oak_chenlunzhisen_levelup_001.aac",
+            "text": "I shall give you riper fruit."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_oak_chenlunzhisen_greeting_001.aac",
+            "text": "Good, come and eat the fruit I offer you... You'll receive the sweetest salvation."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_oak_chenlunzhisen_head_001.aac",
+            "text": "The rainbow has seven colors, and God created the world in seven days. The seven gems on my crown allow me to hear discarnate whispers. If that's also what you want... come and try to snatch my crown."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_oak_chenlunzhisen_body_001.aac",
+            "text": "Someone once presented me with a magic mirror that speaks only the truth. Guess whose existence I discovered from its mouth?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_oak_chenlunzhisen_body_002.aac",
+            "text": "I'm not the ruler of this place. I simply provide lost travelers with a place to rest forever."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_oak_chenlunzhisen_leg_001.aac",
+            "text": "Snow covers tracks, apples arouse desires, and ebony safeguards secrets... What do you wish to decorate your resting place with?"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_oak_chenlunzhisen_hand_001.aac",
+            "text": "Close your eyes, and you shall see the boundless darkness of the forbidden forest... But fear not. Give me your hand, and I shall take you to where you ought to be."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_oak_chenlunzhisen_idle_001.aac",
+            "text": "This forest is not silent. After all, they have been talking to me from six feet under."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_oak_chenlunzhisen_specialattention_001.aac",
+            "text": "Since you're so curious about me... stay and become part of my collection."
+        }
+    ],
+    "sepulchral_ride": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_oak_heiyedezangyi_cacha_001.aac",
+            "text": "In the hush of mist beneath night's cloak, my coach carries souls where shadows spoke. From tomb to tomb my words consign, to lingering spirits death's design. When I check the reins, pronouncing your name, it's an elegy for your rest, forever professed."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_oak_heiyedezangyi_levelup_001.aac",
+            "text": "Even more woeful cries beckon to me..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_oak_heiyedezangyi_greeting_001.aac",
+            "text": "\"One would say that your gaze was veiled with mist; your mysterious eyes alternately tender, dreamy, cruel, reflect the indolence and pallor of the sky.\" This poem I heard from a revenant is rather perfect to depict this very moment between us, don't you think?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_oak_heiyedezangyi_body_001.aac",
+            "text": "Only those on their deathbed can hear my dirge and see my coach. Why have you, a living being, embarked on this funeral ride? Are you here to see me or... to witness death?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_oak_heiyedezangyi_body_002.aac",
+            "text": "Who will mourn for you, calling you back, when your soul is carried away in my coach? Upon hearing those distant laments, will you slip away from my embrace?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_oak_heiyedezangyi_idle_001.aac",
+            "text": "The crows flitting through the night sky and the spiders weaving in the depths of the forest, they are all my companions. Much like those lugubrious sobs deemed as ominous portents, their croaks and chirps are also harbingers of death."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_oak_heiyedezangyi_clicking_001.aac",
+            "text": "There was once a person who tapped on a skull in a similar tempo. Do you know what became of them? I readily obliged by taking them away."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_oak_heiyedezangyi_specialattention_001.aac",
+            "text": "Are you peeking at me? Be careful not to have those bright glass beads lashed away by my whip."
+        }
+    ]
+}

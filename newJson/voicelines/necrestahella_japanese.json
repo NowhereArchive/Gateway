@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_hellasp_cacha_001.aac",
+            "text": "ふふ、長いこと会ってなかったから、あたしが恋しかった？こっそり泣いたりした？はいはい、ただいま。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_hellasp_promotion_001.aac",
+            "text": "騒がしい魂たちが……静かになったみたい。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_hellasp_promotion2_001.aac",
+            "text": "あたしを深淵から引き上げてくれた人たちを絶対に裏切らない。彼らの意志を胸に、しっかり進んでいく！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_hellasp_battlebegin_001.aac",
+            "text": "後ろにいて。今回はあたしが、あんたたちを守る番だから。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_hellasp_battlewin_001.aac",
+            "text": "これくらい、どうってことないわよ。楽勝、楽勝！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_hellasp_battlelose_001.aac",
+            "text": "次は絶対、あいつらボコボコにしてやる！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_hellasp_uniqueskill_001.aac",
+            "text": "あいつら叩き潰すよ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_hellasp_dead_001.aac",
+            "text": "みんなを……守らなきゃ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hellasp_greeting_001.aac",
+            "text": "幽霊の囁きが聞こえる……彼らはあたしの周りを彷徨いながらこう言ってるよ……「親愛なる局長、いつになったらヘラに新しいお小遣いをくれるの？」"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_hellasp_talk1_001.aac",
+            "text": "本当はこの旅であんたたちにいっぱい手紙を書いて、いっぱいお土産を買ってたんだけど、全部なくなっちゃった……え？借用書？何のことか全然分かんないな～あははは……"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_hellasp_talk1_002.aac",
+            "text": "パイプはなくなっちゃったけど、今は新しい装備と武器がある。速くて、遠くまで殴れるけど、ちょっとコントロールが難しいんだよね——これで、もうあたしの攻撃範囲が狭いなんて言わせないから！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_hellasp_talk1_003.aac",
+            "text": "身体の傷？ああ、痛くないわよ。もう慣れたから。それに、みんなよく言うじゃん。「傷跡は勇気の勲章」って。これで、あたしにも自分の勲章ができたってことよ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_hellasp_talk2_001.aac",
+            "text": "あのクソブラックリングと戦ってる時、色んな夢を見たの。あんたや、ヘカテーや、ナインちゃん、他にもたくさんの人たちがいた。みんなが「怖がらないで、諦めないで、戻ってくるのをずっと待ってる」って言ってくれたんだ……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_hellasp_talk2_002.aac",
+            "text": "外で超すごい人たちをいっぱい見たんだ。彼らはすごく強くて、解決できない問題に直面しても絶対退かなかった。苦しんだり悲しんだりしても涙を拭いて、正面から立ち向かうの！これこそ本当の強さよね……あたしももっと腕を磨かないと！"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_hellasp_talk2_003.aac",
+            "text": "実は、戦うのってあんまり好きじゃないんだよね。喧嘩も痛いのも嫌い。でも、あんたたちが傷ついてるのをただ見てる方がもっと嫌。あたしには、もう十分力がある。今度はあたしが、あんたたちの前に立つ番よ！"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_hellasp_obeyfull_001.aac",
+            "text": "お金も手に入れたし、友達もできた。最初の願いはもう全部叶った気がする。でも、あたしは欲張りだから、もっと冒険してたくさんの友達と出会いたいし、もっと強くなってこれからはみんなを守りたい！もちろん、実現するのは難しいと思うけど、あたしは怖くない。だって……あんたたちがずーっと傍にいてくれるからね～"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hellasp_idle_001.aac",
+            "text": "やっぱり帰ってくるとすぐ眠くなるなぁ……ダメダメ、早くみんなを呼んで来て。まだあたしの伝説的な冒険を話してないんだから！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hellasp_clicking_001.aac",
+            "text": "ちょっと、こんなに時間が経ったのに、その悪い癖まだ治ってないわけ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hellasp_specialattention_001.aac",
+            "text": "はいはい、きっとあたしに超～会いたかったんでしょ。ほら、今回はタダでじっくり見せてあげる。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hellasp_dispatch_001.aac",
+            "text": "早く早く！新しい技を見せてあげる！"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_hellasp_dispatch2_001.aac",
+            "text": "完璧に終了！どう？前よりずっと上手くなったでしょ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hellasp_levelup_002.aac",
+            "text": "そんなに優しくしてくれるの？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hellasp_head_001.aac",
+            "text": "研究所の奴らは、これは取り除けない汚染結晶みたいなものって言ってたけど、触ってもあんまり感じないんだよね——ひゃっ！ちょっと刺されちゃった。"
+        }
+    ]
+}

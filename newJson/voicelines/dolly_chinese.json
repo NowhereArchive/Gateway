@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_duoli_cacha_001.aac",
+            "text": "又被你们抓住了啊。好吧，那我还是继续去把那些死役的头当棒球打吧，毕竟我现在的样子拜他们所赐。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_duoli_promotion_001.aac",
+            "text": "更强的力量……要是能控制住它就好了。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_duoli_promotion2_001.aac",
+            "text": "已经变得这么强了？要是在新城球场时，我能有这么厉害就好了呀。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_duoli_battlebegin_001.aac",
+            "text": "哦~这是界外区域么？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_duoli_battlewin_001.aac",
+            "text": "比触击还简单。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_duoli_battlelose_001.aac",
+            "text": "可恶！被触杀了……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_duoli_uniqueskill_001.aac",
+            "text": "本——垒——打——！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_duoli_dead_001.aac",
+            "text": "力量……再强……又如何——！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_duoli_greeting_001.aac",
+            "text": "什么时候能轮到我上场啊？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_duoli_talk1_001.aac",
+            "text": "可以多准备一些备用棒球棍么，采购办的那几根完全不够用，甚至连一场战斗都撑不过。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_duoli_talk1_002.aac",
+            "text": "诶，这不是我当时伪造的新城身份么！咳……当时为了参赛，没办法才这样的嘛。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_duoli_talk1_003.aac",
+            "text": "我很难控制情绪，如果你发现我的情绪特别亢奋，或者特别低落……一定要和我保持距离，要是你被打飞的话，别怪我没警告过你。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_duoli_talk2_001.aac",
+            "text": "你不觉得棒球棍的击球声特别好听么？对吧？当初我就是听到这声音，才对棒球有了兴趣。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_duoli_talk2_002.aac",
+            "text": "新城的任务我可以不参加么？哎呀，不是害怕，就是单纯对那里没什么好感……当然，要是完成任务之后，顺便能看“新城棒球联盟”的比赛。前面的话就当我没说过。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_duoli_talk2_003.aac",
+            "text": "明天有辛迪加队的棒球比赛，你要一起来看直播么？如果看不懂的话，我可以临时当一下解说。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_duoli_obeyfull_001.aac",
+            "text": "如果可以的话，真的好想和那些强队过过招啊……不过现在有你在，我应该能控制住力量。咳，要不哪天我们去棒球场试试？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_duoli_idle_001.aac",
+            "text": "啊——你可以让采购办给我带几张这次棒球联赛的海报么？不打……不打也可以收藏的嘛！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_duoli_clicking_001.aac",
+            "text": "喂！不是说好了要保持距离的么！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_duoli_specialattention_001.aac",
+            "text": "眼神不错，像顶尖击球手全神贯注的样子。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_duoli_dispatch_001.aac",
+            "text": "开始跑垒咯！"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_duoli_dispatch2_001.aac",
+            "text": "跑垒得分！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_duoli_levelup_002.aac",
+            "text": "……我已经够强了。"
+        }
+    ],
+    "sunset_swing": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_duoli_riluohuiji_cacha_001.aac",
+            "text": "局长，这里就是我练球的秘密基地。怎么样，很不错吧！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_duoli_riluohuiji_levelup_001.aac",
+            "text": "不错的一击！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_duoli_riluohuiji_greeting_001.aac",
+            "text": "我说这些麻雀一直在叽叽喳喳得闹什么呢，原来是你来啦！哼哼，我就知道你也会喜欢这里的。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_duoli_riluohuiji_body_001.aac",
+            "text": "这个地方很大，就算用十足的力气打也不会出界伤到外面的人。对了……关于我在这里练习的事，局长会帮我保密的吧？嘿嘿，作为交换，你可以随时过来休息。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_duoli_riluohuiji_body_002.aac",
+            "text": "我这里没什么规矩。只要别被打到，累了就坐下来看看天，看看麻雀，渴了就去工厂里找个自动售货机……不过它们都没法运行了，上次我练球的时候砸坏了一个，里面好像还剩几罐汽水，要不……？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_duoli_riluohuiji_idle_001.aac",
+            "text": "数麻雀可以放松心情……一只……两只……三只麻雀在哈……哈啾！啊，现在一只都没有了……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_duoli_riluohuiji_clicking_001.aac",
+            "text": "干嘛？这是我新发明的击球姿势，打起死役来会更省力，不信你也试试!"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_duoli_riluohuiji_specialattention_001.aac",
+            "text": "看，这里的景色很美对吧？每天练到筋疲力尽，擦干汗吹着晚风抬头看看夕阳，总会觉得特别开心。别光看我呀！太阳快要不见了！"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_zephyr_cacha_001.aac",
+            "text": "禁闭者信息登记表？那是什么？哦那张纸啊，好像刚才不知道干嘛的时候顺手拿来用了——哎呀随便啦，局长咱们又不是不认识，别搞得那么正经嘛。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_zephyr_promotion_001.aac",
+            "text": "我现在的状态好得能倒着开五公里飞机！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_zephyr_promotion2_001.aac",
+            "text": "如果能再次飞上万米高空，我开着飞机带你一路狂飙怎么样？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_zephyr_battlebegin_001.aac",
+            "text": "三、二、一！泽斐尔号，起飞！咻——"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_zephyr_battlewin_001.aac",
+            "text": "好耶！今晚庆功宴开起来！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_zephyr_battlelose_001.aac",
+            "text": "别垂头丧气的嘛，又不是没机会了。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_zephyr_uniqueskill_001.aac",
+            "text": "敌方塔台干扰成功！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_zephyr_dead_001.aac",
+            "text": "Mayday……Mayday……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zephyr_greeting_001.aac",
+            "text": "嗨局长，今天要不要出去玩！要干嘛？不知道哇，哎呀出去了再说！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_zephyr_talk1_001.aac",
+            "text": "“喂喂——喂喂——能听得到吗——”哎局长，你说我能连上隔壁FAC的内部广播吗？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_zephyr_talk1_002.aac",
+            "text": "为什么禁止我朝办公室飞纸飞机，在繁忙的工作里以这种绝妙的方式收到留言不会很惊喜吗！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_zephyr_talk1_003.aac",
+            "text": "每个人都会在酒馆里因为不同事情喝得烂醉。这比他们在那里装正经的时候好玩多了，大家一起疯才有意思~"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_zephyr_talk2_001.aac",
+            "text": "我不后悔成为飞行员，别人觉得我因此遇上坠机，但我只记得自由的高空；同样，我也不后悔跟你来了MBCC，朋友说我会失去自由，但他们不知道我在这里能看见很多外面没有的风景。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_zephyr_talk2_002.aac",
+            "text": "总有无聊的人指责我，说我是倒霉又短视的人，日子还过得乱七八糟。哼！我的生活只要我能爽到就好了。今天快乐完说不定明天就会有怪兽来把整个城市轰成平地。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_zephyr_talk2_003.aac",
+            "text": "可能不会再有下一场高空之约了，但我会永远记住那个——我们穿过云层，大声宣泄着内心的情绪，最后在狄斯的万米高空，俯瞰整座城市的瞬间。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_zephyr_obeyfull_001.aac",
+            "text": "如果我的能力可以和你一起拥抱新的冒险，那短暂地为了你留在管理局好像也能够接受。但答应我，等到你的那些什么崇高的理想实现后，我们就瞒着所有人私奔。我带你去看高处的风景，好不好。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zephyr_idle_001.aac",
+            "text": "嗨局长，我已经坐上了出去玩的飞机，留个言跟你说一声，别太想我哈！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_zephyr_clicking_001.aac",
+            "text": "无聊啦？走呗！出去玩？！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zephyr_specialattention_001.aac",
+            "text": "我设置了一个专属的频道，只要接收到局长想找我的信号，我就会开着飞机，穿过云层来到你的身旁~"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_zephyr_dispatch_001.aac",
+            "text": "啊……你说我在你眼皮子底下溜走的成功几率高吗？这个工作看起来好没意思。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_zephyr_dispatch2_001.aac",
+            "text": "搞定！我去外面喝两杯再回来，别太想我了哈！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zephyr_levelup_002.aac",
+            "text": "咦？这是什么？有意思！再来再来！"
+        }
+    ]
+}

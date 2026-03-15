@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_hilda_cacha_001.aac",
+            "text": "承蒙关照，对我来说，不过是从一个牢笼转移到了另一个牢笼。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_hilda_promotion_001.aac",
+            "text": "如果是你的要求，我可以接受。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_hilda_promotion2_001.aac",
+            "text": "……这样，不就死不掉了吗。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_hilda_battlebegin_001.aac",
+            "text": "我会完成任务的。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_hilda_battlewin_001.aac",
+            "text": "不断解开谜题，不断取得胜利。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_hilda_battlelose_001.aac",
+            "text": "有内鬼，行动取消。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_hilda_uniqueskill_001.aac",
+            "text": "为你揭露真理。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_hilda_dead_001.aac",
+            "text": "这是约定好的……死亡。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hilda_greeting_001.aac",
+            "text": "今天没有那么忙，所以有空来见我吗？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_hilda_talk1_001.aac",
+            "text": "我的城邦已经灭亡了，而我为什么要继续活下去？你能给我答案吗？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_hilda_talk1_002.aac",
+            "text": "我能看到那些空中飘摇的电波，被铭记成每一个时代的墓志铭。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_hilda_talk1_003.aac",
+            "text": "小的时候，我曾经跟朋友说过，“一起建设正确的国家吧”，那时大家都在笑，很傻很天真，我们都还有理想，对未来充满希望。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_hilda_talk2_001.aac",
+            "text": "就算你这样盯着我看，我也不会告诉你的，那是我最深的……秘密……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_hilda_talk2_002.aac",
+            "text": "我是旧时代最固执的亡灵，如果没有你的帮助，恐怕永远都无法习惯这个全新的世界。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_hilda_talk2_003.aac",
+            "text": "我怀念那个矢车菊摇曳的故乡，放学后，我们就会漫步在晨星照耀的田埂之上，眺望着地平线，就像眺望着遥远的未来。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_hilda_obeyfull_001.aac",
+            "text": "不知不觉已经相处了那么久……局长，我依旧很想去死，但我答应你，不是现在。到了那个时候，我希望能由你……亲自剖开我的大脑，我的记忆。让我的思想和秘密毫无保留、赤裸地暴露在你面前，让我将自己的全部，交给你。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hilda_idle_001.aac",
+            "text": "我在黑暗中做了一个很长很长的梦……直到有人敲击玻璃，把我叫醒……从那时起，真正的密码就不在电波里，而在那雨水敲打玻璃的梦境中。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hilda_clicking_001.aac",
+            "text": "我不习惯这样被人触碰……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hilda_specialattention_001.aac",
+            "text": "风、云、雨、雪——这些都是自然写下的密码，解开它们，就能解答世界。眼神，脉搏，呼吸，心跳……这些则是人身上的密码，解开它们，就能了解一个人。是的，我在看你，我在……尝试了解你。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hilda_dispatch_001.aac",
+            "text": "情报收集是特工的基础能力……交给我吧。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_hilda_dispatch2_001.aac",
+            "text": "这些应该够了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hilda_levelup_002.aac",
+            "text": "有必要……在我身上花费这么多吗？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_hilda_head_001.aac",
+            "text": "秘密就应该消逝在风里，就像雨消失在水中。"
+        }
+    ]
+}

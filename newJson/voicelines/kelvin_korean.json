@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_dina_cacha_001.aac",
+            "text": "만약 가능하다면, 부엌에 있고 싶어요. 냉동창고는 필수! …아, 죄송해요! 당신을 난감하게 하려는 건 아니었어요, 이상한 짓은 절대 하지 않겠다고 약속할게요."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_dina_promotion_001.aac",
+            "text": "하… 아까 그 느낌, 그게 바로 절대영도라는 걸까?"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_dina_promotion2_001.aac",
+            "text": "이제부터 요리에서든 전투에서든… 난 절대 나 자신을 의심하지 않을 거예요."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_dina_battlebegin_001.aac",
+            "text": "저보다 더 적임자가 있지 않을까요…?"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_dina_battlewin_001.aac",
+            "text": "살았다…! 이건 다 여러분들 덕분이에요."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_dina_battlelose_001.aac",
+            "text": "난 언제나 일을 망치는 것 같아…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_dina_uniqueskill_001.aac",
+            "text": "다가오지 마세요!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_dina_dead_001.aac",
+            "text": "추워…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_dina_greeting_001.aac",
+            "text": "국장님, 오늘은 좀 더운 것 같아서, 제가 새로운 맛의 빙수를 만들어보았어요! 드셔보시겠어요? 실망하지 않을 거예요!"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_dina_talk1_001.aac",
+            "text": "국장님, 국장님! 어떤 채소가 가장 시력이 나쁜지 아세요?… 정답은… '다 똑같다'입니다! 왜냐하면 채소는 눈이 없거든요! … 하하핫… 하하… 하… 죄송해요, 전 역시 안 되나 봐요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_dina_talk1_002.aac",
+            "text": "전 뜨거운 요리의 맛을 느끼지 못하지만, 요리사가 되는 게 꿈이에요. 죄… 송해요, 제가 많이 이상해 보이죠?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_dina_talk1_003.aac",
+            "text": "블루리본 요리사 아카데미는 가장 유명한 요리 학원으로, 모든 학생이 미래의 유명한 스타 셰프가 될 수 있답니다. 저만 빼고요… 전 3년째 유급되어서 졸업장도 못 받았어요…"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_dina_talk2_001.aac",
+            "text": "시험에 합격하기 위해, 그리고 여러분의 인정을 받기 위해, 저는 그동안 유일하게 나와 함께해 준 요리를 배신하고, '정상'적인 음식을 배웠어요. 제 입에는 아무런 맛도 느껴지지 않는 그런 음식들요… 그 후 저는 졸업장을 받았지만, 더 소중한 것을 잃었어요."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_dina_talk2_002.aac",
+            "text": "모두가 제 요리를 좋아하지 않는다는 것을 알고 있어요. 하지만 저온 요리도 그만의 독특한 맛이 있어서, 포기하고 싶지 않아요!"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_dina_talk2_003.aac",
+            "text": "'다르다'라는 것은 매우 무서운 일이에요. 모두가 달다고 하면 당신도 달게 느껴야 하고, 모두가 시다고 하면 당신도 시다고 느껴야 해요. 그렇지 않으면… 그저 '괴짜'로 치부돼 버리니까요…"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_dina_obeyfull_001.aac",
+            "text": "고마워요, 국장님. 제가 하고 싶은 요리를 하게 해주시고, 또 제 얘기가 많이 썰렁할 텐데도 이야기 나눠주셔서… 앞으로 국장님의 요구라면, 뭐든 들어드릴게요. 약속해요!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_dina_idle_001.aac",
+            "text": "여긴 이미 내가 필요 없는 것 같은데… 음… 주방에 가봐도 될까? 그래, 보고만 오는 거야!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_dina_clicking_001.aac",
+            "text": "헉! 구… 국장님… 너무 뜨거워요…"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_dina_specialattention_001.aac",
+            "text": "국장님, 저 감시하러 오신 건가요?! 앗… 죄송해요, 저… 몰래 냉장고를 사용하지 않을게요… 정말로요."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_dina_dispatch_001.aac",
+            "text": "저기… 돌아가는 길에 식재료를 좀 사도 될까요…?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_dina_dispatch2_001.aac",
+            "text": "죄송해요, 국장님. 저… 더위 먹은 것 같아요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_dina_levelup_002.aac",
+            "text": "…음?! 맛이 약간 느껴지는 것 같아요!"
+        }
+    ],
+    "chilling_hideaway": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_dina_bishushengdi_cacha_001.aac",
+            "text": "후… 시원하다… 앗! 구, 구, 국장님! 여… 여긴 언제! 죄, 죄송해요! 저 여기 조금만 더 있어도 돼요…? 냉장고는 이따가 잘 정리해 놓을게요!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_dina_bishushengdi_levelup_001.aac",
+            "text": "이러면 온도가 좀 낮아지겠죠…?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_dina_bishushengdi_greeting_001.aac",
+            "text": "국장님 한번 들어와 보실래요? 여긴 블루리본 요리사 아카데미의 냉장고와 다르게 엄청 춥지도 않고, 딱 적당한 온도예요!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_dina_bishushengdi_talk1_001.aac",
+            "text": "저 이러고 있는 거 사람들이 보면 저의 '괴짜' 레벨이 또 올라가겠죠? 어때요…? 괜찮다고요? 헤헤… 그럼 다행이에요…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_dina_bishushengdi_talk1_002.aac",
+            "text": "좋은 생각이 났어요! 이따가 수영장에 놀러 갈 때, 여기 있는 과일로 빙수 해서 먹어요, 시원한 거 먹으면 더위가 싹 가실 거예요!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_dina_bishushengdi_idle_001.aac",
+            "text": "어느 날 딸기 맛 아이스크림이 초코 맛 아이스크림과 수영 시합을 했어요. 한 번 알아맞혀 보세요, 누가 먼저 결승점에 도착했을까요? 정답은 아무도 도착하지 못했다예요, 둘 다 바닷물에 녹아 버렸거든요! 죄, 죄송해요… 저는 날씨가 너무 더워서 그냥 한 번… 억지로 웃으실 필요 없어요!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_dina_bishushengdi_clicking_001.aac",
+            "text": "와! 국장님 손 진짜 차갑네요, 평소랑 느낌이 달라요! 뭔가… 액체질소의 냉각 효과보다 훨씬 더 좋은 것 같아요! 네? 이게 바로… 족쇄의 힘인가요? 진짜 신기해요!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_dina_bishushengdi_specialattention_001.aac",
+            "text": "일부러 옷을 가볍게 입었는데, 아무래도 여기 온도를 과소평가했나 봐요, 이러다가 정말… 증발해 버리겠어요…"
+        }
+    ]
+}

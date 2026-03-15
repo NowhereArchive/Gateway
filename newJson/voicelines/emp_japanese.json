@@ -1,0 +1,198 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_aimiliya_cacha_001.aac",
+            "text": "こ、このEMPを誰だと思ってる！？シ……シンジケートの無冠の王、マフィア抗争では弓の死神と讃えられてるんだぞ！コホン、暴力はやめよう。話し合おう。なんでも言うことを聞くから。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_aimiliya_promotion_001.aac",
+            "text": "前にも言ったけど、EMPは最強なんだ。こら！話を聞け！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_aimiliya_promotion2_001.aac",
+            "text": "EMP進化——究極EMP！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_aimiliya_battlebegin_001.aac",
+            "text": "局長……どうぞお先に。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_aimiliya_battlewin_001.aac",
+            "text": "ふん。無敵なEMPのおかげだな。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_aimiliya_battlelose_001.aac",
+            "text": "こんなのEMPの実力じゃない。ちょっとしくじっただけだ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_aimiliya_uniqueskill_001.aac",
+            "text": "悪く……思うなよ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_aimiliya_dead_001.aac",
+            "text": "局長……早くなんとかして……。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_aimiliya_greeting_001.aac",
+            "text": "あれ？局長じゃないか。今日は何して遊ぶ？トランプ？ダイス？マージャン？え、やらないのか？けち臭いこと言うなよ。つまんないだろ？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_aimiliya_talk1_001.aac",
+            "text": "局長！一緒にシンジケートに行ってみないか？　安心しろ。このEMPがついてるんだ。誰も手出しなんてしてこないぜ！あ、そうだ！管理局の車を出してくれ！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_aimiliya_talk1_002.aac",
+            "text": "局長、借金取りみたいなやつがEMPを探していたら……いないって言ってくれ！あいつらに見つかるくらいなら、死んだほうがましだ！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_aimiliya_talk1_003.aac",
+            "text": "あー、ボス。その棚にあるマンガ取ってくんない？違うよ、それじゃない……ま、まあまあ！どうぞ座って。自分でやるから。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_aimiliya_talk2_001.aac",
+            "text": "停電？そういえばそんなこともあったような……一人でシンジケートを一週間も停電させたんだ。どうだ？すごいだろう？すごいよな？なんか返事してくれよ……。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_aimiliya_talk2_002.aac",
+            "text": "EMPは弱いし、お喋りだし、うるさいし、実力もないから嫌われやすいんだ。こんなやつ、お前も頭が痛いだろ。ははは……ありがとう……。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_aimiliya_talk2_003.aac",
+            "text": "しー！静かに！弓の練習してるところなんだ！あっ……いつか絶対能力を使わなくても目標に命中させてやる！"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_aimiliya_obeyfull_001.aac",
+            "text": "実は……その、EMPの前の名前なんだけど、Emy.Panって言うんだよな……ああ、なんでもない。その……お会いできて良かったです、局長。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_aimiliya_idle_001.aac",
+            "text": "局長——局長——局長かまってよお！話し相手がいないと……死んじゃう！マジで！マジだから！ねえ局長——"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_aimiliya_clicking_001.aac",
+            "text": "ああ——！嘘だろ局長！私みたいなやつでもいけるんだ？勘弁してええ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_aimiliya_specialattention_001.aac",
+            "text": "おお、EMPのことをちゃんと覚えてたな、局長。それなら話をしよう。一人で退屈で死にそうなんだ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_aimiliya_dispatch_001.aac",
+            "text": "このEMPは自意識過剰なやつを否定してやることを楽しみの一つとしている……いやいや、冗談だよ冗談。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_aimiliya_dispatch2_001.aac",
+            "text": "EMP、堂々帰還！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_aimiliya_levelup_002.aac",
+            "text": "これでもう戦闘力は5じゃないよな。"
+        }
+    ],
+    "backstreet_overlord": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_aimiliya_houjiebazhu_cacha_001.aac",
+            "text": "暗黒街の無冠の王に会った最初の反応が、「逃げる」ではなく「近づいてくる」人間はなかなかいない。このEMP、お前を気に入った。名を名乗れ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_aimiliya_houjiebazhu_greeting_001.aac",
+            "text": "なあ、この辺をブラブラしてみないか。ほらー安心しろ。このシンジケートでEMPに喧嘩を売るやつなんていないぜ。それで、だな…お前が前を歩いてくれ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_aimiliya_houjiebazhu_talk1_001.aac",
+            "text": "えっと…お前の言う「ミノス危機管理局」ってのは、普段どんな仕事をしてるんだ？え、何でもない何でもない……緊張すんなよ。EMPはただボスとして、子分の職務遂行能力を知りたいだけさ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_aimiliya_houjiebazhu_talk1_002.aac",
+            "text": "この辺りの騒ぎは全部片づけたぜ！今の唯一の楽しみと言えば、騙しと……いや、お前みたいな有能な人材を育てることだ！このEMPを見て学べよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_aimiliya_houjiebazhu_idle_001.aac",
+            "text": "あの子を見ただろ？今後は彼女のことを、「二番目の姉御」と呼べ。コホン、まだ生まれて数ヶ月ほどだが、我がマフィアグループの創始者の一人だ！無礼を働くなよ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_aimiliya_houjiebazhu_clicking_001.aac",
+            "text": "てめえ……来て早々、下剋上するつもりか！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_aimiliya_houjiebazhu_specialattention_001.aac",
+            "text": "あの鉄パイプ持ったチビ、最近あんま見ないな。この前あいつに一発殴られたとこ、まだ治ってない……今度会ったら、たっぷり可愛がってやるぜ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_aimiliya_houjiebazhu_levelup_002.aac",
+            "text": "どこに行く？……西区！？ゴホッ……ゲフゲフ、ああ——むせただけだ、問題ない……だがお前……考え直さないか？あそこは軍団の勢力圏内だぞ。"
+        }
+    ],
+    "hail_from_the_otaku_world": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_aimiliya_qihang_cacha_001.aac",
+            "text": "汝、我の秘密を知ったからには、永遠に我と共にここに居よ……おい、何ぼーっとしてんだよ。ここは「魔王よ、夢を見るのはやめろ！たとえ心臓を捧げることになっても、お前の思い通りにはさせないぞ！」って言うところだろ～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_aimiliya_qihang_levelup_002.aac",
+            "text": "ふふん、この輝く魔法陣が見えるか? EMPはヘタレじゃない。そして強くなったんだ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_aimiliya_qihang_greeting_001.aac",
+            "text": "ちょうどよかった、EMPの大本命作品を見てくれ。どうだ？コマ割りもストーリーも迫力あるだろ！ ん？前回勧められた大本命作品はこれじゃない？えっと……マンガオタクなら誰でもやるミスだ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_aimiliya_qihang_body_001.aac",
+            "text": "どうだ、このマンガに溢れた部屋は。EMPが自分のために築いた王国だぞ！絶版本もいっぱいあるし、この宝物のおかげでEMPは同好会で好きに……ゴホン、つまり泰山北斗の地位を手に入れたんだ！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_aimiliya_qihang_body_002.aac",
+            "text": "どうしてもって言うなら、貸してあげないこともないぞ。でも3つ約束してくれ。1つ目、折り込みページは汚さないこと。2つ目、他の人には貸さないこと。3つ目、今度EMPが特典付き単行本を買うために並びに行く時、休みを承認すること。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_aimiliya_qihang_idle_001.aac",
+            "text": "……またこいつネタバレしてる。何度通報しても無駄だな、このゴミ掲示板！ううう……！待ってろ、このサーバーはもうすぐ消える！悪く思うなよ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_aimiliya_qihang_clicking_001.aac",
+            "text": "安易に触らないことが冒険の第一のルールだ。このまま無謀な行動を続ければ、EMPの装備に封印されし結界が発動して……ふふん、大変なことになるぞ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_aimiliya_qihang_specialattention_001.aac",
+            "text": "ケチなわけじゃないけど、これはカラー版限定のランダム特典で、売れない商品を2個も一緒に買ってやっと手に入れたんだよ。絶対に部外者には渡さないって誓ったんだ！"
+        }
+    ]
+}

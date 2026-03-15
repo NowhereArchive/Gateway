@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_xiayin_cacha_001.aac",
+            "text": "위기관리국의 기술이 좀 후진 것 같은데요, 국장님, 이런 시설로 날 가둘 수 있을 거라 생각해요? 시스템 업그레이드 한 번 하시죠, 제가 손쉽게 도와줄 수 있어요."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_xiayin_promotion_001.aac",
+            "text": "영·웅·등·장! Hey… 어때요? 오래전부터 이 명대사를 해보고 싶었다고요."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_xiayin_promotion2_001.aac",
+            "text": "제어기 중추 연결 완료, 여름이 Ready, 암흑의 세상을 구원하러 출동!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_xiayin_battlebegin_001.aac",
+            "text": "그런 곳에 가면 치마가 더러워질 거라고요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_xiayin_battlewin_001.aac",
+            "text": "악은 결국 패배할 거야. 음… 이 대사도 나쁘지 않네."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_xiayin_battlelose_001.aac",
+            "text": "힝… 링무기의 파라미터 설정 문제일 거야, 한 번 더 해보자!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_xiayin_uniqueskill_001.aac",
+            "text": "전 구역 락업, 에어리어 클리어!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_xiayin_dead_001.aac",
+            "text": "힝… 난 아직… 졸업 안 했는데…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_xiayin_greeting_001.aac",
+            "text": "Hi~국장님, 안 계실 때 새로운 아이디어를 생각해 냈어요…혹시 좀 더 쓰기 편한 팔이나 다리로 바꿔볼 생각 있으세요? 혹은…뇌를 강화한다던가?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_xiayin_talk1_001.aac",
+            "text": "잘 보세요, 이건 링·무·기예요, 괴·변·무·기가 아니라, 본질적으로 달라요. 정말, 제가 어떻게 그런 싸구려를 만들겠어요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_xiayin_talk1_002.aac",
+            "text": "천재 과학자는 대량의 당을 보충함으로써 그녀의 사고를 유지할 수 있다고 해요, 초콜릿이야말로 최고의 선택이죠. 게다가 그건 여고생과 최고 조합이기도 하죠. 그러니까, 국장님… 제 구매 청구서에 사인해 주실 거죠? 국장님께도 나눠드릴게요!"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_xiayin_talk1_003.aac",
+            "text": "머신의 외형이 좀 못생겼을 뿐! 일반 통용 기계랑은 전혀 달라요! 더 얘기하면 화낼 거예요, 모형에게 사과하세요!"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_xiayin_talk2_001.aac",
+            "text": "친구요? 필요 없는데요, 누가 여고생은 꼭 친구가 있어야 한대요? '캠퍼스 내 천재 괴물 메카닉 신비 미소녀'라는 설정이 훨씬 더 재미있어 보이지 않아요?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_xiayin_talk2_002.aac",
+            "text": "여기는 링 연구소랑 비교하면 천국이죠! 방도 내 맘대로 꾸밀 수 있고, 시간도 자유롭게 배분할 수 있고요, 제일 중요한 건 아무 때나 애니메이션을 볼 수 있다는 거예요!"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_xiayin_talk2_003.aac",
+            "text": "직접 출전하는 건 정말 귀찮아요, 내 치마도 여러 번 더러워졌었단 말이에요. 하지만, 국장님이 요청하는 거라면… 도와드려야죠, 대신 하루 정도 저의 실험체가 돼 주어야 해요."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_xiayin_obeyfull_001.aac",
+            "text": "내가 포착했는데 몇몇 순간에 국장님이 제법 영웅다운 느낌이 있어요… 어때요? 머신 기사에 도전해 보실래요? 이미 설계 방향도 다 생각해 두었다고요!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_xiayin_idle_001.aac",
+            "text": "오늘의 운동 스타트! 후~~~~후~~~~~OK！완벽한 복식 호흡이었어, 목표 달성, 아이스크림 먹으러 가야지~"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_xiayin_clicking_001.aac",
+            "text": "나~~ 운동하기~~~ 싫어~~! 하루만 게으름 피우게 놔두라고~~~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_xiayin_specialattention_001.aac",
+            "text": "저한테 관심 있으세요? 히힛, 저도 가까이서 당신을 관찰하고 싶어요."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_xiayin_dispatch_001.aac",
+            "text": "에휴… 심부름 가야 하는 거야？"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_xiayin_dispatch2_001.aac",
+            "text": "아하… 아하… 링무기가 아니었다면… 나 힘들어 죽었을 거야…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_xiayin_levelup_002.aac",
+            "text": "당 보충!"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_xiayin_head_001.aac",
+            "text": "응? 왜요? 아까 설명한 내용을 이해 못 하셨나요? 아이고… 국장님이라면 몇 번이고 설명해드릴 수 있죠."
+        }
+    ],
+    "desert_delusions": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_xiayin_kuangshayixiang_cacha_001.aac",
+            "text": "'내 보물을 원해? 그럼 화이트 샌드로 와라!' 헤헤, 어때요?! 여기서 이 대사가 특히 딱이지 않아요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_xiayin_kuangshayixiang_levelup_001.aac",
+            "text": "장치 시퀀스 최적화!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_xiayin_kuangshayixiang_greeting_001.aac",
+            "text": "갈고리의 쥐는 힘은 합격인데… 일단 국장님에게 시험해봐야겠다! 켁… 구…굿모닝 국장님! 가…같이 실험… 아니, 화이트 샌드 탐험하러 갈래요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_xiayin_kuangshayixiang_head_001.aac",
+            "text": "오오? 이거 해보고 싶어요? 후훗, 보아하니 국장님도 이 여름이가 '특별 제작한 원통 샌드 캡'의 매력을 이겨낼 수가 없군요~"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_xiayin_kuangshayixiang_body_001.aac",
+            "text": "보물을 찾는 여정에서 의식감은 당연히 가장 중요한 것 아닌가요!… 이렇게 많이 입어도 하나도 안 덥거든요? 설마 옷 안에 있는 쿨링 모듈 30개의 성능을 무시하는 거예요?!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_xiayin_kuangshayixiang_body_002.aac",
+            "text": "초콜릿~ 초콜릿~ 에엣? 없다고? …이렇게 빨리 소모하다니! 에휴, 이럴 줄 알았으면 몇 박스 더 가지고 올걸."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_xiayin_kuangshayixiang_hand_001.aac",
+            "text": "만약 당신의 머리 위에 프로펠러를 장착하고, 태양열 건전지와 방향 조절 시스템을 설치해서, 어튬어레이터까지 하나 더 넣으면… 당신은 나의 드론을 대신할 화이트 샌드 최고의 스마트 정찰기가 될 수 있어요! 어때요, 한 번 해볼까요?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_xiayin_kuangshayixiang_background_001.aac",
+            "text": "아… 조금만 쉴래요… 아까 모래배의 동력 시스템을 싹 한 번 검사했더니 너무 피곤해서 꼼짝도 못 하겠어요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_xiayin_kuangshayixiang_idle_001.aac",
+            "text": "와우… 엄청난 모래바람이네!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_xiayin_kuangshayixiang_specialattention_001.aac",
+            "text": "잉? 국장님이잖아? 보아하니… 국장님도 화이트 샌드에 묻혀있는 보물을 찾으러 온 거구만?"
+        }
+    ],
+    "luminous_night": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_xiayin_xiayeshanguang_cacha_001.aac",
+            "text": "링 물질 발동기 압력 정상. 전자 설비, 내비게이션 시스템 정상. 외부 기체 손상 없음. 공중전 강화형 링무기, Summer 1호 출발!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_xiayin_xiayeshanguang_levelup_001.aac",
+            "text": "맑고 푸른 하늘을 위해!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_xiayin_xiayeshanguang_greeting_001.aac",
+            "text": "국장님, 어때요? 하늘을 훨훨 나는 느낌, 너무 신나지 않아요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_xiayin_xiayeshanguang_head_001.aac",
+            "text": "링 연구소에 있을 때부터 이런 걸 해보고 싶었어요! 자꾸 예산이 모자라네 어쩌네 하는 늙은이들보다는 역시 국장님이 더 좋아요!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_xiayin_xiayeshanguang_body_001.aac",
+            "text": "와우우~ 상태가 엄청 좋아요! 이대로라면 근처에 있는 학교의 졸업 파티에 늦지 않게 도착할 수 있겠어요!"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_xiayin_xiayeshanguang_body_002.aac",
+            "text": "음… 메시지가 왔네? 비행 높이에 주의하세요. 장비가 망가지지 않도록 주의하세요? 에이… 나에 대한 기본적인 믿음도 없는 거야?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_xiayin_xiayeshanguang_leg_001.aac",
+            "text": "비행 전 준비 운동은 당연한 거 아니겠어요? 윗몸 일으키기를 2번이나 했다고요!"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_xiayin_xiayeshanguang_arm_001.aac",
+            "text": "방호복이 너무 얇다고요? 헤헤, 맞지 않으면 어떻다 할 것도 없죠!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_xiayin_xiayeshanguang_idle_001.aac",
+            "text": "음… 우주에 다녀온 씨앗이 커다란 열매를 맺는다면, 하늘에 올라간 코코아도 좀 더 달지 않을까요, 국장님? 헤헤~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_xiayin_xiayeshanguang_specialattention_001.aac",
+            "text": "아이고 국장님, 긴장하실 거 없어요! 국장님의 몸에는 16개의 스마트 비행 모듈이 장착되어 있는걸요? 하늘 위에서 잠을 잘 수도 있어요!"
+        }
+    ]
+}

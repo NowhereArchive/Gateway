@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_olivier_cacha_001.aac",
+            "text": "コ、コンビクトなんて知らないのに……ううぅ、僕小さな子どもなんだよ？みんなでいじめないでよぉ……。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_olivier_promotion_001.aac",
+            "text": "これはいい子にしかもらえないご褒美、でしょ？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_olivier_promotion2_001.aac",
+            "text": "誰をぬいぐるみにしたい？オリバーがやってあげる！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_olivier_battlebegin_001.aac",
+            "text": "局長、オリバーのこと……ちゃんと守ってねぇ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_olivier_battlewin_001.aac",
+            "text": "えぇー！？ちょっと手を振っただけなのに、なんでこの人たち動かなくなっちゃったんだろぉ？"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_olivier_battlelose_001.aac",
+            "text": "わ——すごいね、この僕の支配に抵抗するなんてさ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_olivier_uniqueskill_001.aac",
+            "text": "ぬいぐるみたち、大人しくしててね！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_olivier_dead_001.aac",
+            "text": "おかしいな……体の感覚がないみたい……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_olivier_greeting_001_01.aac",
+            "text": "局長のお兄ちゃん～お兄ちゃん～お兄ちゃん！オリバーにこう呼ばれるの、好きでしょ？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_olivier_talk1_001.aac",
+            "text": "体の傷……？こ、これはオリバーが勝手に転んじゃっただけ！管理局のみ、みんなはいい人だし、優しくしてくれてるよ……"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_olivier_talk1_002.aac",
+            "text": "あの人たちの言うことは聞かないで。オリバーは可愛くていい子なんだから、人をいじめたりなんかしないもん。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_olivier_talk1_003_01.aac",
+            "text": "お兄ちゃ～ん、あの人たち、オリバーを外に出してくれないの……だ、脱獄？脱獄ってなに？分からないよ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_olivier_talk2_001.aac",
+            "text": "シンジケートの「野良の子」たちがうらやましいな。自分たちだけであんな危険なところで生きていけるんだもの。オリバーは、局長から離れたら何もできないな～"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_olivier_talk2_002.aac",
+            "text": "見てみて。このぬいぐるみ、オリバーみたいにかわいいでしょ？でもね……この子の心は悪い人に壊されちゃったから、どんなに頑張っても治らないの……ねぇ局長、僕を助けてくれない？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_olivier_talk2_003.aac",
+            "text": "局長をぬいぐるみにすれば、ずっと一緒にいられるんじゃないか……ん？ふふ、今のは本気だよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_olivier_obeyfull_001.aac",
+            "text": "もし、たくさん悪いことをした子供がいてね、その子がもう反省してるとしたら、局長はその子のこと、嫌いになる？……オリバー、嫌われたくないな。特にきみには。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_olivier_idle_001.aac",
+            "text": "またオリバーのことを「いい子」じゃないって言う嫌なやつがいる。どーしよっかなぁ……うん、局長が留守の間に、あいつら処分しちゃおう。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_olivier_clicking_001.aac",
+            "text": "ねぇ、死にたいの？……ハハッ、びっくりした？さっきのは冗談だよ。僕の演技、うまいでしょ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_olivier_specialattention_001.aac",
+            "text": "オリバーのことをじっと見つめてどうしたの？ダメだよ、大きくなったらって、約束したでしょ……？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_olivier_dispatch_001.aac",
+            "text": "こういう力仕事は大人に任せてよ。オリバーは、ず～っと局長の傍にいたいのにぃ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_olivier_dispatch2_001.aac",
+            "text": "局長のために、こーんなに頑張ってるのに、褒めてくれないの？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_olivier_levelup_002.aac",
+            "text": "局長の一番はやっぱりオリバーだよね！"
+        }
+    ],
+    "haloed_refrain": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_olivier_shiyuyuyin_cacha_001.aac",
+            "text": "オリバーはきっと、歌でみんなの罪を洗い流して、心を清められるよ～みんなは感謝の気持ちでいっぱいのいい子羊、幸せな子羊になるんだ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_olivier_shiyuyuyin_levelup_001.aac",
+            "text": "白い鳩まで、オリバーが歌う賛美歌が好きなんだ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_olivier_shiyuyuyin_greeting_001.aac",
+            "text": "局長は、オリバーが舞台に出るって聞いてわざわざ来てくれたの？心配しないで。今回はオリバーと同じくらいお行儀がよくて可愛い聖歌隊のメンバーを演じるんだ。局長もきっと気に入ってくれると思う！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_olivier_shiyuyuyin_body_001.aac",
+            "text": "オリバーがこの役をやりたいってワガママ言ったんじゃないよ。あの人たちが、オリバーにこの役がふさわしすぎるって思ってくれたんだ。お兄ちゃんお姉ちゃんたちを困らせたりできないでしょ？だからオッケーしたんだ！どう？オリバーっていい子だよね？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_olivier_shiyuyuyin_body_002.aac",
+            "text": "「あの人について行こう、あの人がどこへ行こうと～あの人とずっと一緒にいよう、誰にも止められない～」えへへ、上手でしょ！局長を思い浮かべながら演じたから、みんなオリバーの感情豊かな演技を褒めてくれたんだ～"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_olivier_shiyuyuyin_idle_001.aac",
+            "text": "さっきのきみたちの飛び方だけど、あんまり綺麗に曲がれてなかったよ。もう一度やってみて。オリバーの最高の登場にも関係してるんだからさ。きみたちはいい子だから、僕の登場をぶち壊したりしないよね～"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_olivier_shiyuyuyin_clicking_001.aac",
+            "text": "あ～なんで局長はオリバーのリボンをそんなに引っ張るの……もしかして局長って「気に入ったらいじめる」小学生タイプ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_olivier_shiyuyuyin_specialattention_001.aac",
+            "text": "1分、2分……局長、オリバーをずっと見つめてるのは、オリバーの演技をずっと楽しみたいからなんでしょ～"
+        }
+    ]
+}

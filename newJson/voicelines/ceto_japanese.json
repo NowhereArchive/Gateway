@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_ceto_cacha_001.aac",
+            "text": "新鮮だな。オレを嵐から引きずり出したのは、次の戦場に放り込むためか？……いいだろう。新しい上官であるあんたに、最後まで生き残る力があるかどうか見てやる。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_ceto_promotion_001.aac",
+            "text": "しぶとい命と冷酷な心がなきゃ、黒潮では生き残れない。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_ceto_promotion2_001.aac",
+            "text": "オレは最後の灯台守。オレの立つ場所こそ、灯台の最終防衛線だ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_ceto_battlebegin_001.aac",
+            "text": "覚悟しておけ。嵐の後の海が一番汚い。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_ceto_battlewin_001.aac",
+            "text": "チッ、こんな雑魚に刃を向ける価値があるのか？"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_ceto_battlelose_001.aac",
+            "text": "あの化け物ども、運が良かったな。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_ceto_uniqueskill_001.aac",
+            "text": "嵐だ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_ceto_dead_001.aac",
+            "text": "引き潮だ……ようやく、あいつらの元へ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_ceto_greeting_001.aac",
+            "text": "足音であんただと分かった。ここはカモメも寄り付かない場所だ。近づくのは死をも恐れぬ狂人だけ……あんたもその一人だな。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_ceto_talk1_001.aac",
+            "text": "黒潮での生活の方がここよりよっぽど楽だった。シフトも交代もなく、昼は休んで夜は命を賭ける。「一日」も「一年」も、灯台守には同じことだ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_ceto_talk1_002.aac",
+            "text": "カセットテープも海の景色も消耗品じゃない。少し分けてやろう。礼なんかいらないさ。オレは気前がいいからな。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_ceto_talk1_003.aac",
+            "text": "波の音を聞いてればリズムが分かる。呼吸のようでいて、カウントダウンのようでもある……波のリズムが狂った時、怪物が上陸するんだ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_ceto_talk2_001.aac",
+            "text": "生死も寒暑も、オレにとってはただの数値とリスクレベルにすぎない。あんたはいつもくだらねぇ軍務に「人情」をねじ込もうとして、オレの生活をかき乱しやがる……チッ、まあいい。どうせもう乱されてることだしな。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_ceto_talk2_002.aac",
+            "text": "島で風と波が最も荒れる時、怪物は西の崖から押し寄せてくる。オレはそこを守ってたんだが、踏み出すたびに泥か骨にぶつかった。そして最後には、足元にあるのが敵か味方か、昨日の自分か明日の自分かも分からなくなったんだ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_ceto_talk2_003.aac",
+            "text": "灯台に関しては自分が一番詳しいと思ってた。あんたは、ただの迷い込んできた厄介者だと思っていたんだ……でも今なら分かる。あんたの方が、本当の灯台を知ってるのかもしれないってな。あんたはビーコンを見つけたが、オレはまだ道半ばだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_ceto_obeyfull_001.aac",
+            "text": "戦友のネームプレートは今でも持ち歩いてる。まるで、自分がまだ灯台守の一員であるかのように思えるんだ。オレのネームプレートは……7番灯台の頂上に置いておく。オレがいなくなったら、あんたが取りに来い。これは形見じゃない。引き継ぎだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_ceto_idle_001.aac",
+            "text": "静かに一人で楽しむことが、孤島で生き抜く第一歩だ。おめでとう、ようやく覚えたな。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_ceto_clicking_001.aac",
+            "text": "寒いなら、自分でストーブ探せ。まだ寄り添って暖を取るほどじゃねぇ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_ceto_specialattention_001.aac",
+            "text": "一緒にいたいだって？構わないが、そこに突っ立ってぼんやりするな。海風は暇人を養わないぞ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_ceto_dispatch_001.aac",
+            "text": "うるせぇな。何を持って行くべきかは分かってる。飢えさせたりしねぇよ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_ceto_dispatch2_001.aac",
+            "text": "補給が届いた。当分は持つだろ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_ceto_levelup_002.aac",
+            "text": "この刀は血にまみれることに慣れてる。オレも同じだ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_ceto_head_001.aac",
+            "text": "腕がいらねぇなら、そう言え。"
+        }
+    ]
+}

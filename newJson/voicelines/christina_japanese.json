@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_christina_cacha_001.aac",
+            "text": "ふむ……MBCCの局長は、ブラックリングを破壊し、死瞳を撃退し、正義の心を持っている……エッヘン！決めた。君には、このクリスティナの相棒になってもらおう！あたしたちが力を合わせれば、ディスシティの重大犯罪をいっぱい解決できるはず！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_christina_promotion_001.aac",
+            "text": "「真実を明らかにしよう！私は、ニューシティの刑事代理——クリスティナだ！」どう？名刑事っぽい？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_christina_promotion2_001.aac",
+            "text": "「真実と向き合う勇気があってこそ、正義への扉が開かれる」。ついに、この言葉を実践できるんだ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_christina_battlebegin_001.aac",
+            "text": "えーっと……ああ！最初のステップは何をするんだっけ……捜査ノートになんて書いてあったかな……"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_christina_battlewin_001.aac",
+            "text": "不可能を全て排除して残ったものが、どれだけ受け入れられなくても、それが真実なのだよ！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_christina_battlelose_001.aac",
+            "text": "相棒よ、落ち込むことはない！正義への道はまだ長い。私はずっとそばにいるぞ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_christina_uniqueskill_001.aac",
+            "text": "真実こそ、力だ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_christina_dead_001.aac",
+            "text": "ごめん……できなかった……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_christina_greeting_001.aac",
+            "text": "相棒よ、ちょうどいいタイミングで来たな！えっと……管理局に絆創膏って余ってる？もしあるなら、ついでに貼ってくれない？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_christina_talk1_001.aac",
+            "text": "ああ……今月も修理費がこんなに。あ、あたしわざとじゃなかったんだよ……全部、何者かが証拠集めを妨害してたせいなの！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_christina_talk1_002.aac",
+            "text": "管理局のコンビクト訓練室のドアが壊れて開かない？しかもエアコンまで効かないの？中にいる人が暑さで死んじゃうよ……ゴホン！これはクローズドサークル系密室殺人事件に違いない！このクリスティナが必ず真実を見つけ出そう！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_christina_talk1_003.aac",
+            "text": "いつも電子機器で記録してたら目が悪くなるよ！何も見えなくなっても知らないから！ほら、あたしの捜査ノートとペン。これからは、これで記録しなよ！"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_christina_talk2_001.aac",
+            "text": "前に治安局でカッコいい刑事を見たんだよね。みんなから「デュークのオッサン」って呼ばれてたんだ！……なんで笑ってるの？彼は……昔はそんな感じじゃなかった？そ、それなら本当に調査する価値がありそうだね……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_christina_talk2_002.aac",
+            "text": "相棒、もし君が妹に一回も「お兄ちゃん」って呼ばれたことがなかったらどうする？……プライドを捨てて頼むべきか、それとも……手紙を書いて謝る……とか？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_christina_talk2_003.aac",
+            "text": "昔、君みたいにあたしの悩みを聞いて、全部受け入れて……人生の方向まで示してくれた人がいたんだ。あたしの一番大切な人……だった。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_christina_obeyfull_001.aac",
+            "text": "ここまで一緒に歩んできてくれてありがとう、相棒。正義への道は困難と障害に満ちてるけど、その先にある光のために自分の全てを捧げなきゃいけない。それでも、一緒にいてくれる？あはは、さすがだね。だったら手を繋いで、前に進もう！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_christina_idle_001.aac",
+            "text": "う～ん、あたしの直感は正しかった——親愛なる相棒よ、エアコンの効いた執務室に籠るより、この刑事と共に事件を解決しに行こうではないか！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_christina_clicking_001.aac",
+            "text": "捜査ノートを重く作ったのは……君みたいな奴のためだ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_christina_specialattention_001.aac",
+            "text": "親愛なる相棒よ、私のフル装備の捜査道具がうらやましいか？このミニボイスチェンジャーやエアピストルを試してみたいかね？ふふん、 これを扱うにはコツがいるから、教えてあげよう～！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_christina_dispatch_001.aac",
+            "text": "えっ？新しい事件！？手伝う、手伝う！"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_christina_dispatch2_001.aac",
+            "text": "刑事代理・クリスティナ、破壊し……じゃなく……事件を解決しました！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_christina_levelup_002.aac",
+            "text": "また正義に一歩近づいた！"
+        }
+    ],
+    "sunrise_express": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_christina_kuaichechenlv_cacha_001.aac",
+            "text": "相棒！こっちこっち、あたしはここだよ！ね、寝坊なんてしてないから！とにかく間に合ったでしょ！早く！早く引き上げて！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_christina_kuaichechenlv_levelup_001.aac",
+            "text": "席をアップグレードしてくれたの？それなら次の捜査場所は……VIP車両だね！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_christina_kuaichechenlv_greeting_001.aac",
+            "text": "相棒、来たんだ！君もこの車両に怪しい人がいると思ってる？ゴホン、良い心がけだ。旅行中でも油断はできないぞ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_christina_kuaichechenlv_body_001.aac",
+            "text": "列車は殺人事件がよく起こる場所だよね。あの事件知ってる？えーっと……始まりと終わりは忘れちゃったけど、誰もが犯人になり得るってやつ！今回、そういう事件に遭遇するかな？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_christina_kuaichechenlv_body_002.aac",
+            "text": "ねえねえ、あそこにいる髭のおじさんすごく怪しいよ……振り向かないで！……なんか、卵の食べ方が変だもん。もしかして、卵に何か仕掛けてるとか……え？名探偵はそういう食べ方をするの？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_christina_kuaichechenlv_idle_001.aac",
+            "text": "事件が起こらないと退屈だな……この列車に乗ってる人、みんないい人に見えるよ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_christina_kuaichechenlv_clicking_001.aac",
+            "text": "こらこら、遊んでないで早く手を貸して！あたしのスーツケースが倒れちゃう！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_christina_kuaichechenlv_specialattention_001.aac",
+            "text": "相棒、見て！太陽が谷から昇ってきたよ。すごく綺麗だね！目を離せないでしょ？じゃあ、こっちに来て！へへ、心配しなくていいよ。あたしは名探偵だから、絶対に君を落としたりしない！"
+        }
+    ]
+}

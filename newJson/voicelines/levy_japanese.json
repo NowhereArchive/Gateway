@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_levy_cacha_001.aac",
+            "text": "おい、何をする？俺は真っ当なビジネスマンだ。やめろ、殴るんじゃねぇ！弁護士呼ぶぞ！……弁護士なんて来ないことくらいわかってるよ。ユーモアねぇな……"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_levy_promotion_001.aac",
+            "text": "強くなること自体は楽しくねぇが、強くなった後には楽しみがあるな。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_levy_promotion2_001.aac",
+            "text": "アンタ、なんでそんなに俺に良くしてくれんだ？まさか俺の身体目的か！？だったら気をつけな。俺は飽きたらすぐにアンタから離れる。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_levy_battlebegin_001.aac",
+            "text": "ハッ。アンタの命で、俺から何が買えると思う？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_levy_battlewin_001.aac",
+            "text": "結構儲けたな。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_levy_battlelose_001.aac",
+            "text": "損したぜ。もう二度と来ねぇから。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_levy_uniqueskill_001.aac",
+            "text": "アンタの全ては俺のもんだ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_levy_dead_001.aac",
+            "text": "これはこれで……いいか……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_levy_greeting_001.aac",
+            "text": "よぉ、出かける許可はいつ下りんだ？そろそろビジネスやらねぇと、工場が潰れちまう……まあ、アンタが俺のビジネス相手になってくれるならそれでもいいけど。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_levy_talk1_001.aac",
+            "text": "ビジネスをしたけりゃ、友人作りからだ。楽しいことを一緒にすればいい。十分楽しめれば、契約なんてすぐだぜ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_levy_talk1_002.aac",
+            "text": "金を持つと、ハエがたかってくる。だが、そいつらと戯れるのも意外に楽しいもんだぜ。だろ？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_levy_talk1_003.aac",
+            "text": "画家の友人が、スタイルがいいからって俺をキャンバス扱いしやがった……「ボディペインティング」って知ってるか？アートなのかあれは？クレンジングですぐ落ちはしたが……ま、友人が喜んでくれれば何よりだ。いつか10年分の絵の具を注文してくれるかもしれないしな……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_levy_talk2_001.aac",
+            "text": "俺が帰れないせいで、うちの工場は赤字続きだ。局長、補償してくれるんだろうな？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_levy_talk2_002.aac",
+            "text": "強欲は罪じゃないと思うぜ。欲しい物を手に入れたら満足する。物事が思い通りに進めば嬉しい。これは人の本質だろ？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_levy_talk2_003.aac",
+            "text": "ビジネスにおいて、金の話は一番退屈だ。断れない条件を突きつけて相手の絶望する顔を拝み、大切な物を奪い取る。これこそが一番の楽しみだな。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_levy_obeyfull_001.aac",
+            "text": "ずっと思っていた。アンタの心の底にある欲望は、一体なんだ？俺はアンタから何を奪えば絶望の表情を見られる……？だが、もう諦めた。アンタは俺と同じだと気づいたからな。心の奥底には何もない。あるのは深い闇だけ……ははっ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_levy_idle_001.aac",
+            "text": "ここに来てから、全然ビジネスしてねぇよな！？まずいぜ……明日、フェイちゃんを当たってみるか。心の綺麗な彼女なら、黙って見過ごさねぇだろ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_levy_clicking_001.aac",
+            "text": "毎度あり、一回200ディスコイン……冗談だ、そこまでケチじゃねぇよ。この契約書にサインしてくれたら、今後いつでも触っていいぜ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_levy_specialattention_001.aac",
+            "text": "ビジネスの話か？ちょっと待ってくれ、ライブ配信見てんだ。へへへっ、この子、いいな。「投げ銭」でも送るか……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_levy_dispatch_001.aac",
+            "text": "ちょうどそっちに知り合いがいる。そいつに任せよう。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_levy_dispatch2_001.aac",
+            "text": "「もしもし？終わったか？よし、よくやった！」——局長、無事完了したぜ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_levy_levelup_002.aac",
+            "text": "金、払わなくていいのか？マジで？"
+        }
+    ],
+    "twilight_thrills": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_levy_xunchangye_cacha_001.aac",
+            "text": "いい車に、美味い食い物、そして美女……ああ、それと理由のない嫉妬！これがニューシティの金持ちのありふれた夜遊びだ。どうだ？アンタに体験させるためにわざわざ連れてきてやったんだから、楽しんでってくれよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_levy_xunchangye_levelup_001.aac",
+            "text": "チッ、つまんねぇな。練習相手をもっと探さねぇと。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_levy_xunchangye_greeting_001.aac",
+            "text": "トイレ長かったな。吐いてたのか？まぁ、大したことじゃない。ほら、行くぞ。まだまだ遊ぼうぜ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_levy_xunchangye_talk_001.aac",
+            "text": "心配すんなって。店の半分は俺の持ち物だ。今は思いっきり楽しんで、最後の後始末は俺に任せろ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_levy_xunchangye_talk_002.aac",
+            "text": "ふぅー、俺が遊びに行くと、いつも台無しにする奴が湧いてくるな。上手く「歓迎」してやらねぇと、俺がへっぽこ野郎だと思われちまう。アンタは引っ込んでな。無駄に筋肉つけてるわけじゃねぇんだ。かかってこい！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_levy_xunchangye_idle_001.aac",
+            "text": "ウェイター、おかわり！ウェイター……ウェイター！！まーだ気絶してんのかよ、じゃあいいわ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_levy_xunchangye_clicking_001.aac",
+            "text": "へぇ、アンタ……こんな大胆な奴だったのか。普段からは想像もつかねぇな。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_levy_xunchangye_specialattention_001.aac",
+            "text": "ストレスが溜まったら、遊ぶための時間が必要だ。おい、なんで俺見てんだよ？遊べ！仕事とかコンビクトとかは忘れろ。何があっても全部明日に回せ。今夜は俺のおごりだ、思いきり楽しもうぜ！"
+        }
+    ]
+}

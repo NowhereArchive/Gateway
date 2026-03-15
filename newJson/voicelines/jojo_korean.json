@@ -1,0 +1,89 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_weather_cacha_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_weather_promotion_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_weather_promotion2_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_weather_battlebegin_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_weather_battlewin_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_weather_battlelose_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_weather_uniqueskill_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_weather_dead_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_weather_greeting_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_weather_talk2_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_weather_talk2_002.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_weather_talk2_003.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_weather_obeyfull_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_weather_idle_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_weather_clicking_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_weather_specialattention_001.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_weather_levelup_002.aac",
+            "text": "쿠죠 죠린 콜라보 폐기"
+        }
+    ]
+}

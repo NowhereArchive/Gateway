@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_adela_cacha_001.aac",
+            "text": "またお会いしましたね、局長。今回は髪のカットですか？それとも、悩みのカットでしょうか？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_adela_promotion_001.aac",
+            "text": "あなたに認められることが、私にとっての最大のご褒美です。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_adela_promotion2_001.aac",
+            "text": "霧が立ち込め、濃霧に潜む者は既に獲物を狙っています。しーっ、振り向かないでください。それがあなたを見つめていますよ……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_adela_battlebegin_001.aac",
+            "text": "ああ……霧が出そうだわ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_adela_battlewin_001.aac",
+            "text": "サービスは終了しました。またのご来店をお待ちしています。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_adela_battlelose_001.aac",
+            "text": "わたしのサービスにご満足いただけませんでしたか？"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_adela_uniqueskill_001.aac",
+            "text": "しーっ……見つけた。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_adela_dead_001.aac",
+            "text": "まだここで終わるわけには……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_adela_greeting_001.aac",
+            "text": "いらっしゃいませ。ここはお店ではありませんが、お客様のご要望を伺います。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_adela_talk1_001.aac",
+            "text": "ここにいらっしゃるお客様は、皆さん言葉では言い尽くせないほどの悩みをお持ちです。そしてわたしは、その悩みを断つ過程を楽しんでいます。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_adela_talk1_002.aac",
+            "text": "誰かが言っていました。悩みの象徴である髪を切り落とすと、憂いから解き放たれた境地に達すると……気分転換に、いつでもいらしてくださいね。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_adela_talk1_003.aac",
+            "text": "わたしのハサミを研いでくださるのに、人の悩みは切らせてくださらない……局長、あなたのお考えをどう受け止めればいいのでしょうか？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_adela_talk2_001.aac",
+            "text": "怖がらないでください。大抵の人は悩んでいた記憶を思い出すことなく、ただの夢だと思うでしょう……霧が晴れれば、夢も終わります。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_adela_talk2_002.aac",
+            "text": "皆さん理容師のアデラを愛してくださるのに、霧の奥の怪談は恐れています。もしサービス自体が悩みになってしまったら、お客様に全てを忘れていただくしかありませんね。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_adela_talk2_003.aac",
+            "text": "あなたも煙霧街伝説の正体が気になりますか？人の煩悩を断ち切ってくれる善人か、破壊と切断を楽しむ変人か。もしくは……その両方なのかもしれません。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_adela_obeyfull_001.aac",
+            "text": "人は常に悩みや過去の記憶に縛られ、負荷に耐えられず息ができなくなる。ですが、考えてもみませんでした。その束縛を断ち切れば、もう心臓が高鳴ることもないのだと——あなたに出会って、やっと鼓動を取り戻すことができました。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_adela_idle_001.aac",
+            "text": "長い間使っていないハサミは、錆びてしまいます。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_adela_clicking_001.aac",
+            "text": "あら？何か特別な悩みを持っていそうですね。動かないでください。カットしてさしあげます……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_adela_specialattention_001.aac",
+            "text": "「ずっと傍にいてほしい」ということでよろしいですか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_adela_dispatch_001.aac",
+            "text": "お役に立てて、光栄です。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_adela_dispatch2_001.aac",
+            "text": "あなたのために力を尽くしました。今回の収穫に満足していただけましたか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_adela_levelup_002.aac",
+            "text": "ありがとうございます。どうやって恩返しをすればいいでしょう？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_adela_head_001.aac",
+            "text": "わたしの髪型がお気に召しました？ニューシティで最も流行っている髪型なんです。同じスタイルにするには……髪を伸ばすところから始めないといけませんね。"
+        }
+    ],
+    "candlelit_turret": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_adela_talouzhuguang_cacha_001.aac",
+            "text": "わたしに会うために塔を登ってきてくださって光栄です。ようこそ、殿下。今回は、もう少し長く留まっていただけると嬉しいです……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_adela_talouzhuguang_levelup_001.aac",
+            "text": "塔の頂上の蝋燭が、もっと明るくなったようです。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_adela_talouzhuguang_greeting_001.aac",
+            "text": "髪が風でボサボサですよ……さぁ、ここに座ってください。髪を整え、疲れや緊張をほぐしてあげましょう。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_adela_talouzhuguang_head_001.aac",
+            "text": "塔の蔵書で読んだことがあります。人の心を奪いたければ、自分と相手の髪を結べばいいと……殿下がこうしてわたしの髪を撫でるのは、わたしの心を奪おうとしているからですか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_adela_talouzhuguang_body_001.aac",
+            "text": "外界の騒ぎは、あなたの髪をやつれさせ、乱し、悩みを増やすだけです。できることなら、あなたの悩みを全て断ち切り、その髪が伸びてわたしの髪と絡み合うまで大切にお世話したいと思っています……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_adela_talouzhuguang_body_002.aac",
+            "text": "塔まで訪ねてくる人たちは、わたしの助けを必要としています。いつもここで、悩みを抱える人たちのために蝋燭を灯しながら皆さんを待っているんです。でも、あなただけは違う……わたしに何か別のものを求めているようですね？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_adela_talouzhuguang_hand_001.aac",
+            "text": "時々、殿下のように外から訪ねてくる人たちを羨ましく思います……わたしの髪はこの塔に出入りする唯一の道なので、このように伸ばし続けなければならなかったのです。重なった網のように、自分自身を閉じ込めて。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_adela_talouzhuguang_background_001.aac",
+            "text": "揺らめく蝋燭の炎、心を落ち着かせるお香、塔の頂上での時間はいつもとても平和で穏やかで、喧騒から切り離された夢のようです。この全てにすっかり慣れていたので、何かを変えようと思ったことはありませんでした……あなたが現れるまでは。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_adela_talouzhuguang_idle_001.aac",
+            "text": "殿下、また窓の外を見てぼんやりしていますね。外の世界はそんなに面白いのですか？この話を始めると、止まらなくなるようですね……もしあなたが望んでくださるなら、わたしも一緒に……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_adela_talouzhuguang_specialattention_001.aac",
+            "text": "あなたの眼差しは誠実さに満ちています。もし、一緒にここを去ることがあなたの望みなら、わたしは必ずそれに応えます……ただ、その時が来るまでは、ここにしばらく留まって、歩みを緩め、緊張を解きほぐしてください。"
+        }
+    ],
+    "woodland_wanderer": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_adela_linzhongke_cacha_001.aac",
+            "text": "あなたの悩みは、既にあなたを導く使者の瞳に映っています……悩める魂は霧に焼かれてしまうでしょう。パーティーが始まる前に、どうかその煩わしい記憶を断ち切らせてください。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_adela_linzhongke_levelup_001.aac",
+            "text": "もっと高く、もっと遠くへ飛んで。悩みに溺れる人々を導くために。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_adela_linzhongke_greeting_001.aac",
+            "text": "こちらへ。髪に落ちた葉を払って差し上げます……ゆっくりでいいですよ。パーティーはまだ始まっていませんから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_adela_linzhongke_body_001.aac",
+            "text": "怖がらないでください。ツバメトビはわたしの目であり、わたしの仲間なのです。その尾羽はハサミのように暗い迷霧を断ち切ってあなたを導き、パーティーの幕を切り裂いて、あなたをわたしの元へ連れてきてくれるのです。わたしたちが出会えるように……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_adela_linzhongke_body_002.aac",
+            "text": "パーティーの鐘の音が鳴ろうとしていますが、会場へと続く道にまた煩わしい枝が増えてしまいました。あなたには、広くて綺麗で思う存分走り回れる道が必要でしょう。どうか、あなたの傍でこの道を整えるお手伝いをさせてください。喜んでお役に立ちます。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_adela_linzhongke_idle_001.aac",
+            "text": "しーっ……静かに。獲物は必ず、自ら光と闇の境界に足を踏み入れるものよ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_adela_linzhongke_clicking_001.aac",
+            "text": "ツバメトビの羽は柔らかいですが、その爪はハサミのように鋭いのです。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_adela_linzhongke_specialattention_001.aac",
+            "text": "素敵な衣装でのご出席、ありがとうございます。腕を組んで入場する前に、最後にもう一度あなたの髪を整えさせてください。"
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_eleven_cacha_001.aac",
+            "text": "深夜3時のご挨拶を申し上げます。光のない夜にあてもなく探し回るあなたは、私に何か言いたいことがあるのですか？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_eleven_promotion_001.aac",
+            "text": "真夜中の鐘が鳴ったね。さぁ、私の傍にいて……"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_eleven_promotion2_001.aac",
+            "text": "あなたが私に与えてくれた全てを使って、あなたを縛る檻を作り上げる……！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_eleven_battlebegin_001.aac",
+            "text": "電話が鳴ってるよ、ダーリン。今、あなたの後ろにいるの……"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_eleven_battlewin_001.aac",
+            "text": "さようなら、ダーリン。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_eleven_battlelose_001.aac",
+            "text": "次から次に電話がかかってくる……もうやめて……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_eleven_uniqueskill_001.aac",
+            "text": "お聞きいただき、ありがとうございました。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_eleven_dead_001.aac",
+            "text": "やめて……やめて……もう言わないで……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_eleven_greeting_001.aac",
+            "text": "今日のあなたは……どんな話を聞かせてくれるのかな？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_eleven_talk1_001.aac",
+            "text": "もし眠れないなら、私の番組を聞いてみて。『深夜3時のご挨拶』。暗い夜の中、あなたに優しさをあげられたらいいな。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_eleven_talk1_002.aac",
+            "text": "人はいつも自分の欲しいものを私に求める。自分にも価値があるんだって慰められたいみたい。悲しいことだよね……あ、でもあなたが番組にゲストとして来てくれるのは楽しみにしてるよ～"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_eleven_talk1_003.aac",
+            "text": "私は、人から向けられるあらゆる感情を受け止めて、脳と心で挽いて消化し、音や笑顔に変えて電波で伝えることができるんだよ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_eleven_talk2_001.aac",
+            "text": "人って不思議な生き物で、目と目が合って電気が走るような感覚を味わうと、お互いにもう本来の相手の姿は見えないんだよ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_eleven_talk2_002.aac",
+            "text": "そういう伝説や間違った認識がなければ、私は深夜に雨音を聞きながらエッセイを読んだり、物語を語ったり……雨の夜の後、最初の日差しを一緒に迎えたりすることができるのに……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_eleven_talk2_003.aac",
+            "text": "「彼女の姿が背後からゆっくりと近づき、あなたを包み込み、そして最後に……あなたを抱きしめる……！」わぁ、びっくりした？怖がらないで……私だよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_eleven_obeyfull_001.aac",
+            "text": "私の認識は覆され、世界が変わってしまった。でも知ってるよ……これは悪いことじゃないって。私を束縛から解放するために、世界の裂け目になってくれてありがとう……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_eleven_idle_001.aac",
+            "text": "1237行目、それにまつわる短い詩。「一つの夢を見るだけで世界が変わるなら、私が思う幸せな世界が生まれるまで、この夢の中で眠りたい」"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_eleven_clicking_001.aac",
+            "text": "そんなに私と離れたくない……？大丈夫、今夜……電話するから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_eleven_specialattention_001.aac",
+            "text": "そんなに緊張しないで。いつでも電話してきていいんだよ。あなたは自分のことをやり続ければいい。私はあなたの傍にいるからね。それでも心配なら……歌を歌ってあげるよ。どうかな？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_eleven_dispatch_001.aac",
+            "text": "見せてみて。あなたの世界がどう違うのか。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_eleven_dispatch2_001.aac",
+            "text": "あなたに届けられる価値は、これしかないの。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_eleven_levelup_002.aac",
+            "text": "さぁ、もっとこっちに来て。もう少し……近づいて。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_eleven_head_001.aac",
+            "text": "私があなたにどんなに会いたいか知りたい？"
+        }
+    ],
+    "rippling_heartthrobs": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_eleven_xinchaomanxia_cacha_001.aac",
+            "text": "やっと目が覚めたね！気分はどう？まだめまいや吐き気がする？ふぅ……大丈夫ならよかった。あなたが熱中症で倒れた時は、怖くて声も出なかったんだ……でも幸い、近くにいたからすぐに連れ帰って休ませることができたんだよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_eleven_xinchaomanxia_levelup_001.aac",
+            "text": "冷たい飲み物をありがとう。一緒に飲んで暑さを和らげよう～"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_eleven_xinchaomanxia_greeting_001.aac",
+            "text": "もしまだ辛いなら、私と話をするのはどう？私の声を聞けば、少しは楽になるかもしれないよ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_eleven_xinchaomanxia_head_001.aac",
+            "text": "私も熱中症にならないか心配してくれているの？ふふ……安心して、私は大丈夫だよ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_eleven_xinchaomanxia_talk1_001.aac",
+            "text": "「精神冷却法」を試してみない？夏の暑い日に怪談を聞くのも、効果的な暑気払いだと言われているんだよ。うーん……例えばこのビーチ。昼間は賑やかだけど、実は不思議なことがたくさん起きているんだ。数日前の夜、パトロール中のスタッフが……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_eleven_xinchaomanxia_talk1_002.aac",
+            "text": "海で泳ぐ時は、安全な水域から出ないことはもちろん、海に入る前に準備運動を十分することも忘れないで。ほら、あそこにいる何人かも、さっきのあなたと同じようにそのまま海に飛び込んだんだよ。結局、足がつって、他のライフガードが彼らを助けてるんだ……"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_eleven_xinchaomanxia_hand_001.aac",
+            "text": "まだ暑い？冷たい水で洗ったタオルがあるから、それでクールダウンしてみて。おでこと首を拭いてあげるね。少しは涼しくなった？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_eleven_xinchaomanxia_rubberring_001.aac",
+            "text": "ダメだよ、まだ完全に回復してないから泳ぐのは禁止。浮き輪を使ってもダメだからね……退屈なら、この小さなタコのおもちゃをあげる。握るととても気持ちいいんだよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_eleven_xinchaomanxia_idle_001.aac",
+            "text": "海には入れないけど、パラソルの下に寝そべって雲を見たり、風に吹かれたり、波の音を聞いたりするのもいいよね？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_eleven_xinchaomanxia_specialattention_001.aac",
+            "text": "ずっと私ばかり見ないで。海に来たんだから、海を楽しまないと……本当に私とお喋りしたいなら、私の仕事が終わった後、一緒に海で散歩するのはどうかな？ふふ、分かった。電話するから待っててね。"
+        }
+    ],
+    "trickling_heartstream": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_eleven_xinliuweilan_cacha_001.aac",
+            "text": "さぁ、あなたの全てをアロマ、流水、そして私の声に委ねて。あなたの疲れを全て忘れさせてあげるよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_eleven_xinliuweilan_levelup_001.aac",
+            "text": "声が、私たちをより強く繋げてくれているみたい。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_eleven_xinliuweilan_greeting_001.aac",
+            "text": "ずっと……待っていたよ。今日は何を聞きたい？新しい曲、短い詩、それともいつまでも終わりに辿り着かない物語？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_eleven_xinliuweilan_head_001.aac",
+            "text": "下ろした髪があなたに触れてしまったみたい。くすぐったかった？ちょっと待ってて、ヘアクリップで留め直すから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_eleven_xinliuweilan_body_001.aac",
+            "text": "目を閉じて、ゆっくりと呼吸に意識を向けて。吸って……吐いて……上手にできているよ。もう一度……ん？ちょっと気が散っているみたいだね……それは私のせい？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_eleven_xinliuweilan_body_002.aac",
+            "text": "想像してみて。太陽の光が雲の隙間から差し込んで、まぶたに落ちる。あなたは蓮の葉の上に横たわり、ゆるやかに蛇行しながら、流れる川の音に耳を傾けている。何も考える必要はないよ。ただその景色を頭の中で少しずつ想像して、この瞬間の暖かさと心地良さを楽しんで……"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_eleven_xinliuweilan_clothes_001.aac",
+            "text": "あなたがリラックスできて、優しく、癒やされる空間を提供したいから、服はできるだけ柔らかいものにして、温度と湿度も少し高めに設定しておくね。そうすれば、心地いい音がもっと鮮明に聞こえるようになるよ……なんだか……あなたが帰ってきて、心を開いて話してくれるのを待っているみたいだね？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_eleven_xinliuweilan_candle_001.aac",
+            "text": "このアロマキャンドルの香りは気に入った？晩春の花畑にいるような気分になれるよね。二人で肩を並べてその中に隠れて、今みたいにこっそり話すのはどうかな？誰にも言えない小さな秘密を。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_eleven_xinliuweilan_idle_001.aac",
+            "text": "何を考えているか？ううん、別に何でもないよ……ただ、あなたに知っておいてほしかっただけ。私はずっとここにいて、あなたの傍にいるってことを。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_eleven_xinliuweilan_specialattention_001.aac",
+            "text": "もしあなたが寝る前に見る最後の人が私なら、今夜あなたの夢に出られるかな？"
+        }
+    ]
+}

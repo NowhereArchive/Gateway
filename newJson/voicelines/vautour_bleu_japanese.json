@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_vautour_cacha_001.aac",
+            "text": "このヴァトゥール・ブラウの報酬は決して安くないぞ？そんな可愛げのない方法であたしを招いたということは、どこへ行くかもう決まっているのかい？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_vautour_promotion_001.aac",
+            "text": "あたしの渡し船に乗ったら後戻りはできないよ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_vautour_promotion2_001.aac",
+            "text": "やっと……少し休めるねぇ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_vautour_battlebegin_001.aac",
+            "text": "遊びに付き合ってやろう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_vautour_battlewin_001.aac",
+            "text": "怖がることはない。全部対処済みだ。もう大丈夫さ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_vautour_battlelose_001.aac",
+            "text": "大胆だな？あたしの埠頭に盗みに入るなんて。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_vautour_uniqueskill_001.aac",
+            "text": "最後通牒だ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_vautour_dead_001.aac",
+            "text": "ふふ、これは……単なる現実の果てさ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_vautour_greeting_001.aac",
+            "text": "いつも密航組織の頭を相手にしているが、あたしがお前を誘拐するとは思わないのかい？いくらだったら……MBCCは身代金を払うだろうな？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_vautour_talk1_001.aac",
+            "text": "「夢」には値段がついている。取引を拒む人間は、その価格に満足していないだけさ～"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_vautour_talk1_002.aac",
+            "text": "渡しの車隊がディスの税関を通過する時、美しい鐘が鳴り響く。機会があれば、聞いてみるといい……あれは夢が現実に打ち砕かれる音だ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_vautour_talk1_003.aac",
+            "text": "十分な報酬さえあれば、あたしのチームは人々をどこへでも連れて行くことができる。目的地に着いた時、客がまだ息をしているかどうかは保証しないがな。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_vautour_talk2_001.aac",
+            "text": "砂の海に埋もれた財宝を哀れむ必要はない。ディヒルの沈没は終末の世の必然だ。一緒に笑って、彼らを見送ってやろうじゃないか。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_vautour_talk2_002.aac",
+            "text": "あたしのように、砂の海を自由に旅し、自分のビルを持ち、いつでもニューシティのデザートを食べられるようになりたいなら、これを忘れるんじゃないよ——生きていくための最も貴重な資本は「人の心」だ。しっかり掴んで、利用しな。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_vautour_talk2_003.aac",
+            "text": "こんないい天気を独り占めするのはもったいないねぇ。あたしはビジネスを忘れるから、お前も仕事を忘れたらどうだい？このまま静かに、何も考えず、車が行き交い人が去ってゆく様を一緒に眺めよう……"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_vautour_obeyfull_001.aac",
+            "text": "もし砂の海からヴァトゥールの名が消えても、探しに行くんじゃないよ。姉さんの言いつけを守るんだ。長く飛びすぎたせいで、疲れてぐっすり眠りたいだけなんだからね。こう願って、お前は祝福を残せば十分さ……棲める枝があるようにと。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_vautour_idle_001.aac",
+            "text": "この子はまた愚かな夢を見ているね……あたしに異邦に売られたらどうするんだい。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_vautour_clicking_001.aac",
+            "text": "若者ってのは高まる気持ちを抑えられないんだねぇ……あたしが手伝ってやろうか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_vautour_specialattention_001.aac",
+            "text": "この前見たので満足できなかったのかい？それなら、もっと見えるようによく近づきな。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_vautour_dispatch_001.aac",
+            "text": "あたしたちの局長ちゃんがここまで執着するものが何なのか、見てみようじゃないか。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_vautour_dispatch2_001.aac",
+            "text": "馬鹿者、これっぽっちの利益で驚いているのかい？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_vautour_levelup_002.aac",
+            "text": "あたしにくれるのか？いい心構えだ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_vautour_head_001.aac",
+            "text": "ますますやりたい放題になっている奴がいるな？"
+        }
+    ],
+    "languor_en_bleu": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_vautour_yiqingmian_cacha_001.aac",
+            "text": "ここにある錦や宝物は、隊商が東州から持ち帰ったものさ。気に入ったものがあれば、自由に持っていって構わないぞ。あたしは、大切な人には常に寛大だからね。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_vautour_yiqingmian_levelup_001.aac",
+            "text": "お前の心遣いは、この花や鳥の模様の磁器よりあたし好みだ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_vautour_yiqingmian_greeting_001.aac",
+            "text": "まとったシルクの布がまだ温まってもいないのに、昼寝の甘い夢をお前に邪魔されるとはな。一体どうしてくれるんだい？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_vautour_yiqingmian_head_001.aac",
+            "text": "香炉の煙でさえあたしを避けるというのに。こんなに落ち着きがないのは……お前だけだ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_vautour_yiqingmian_body_001.aac",
+            "text": "あの子たち、また喧嘩をしているねぇ。縁起のいい鳥だと聞いたが……所詮、買い手に向けた綺麗事さ。もし興味があるなら、あたしがいくらでも作り話をしてやるよ。希望を与える噂話なんて、あたしの所には山ほどあるからな。昼夜問わずいくらでも語れるぞ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_vautour_yiqingmian_body_002.aac",
+            "text": "ここにあるコレクションには全て、それぞれの物語がある。彫刻、彩色、指紋、そしてひび割れさえも、その物語を成す一部さ。だが残念なことに……どの物語にも幸せな結末なんてないんだよ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_vautour_yiqingmian_righthand_001.aac",
+            "text": "東方の人々の言葉は好ましい。愁煙、紫霧、相思草……文字だけで、故郷の気質や記憶を永遠に留めておけるとは、羨ましいな。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_vautour_yiqingmian_leg_001.aac",
+            "text": "何を見つめているんだい？東州のシルクの輝きか、それとも……これに包まれているものかい？意外だな。我らが局長ちゃんは結構欲深いらしい。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_vautour_yiqingmian_idle_001.aac",
+            "text": "こんなにいい天気なんだ、お前も眠くなってきただろう？ベッドにはまだ余裕がある。一緒にどうだい？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_vautour_yiqingmian_specialattention_001.aac",
+            "text": "ヴァトゥールの地を訪れたら、何かを置いていかねばならない。これが、このビジネスルートのルールなんだが、お前は工筆画も描けなければ茶芸にも明るくない……それなら美しい装飾品になって、ここに残ってあたしと昼寝でもしないかい？"
+        }
+    ],
+    "vin_nocturne": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_vautour_yeseruyun_cacha_001.aac",
+            "text": "今日は随分とお利口だったな。褒美に心と身体を癒やす花風呂を用意してやろう。どうだい？そうだねぇ……これは、いい子への無償の愛ってところさ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_vautour_yeseruyun_levelup_001.aac",
+            "text": "お返しなんて急がなくていいさ。もっと溺れていな……夜はまだ長いんだからね。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_vautour_yeseruyun_greeting_001.aac",
+            "text": "ちょうど夜風がレースのカーテンを揺らして、川向こうの明かりが灯った……お前はいつもあたしが一番無防備な時に現れるな。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_vautour_yeseruyun_head_001.aac",
+            "text": "そんなことをされると、勘違いするぞ……それとも、勘違いさせたいのかい？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_vautour_yeseruyun_body_001.aac",
+            "text": "ここを飾るのに随分と手間をかけた。キャンドル、美しい景色、グラス……あとは、一緒にバスタブに浸かってくれるおチビちゃんだけだ。お前を思って試しに入ってみたが、湯加減もちょうどいいぞ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_vautour_yeseruyun_body_002.aac",
+            "text": "この街はロマンチックだと自負しているが、夜が更けた頃、あたしと一緒に夜闇を過ごしてくれるのはお前だけさ。来てくれたことに感謝しないとな。少なくとも、お前のおかげでこの街が掲げるロマンが全くの嘘じゃないと証明されたんだから。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_vautour_yeseruyun_cigarette_001.aac",
+            "text": "煙霧が濃くなって、水蒸気も立ち込めてきたねぇ。まるで薄いベール越しにあたしを見ているようじゃないかい？ふふ……ぼんやりしていて、近いようで遠い。そういうものほど簡単に人の判断力を失わせるのさ。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_vautour_yeseruyun_wineglass_001.aac",
+            "text": "カップの中は紅茶だと言ったら、信じるかい？いい子だから、飲み過ぎるんじゃないよ。お前みたいな若者は、一杯飲んだだけで「暴走」するぞ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_vautour_yeseruyun_idle_001.aac",
+            "text": "なんて美しい夜だろうねぇ。とても現実とは思えない。この景色を見るために、多くの人が力を尽くすのも無理はないな……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_vautour_yeseruyun_specialattention_001.aac",
+            "text": "バラ風呂に浸かると身体に香りが残るらしい。一緒に確かめてみるかい？"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_ark_cacha_001.aac",
+            "text": "缺什么坦白说就好啦，不用担心，只要船上有的，都可以分给你！……嗯？你说我们非法占据公有财产？你要的是方舟号？我懂了，那你就收下这颗炮弹吧！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_ark_promotion_001.aac",
+            "text": "机械臂改造？是上次那块羊绒毯的回礼吗？Zulu Zulu，谢啦！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_ark_promotion2_001.aac",
+            "text": "这是我的船，我的家，我们的方舟聚落！每个想动它的人，都得先跟我的炮口谈谈！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_ark_battlebegin_001.aac",
+            "text": "方舟号的炮门已经迫不及待了！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_ark_battlewin_001.aac",
+            "text": "我看谁还敢打我家里人的主意！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_ark_battlelose_001.aac",
+            "text": "转舵启航，全速撤退！别担心，我不会恋战的，没有什么比你们的安全更重要！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_ark_uniqueskill_001.aac",
+            "text": "主炮齐射！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_ark_dead_001.aac",
+            "text": "别怕……方舟号会带你去安全的地方……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_ark_greeting_001.aac",
+            "text": "Zulu Zulu，欢迎来我家做客！这垫子虽然是姨妈们拿破帆布拆出来的线编的，但可软了！快坐下喝点奶奶在甲板上晒的沙果茶吧，你的黑眼圈太重了，比在桅杆上吊了一晚上的瞭望员还吓人！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_ark_talk1_001.aac",
+            "text": "诶，你可别把我当危险分子啊！又不是我喜欢打架，是在砂海里，打赢了之后才有资格谈别的。谁让不成规矩的地方，火力就是规矩呢？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_ark_talk1_002.aac",
+            "text": "小时候爸妈教我Bravo Zulu是船上最高级最正式的夸人方式，于是我成天在甲板上乱窜，见谁都用，大家明明听不懂却都挺高兴~后来这句话成了方舟号的通用语，你要不也试试？Zulu Zulu！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_ark_talk1_003.aac",
+            "text": "平常，咱们聚落确实挺乱的，南腔北调、杂七杂八，大伙儿的生活习惯都不一样，还成天要我去劝架，可不省心了！可船一开动，所有人就都往一个方向看了。这就是我的家人，我爱他们每一个。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_ark_talk2_001.aac",
+            "text": "在砂海很难睡个好觉，每天沙子乱飞火花四溅的。可偶尔安静时，整艘船会像是浮在空中，呼吸和脚步、震动和嗡鸣都很清晰，让我意识到，生活也可以很平稳。可惜，这样的时间实在是太少了。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_ark_talk2_002.aac",
+            "text": "有很多人说我就是方舟号，是它的化身，是砂船的灵。听起来很傻吧？可是听多了，我也开始想，也许要是我真的是它，是兵器，就不会再害怕保护不了家人们，再在开完炮的夜里睡不着觉了。Zulu Zulu，也许，我也一样傻。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_ark_talk2_003.aac",
+            "text": "如果这世上真的有个地方，不用开炮就能守住我们的家，那我想和你一起去。但你也别唬我，我知道这航程可长了，在到那儿之前，你可要好好保护好你自己啊！实在不行，我会挡在你前面，把拦路的统统撞飞！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_ark_obeyfull_001.aac",
+            "text": "方舟号因为火力才能自保，也因为火力才被垂涎，这是我和家人们逃不出去的怪圈，就像无垠的砂海包围着我们。我必须一直开船，一直开炮，找不到岸，停不下来……可你来了。谢谢你，愿意做雅可的岸。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_ark_idle_001.aac",
+            "text": "哇，局长真睡着啦……那我不打扰你咯。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_ark_clicking_001.aac",
+            "text": "Zulu Zulu，我在这里，没事的……姨妈说我也有这样的坏习惯，总是忍不住摸摸你，直到确认你在身边，才能安心。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_ark_specialattention_001.aac",
+            "text": "只是出海而已，不用这么紧张我！我明白家人出事会有多心痛，才不会让你吃那种苦呢！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_ark_dispatch_001.aac",
+            "text": "物资这块儿我最熟啦，看我给你露一手管家的本事！方舟号上上下下大大小小，可都是靠我呢！"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_ark_dispatch2_001.aac",
+            "text": "我回来啦！能过船的路不多，我绕了点远路，还给你带了特产，看，满满一甲板！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_ark_levelup_002.aac",
+            "text": "Zulu Zulu！这样你就不会晕船了！"
+        }
+    ]
+}

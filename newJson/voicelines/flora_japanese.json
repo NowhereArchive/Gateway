@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_fuluola_cacha_001.aac",
+            "text": "ニューシティ特派員、消防士のフローラです！私がいる限り、火事はおこさせません！……本当ですよ！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_fuluola_promotion_001.aac",
+            "text": "これでもっと楽に消火できます。期待しててくださいね、局長さん！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_fuluola_promotion2_001.aac",
+            "text": "あの火事の前にこの力を身に着けていたら……でも、今の私にはもっとできることがあります！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_fuluola_battlebegin_001.aac",
+            "text": "早く！遅れないでください！"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_fuluola_battlewin_001.aac",
+            "text": "撤退用意。現場引き継ぎ中であります！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_fuluola_battlelose_001.aac",
+            "text": "火の勢いが……もう収まらない。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_fuluola_uniqueskill_001.aac",
+            "text": "フロースプラッシュ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_fuluola_dead_001.aac",
+            "text": "まだ人が……まだ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_fuluola_greeting_001.aac",
+            "text": "局長さん、おはようございます。消防設備は定期的に検査しないといけません。安全第一ですから！"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_fuluola_talk1_001.aac",
+            "text": "消防斧はあまり好きじゃないんです。だって……いつもうっかりチームメイトを傷つけちゃうので……。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_fuluola_talk1_002.aac",
+            "text": "今思うと、昔の同僚たちは……私に対しておかしな態度を取ってたように思います。私って、孤立してたんですかね？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_fuluola_talk1_003.aac",
+            "text": "ホースに関係があるものなら、何でも消火に使えるんですよ！へへん……精確さは……いまいちですけど。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_fuluola_talk2_001.aac",
+            "text": "ごめんなさい！　火の能力を使う人が嫌いなわけじゃなくって……ただ……とにかくちゃんと見張っておきます！　火のないところに煙は立たぬって言いますし！"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_fuluola_talk2_002.aac",
+            "text": "あの頃は特派員でもみんなの力になれるなら、いいと思ってたんです。でもあの燃える建物を、助けを求めている人たちを見たら……やっぱり火災現場が自分の居場所だと気づきました。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_fuluola_talk2_003.aac",
+            "text": "髪は長いほうが好きです！でも……火災現場だと、邪魔になるだけなので……。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_fuluola_obeyfull_001.aac",
+            "text": "ここは火災現場じゃないですけど、もっとたくさんの人を助けられます。ありがとう、局長さん……これが、これこそが私が本当に望んでいたことなんです。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_fuluola_idle_001.aac",
+            "text": "うーん……消防用の筒先ってどのくらいの高さまで持ち上げるんだっけ？ちょっと待ってくださいね！手帳を確認してきます！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_fuluola_clicking_001.aac",
+            "text": "もう、邪魔しないでください！まだ訓練が残ってるんです！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_fuluola_specialattention_001.aac",
+            "text": "消防の知識を普及させるのも私の役目。まずは消防安全手帳の一ページ目を見てください！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_fuluola_dispatch_001.aac",
+            "text": "フローラ、準備完了。出発します！"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_fuluola_dispatch2_001.aac",
+            "text": "任務完了。フローラ、ただいま戻りました！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_fuluola_levelup_002.aac",
+            "text": "わぁ！また強くなれました！"
+        }
+    ],
+    "fire_safety_tips": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_cacha_001.aac",
+            "text": "皆さん、よく見てください！消火器の正しい使い方を覚えましょう。「持つ・抜く・握る・押す」です——あっ……ゴホン！こ、これは間違った時のお手本です！落ち着くことが大事ですよ。では、正しい操作をお見せします！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_levelup_001.aac",
+            "text": "新しい消火器のマニュアルは、もう完璧に覚えました！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_greeting_001.aac",
+            "text": "こんにちは、局長さん。あなたも消防講習を聞きに来たんですか？それなら最前列にどうぞ。席は取っておいたので！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_talk1_001.aac",
+            "text": "あっ、ごめんなさい……ノズルが詰まってると思って力を入れたら、勢いよく噴射しちゃったんです。その横にちょうどいたので……学生さん、大丈夫ですか？髪を拭くティッシュを持ってきますね……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_talk1_002.aac",
+            "text": "校内で物が積み上がっている場所は、どこも安全上のリスクになりがちです。可燃物が多いですからね。紙箱や古い教科書、それに59点のテスト用紙……ん？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_idle_001.aac",
+            "text": "休み時間でも、訓練を怠らないでください！たとえ10分しかなくても、消火動作なら10回は練習できますよ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_clicking_001.aac",
+            "text": "あの、袖を引っ張らないでください。狙いが定まらないので……え？安全ピンを抜いてない？なるほど……だから、いくら押しても反応しなかったんだ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_specialattention_001.aac",
+            "text": "局長さん！火災時の最適な避難ルートを作成しました。今回の訓練では、必ず全員を無事に校庭まで誘導します。しっかり見ていてくださいね！"
+        }
+    ]
+}

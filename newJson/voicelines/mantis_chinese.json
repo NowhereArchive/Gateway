@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_mantis_cacha_001.aac",
+            "text": "你的身上……新奇的味道，和它们不一样……不用害怕，不要放弃，我很快就来救你……"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_mantis_promotion_001.aac",
+            "text": "你喜欢吗？这副更加强大的躯体。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_mantis_promotion2_001.aac",
+            "text": "个体的异化是有极限的……我做到了……我要把这种状态记录下来……"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_mantis_battlebegin_001.aac",
+            "text": "可怜的小东西……安息吧……"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_mantis_battlewin_001.aac",
+            "text": "弱肉强食就是自然的法则。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_mantis_battlelose_001.aac",
+            "text": "别难过……逃跑也是优秀的生存策略。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_mantis_uniqueskill_001.aac",
+            "text": "抓到你啦！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_mantis_dead_001.aac",
+            "text": "啊——"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mantis_greeting_001.aac",
+            "text": "熟悉的味道……是你，我就知道！我一直在等你回来……你会带我离开吗……我不喜欢一直被困在这里……"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_mantis_talk1_001.aac",
+            "text": "你的工作……强度很高，这个给你。很好吃……味道像……鸡肉……能提供蛋白质和脂肪……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_mantis_talk1_002.aac",
+            "text": "你的味道……很好。我可以更靠近你一些吗？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_mantis_talk1_003.aac",
+            "text": "我不是故意要吃掉他……它们的……我只是……太饿了……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_mantis_talk2_001.aac",
+            "text": "需要帮助的人……很多……你可以多关心关心他们，不用总是把精力放在我这里。我的问题，我自己……可以解决……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_mantis_talk2_002.aac",
+            "text": "一切的异常……都来自人类本身……来自我们的内心……他们不是怪物……是我们的一部分……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_mantis_talk2_003.aac",
+            "text": "不用害怕……即使有一天你走丢了，遇到危险了，我也一定会救你的……我从来都不会抛弃同伴，我发誓……"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_mantis_obeyfull_001.aac",
+            "text": "我好像没能拯救你……反倒是你……拯救了我。抱歉……是我拖累了大家，一定惹出了许多麻烦吧……谢谢……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mantis_idle_001.aac",
+            "text": "今天有让朋友们开心吗……有做好分内的工作吗……你……救回他们了吗……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_mantis_clicking_001.aac",
+            "text": "……这是什么生物的求偶仪式吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mantis_specialattention_001.aac",
+            "text": "你不用特意过来……我记得你的味道，我自己可以找到你。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mantis_dispatch_001.aac",
+            "text": "需要我……做些什么呢？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_mantis_dispatch2_001.aac",
+            "text": "这段旅程，有很多新的发现。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mantis_levelup_002.aac",
+            "text": "必须……适应环境的改变。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_mantis_head_001.aac",
+            "text": "可是……这样是没用的……几丁质外壳……感觉不到……"
+        }
+    ],
+    "sylvan_silhouette": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
+            "text": "乘着小船越过沼泽、树林和迷雾，直达缀满了硕实的果林——这是精灵曾亲吻过的仙境，以前从未有人得见……但即使如此，你还是找到我了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mantis_shenlinbangying_levelup_001.aac",
+            "text": "沉甸甸的果实，落到怀里了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mantis_shenlinbangying_greeting_001.aac",
+            "text": "每当我看见你，就会想起你我曾一同跳进湍急的溪流……想重温一下吗？来，把手给我，我们一起跳下去吧。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_mantis_shenlinbangying_head_001.aac",
+            "text": "你才多大岁数，怎么敢上手摸精灵的耳朵？没大没小……咳，脸红只是我的力量有些外溢……"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_mantis_shenlinbangying_body_001.aac",
+            "text": "你以前说过，旅程的尽头，藏着清澈透明的水域、硕实繁盛的苹果枝、取之不尽的粮食与葡萄，但是……没有你在，即便来到梦想之地，这些风景……也都会黯然失色……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_mantis_shenlinbangying_body_002.aac",
+            "text": "这条坠满果实的苹果枝……是牵引人类往来此地的信物……收下它吧，这样……你再找我，就不会迷路了……"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_mantis_shenlinbangying_leg_001.aac",
+            "text": "相传，那位传说中的精灵结束了她的旅程，她捧起苹果，沉入水底，饱满的种子在她的滋养下发芽、渐渐长成参天的林木，枝条长出花苞，再从花蕊中诞生出无数个新的自己……林中孕育的仙灵，大抵都是这样……"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_mantis_shenlinbangying_arm_001.aac",
+            "text": "像精灵一样在林间自由地生活……原来你有着这样的愿望吗？那……来抱紧我，别松手，我带你飞一圈~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mantis_shenlinbangying_idle_001.aac",
+            "text": "林间翅膀翕动的声音，伴随着溪流与蛙鸣……安心地睡吧，希望……森林能让你有个好梦……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mantis_shenlinbangying_specialattention_001.aac",
+            "text": "这里别无他人，只有倒映在水中的两道身影……以及……你与我相触的目光……"
+        }
+    ]
+}

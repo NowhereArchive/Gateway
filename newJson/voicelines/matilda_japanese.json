@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_matilda_cacha_001.aac",
+            "text": "異動だとおっしゃっていましたよね。これはどういうことですか？コンビクト……収容！？ちゃんと教えてください。私が一体何をしたというんですか！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_matilda_promotion_001.aac",
+            "text": "お引き立ていただきありがとうございます。今後、更に精進します。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_matilda_promotion2_001.aac",
+            "text": "これが今の私の限界なのかもしれません。いずれにせよ、信頼とサポートに感謝します。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_matilda_battlebegin_001.aac",
+            "text": "チームの火力支援を行います。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_matilda_battlewin_001.aac",
+            "text": "映像資料、収録完了。後ほど録画を見て、今回の戦闘の良し悪しを確認できます。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_matilda_battlelose_001.aac",
+            "text": "攻撃をやめるな！局長の撤退を援護しろ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_matilda_uniqueskill_001.aac",
+            "text": "火力制圧！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_matilda_dead_001.aac",
+            "text": "戦線を維持……私のことは……気にしないで……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_matilda_greeting_001.aac",
+            "text": "こんにちは、局長。本日の書類は整理済みです。大半が通常の調達申請と行動報告でした。簡単に目を通していただければ大丈夫です。上層部から送られてきた暗号化ファイルは個別に分類しましたので、早めの確認が必要かもしれません。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_matilda_talk1_001.aac",
+            "text": "「物事が始まる前に、事前準備する機会を逃さないこと」。母から教わった言葉のおかげで、私は多くの困難を乗り越えられました。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_matilda_talk1_002.aac",
+            "text": "ナイチンゲール先輩の仕事ぶりを見ると、私に足りないものがまだたくさんあると気付かされます。こんなに頼もしい副官の支持を得たあなたは、とても幸運ですね。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_matilda_talk1_003.aac",
+            "text": "「10点は的の限界であり、私の限界ではない」。分かっています。かなり大それた言葉で、普段の私の……ええっと、スタイルには合っていません。しかし射撃に関してだけは、こうした自信を持てます。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_matilda_talk2_001.aac",
+            "text": "再建委員会には確かに多くの問題があります。内部管理が機能せず、人員の編成も混乱している。正常に運営できているのはほとんど奇跡です……それでも、私はそこからたくさんのことを学びました。その経験をMBCCで役立てればと思っています。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_matilda_talk2_002.aac",
+            "text": "綺麗な職場環境は心身の健康に繋がります。できれば、定期的にご自分の執務室を片付けていただきたいのですが……仕事が忙しいのは分かっていますので、私に任せていただいても構いません。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_matilda_talk2_003.aac",
+            "text": "なるべく勤務時間と休憩時間を定め、時間通りに休んでください。残った仕事は部下に任せればいいのです。無理はしないでください。なんといっても……管理局全体が正常に機能するには、あなたの健康が必要不可欠ですから。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_matilda_obeyfull_001.aac",
+            "text": "以前は、輝かしいエリートたちを前にすると、自分の努力など無意味だと思っていました。しかし今は違います。彼らと比べることなく、自分らしくいればいい。MBCCの皆さんが気付かせてくれました。皆さん、ありがとう。そしてあなたも、ありがとうございます。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_matilda_idle_001.aac",
+            "text": "コーヒーはいかがですか？私が挽いたものです。コーヒー豆は家から……いえ、ニューシティから持ってきました。口当たりが良く、余計な渋みもありません。本当にいらないのですか？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_matilda_clicking_001.aac",
+            "text": "このような行為は、ただちにやめてください！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_matilda_specialattention_001.aac",
+            "text": "MBCC-S-745、コンビクト・マチルダです。指示をお願いします。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_matilda_dispatch_001.aac",
+            "text": "任務完了まで8～24時間かかると推定されます。進捗は随時ご報告します。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_matilda_dispatch2_001.aac",
+            "text": "後ほど行政部に任務報告を提出しますので、ご確認ください。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_matilda_levelup_002.aac",
+            "text": "力が増すということは、責任も更に重くなるということです。"
+        }
+    ],
+    "elfin_siesta": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_matilda_huayexumeng_cacha_001.aac",
+            "text": "うう、鳥さん、頭をつつかないで。人の休憩を邪魔するのは良い子のやることじゃ……リーダー！？なぜここに？また森が闇に侵され、感染しているんですか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_matilda_huayexumeng_levelup_001.aac",
+            "text": "角の探知精度が上がっているようです。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_matilda_huayexumeng_greeting_001.aac",
+            "text": "いえ、あなたは私の休息を邪魔していません。パトロール中に感染した野獣が少女を襲っているのを見つけたので、退治した後、彼女を森から送り出してきたんです。長い旅だったので、野営地に戻る前にここで休むつもりです。何か私の助けが必要であれば、遠慮なく仰ってください。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_matilda_huayexumeng_head_001.aac",
+            "text": "ね……寝ぐせがついていますか？みっともないところをお見せして、申し訳ありません……！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_matilda_huayexumeng_body_001.aac",
+            "text": "たまに森の中でのんびりと休むと、日差しがとても暖かく、草木が爽やかで、あらゆる音の繊細さが胸に響くことに感動します……ここの美しさを守るために、私を仲間に入れてくださってありがとうございます。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_matilda_huayexumeng_body_002.aac",
+            "text": "あの赤ずきんの少女は私をハンターと呼びましたが、お腹を満たすために森の生命を狩るのは本意ではありません。ただ、闇に侵された動物たちを早く一掃しなければ、森はやがて魔窟になると思っただけです。あなたもこうした思いで、パトロールチームを作ったのではないですか？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_matilda_huayexumeng_horn_001.aac",
+            "text": "あっ！すみません、私たち一族の角は環境を探知するための器官なので、あなたの動きはちょっと……なるべく優しくしてください。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_matilda_huayexumeng_background_001.aac",
+            "text": "この子たちは私の古い友人です。ご存知の通り、動物たちは活発で、私のような……その、生真面目なエルフにはあまり近づこうとしません。ですがこの子たちは違います。忘れてしまった食料貯蔵庫の穴を見つけてあげて以来、ずっと仲良くしてくれています。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_matilda_huayexumeng_idle_001.aac",
+            "text": "小動物が草葉の上を走る音は……本当に催眠術のようです……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_matilda_huayexumeng_specialattention_001.aac",
+            "text": "脱力しただけで怪我をしたわけではないので、そのように気を使わないでください。ただ、誤解しないでいただきたいのですが、私はあなたの気遣いをとても嬉しく思っています。"
+        }
+    ]
+}

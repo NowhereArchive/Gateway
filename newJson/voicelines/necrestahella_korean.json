@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_hellasp_cacha_001.aac",
+            "text": "후후, 진짜 오랜만이네~ 나 안 보고 싶었어? 몰래 울지는 않았지? 그래, 내가 돌아왔어."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_hellasp_promotion_001.aac",
+            "text": "소란스러운 영혼들이… 조용해진 것 같네."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_hellasp_promotion2_001.aac",
+            "text": "나를 심연에서 구해준 사람들을 절대 저버리지 않을 거야. 그들의 의지와 함께, 꿋꿋하게 앞으로 나아가겠어!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_hellasp_battlebegin_001.aac",
+            "text": "내 뒤에 있어, 이번엔 내가 너희를 지켜줄게."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_hellasp_battlewin_001.aac",
+            "text": "이런 건 이제 나한테 식은 죽 먹기야, 너무 쉬워!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_hellasp_battlelose_001.aac",
+            "text": "한 번만 더! 이번에는 반드시 저놈들을 완전히 박살 낼 거야!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_hellasp_uniqueskill_001.aac",
+            "text": "무너뜨려라!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_hellasp_dead_001.aac",
+            "text": "모두를… 지킬 거야…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hellasp_greeting_001.aac",
+            "text": "어둠 속에서 그들이 내 곁을 맴돌며 속삭이는 게 들려… '친애하는 국장님, 언제쯤 엘라에게 용돈을 줄 수 있나요?'"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_hellasp_talk1_001.aac",
+            "text": "원래 이번에 나가서 너희한테 편지도 많이 쓰고 선물도 한가득 챙겨왔거든? 근데 아쉽게도 다 없어졌어… 어? 차용증? 이게 뭐지? 난 모르겠는데~ 아하하하하…"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_hellasp_talk1_002.aac",
+            "text": "파이프는 잃어버렸지만, 새 장비랑 새 무기가 생겼어. 빠르게 치고 멀리 날려버릴 수 있긴 한데, 좀 컨트롤하기가 어려워… 이제 나보고 팔 짧다고는 못 하겠지!?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_hellasp_talk1_003.aac",
+            "text": "몸의 상처? 에이, 아프진 않아. 난 이미 익숙해졌거든. 게다가 그런 말도 있잖아, '상처는 용기의 훈장'이라고! 나도 나만의 훈장이 생긴 거지."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_hellasp_talk2_001.aac",
+            "text": "그 망할 블랙링이랑 싸울 때, 나 꿈을 엄청 많이 꿨거든? 꿈속에는 너, 헤카테, 나인티나인, 그리고 정말 많은 사람이 있었어. 모두가 내게 말해줬지, 무서워하지 말고, 포기하지 말라고… 언제나 내가 돌아오길 기다리고 있을 거라고…"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_hellasp_talk2_002.aac",
+            "text": "밖에서 정말 대단한 녀석들을 많이 봤어. 정말 강한 녀석들이었어. 해결할 수 없는 곤경이 나타나도 절대 물러서지 않고, 아프고 슬퍼도 눈물을 닦으며 정면으로 문제를 마주했어! 진짜 강함이란 이런 거였어… 나도 계속 단련해야지."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_hellasp_talk2_003.aac",
+            "text": "솔직히 난 아직도 싸우는 거 별로 안 좋아해. 싸우는 것도 싫고 아픈 것도 싫지만, 너희가 다치는 걸 그냥 보고만 있어야 하는 게 더 싫어. 이제 충분한 힘이 생겼으니까, 이번엔 내가 너희들 앞에 설 차례야!"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_hellasp_obeyfull_001.aac",
+            "text": "돈도 있고 친구도 있고, 그때의 소원은 다 이루어진 것 같아. 하지만 아직 좀 욕심이 나. 모험도 하고 싶고, 더 많은 친구도 사귀고 싶고, 더 강하고 대단해져서 나중엔 너희 전부 내가 지켜주고 싶어! 물론, 이걸 이루는 게 쉽진 않겠지. 그래도 난 두렵지 않아, 왜냐하면… 너희가 분명 내 곁에 계속 있어 줄 거니까~"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hellasp_idle_001.aac",
+            "text": "역시 돌아오니까 졸리네… 안 돼, 빨리 다들 불러와. 아직 너희한테 내 전설의 모험 얘기를 못 해줬잖아!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_hellasp_clicking_001.aac",
+            "text": "아니, 그렇게 오랜 시간이 지났는데, 이 버릇은 아직도 못 고친 거야?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_hellasp_specialattention_001.aac",
+            "text": "알아, 분명 내가 엄청 보고 싶었겠지. 자, 이번엔 돈 안 받을 테니까 실컷 봐."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_hellasp_dispatch_001.aac",
+            "text": "빨리빨리, 내가 새 기술을 보여줄게!"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_hellasp_dispatch2_001.aac",
+            "text": "완벽한 마무리! 어때, 전보다 훨씬 낫지?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hellasp_levelup_002.aac",
+            "text": "나한테 왜 이렇게 잘해줘?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_hellasp_head_001.aac",
+            "text": "연구소 놈들 말로는 이게 무슨 오염 결정체라고 하는데, 없어지지 않아. 다행히 만져봐도 별 느낌은 없지만… 악, 조금 따끔하긴 해."
+        }
+    ]
+}

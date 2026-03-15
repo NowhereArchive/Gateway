@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_angel_cacha_001.aac",
+            "text": "想委托我处理什么，就到暗网下单、预付、然后等待，我不接强硬插队的订单。但如果你只是来找我麻烦……考虑清楚，那样的代价你付不起。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_angel_promotion_001.aac",
+            "text": "不需要什么特殊技巧，下手时心无杂念即可。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_angel_promotion2_001.aac",
+            "text": "利刃一旦出了鞘，就必定是要见血的。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_angel_battlebegin_001.aac",
+            "text": "需要踩点么？好，我去。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_angel_battlewin_001.aac",
+            "text": "委托完成。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_angel_battlelose_001.aac",
+            "text": "……还没完，我接下的订单不会这么结束。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_angel_uniqueskill_001.aac",
+            "text": "这条命我收下了！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_angel_dead_001.aac",
+            "text": "呵呵……雇主要失望了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_angel_greeting_001.aac",
+            "text": "我没想到你会来，有新委托吗？还是说，你也想躲这儿歇一会儿？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_angel_talk1_001.aac",
+            "text": "……别动窗帘。被外面的人看到，很危险。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_angel_talk1_002.aac",
+            "text": "我接暗网委托来维持生活，找猫也好，找人也好，动不动刀都一样，我只看性价比接单。个人喜好……并不重要。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_angel_talk1_003.aac",
+            "text": "……我很孤单么？也许吧，但孤单意味着安全，在这边的世界安全才是难能可贵的。所以，我不介意孤单。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_angel_talk2_001.aac",
+            "text": "我不觉得自己房间凌乱，能找到必要的东西就够了。刀、饭团、电脑、门和床，很明显，不是吗？这个家可比我的工作现场舒适多了，我很满意。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_angel_talk2_002.aac",
+            "text": "那些被人恐惧憎恶的黑暗正是我习以为常的生活，我接受，也不觉得自己可悲，每个人都有自己的命，我不会奢望另一头的生活……除了你做的红豆汤，我真的很喜欢。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_angel_talk2_003.aac",
+            "text": "我也曾见过温暖明亮的，被你称作希望、爱的东西，但它们最终都无一例外的消失了。在这边的世界，那些比幻影还要脆弱的东西，留不住。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_angel_obeyfull_001.aac",
+            "text": "我不会强留你在身边，我身边注定阴暗，而你该走进光里。但我会在这一头保护你，深渊有我就够了，谁也别想把你拖进来。这是……我给自己下的，一生一世的订单。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_angel_idle_001.aac",
+            "text": "……这把刀跟我，谁会先被折断呢？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_angel_clicking_001.aac",
+            "text": "你好像很焦虑，要我做些什么吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_angel_specialattention_001.aac",
+            "text": "这么盯着我也没用，你追不上我的动作，如果我想离开，你也留不住。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_angel_dispatch_001.aac",
+            "text": "接了，定金打到老地方。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_angel_dispatch2_001.aac",
+            "text": "验货吧，记得结尾款。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_angel_levelup_002.aac",
+            "text": "报酬收到。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_angel_head_001.aac",
+            "text": "怎么，有话对我说吗？"
+        }
+    ],
+    "lurking_lotusblade": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_angel_gujianjinghe_cacha_001.aac",
+            "text": "我已按你的要求，把周围的威胁都解决了，现在只是借你的院子小憩一会儿，没问题吧？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_angel_gujianjinghe_levelup_001.aac",
+            "text": "锋芒已露，出手即中。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_angel_gujianjinghe_greeting_001.aac",
+            "text": "今天没什么委托，所以又来借地歇息一下……你这里很清净，我很喜欢。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_angel_gujianjinghe_head_001.aac",
+            "text": "我认得你的气息，所以你现在还能好好地站在那儿，如果换了其他人，应该早就沉入荷塘，变成花泥了吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_angel_gujianjinghe_body_001.aac",
+            "text": "路过晒太阳都会引起骚乱，你到底是惹了什么不该惹的……算了，这不是我该深究的事。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_angel_gujianjinghe_body_002.aac",
+            "text": "我没有所谓真正的正义，无非是替人办事，雇主站在哪边，我就选择哪边，最多……看看性价比。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_angel_gujianjinghe_righthand_001.aac",
+            "text": "刀的真意在藏不在杀，就像我藏于你的院子，你藏于我的身后。过于锋芒毕露，反而会成为自身的弱点。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_angel_gujianjinghe_lefthand_001.aac",
+            "text": "院子不用收拾得那么细致，现在这样就挺好，乱中有序……嗯，有种熟悉的感觉，就像回到家一样。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_angel_gujianjinghe_idle_001.aac",
+            "text": "你有事便去忙吧，不用太在意我。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_angel_gujianjinghe_specialattention_001.aac",
+            "text": "我们这一行，脸不能轻易被人记住，上一个这么盯着我看的人的下场……你不会想知道的。你会把认得我的事烂进肚子里，对吗？毕竟我很喜欢你的院子，希望下次来的时候，还能再见到你。"
+        }
+    ],
+    "thunder_beat": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_angel_chenxiang_cacha_001.aac",
+            "text": "节目单里有一首我很喜欢的歌，所以我答应她们加入进来。和带着耳机听相比，自己演奏，会有很不一样的感觉。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_angel_chenxiang_levelup_001.aac",
+            "text": "找到手感了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_angel_chenxiang_greeting_001.aac",
+            "text": "各种各样的委托我接过不少，但像这样和人并肩合作……好像还是头一回。嗯，有队友在身边的感觉，其实还不赖。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_angel_chenxiang_talk1_001.aac",
+            "text": "打鼓和用刀倒是也有共通之处，两者都讲究极致的精确性——需要找准时机，正中要害。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_angel_chenxiang_talk1_002.aac",
+            "text": "以前的生活里没有“节奏”，执行任务时最好也别发出声音。而这次却要把声音清晰地传递出去，挺新鲜的。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_angel_chenxiang_idle_001.aac",
+            "text": "……不用管我，随便敲敲打打而已。比起处理委托目标的时候，现在这种敲法温和多了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_angel_chenxiang_clicking_001.aac",
+            "text": "你也想来试试么？但要控制好力道，这些鼓不太结实，之前排练的时候已经被我不小心弄坏好几套了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_angel_chenxiang_specialattention_001.aac",
+            "text": "我很少这么直接暴露在灯光之下——但我知道，你就在观众席上看着我，所以我能冷静下来，完成演出，以回应你的期待。"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_shawn_cacha_001.aac",
+            "text": "私を管理局に連れて行く前に、1分だけ待ってくれ。最後に3通だけ返信がしたい。もし返事がなかったら、私を愛してくれている人たちが悲しむだろう。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_shawn_promotion_001.aac",
+            "text": "私に期待しているのか？じゃあ、なるべくまともに生きるよ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_shawn_promotion2_001.aac",
+            "text": "これは私のSNSアカウントだ。ネットで会いに来てくれ。この私なら、あなたをもっと幸せにできる。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_shawn_battlebegin_001.aac",
+            "text": "望む所へ行けばいい。私と私の愛は後から追いつこう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_shawn_battlewin_001.aac",
+            "text": "「マッチング成功、連絡先が追加されました」"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_shawn_battlelose_001.aac",
+            "text": "愛が薄れるのはよくあることだ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_shawn_uniqueskill_001.aac",
+            "text": "溢れる、愛の力！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_shawn_dead_001.aac",
+            "text": "返していない……メッセージが……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_shawn_greeting_001.aac",
+            "text": "こんにちは？ゴホン、こんにちは。やっぱりあなたの前でだけ、自分の声を見つけられるみたいだ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_shawn_talk1_001.aac",
+            "text": "私はネット恋愛しか認めない。 外見を知ることも、肉体的な制約も、過去の経験を知る必要もない。2つの魂が裸で出会い、ぶつかり合うことで、最も安全な愛が生まれるんだ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_shawn_talk1_002.aac",
+            "text": "事務所から回ってくる仕事はほとんど刑事ドラマなんだが、研修資料で恋愛ものの台本をいくつか目にしたことがある。でも、ストーリーはどれも似通っていたよ。主人公たちは相手の外見に一目惚れして、その後あちこちで出会い、やがて永遠に一緒に暮らすことになる……ふん、恐ろしい展開だと思わないか？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_shawn_talk1_003.aac",
+            "text": "管理局は使わなくなった携帯電話を回収してくれるのか？以前、二人の相手のチャット画面を間違えたことがあったんだ。二度とプロらしからぬ状況にならないよう、携帯をたくさん買って一人ずつ専用の端末で連絡するようにしているんだ。今でも、未開封のスペア機が引き出しに山ほどあるよ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_shawn_talk2_001.aac",
+            "text": "「あなたのプロフィールはユニークだね」。今までの関係は全て、この言葉から始まっている。でもあなたには、何を言っていいか分からないんだ。この関係が現実のものだからだろうか？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_shawn_talk2_002.aac",
+            "text": "食べる、寝る、歩く、働く。こうした日常の全てが私に苦痛を与える。でも愛される瞬間だけ、幸せを感じるんだ。その一瞬のために、今日まで耐えてきた。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_shawn_talk2_003.aac",
+            "text": "実は、昔は今と違う声だったんだ。その頃は、一流の声優になって、色んなキャラクターを演じて、ファンが口々に私の名前を挙げて自慢してくれたら、なんて妄想もしていたよ……ふっ、ある意味夢は叶ったかな？まぁ、フォロワーに愛されているこの声は、あまり好きではないんだけど。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_shawn_obeyfull_001.aac",
+            "text": "「好きだ」という3文字を、今まで何度も送ってきた。ただあなたとのチャットになると、打っては消して、結局送れなかった……きっと、面と向かって言いたかったんだろう。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_shawn_idle_001.aac",
+            "text": "もう寝た？まだなら、私の声を聞けば……眠れる……よ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_shawn_clicking_001.aac",
+            "text": "私のプロフィールに何度も「気になる」を押す人たちは、私の注意を引いて返信を貰おうとしているんだ。あなたは？現実で私に触れ続けることで、私に何を求めているんだ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_shawn_specialattention_001.aac",
+            "text": "これが、ネットでの恋愛が現実になる感覚か？あなたの近くにいると、緊張して声を上手くコントロールできないんだ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_shawn_dispatch_001.aac",
+            "text": "ネット以外は得意じゃないんだが、あなたが望むならやってみるよ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_shawn_dispatch2_001.aac",
+            "text": "手渡しでプレゼントを贈るのは初めてだ。経験不足だから、許してもらえないか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_shawn_levelup_002.aac",
+            "text": "リアルの私を見て、よく離れなかったな？"
+        }
+    ],
+    "digital_fauxmance": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_shawn_weiliantuisong_cacha_001.aac",
+            "text": "私がアップした写真にはたくさんの派手なステッカーが貼られているが、それを取り払って私の前に来たのは、あなた一人だけだ……だからハニー、一緒に「忘れられない瞬間」を作らないか？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_shawn_weiliantuisong_levelup_001.aac",
+            "text": "おお、「いいね」がこんなにたくさん。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_shawn_weiliantuisong_greeting_001.aac",
+            "text": "うん、床の風船の彩度も、エレベーターの構図もちょうどいい……あと必要なのは、私と一緒に写真に収まる完璧なあなただけだ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_shawn_weiliantuisong_talk_001.aac",
+            "text": "この時代、多くの人が偽りのネット世界で迷子になっている。どんなにフィルターをかけても、つまらない人生は誤魔化せない……私たちが本当に求めているのは、リアルで生き生きとした感情、あるいは色褪せることのない思い出かもしれない。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_shawn_weiliantuisong_talk_002.aac",
+            "text": "そういえば、あなたもアカウントを開設してみたらどうだ？その見た目なら、きっと簡単にたくさんのフォロワーを集められるだろう。私たち大物インフルエンサーが実はカップルだという設定を作り上げることも……冗談だよ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_shawn_weiliantuisong_idle_001.aac",
+            "text": "最近アカウントのフォロワーがたくさん増えたな……でも、あなたはいつになったら私をフォローしてくれるんだ？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_shawn_weiliantuisong_clicking_001.aac",
+            "text": "そうだ、そんな感じで。もう少し近づいても構わない。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_shawn_weiliantuisong_specialattention_001.aac",
+            "text": "動かず、そのまま私を見つめ続けてくれ……うん、いい感じだ。これを投稿しよう。うーん……テキストはどうしようか……「彼といる瞬間は全てが輝いている」かな。"
+        }
+    ]
+}

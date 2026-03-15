@@ -1,0 +1,260 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_hekadi_cacha_001.aac",
+            "text": "我一直都在等你。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_hekadi_promotion_001.aac",
+            "text": "只要你需要，我会一直在你身边。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_hekadi_promotion2_001.aac",
+            "text": "我的一切都将为你所用，这就是“赫卡蒂”存在的意义。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_hekadi_battlebegin_001.aac",
+            "text": "跟在我身后。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_hekadi_battlewin_001.aac",
+            "text": "接下来，我该怎么做？"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_hekadi_battlelose_001.aac",
+            "text": "没事的，我感觉不到痛。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_hekadi_uniqueskill_001.aac",
+            "text": "你……不该靠近他！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_hekadi_dead_001.aac",
+            "text": "没关系……还会有下一个我。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hekadi_greeting_001.aac",
+            "text": "昨晚睡得好吗，局长？请给我今天的命令。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_hekadi_talk1_001.aac",
+            "text": "……只要能保护好你，就可以了吧？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_hekadi_talk1_002.aac",
+            "text": "“禁闭者”与那些“死役”有什么不一样？同样都是会流血与死亡的生命，为什么你认为我们是不同的？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_hekadi_talk1_003.aac",
+            "text": "如果我消失，还会有下一个“赫卡蒂”出现。所以，你不必在乎。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_hekadi_talk2_001.aac",
+            "text": "你可以对我再严苛一些，那些对我友善的人……都……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_hekadi_talk2_002.aac",
+            "text": "与你相遇以后，我总觉得自己不再是赫卡蒂。我不知道自己到底会变成什么，等到那一天……你会告诉我该怎么做吗？"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_hekadi_talk2_003.aac",
+            "text": "局长，如果有一天……我不再作为“赫卡蒂”活着，你还会让我站在你身边吗？"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_hekadi_obeyfull_001.aac",
+            "text": "我已经不再需要命令了，局长。请好好看着我，剩下的路，我会遵从自己的意志陪你一起走完。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hekadi_idle_001.aac",
+            "text": "做个好梦。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hekadi_clicking_001.aac",
+            "text": "如果是难以启齿的命令，不必犹豫，尽管使用我就好。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hekadi_specialattention_001.aac",
+            "text": "就算不这样做，我也会一直陪着你。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hekadi_dispatch_001.aac",
+            "text": "是命令吗？明白了，我会做好的。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_hekadi_dispatch2_001.aac",
+            "text": "命令完成，我回来了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hekadi_levelup_002.aac",
+            "text": "如果这就是你所期望的，我会去做。"
+        }
+    ],
+    "yesterday_revisits": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hekadi_zuorichongxian_cacha_001.aac",
+            "text": "嗯，如果不是你的要求……我没有穿这身衣服的机会。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hekadi_zuorichongxian_levelup_001.aac",
+            "text": "休息时我也不会松懈。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hekadi_zuorichongxian_greeting_001.aac",
+            "text": "今天需要我做些什么呢？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_hekadi_zuorichongxian_head_001.aac",
+            "text": "很在意我的帽子吗？她们告诉我这是画家才能戴的，不过……画家是什么？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hekadi_zuorichongxian_body_001.aac",
+            "text": "每次穿这身衣服时，总有人会给我拍照。不过，已经很久没有人要求我穿上它们了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hekadi_zuorichongxian_body_002.aac",
+            "text": "如果有机会……也想请你带我去战场之外的地方。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_hekadi_zuorichongxian_lefthand_001.aac",
+            "text": "以前，会有睡前故事从电话的另一端传过来。后来我突然忘记了故事的内容，电话也再没响起过。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_hekadi_zuorichongxian_righthand_001.aac",
+            "text": "夜莺副官说我的画册很危险，不该被人看到，我就把它放在这箱子里了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hekadi_zuorichongxian_idle_001.aac",
+            "text": "我画过一些和局长有关的画，他们都说，绝不能让你看到。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hekadi_zuorichongxian_specialattention_001.aac",
+            "text": "如果你喜欢这种风格的话……要把它做成管理局的常用制服吗？"
+        }
+    ],
+    "traveler's_tale": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_cacha_001.aac",
+            "text": "你好，我是来自异世界的魔法使，拥有操控梦境与幻想的力量……台词是这样没错吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_levelup_001.aac",
+            "text": "魔力值增加。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_greeting_001.aac",
+            "text": "局长想要加入我们？好的，即使是在游戏里，我也会保护好你。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_head_001.aac",
+            "text": "莓丝告诉我，这是魔法使的专属装备……帽子越大，特殊加成越高，局长也想要吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_body_001.aac",
+            "text": "偶尔做一些命令之外的事，好像也不错……原来放松是指这个意思。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_body_002.aac",
+            "text": "在虚拟世界里，大家都能成为幻想中的自己，去做现实中无法做到的事情……这就是所谓游戏的魅力吗。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_righthand_001.aac",
+            "text": "梦魇也换上了新的装备，它好像很喜欢。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_lefthand_001.aac",
+            "text": "姆兰哥拉多——啊……是艾米潘说，玩游戏要把魔法书上的技能名都念出来，才更有代入感。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_idle_001.aac",
+            "text": "“远道而来的勇者，接受天空与星辰的指引，将踏上未知的旅途，寻找那神秘的宝藏……”"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hekadi_lvrenchuanshuo_specialattention_001.aac",
+            "text": "局长想去哪个地方做任务？只要给我命令，我会陪你一起去的。"
+        }
+    ],
+    "darkwing_eclipse": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hekadi_anyushaguang_cacha_001.aac",
+            "text": "局长，和你相遇之后，我们所经历的每一刻，即使是艰难困苦的时刻……都是我在梦境中战胜恐惧的力量。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hekadi_anyushaguang_levelup_001.aac",
+            "text": "羽翼……丰盈……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hekadi_anyushaguang_greeting_001.aac",
+            "text": "唔……？啊……是局长啊……您没有打扰到我，我只是正好从一个梦中醒来……放心，不是噩梦，与您相关的，都是美梦……"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hekadi_anyushaguang_body_001.aac",
+            "text": "局长，踏上旅途至今，我已经历练得足够强大，不会再受到噩梦的伤害……所以，不要担心……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hekadi_anyushaguang_body_002.aac",
+            "text": "旅行至今，我看到这个世界充满了可以让梦魇变得更强大的事物……灾难，毁灭，还有数不清的痛苦。但是，我遇到了很多人，他们不害怕。他们灵魂的光芒能消融恐惧……局长，是谁告诉他们，应该怎么做的呢？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hekadi_anyushaguang_idle_001.aac",
+            "text": "等待……也是旅行的一部分……嗯，我很擅长等待。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hekadi_anyushaguang_clicking_001.aac",
+            "text": "局长，是对这双翅膀好奇吗？它们和真的羽毛一样，很光滑，很柔软……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hekadi_anyushaguang_specialattention_001.aac",
+            "text": "只要仔细记录旅行每一刻的见闻和思考，即使过去很久，即使在梦里，也能清晰回忆起当时的经历，获得主宰梦境的力量……\n谢谢你一直陪在我身边，局长。"
+        }
+    ]
+}

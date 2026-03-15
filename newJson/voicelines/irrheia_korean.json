@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_irrheia_cacha_001.aac",
+            "text": "지루한 건 싫고, 당연한 것도 이제 지쳤어. 네가 찾아온 방식은 너무 평범해. 그러니까… 다시 한번 해볼래? 내가 처음 만난 척해 줄게."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_irrheia_promotion_001.aac",
+            "text": "네가 날 위해 펼쳐 줄 다음 막을 기대하고 있어."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_irrheia_promotion2_001.aac",
+            "text": "바늘이 움직이기 시작했고, 서막이 열렸어… 어서 와, 난 이야기의 끝에서 널 기다릴게!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_irrheia_battlebegin_001.aac",
+            "text": "준비됐어. 윤회를 시작하지."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_irrheia_battlewin_001.aac",
+            "text": "다음 판에서도 이런 놀라움을 다시 맛볼 수 있기를."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_irrheia_battlelose_001.aac",
+            "text": "흐음, 나름 흥미로운 결말이네."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_irrheia_uniqueskill_001.aac",
+            "text": "한숨에 끝나고, 한숨에 다시 태어나라!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_irrheia_dead_001.aac",
+            "text": "적어도 이번엔… 내가 내린 선택이야…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_irrheia_greeting_001.aac",
+            "text": "맞춰볼까…? 오늘 네가 찾아온 건, 정해진 운명일까, 아니면 변수일까?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_irrheia_talk1_001.aac",
+            "text": "수면이 지나치게 고요할 때면, 난 항상 돌멩이를 던졌거든. 그게 잔물결로 끝날지, 폭탄이 될지는… 언제나 물고기의 선택, 혹은 한 번의 배신에 달려 있지."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_irrheia_talk1_002.aac",
+            "text": "대부분의 사람은 예정된 각본을 들고 무대에 등장하지. 출신은 오프닝 멘트고, 경력은 챕터 제목에 불과해. 몇 장만 넘겨 봐도… 그들의 결말이 보여. 하품이 나올 만큼 지루하지."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_irrheia_talk1_003.aac",
+            "text": "국장, 계속 가. 멈추지 마. 난 안전하고 순종적인, 규칙에 길든 이야기는 이미 질렸거든. 네 곁에 있는 게 훨씬 더 재밌는 선택이야. 날 실망시키진 않겠지?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_irrheia_talk2_001.aac",
+            "text": "내가 만든 무대 위엔, 몇 번을 윤회해도 똑같이 지루한 길을 걷는 사람들이 있어. 결국 형편없는 인간이 되어버려서, 구해줄 가치조차 없지… 그런데 네가 그런 그들을, 전혀 다른 결말로 이끌어 낼 줄은 생각도 못 했네."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_irrheia_talk2_002.aac",
+            "text": "내 세계는 한때 그 빨간 파이프와 규칙적인 선 안에 갇혀 있었어. 매일 배달되는 검사 보고서처럼 지루했거든… 하지만 누군가가 규칙에 맞서기 위해 자신을 갈가리 찢는 걸 본 순간, 난 더 이상 그 속박들을 외면할 수 없었어."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_irrheia_talk2_003.aac",
+            "text": "내 가족이라던 그 녀석들은 '가문의 전통'을 들먹이며 혈연으로 날 옭아매고, 내가 기꺼이 스스로를 제물로 바치게 했어. 우습지 않아…? 하지만 난 이미 그들에게 똑똑히 알려줬어. 이제 이 가문의 규칙을 정하는 사람은 나라고."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_irrheia_obeyfull_001.aac",
+            "text": "어젯밤, 꿈을 꿨어. 윤회 속에서 난 무수한 출구들을 지나고 있었지. 그곳들은 모두 칠흑처럼 어두워, 바닥조차 보이지 않았어. 그런데 그중 하나의 출구에… 네가 있었어. 난 주저 없이 그곳으로 걸어갔고, 결국 네 품에서 죽음을 맞이했지. 그런데 깨어나고 나서, 이상할 만큼 기뻤어… 이제야 알 것 같아. 끝없는 윤회 속에서, 나를 만족시킬 결말이 무엇인지."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_irrheia_idle_001.aac",
+            "text": "가끔 이렇게 아무것도 안 하고 멍하니 있는 것도 새로운 경험이네."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_irrheia_clicking_001.aac",
+            "text": "남을 떠보는 방식이 참 뻔하네. 좀 더 자극적인 걸로 해볼래?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_irrheia_specialattention_001.aac",
+            "text": "난 이야기 속에서 사람들이 감히 쳐다보지도 못하는 두려운 존재야. 그런데 넌 이렇게 아무렇지도 않게 나를 보네… 마녀가 좋아? 자극적인 게 좋은 거야? 아니면 단순히… 날 좋아하는 거야?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_irrheia_dispatch_001.aac",
+            "text": "난 재미없는 일은 안 받아. 날 실망하게 하진 마."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_irrheia_dispatch2_001.aac",
+            "text": "전부 중요하지 않은 것들이야. 마음에 들면 가져가. 난 흥미 없어."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_irrheia_levelup_002.aac",
+            "text": "고지식한 건 너무 재미없어. 마침 잘됐네, 새로운 변수들이 좀 필요했거든."
+        }
+    ],
+    "irrheia_-_rank_up": [
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_irrheia_head_001.aac",
+            "text": "넌 항상 예상 밖의 행동을 하지. 다행히 난 네 손길이 싫진 않아."
+        }
+    ]
+}

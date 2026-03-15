@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_luweiyalei_cacha_001.aac",
+            "text": "너희들은 그 옹졸한 놈들과 한 패냐? 조심해라, 안 그러면… 미, 미안해요, 아까는 레이였어요. 제가 또 무슨 이상한 짓을 한건 아니겠죠?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_luweiyalei_promotion_001.aac",
+            "text": "저도 연기를 더 잘하게 되어 감동적인 작품을 했으면 좋겠어요!"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_luweiyalei_promotion2_001.aac",
+            "text": "좋았어, 같이 폐급들을 청소하러 가볼까!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_luweiyalei_battlebegin_001.aac",
+            "text": "뉴잡? 네! 파이팅 하겠습니다~!"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_luweiyalei_battlewin_001.aac",
+            "text": "후우~ 국장님, 이번에 우리 어땠어요? 잘했어요?"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_luweiyalei_battlelose_001.aac",
+            "text": "걱정 마세요, 저는 실패에 익숙하니까요…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_luweiyalei_uniqueskill_001.aac",
+            "text": "비켜! 오지 말라고!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_luweiyalei_dead_001.aac",
+            "text": "나는 역시… 안되나 봐…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_luweiyalei_greeting_001.aac",
+            "text": "국장님, 오늘 푹 쉬셨어요? 스케줄을 너무 꽉 채우면 몸이 버티질 못해요~"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_luweiyalei_talk1_001.aac",
+            "text": "때때로 저는 갑자기 노발대발하며 다른 사람이 된 것처럼 공격적으로 행동해요. 그건, 몸속에 정말 다른 여자애가 존재하기 때문이에요… 국장님, 지금 웃었죠? 정말이에요~ 저는 아직 국장님을 속일만한 연기력은 없어요!"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_luweiyalei_talk1_002.aac",
+            "text": "경고하는데 웬만하면 내 주변에서 알짱거리지 마, 알았어? 나는 루비아와 다르다고, 네 멋대로 와서 말 걸지 마."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_luweiyalei_talk1_003.aac",
+            "text": "국장님 이것 좀 보세요~ 이건 제가 오디션을 위해 디자인한 스타일이에요~ 그런데… 심사위원님께서 저에게 오디션 기회를 주실까요?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_luweiyalei_talk2_001.aac",
+            "text": "저는 영웅을 하나 만들어서 약자를 지키고 어둠을 거두어 주고 싶어요. 저도… 누군가의 빛이 되고 싶어요. 헤헤, 지금은 그저 꽃병처럼 보호만 받고 있지만… 열심히 할 거예요."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_luweiyalei_talk2_002.aac",
+            "text": "과거에 저는 항상 레이가 저를 연루시켰다고 생각했는데, 나중에야 그녀가 저의 수호천사라는 것을 알게 되었어요. 헤헤, 사실 전 레이가 너무 좋아요… 쉿! 그녀에게 들려서는 안 된다고요! 그렇지 않으면 레이가 또 바보라고 놀린단 말이에요!"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_luweiyalei_talk2_003.aac",
+            "text": "…난 레이다… 뭘 도망가, 내가 전기로 널 지질 것도 아닌데. 루비아가… 많이 변했어… 고맙다고… 그냥… 그게 다야."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_luweiyalei_obeyfull_001.aac",
+            "text": "너 이 자식, 잘 들어! 사실 우리는… 너, 너, 너를 꽤 좋아해! 헤헤~ 방금 누구였게요~ 맞혀봐요!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_luweiyalei_idle_001.aac",
+            "text": "레이, 내 말 좀 들어봐, 이번에는 스스로 잘 지킬 수 있어! 믿어줘! 응? 응?? 아이잉~ 화내지 마앙~~!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_luweiyalei_clicking_001.aac",
+            "text": "어…음… 국장님, 이러지 마세요… 이러시면… 어머~! 말했잖아, 그만하라고! 말귀 못 알아들어?!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_luweiyalei_specialattention_001.aac",
+            "text": "국장님도 함께 하실래요? 같이 이야기 나눌 상대가 있다는 건 너무 좋은 일이죠. 레이도 사실 기뻐하고 있어요. 다만, 부끄러워서 말을 못 하는 거예요~"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_luweiyalei_dispatch_001.aac",
+            "text": "오예~! 새 드라마 캐스팅에 참여할 수 있게 됐어요! 국장님, 사랑해요!"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_luweiyalei_dispatch2_001.aac",
+            "text": "에고, 오디션은 또 탈락했지만, 국장님이 맡긴 임무는 완수했어요!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_luweiyalei_levelup_002.aac",
+            "text": "와아~ 전파가 흐르는 파파팟 소리, 후우~ 위험해!"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_luweiyalei_head_001.aac",
+            "text": "아… 국장님, 이러시면 아, 안돼요. 머리가 다 헝클어 진다고요."
+        }
+    ],
+    "glittering_stars": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_luweiyalei_shanyaoxingtu_cacha_001.aac",
+            "text": "'눈 오는 날 밤, 행복을 상징하는 루비아.레이가 멋지게 등장할 거예요! 침대맡에 양말 놓아두는 거 잊지 마요! 안 그러면 선물은 없어요~'"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_luweiyalei_shanyaoxingtu_levelup_002.aac",
+            "text": "메.리.크.리.스.마.스! 음… 촬영 샷을 더 잘 잡을 수 있으면 좋겠어요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_luweiyalei_shanyaoxingtu_greeting_001.aac",
+            "text": "국장님, 이번 명절 촬영장에 필요한 장비가 모두 갖춰졌어요!… 앗… 조심하세요! 장비를 잘못 건드렸다가 고장 나기라도 하면… 관리국 재정 상태가 위험해질 거라고요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_luweiyalei_shanyaoxingtu_talk1_001.aac",
+            "text": "아, 진짜… 이런 옷이 뭐가 좋다고. 움직이기 불편하기나 하지… 다른 옷으로 바꾸자고? 됐어, 루비아의 뜻을 따를게."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_luweiyalei_shanyaoxingtu_talk1_002.aac",
+            "text": "이런 배역 너무 좋아요! 아무도 모르게 남에게 베풀며 타인의 소망을 지켜준다니… 좋아! 전 결정했어요! 내년에도 여기서 연기를 할래요! 하지만 다음엔 반드시 주인공이 될 거예요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_luweiyalei_shanyaoxingtu_idle_001.aac",
+            "text": "…국장님, 조금만 더 같이 있어 주실 수 있나요? 국장님과 같이 오늘의 야경을 감상하고 싶어요!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_luweiyalei_shanyaoxingtu_clicking_001.aac",
+            "text": "루비아가 촬영장에서 남들하고 함부로 악수하면 안 된댔어. 하지만 국장이라면… 괜찮아."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_luweiyalei_shanyaoxingtu_specialattention_001.aac",
+            "text": "앗~ 국장님, 저 말고 영화를 보셔야죠~! 그냥, 그냥 단역일 뿐이지만… 그래도 촬영 현장에서 연기력이 폭발했었다고요!"
+        }
+    ],
+    "beach_frolic": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_luweiyalei_qingliangyike_cacha_001.aac",
+            "text": "'회색 트렌치코트를 입은 이 사악한 악마! 5시간이나 루비아.레이 혼자 놀게 내버려두다니! 이제 벌을 받을 시간이다! 고기압 물총 발사~' 어때요? 점점 더 여주인공 같지 않아요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_luweiyalei_qingliangyike_levelup_002.aac",
+            "text": "너무 더워요… 국장님, 같이 물놀이하면서 더위 좀 식혀요!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_luweiyalei_qingliangyike_greeting_001.aac",
+            "text": "헤헤, 또 다른 주인공이 드디어 등장했네요! <두근거리는 여름> 제1막 제1장 촬영 시작! 아직도 준비가 안 됐다고요? 음… 국장님, 설마 아직도 대사를 못 외운 건 아니죠?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_luweiyalei_qingliangyike_talk1_001.aac",
+            "text": "내가 기분이 안 좋아 보여? …그건 아니야. 그냥 몸이 너무 축축해지면 전투에 지장이 될까 봐 그래."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_luweiyalei_qingliangyike_talk1_002.aac",
+            "text": "국장님, 올여름은 어떤 거 같아요? 재밌게 놀았어요? 헤헤… 올여름에는 전설 속의 바다를 본 것뿐만 아니라 많은 소원을 이루었어요! 루비아.레이에게는 정말이지 너무나도 멋진 여름이었어요!"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_luweiyalei_qingliangyike_idle_001.aac",
+            "text": "물놀이하고 싶으신 분~? 지금 오시면 '미래 유명 배우와 같이 사진 찍기' 1회권을 드립니다!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_luweiyalei_qingliangyike_clicking_001.aac",
+            "text": "잊지 마, 물에는 전기가 흐른다고."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_luweiyalei_qingliangyike_specialattention_001.aac",
+            "text": "아아아, 죄송합니다, 죄송합니다. 저 때문에 옷이 다 젖어버렸네요… 하, 하지만 국장님이 절 계속 쳐다보시지 않았더라면, 제가 다, 당황하는 바람에 손이 미끄러지지도 않았을 텐데…"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_jiushijiu_cacha_001.aac",
+            "text": "あんたは……わたしたちを閉じ込めたやつだ。匂いを覚えている。どこに逃げても無駄だ。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_jiushijiu_promotion_001.aac",
+            "text": "はは……言え。あんたが欲しいのはわたしか？それとも一匹の獣か？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_jiushijiu_promotion2_001.aac",
+            "text": "わたしに力を与えたら、足かせを緩めるな——一瞬でも……だめだ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_jiushijiu_battlebegin_001.aac",
+            "text": "殺し合いの準備をしろ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_jiushijiu_battlewin_001.aac",
+            "text": "早すぎだ。ゴミどもめ、終わるのが早すぎる！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_jiushijiu_battlelose_001.aac",
+            "text": "放せ。まだ終わっていない！放せ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_jiushijiu_uniqueskill_001.aac",
+            "text": "あぁああああ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_jiushijiu_dead_001.aac",
+            "text": "わたしは……自由になれたのか？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jiushijiu_greeting_001.aac",
+            "text": "来たのがあんただってことはわかっていた。わたしはあんたの足音がわかるからな。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_jiushijiu_talk1_001.aac",
+            "text": "やつらはわたしの腕を、血を欲しがっている。わたしに全てを切り裂いて欲しいと望んでいる。化け物を作り出したかったやつらにとって、わたしは「最高傑作」なんだ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_jiushijiu_talk1_002.aac",
+            "text": "わたしの刀は多くの人を切った。ただ、切ってきたやつらの中でヘラは最強ではなく、最もしぶとい者と思われているんだろうな。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_jiushijiu_talk1_003.aac",
+            "text": "血が騒ぐと、体が勝手に動く。考える必要はないし、誰を引き裂いたかは覚えていない。ただ楽しければ十分。わたしはそういう風に設計されている。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_jiushijiu_talk2_001.aac",
+            "text": "鎖？大した物じゃない。慣れている。それに、断ち切るなんて……今では簡単なことだ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_jiushijiu_talk2_002.aac",
+            "text": "人に何と呼ばれてもかまわない。でも「ナインティナイン」は好きだ……わたしの最初の名前だから。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_jiushijiu_talk2_003.aac",
+            "text": "パルマでのことは、よく覚えていない。暗闇の中でヘラの声がしたことだけは覚えている。「シンジケート」、「地上」、「人」とずっと話しかけてくれた。わたしを連れて行くと何度も……。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_jiushijiu_obeyfull_001.aac",
+            "text": "殺したくても殺せない人間は、あんたが二人目だ。わたしはこれから、自分が死ぬその日まであんたのために戦う。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jiushijiu_idle_001.aac",
+            "text": "……腹が減った。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jiushijiu_clicking_001.aac",
+            "text": "喧嘩を……売ってるのか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jiushijiu_specialattention_001.aac",
+            "text": "わたしをよく見て。わたしがあんたを見ているように。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_jiushijiu_dispatch_001.aac",
+            "text": "……頑張る。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_jiushijiu_dispatch2_001.aac",
+            "text": "あんたの言う通り、終わらせた。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jiushijiu_levelup_002.aac",
+            "text": "おもしろい。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_jiushijiu_head_001.aac",
+            "text": "それは……わたしを慰めているのか？"
+        }
+    ],
+    "chaotic_restraint": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_cacha_001.aac",
+            "text": "わたしは……パルマの生物兵器、ナインティナイン。戦う……命令をくれ。わたしは戦いしかいらない……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_levelup_001.aac",
+            "text": "更に強くなった……やつらを楽にしてやる。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_greeting_001.aac",
+            "text": "来たか……次の戦闘は、いつから始まる？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_body_001.aac",
+            "text": "戦い……絶え間ない戦い……どちらかが倒れるまで……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_body_002.aac",
+            "text": "痛みは人の気を散らす。だから、生き残りたければ痛みに慣れる必要がある。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_idle_001.aac",
+            "text": "ずっとここにいるようだが、何がしたいんだ？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_clicking_001.aac",
+            "text": "はぁっ……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_specialattention_001.aac",
+            "text": "戦闘のためでないなら、なぜわたしに近づく？わたしに他の使い道があるのか？"
+        }
+    ],
+    "new_world": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_jiushijiu_xinshijie_cacha_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jiushijiu_xinshijie_levelup_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jiushijiu_xinshijie_greeting_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_jiushijiu_xinshijie_body_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_jiushijiu_xinshijie_body_002.aac",
+            "text": "＊"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jiushijiu_xinshijie_idle_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jiushijiu_xinshijie_clicking_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jiushijiu_xinshijie_specialattention_001.aac",
+            "text": "＊"
+        }
+    ]
+}

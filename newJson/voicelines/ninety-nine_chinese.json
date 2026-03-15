@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_jiushijiu_cacha_001.aac",
+            "text": "是你……呵呵，我记得你的气味，到哪儿都能找到你。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_jiushijiu_promotion_001.aac",
+            "text": "哈哈哈……你也要这力量？你也……想要一头野兽？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_jiushijiu_promotion2_001.aac",
+            "text": "给了我力量，就别松开枷锁——一刻也不行。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_jiushijiu_battlebegin_001.aac",
+            "text": "呵呵，好熟悉的味道。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_jiushijiu_battlewin_001.aac",
+            "text": "太快了，没用的家伙，结束得太快了！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_jiushijiu_battlelose_001.aac",
+            "text": "放开我，还没结束！放开！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_jiushijiu_uniqueskill_001.aac",
+            "text": "啊——"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_jiushijiu_dead_001.aac",
+            "text": "我……自由了吗"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jiushijiu_greeting_001.aac",
+            "text": "我知道来的人是你，我能听出你的脚步声。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_jiushijiu_talk1_001.aac",
+            "text": "他们要我的手臂，要我疯狂，要我破坏一切。他们想要制造怪物，却说我……是“最高杰作”。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_jiushijiu_talk1_002.aac",
+            "text": "我曾跟很多人拼死战斗。在他们之中，海拉不是最强的，却是最能扛的。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_jiushijiu_talk1_003.aac",
+            "text": "手臂的黑泥会沸腾，身体会自己行动。不需要思考不需要理智，他们要我发狂，说，破坏就是我的本能。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_jiushijiu_talk2_001.aac",
+            "text": "锁链？没什么，我习惯了。而且，现在挣脱，很简单。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_jiushijiu_talk2_002.aac",
+            "text": "别人叫我什么都无所谓。但我喜欢“九十九”……这是我第一个名字。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_jiushijiu_talk2_003.aac",
+            "text": "帕尔马的事，我记不清了。只记得黑暗里有海拉的声音。她一直在跟我说话，说辛迪加，地上，人。她说要带我离开。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_jiushijiu_obeyfull_001.aac",
+            "text": "你是第二个，我想解决却解决不了的人。从今以后，我会一直为你战斗的，直到精疲力竭的那天。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jiushijiu_idle_001.aac",
+            "text": "……饿了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_jiushijiu_clicking_001.aac",
+            "text": "你想……做什么？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jiushijiu_specialattention_001.aac",
+            "text": "看好我，就像我看着你一样。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_jiushijiu_dispatch_001.aac",
+            "text": "我……尽力。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_jiushijiu_dispatch2_001.aac",
+            "text": "按你说的，结束了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jiushijiu_levelup_002.aac",
+            "text": "有意思。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_jiushijiu_head_001.aac",
+            "text": "你这是……在安抚我？"
+        }
+    ],
+    "chaotic_restraint": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_cacha_001.aac",
+            "text": "我是……帕尔马的生物兵器九十九。战斗……给我命令，我只需要战斗……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_levelup_001.aac",
+            "text": "更强了……我会给他们一个痛快的。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_greeting_001.aac",
+            "text": "你来了……下一场战斗，什么时候开始？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_body_001.aac",
+            "text": "战斗，无休止的战斗，直到一方倒下……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_body_002.aac",
+            "text": "疼痛会让人分心，所以想要活下去，就必须习惯疼痛的感觉。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_idle_001.aac",
+            "text": "你好像一直都在这里，究竟有什么目的？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_clicking_001.aac",
+            "text": "咕噜……咕噜……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jiushijiu_hundunzhiyue_specialattention_001.aac",
+            "text": "如果不是为了战斗，为什么会来找我？我还有别的用处吗？"
+        }
+    ],
+    "new_world": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_jiushijiu_xinshijie_cacha_001.aac",
+            "text": "上车坐好。嗯……我也不知道要往哪儿开，你来决定。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jiushijiu_xinshijie_levelup_001.aac",
+            "text": "把油加满。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jiushijiu_xinshijie_greeting_001.aac",
+            "text": "醒了？那我们就出发吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_jiushijiu_xinshijie_body_001.aac",
+            "text": "每天睡醒就向前开，开到哪儿停到哪儿。这是我以前从来没想过的生活，感觉很好。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_jiushijiu_xinshijie_body_002.aac",
+            "text": "开到最高速时，风吹在脸上的感觉，有点像大剑挥舞时卷起的风。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jiushijiu_xinshijie_idle_001.aac",
+            "text": "你要听歌吗？唱片……我也不知道放在哪里了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_jiushijiu_xinshijie_clicking_001.aac",
+            "text": "出发之后就别对司机这么做，会很危险。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jiushijiu_xinshijie_specialattention_001.aac",
+            "text": "油加满之前就只能像这样你看我我看你了吗？没有不自在，我很适应你的目光。"
+        }
+    ]
+}

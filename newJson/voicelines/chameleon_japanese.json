@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_chameleon_cacha_001.aac",
+            "text": "わたしに近づいてくるなんて……また催眠術にかかりたいの？　局長さん。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_chameleon_promotion_001.aac",
+            "text": "ふふ……もっと深く夢の世界に入りたいみたいね。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_chameleon_promotion2_001.aac",
+            "text": "知識の果てに、こんなに素晴らしい景色があっただなんて……。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_chameleon_battlebegin_001.aac",
+            "text": "ここには誰の痛みが隠されているのかしら？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_chameleon_battlewin_001.aac",
+            "text": "楽しませてくれるわね。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_chameleon_battlelose_001.aac",
+            "text": "たまには失敗するのもいいわ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_chameleon_uniqueskill_001.aac",
+            "text": "解き放つのです……あなたの力を！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_chameleon_dead_001.aac",
+            "text": "わたしにふさわしい……結末ね……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_chameleon_greeting_001.aac",
+            "text": "こんにちは、親愛なる局長さん。何か心配な事があれば、わたしに話してちょうだい。料金はかからないから……安心して。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_chameleon_talk1_001.aac",
+            "text": "意識という檻に、すべての人は幽閉され、逃れることは一生できないの。 ふふ、だからその檻の前では、あなたの管理局だって幽閉ゲームをしているにすぎないのよ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_chameleon_talk1_002.aac",
+            "text": "なぜ心理学を選んだのか？優雅で余裕のある科学だからよ。メスを持たなくても、あなたを殺せるから……ふふ、冗談よ。そう緊張しないで？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_chameleon_talk1_003.aac",
+            "text": "チクタク、チクタク、チクタク……人生は振り子のように、いつまでも苦痛と倦怠の間を揺れ動いているのよ……。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_chameleon_talk2_001.aac",
+            "text": "夜になるとね、ナイトメアに襲われるコンビクトがたくさんいるの。ねぇ、局長さん。彼らと二人きりでプライベートな話がしたいのだけど……気にしないわよね？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_chameleon_talk2_002.aac",
+            "text": "無意識に潜む猛獣はいつか目を覚ますわ。その時の局長が、それをうまく抑え込めるかしら？……それとも一口ずつ飲み込んでいくの？とても楽しみだわ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_chameleon_talk2_003.aac",
+            "text": "他人の善意は、まるでハゲタカのようなものよ。暴行が起こると、頭上を旋回して耳障りな音を立てるだけで、被害者がもがくのをやめると、地面に落りてきて最後の肉を貪り喰らうのよ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_chameleon_obeyfull_001.aac",
+            "text": "最も頑固な精神病患者と最も残酷な臨床心理士——わたしたちの間には世界で最も完璧な関係が築かれているようね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_chameleon_idle_001.aac",
+            "text": "この懐中時計を見て、リラックスしてちょうだい。あなたはだんだん眠くなる……眠くなる……さぁ教えて。あなたは夢の中で何を見たのかしら？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_chameleon_clicking_001.aac",
+            "text": "ふふふ。何を考えているのかわかってるわ……どんな無意識の衝動も、わたしの目をごまかすことはできないのよ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_chameleon_specialattention_001.aac",
+            "text": "あらあらあら、予約の患者さんが来たみたいね。では始めましょうか。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_chameleon_dispatch_001.aac",
+            "text": "臨床心理士にこんなことをさせるなんて…… はぁ……"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_chameleon_dispatch2_001.aac",
+            "text": "向こうで面白いことがあったの。聞きたい？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_chameleon_levelup_002.aac",
+            "text": "これで、より深淵に近づけたわ……。"
+        }
+    ],
+    "message_in_dreams": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_chameleon_mengmeisiyu_cacha_001.aac",
+            "text": "「好奇心」「強欲」「愛」……これらに導かれて、わたしに会いに来たのね。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_chameleon_mengmeisiyu_levelup_001.aac",
+            "text": "人とは「強欲の自我」。そして、欲望が尽きることはない。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_chameleon_mengmeisiyu_greeting_001.aac",
+            "text": "わたしはあなたの疑問に全て答えてあげられる。でも、「答え」が欲しければ「答え」をちょうだいー「あなた」は誰なのか、教えてくれる？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_chameleon_mengmeisiyu_talk_001.aac",
+            "text": "この距離では、謎は解けないわ。さぁ、もっと近づいて……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_chameleon_mengmeisiyu_talk_002.aac",
+            "text": "太陽と月の神を飾りつけるなんて、敬虔なのか傲慢なのか……人間は矛盾しているからこそ面白いのだけれどね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_chameleon_mengmeisiyu_idle_001.aac",
+            "text": "目覚めるにはまだ早いわ。この夢の神殿にいるのは、わたしたち二人だけ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_chameleon_mengmeisiyu_clicking_001.aac",
+            "text": "あなたの欲しがっている答えがここに隠れているの？これで閃きが得られるなら、思うがままに探してみて。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_chameleon_mengmeisiyu_specialattention_001.aac",
+            "text": "「汝自身を知れ」——一見簡単そうでも、数々の人間がここで躓いてきたの。そして今……あなたの番がやってきたわ。"
+        }
+    ],
+    "dream's_ephemera": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_chameleon_xiaomengfusheng_cacha_001.aac",
+            "text": "夢の導きに従い、心の束縛を解くためにここに来たのかしら？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_chameleon_xiaomengfusheng_levelup_001.aac",
+            "text": "う～ん、なんていい夢なの。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_chameleon_xiaomengfusheng_greeting_001.aac",
+            "text": "現実世界の残酷さは、常に人間の不意をつくものよ。だからこそ、ここに留まってわたしとこの最高の瞬間を共有した方がよくないかしら？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_chameleon_xiaomengfusheng_head_001.aac",
+            "text": "人生は夢のようなものであり、万物は夢のために生まれては消えていくと言われているわ。いわゆる滄海桑田は、目が覚めた瞬間にほんの一瞬の出来事だと気付くのよ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_chameleon_xiaomengfusheng_body_001.aac",
+            "text": "あなたの目に見えているものが真実とは限らないわ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_chameleon_xiaomengfusheng_body_002.aac",
+            "text": "夢から覚めることができないのと、夢を見ることができないのとでは、どちらが不幸だと思う？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_chameleon_xiaomengfusheng_lefthand_001.aac",
+            "text": "ここはあなたを過去に連れ戻し、忘れられない後悔を埋めてくれる場所 ……あなたは永遠にこの中で溺れていたい？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_chameleon_xiaomengfusheng_background_001.aac",
+            "text": "夢を叶えたい？簡単なことよ。わたしに願ったその瞬間で時間を止め、夢が叶った時点で再び流れ始めるようにすれば、あなたの夢は叶うわ……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_chameleon_xiaomengfusheng_idle_001.aac",
+            "text": "人々は夢占いに熱中して、夢の中で起きたことを現実で再現したいと常に思っている。たとえそれが楽しいものではなくとも……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_chameleon_xiaomengfusheng_specialattention_001.aac",
+            "text": "夢は人の心の奥底にある望みを表すもの。あなたがどんな願望を持っているのか見せてちょうだい。"
+        }
+    ]
+}

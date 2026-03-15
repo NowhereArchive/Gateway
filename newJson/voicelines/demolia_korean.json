@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_atlant_cacha_001.aac",
+            "text": "엠… 비… 씨씨… 맞지? 그곳에 대해 들어본 적 있어, 수감자들을 많이 받아줬다던데, 그만 얘기하고 얼른 날 데려가 줘!"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_atlant_promotion_001.aac",
+            "text": "아이고~ 능력이 폐지 줍는 것처럼 점점 강해져!"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_atlant_promotion2_001.aac",
+            "text": "음… 역시 강한 게 좋은 것 같아. 일이 빨리 끝날수록 더 많이 잘 수 있으니까."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_atlant_battlebegin_001.aac",
+            "text": "틀림없이 좋은 물건을 많이 주울 수 있을 거야."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_atlant_battlewin_001.aac",
+            "text": "책에 그게 뭐라고 적혀있었더라… 아아! 맞다 맞아! 힘껏… 열 번!"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_atlant_battlelose_001.aac",
+            "text": "빨리 뛰어! 따라 잡히겠어!"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_atlant_uniqueskill_001.aac",
+            "text": "거기 서~~~!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_atlant_dead_001.aac",
+            "text": "멈… 춰… 못 지나가…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_atlant_greeting_001.aac",
+            "text": "오늘은 우리 어디로 주우러… 아! 아니 수감자를 잡으러 가는 거야?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_atlant_talk1_001.aac",
+            "text": "구매센터 사람들은 항상 돈을 너무 헤프게 쓴다니까, 내가 가서 한 마디 해야겠어, 돈이라는 게 땅 파서 나오는 게 아니라고."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_atlant_talk1_002.aac",
+            "text": "디스장기 둘래? 걔들 없으니까 우리 둘이 두어판 두자! 아, 어디 가~ 가지 마, 국장! 한 판만 해보자, 재밌을 거야!"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_atlant_talk1_003.aac",
+            "text": "'남의 험담을 선물이라 생각하지 마라, 왜냐하면 넌 쓰레기나 수습하는 사람이 아니니까?' 음? 이 말은 나를 겨냥해서 욕하는 거지, 국장? 아… 아니야? 그래, 아니면 됐어. 기억해둬야지."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_atlant_talk2_001.aac",
+            "text": "괴변체를 죽이는 것은 일이고, 삶을 즐기는 것이 가장 중요한 거지."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_atlant_talk2_002.aac",
+            "text": "헤이, 국장. 또 밤을 새운 거야? 그러면 안 돼, 내 말 들으라니까? 젊은이는 잠을 잘 자야 해."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_atlant_talk2_003.aac",
+            "text": "원래 살던 곳과 비교하면 여기는 너무나 호화롭기 때문에, 나는 기꺼이 복도에서 자고 신디케이트 그 아이들을 침대에서 재우고 싶어."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_atlant_obeyfull_001.aac",
+            "text": "국장, 우리 벌써 이렇게 친해졌으니까 솔직하게 말할게. 전에 얘기한 그 베란다는 언제쯤 허가가 떨어질 수 있을까?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_atlant_idle_001.aac",
+            "text": "언제 다시 러스트 리버에 갈 수 있을까? 거기 또 신상이 들어왔다는데, 무슨 레일 건자재도 있는 것 같더라고. 그건 주우면 아주 비싸게 팔 수 있다고~"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_atlant_clicking_001.aac",
+            "text": "어어어! 맞아! 거기! 좀 세게! 아이고, 시원~하다."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_atlant_specialattention_001.aac",
+            "text": "어? 나 혼자 여기 서 있으라고? 싫어! 심심하잖아."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_atlant_dispatch_001.aac",
+            "text": "국장, 밖에 날씨 너무 좋던데~ 같이 안 나갈래?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_atlant_dispatch2_001.aac",
+            "text": "오~~ 풍년이네! 내 자전거에 다 실리지도 않겠어!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_atlant_levelup_002.aac",
+            "text": "오? 망치가 가벼워진 것 같아!"
+        }
+    ],
+    "gritty_detour": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_atlant_shahaijiongtu_cacha_001.aac",
+            "text": "국장?! 이런 우연이, 이런 곳에서 만날 줄이야. 나? 날이 너무 뜨거워서 자동차 엔진이 타버렸어… 걱정 마, 잠깐 여기 앉아 기다리고 있어, 조금 기다리다 보면 지나가는 차가 우리를 태워 줄 거야."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_atlant_shahaijiongtu_greeting_001.aac",
+            "text": "깼어? 괜찮으니까 피곤하면 더 자, 히치하이킹에 성공하면 깨워 줄게."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_atlant_shahaijiongtu_talk_001.aac",
+            "text": "헤이~ 마음씨 착한 오빠! 여기야, 여기! 가는 길에 우리 좀 태워줘! 이런… 또 그냥 지나갔네. 요즘 사람들 정말 너무하잖아?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_atlant_shahaijiongtu_talk_002.aac",
+            "text": "배가 고프거나 목이 마르면 말해, 억지로 참지 말고. 자동차가 고장 나긴 했지만, 차 안에 물건들은 전부 멀쩡하거든. 장아찌랑 건빵은 충분해, 물도 두 통이나 있으니까 우리 둘이 버티기엔 충분할 거야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_atlant_shahaijiongtu_idle_001.aac",
+            "text": "국장, 국장? 잠든 거야? 이런… 더위를 먹은 건 아니겠지?! 움직이지 말고 기다려, 물수건 가져다줄게."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_atlant_shahaijiongtu_clicking_001.aac",
+            "text": "그러니까… 팻말을 조금 더 크게 만드는 게 좋겠다는 뜻이지? 좋은 생각이야, 네 말대로 할 게!"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_atlant_shahaijiongtu_specialattention_001.aac",
+            "text": "왔어? 내가 이 황량한 들판에 마을 같은 게 없을 거라고 했잖아. 날도 이렇게 더운데 허약한 몸으로 움직이지 말고 그냥 푹 쉬어. 무슨 일 생기면 내가 처리할게."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_atlant_shahaijiongtu_levelup_001.aac",
+            "text": "어머, 국장, 아… 이것 참 곤란하네."
+        }
+    ]
+}

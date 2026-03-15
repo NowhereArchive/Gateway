@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_wendy_cacha_001.aac",
+            "text": "我喜欢……我喜欢一切事物破碎开裂的声音，嘿嘿嘿……局长，你这里……能满足我吗？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_wendy_promotion_001.aac",
+            "text": "链锯变得这么锋利……可要小心些了……哈哈哈哈！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_wendy_promotion2_001.aac",
+            "text": "嘻嘻嘻……我已经闻到了，是锈河的味道。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_wendy_battlebegin_001.aac",
+            "text": "在哪里？死役、怪物……！别想逃走！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_wendy_battlewin_001.aac",
+            "text": "哈……处理完毕！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_wendy_battlelose_001.aac",
+            "text": "我绝不会放过你们！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_wendy_uniqueskill_001.aac",
+            "text": "哈哈哈哈哈！痛吗？！痛吗？！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_wendy_dead_001.aac",
+            "text": "我将……亲手送别自己……！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_wendy_greeting_001.aac",
+            "text": "哈哈哈……这么想靠近我……就不怕被我大卸八块吗？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_wendy_talk1_001.aac",
+            "text": "你的行动好迟缓啊……重组一下怎么样，我来帮你？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_wendy_talk1_002.aac",
+            "text": "你们都是怎么称呼我的？收割者，电锯狂？嘻嘻……其实我最喜欢的……还是送葬人。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_wendy_talk1_003.aac",
+            "text": "做他们的走狗……小心有一天，你也会被毫不留情地抛弃……哈哈哈哈！"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_wendy_talk2_001.aac",
+            "text": "叛徒……叛徒就要毫不留情地灭掉，扔进锈河里。嘻嘻……我不会背叛你的，所以……你也不要背叛我。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_wendy_talk2_002.aac",
+            "text": "太阳升起落下，污秽转眼成灰……哈哈哈……锈河边挖出一个个土坑，掩埋狄斯一条条罪恶。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_wendy_talk2_003.aac",
+            "text": "我的同伴，都被我埋葬在锈河边。我依稀能记起……他们的背影。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_wendy_obeyfull_001.aac",
+            "text": "我想好了，以后我就要埋在这里，然后，由你来给我送行。局长……到时候，就拜托你帮我写悼词咯？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_wendy_idle_001.aac",
+            "text": "嘘……我听到死役的声音……在远处！不……在你背后！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_wendy_clicking_001.aac",
+            "text": "你对这些……这么感兴趣吗……喜欢哪一块儿？我送给你呀！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_wendy_specialattention_001.aac",
+            "text": "你的眼神很锋利嘛……就像要把我切开一样……嘻嘻嘻……看来我们会很合得来。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_wendy_dispatch_001.aac",
+            "text": "呵呵，好呀，我也想念锈河的小怪物了……"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_wendy_dispatch2_001.aac",
+            "text": "脏东西已经处理干净，清爽多了，嘻嘻。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_wendy_levelup_002.aac",
+            "text": "啊~啊~链锯越转越快的声音，好动听啊~！"
+        }
+    ],
+    "chainsaw_nightmare": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_wendy_lianjujinghunye_cacha_001.aac",
+            "text": "背叛者们，恐惧吧，尖叫吧，好好享受最后的时光吧——“链锯”温蒂来啦！你们是跑不掉的！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_wendy_lianjujinghunye_levelup_001.aac",
+            "text": "我的钩子上可以再多挂几块东西了！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_wendy_lianjujinghunye_greeting_001.aac",
+            "text": "游戏要开始咯。规则很简单，要做的只有：跑快点，躲起来，别被我找到。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_wendy_lianjujinghunye_talk1_001.aac",
+            "text": "电影里的鬼怪杀人狂到底有什么可怕的……现实里的人可比他们要危险多了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_wendy_lianjujinghunye_talk1_002.aac",
+            "text": "很多人不知道，活着可从来都不是什么理所应当的事……我会让他们明白这一点的。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_wendy_lianjujinghunye_idle_001.aac",
+            "text": "小兔子乖乖藏藏好~温蒂马上就来找~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_wendy_lianjujinghunye_clicking_001.aac",
+            "text": "哈哈哈哈，做了这种事……还妄想能逃出去吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_wendy_lianjujinghunye_specialattention_001.aac",
+            "text": "哈哈哈哈，你找到我了，来玩个小游戏吧。别紧张，只要够努力，愿意舍弃些东西，总是能活下来的。"
+        }
+    ],
+    "elegy_of_the_rust": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_wendy_xiuhewange_cacha_001.aac",
+            "text": "来，和我的老朋友们打声招呼吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_wendy_xiuhewange_levelup_001.aac",
+            "text": "啊，这把链锯的声音，令人怀念……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_wendy_xiuhewange_greeting_001.aac",
+            "text": "嘘……安静的锈河，所有人都睡着了……你可不要吵醒他们。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_wendy_xiuhewange_head_001.aac",
+            "text": "好熟悉的感觉和温度……我似乎曾经也拥有过……现在，应该只有你会摸我的头了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_wendy_xiuhewange_body_001.aac",
+            "text": "没人愿意特意跑来锈河呆着，这里只有死役和怪物……嘻，还有一个来陪送葬人的怪胎。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_wendy_xiuhewange_body_002.aac",
+            "text": "深色披风，挡住脏东西，也方便最后被清理。一次性的走狗，配得起多好的拴绳？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_wendy_xiuhewange_lefthand_001.aac",
+            "text": "这些名字被我护着，这样，至少还有人能记得我们……啊，送葬人的归属，到底在哪呢……？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_wendy_xiuhewange_background_001.aac",
+            "text": "同伴都睡着了，我早晚会和他们躺在一起，安眠在这肮脏的故乡……到时候，你会像这样，也送我一束花吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_wendy_xiuhewange_idle_001.aac",
+            "text": "听……风吹过锈河的声音，他们在说晚安……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_wendy_xiuhewange_specialattention_001.aac",
+            "text": "是因为总这样看着我，所以你的身上也有了锈河的味道吗？嘻嘻……你果然是……我的同伴……"
+        }
+    ]
+}

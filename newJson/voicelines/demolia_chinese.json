@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_atlant_cacha_001.aac",
+            "text": "爱慕——壁——西西……是吧。哎呀你们这地方我听过，这里可收养了不少禁闭者。别说了，快带我进去吧！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_atlant_promotion_001.aac",
+            "text": "哎呀——能力，就像捡垃圾，越捡越强。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_atlant_promotion2_001.aac",
+            "text": "嗯——果然还是强一点比较好。收工越早，睡得越好。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_atlant_battlebegin_001.aac",
+            "text": "这一趟肯定能捡不少好东西。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_atlant_battlewin_001.aac",
+            "text": "书上写的那个叫什么来着……对对！一力降……十会！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_atlant_battlelose_001.aac",
+            "text": "快跑！他们要追上来了！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_atlant_uniqueskill_001.aac",
+            "text": "给我停下！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_atlant_dead_001.aac",
+            "text": "你们……不准过去……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_atlant_greeting_001.aac",
+            "text": "今儿咱去哪儿捡……啊不是，去哪抓禁闭者啊？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_atlant_talk1_001.aac",
+            "text": "采购办这些人花钱总是大手大脚的，我得去说说他们，钱可不是大风刮来的。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_atlant_talk1_002.aac",
+            "text": "来玩狄斯战棋吗？那几个不在，就咱俩来玩两盘吧——局长你别走啊局长！试试啊，很好玩的！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_atlant_talk1_003.aac",
+            "text": "“不要把别人的闲言碎语当成礼物，因为你并不是收破烂的人？”嗯？书上这句是不是在骂我啊，局长？ 不是啊……不是就好，让我给它记下来。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_atlant_talk2_001.aac",
+            "text": "打死役是工作，享受生活才是最重要的事。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_atlant_talk2_002.aac",
+            "text": "哟局长，你又熬夜了？这可不行。听我的，这年轻人呐，就得好好睡觉。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_atlant_talk2_003.aac",
+            "text": "和原先住的地方比，这儿也太豪华了，我情愿自己睡走廊，让辛迪加那些孩子睡床上。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_atlant_obeyfull_001.aac",
+            "text": "局长，既然咱们都已经那么熟了，我就直说了啊——我之前要的那个阳台什么时候能批下来？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_atlant_idle_001.aac",
+            "text": "啥时候能再去一趟锈河啊？那边又到了一批新货，好像还有什么光轨的建材，这要是捡到了得卖上多少钱呐！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_atlant_clicking_001.aac",
+            "text": "对对对！就这儿！使劲！欸——舒坦——"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_atlant_specialattention_001.aac",
+            "text": "啊？就留我一个在这站着？别啊！这多没劲啊！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_atlant_dispatch_001.aac",
+            "text": "局长，今儿外面阳光这么好，你不一起去么？"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_atlant_dispatch2_001.aac",
+            "text": "芜——丰收！我的三轮车都要装不下了！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_atlant_levelup_002.aac",
+            "text": "哦？锤子好像变轻了！"
+        }
+    ],
+    "gritty_detour": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_atlant_shahaijiongtu_cacha_001.aac",
+            "text": "局长？！真巧啊，居然能在这里遇见你。我？天太热，车上发动机烧了……别担心，你坐这儿等着，一会儿有人路过咱们搭个顺风车就好。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_atlant_shahaijiongtu_greeting_001.aac",
+            "text": "睡醒了？没事儿，你要是觉得累觉得困就继续睡，等叫到顺风车之后我会喊你的。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_atlant_shahaijiongtu_talk_001.aac",
+            "text": "嘿——车上的好心大哥！这边这边！能载我们一程吗？嗨呀……又过去了。现在的人真是的，好冷漠呀。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_atlant_shahaijiongtu_talk_002.aac",
+            "text": "你要是饿了渴了记得跟我说哈，千万别硬撑着。我这车虽然抛锚了，但车上的东西都没事儿。咸菜干粮管够，水我都带了两大桶呢，足够咱们支撑好久了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_atlant_shahaijiongtu_idle_001.aac",
+            "text": "局长，局长？睡着了？不对……不会是中暑了吧！你等着，别乱动，我这就给你拿湿毛巾去。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_atlant_shahaijiongtu_clicking_001.aac",
+            "text": "你的意思是……应该把这牌子做得再大一点儿？好想法，我这就照办！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_atlant_shahaijiongtu_specialattention_001.aac",
+            "text": "回来啦？我就说这荒郊野岭的肯定不会有镇子吧。天这么热，你身子骨又弱，还是别乱折腾了，好好休息吧。有什么事我来干就行。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_atlant_shahaijiongtu_levelup_001.aac",
+            "text": "哎呀局长你这……这多不好意思啊。"
+        }
+    ]
+}

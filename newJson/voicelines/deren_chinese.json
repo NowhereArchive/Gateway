@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_deren_cacha_001.aac",
+            "text": "咦……你想带我去哪儿？这里包吃包住啊……好诶！那我的房间是几号？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_deren_promotion_001.aac",
+            "text": "嗯？你想看我拍的电影？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_deren_promotion2_001.aac",
+            "text": "我会让所有人看到我，见证我。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_deren_battlebegin_001.aac",
+            "text": "好，开机！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_deren_battlewin_001.aac",
+            "text": "嗯——我还是有点职业精神的。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_deren_battlelose_001.aac",
+            "text": "哈哈……我就知道我会搞砸的啦。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_deren_uniqueskill_001.aac",
+            "text": "好戏上演！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_deren_dead_001.aac",
+            "text": "终究没能留下什么啊……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_deren_greeting_001.aac",
+            "text": "局长你来啦？娱乐室的放映机有新增什么电影吗？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_deren_talk1_001.aac",
+            "text": "成功电影的标志是什么？哈哈……是办公室的盒子啊~"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_deren_talk1_002.aac",
+            "text": "看不懂这部片子？但它在新城很流行诶……"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_deren_talk1_003.aac",
+            "text": "嗷呜是个很有干劲的孩子，她一定会成为她梦想中的样子吧。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_deren_talk2_001.aac",
+            "text": "米诺斯英雄传……或许是个不错的题材～"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_deren_talk2_002.aac",
+            "text": "我想记录下一切的“不认命”，用胶片将他们的眼神，他们的呐喊，永远留在世上。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_deren_talk2_003.aac",
+            "text": "我或许软弱，或许平庸，但我……在某一瞬间，也可以成为英雄。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_deren_obeyfull_001_01.aac",
+            "text": "现实远没有电影中那般美好，无数闪烁着光芒的人匆匆离去，就像流星一样……倘若能抓住其中一颗……我是说，你在我眼里璀璨如星，是这个世界绝对的焦点。那么，你愿意成为我电影中的男主角吗？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_deren_idle_001.aac",
+            "text": "无所事事地荒废在这里也蛮好的对吧~反正做什么都还有局长兜底嘛～"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_deren_clicking_001.aac",
+            "text": "嗯嗯，我没生气，您继续，您继续。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_deren_specialattention_001.aac",
+            "text": "想让我干活就直说，没事的，我什么都会答应你的。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_deren_dispatch_001.aac",
+            "text": "可以，好，行，等——我——回——来——"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_deren_dispatch2_001.aac",
+            "text": "外景可真累人……喏，不多不少不上不下……我去休息了！后天再喊我吧……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_deren_levelup_002.aac",
+            "text": "哎哟，劳您费心了……"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_deren_head_001.aac",
+            "text": "你这是……在夸我做得好吗？"
+        }
+    ],
+    "eclat_eminence": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_deren_shijiejiaodian_cacha_001.aac",
+            "text": "抬头，动作慢一些，微笑不要掉，别看我，看镜头……没关系，一开始无论是谁都会紧张。但你，我选定的主角，你注定要习惯这些。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_deren_shijiejiaodian_levelup_001.aac",
+            "text": "嗯嗯，再多夸一些也不要紧，我承受得起。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_deren_shijiejiaodian_greeting_001.aac",
+            "text": "哎呀，都已经到这儿了，就别扭扭捏捏的了。还是说……你在等我亲自搀你下车？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_deren_shijiejiaodian_head_001.aac",
+            "text": "在聚光灯下明目张胆地做这种事，你不怕明天咱俩的照片，登上娱乐版块的头条吗？哈，我倒是无所谓。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_deren_shijiejiaodian_body_001.aac",
+            "text": "我不在的这几年，他们可真是出尽了风头啊。真可惜，我回来了。等着，待会儿说不定能近距离看到这些新城的影帝影后在台下奉上精彩绝伦的哭戏表演呢。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_deren_shijiejiaodian_body_002.aac",
+            "text": "过会儿餐会上的蛋糕千万别吃，翻糖做的，除了好看一点用处没有……我为什么知道？当然是因为吃过呀。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_deren_shijiejiaodian_righthand_001.aac",
+            "text": "我原本以为事到如今，多一个奖杯也证明不了什么——我早就习惯这些了……不过，大概是你也在的关系吧。回到这里的感觉，还挺叫人心潮澎湃的。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_deren_shijiejiaodian_lefthand_001.aac",
+            "text": "糟糕……我背上的扣子好像要崩开了……明明五年前的时候还挺合身呐……嘶，快帮我扣上，别让他们看见！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_deren_shijiejiaodian_idle_001.aac",
+            "text": "早知道就耍个大牌晚点再来了。脸上的肌肉都笑硬了……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_deren_shijiejiaodian_specialattention_001.aac",
+            "text": "听见了吗，聚光灯会一直闪烁，掌声和欢呼也将永不停歇……哼，来吧，和我一起，去成为世界的焦点吧。"
+        }
+    ],
+    "butterfly_shadow": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_deren_diezhiying_cacha_001.aac",
+            "text": "你看，幻境之中诞生了一只蝴蝶。它的每一次飞翔，每一次变化，都是抵抗命运，追求自由的象征。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_deren_diezhiying_levelup_001.aac",
+            "text": "嗯，这部电影的剧情越来越有意思了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_deren_diezhiying_greeting_001.aac",
+            "text": "我正攒了一肚子和这部电影有关的话想要找人分享呢，真开心，一抬头就看到你来找我了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_deren_diezhiying_body_001.aac",
+            "text": "影视剧作中，踏上冒险的主角身边，总有些他最看重的事物，比如亲人，比如朋友……比如永不磨灭的勇气。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_deren_diezhiying_body_002.aac",
+            "text": "为这部令人赞叹的作品干一杯吧！也为今天重温这部作品时身边有你~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_deren_diezhiying_idle_001.aac",
+            "text": "别急，再等一会儿……最让人拍案叫绝的部分就要上演了。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_deren_diezhiying_clicking_001.aac",
+            "text": "哈哈，周围这些只不过是我思维活跃时不由自主具象化出来的东西，不可怕的……以及……放心吧，我是真实存在的。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_deren_diezhiying_specialattention_001.aac",
+            "text": "我在你脸上看到了不一样的解读，我很喜欢，让我再……好好地看一会儿吧。"
+        }
+    ]
+}

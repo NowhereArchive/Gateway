@@ -1,0 +1,255 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_snake_cacha_001.aac",
+            "text": "私を家に迎えたいの？うふふ～、ペット扱いしたら許さないわ～"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_snake_promotion_001.aac",
+            "text": "うーん……ウロボロスを思い出すわねぇ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_snake_promotion2_001.aac",
+            "text": "あなたにしっかり巻きついてあげる～"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_snake_battlebegin_001.aac",
+            "text": "獲物見っけ。しゅしゅしゅ～"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_snake_battlewin_001.aac",
+            "text": "生きる実感を与えてくれて、ありがとう。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_snake_battlelose_001.aac",
+            "text": "うふっ……痛みも安心をもたらしてくれるわぁ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_snake_uniqueskill_001.aac",
+            "text": "ここで眠って。私への感謝を抱きながら。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_snake_dead_001.aac",
+            "text": "楽しんだ……かしら？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_snake_greeting_001.aac",
+            "text": "珍しいわね。また私を見に来たの～？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_snake_talk1_001.aac",
+            "text": "私は人間でも化け物でもない。そうねぇ……一匹の毒蛇かしら？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_snake_talk1_002.aac",
+            "text": "私が自分の舌を噛んだら中毒を起こすのかって？面白い質問ねぇ。蛇の毒で脳をやられちゃった？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_snake_talk1_003.aac",
+            "text": "誰しも笑う権利を持ってるの。それを踏みにじる人は、地獄行き。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_snake_talk2_001.aac",
+            "text": "蛇が嫌いな人がいるように、私にも気に入らない人がいるの。あなたなら理解できるでしょう？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_snake_talk2_002.aac",
+            "text": "苦しみは喜びを奪う元凶だけど、世界を再生させる兆しでもある。あなたはどう思うかしら？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_snake_talk2_003.aac",
+            "text": "あなたが笑うところを見るの、好きよ。私のことで喜んでくれているなら、なおいいわぁ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_snake_obeyfull_001.aac",
+            "text": "抱きしめてくれない？あなたの温度が、春を、目覚める時を、蘇生の季節を思い出させてくれるの……私たち二人の心臓の鼓動が聞こえるわぁ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_snake_idle_001.aac",
+            "text": "静かねぇ……世界の終わりみたい。これでぐっすり眠れる。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_snake_clicking_001.aac",
+            "text": "うふふ……噛んで欲しいのぉ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_snake_specialattention_001.aac",
+            "text": "森の中から一枚の葉っぱを探す。化け物の群れから一匹の化け物に目をつける。あなたって本当に凄い人ねぇ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_snake_dispatch_001.aac",
+            "text": "これであなたの機嫌を取れるなら～"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_snake_dispatch2_001.aac",
+            "text": "今回の演出、満足してくれたかしら？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_snake_levelup_002.aac",
+            "text": "喜んでくれるといいんだけど～"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_snake_head_001.aac",
+            "text": "勇者が剣を蛇の頭部に刺して、邪悪な大蛇を殺したの。その頭部がどこにあるか知っているかしら？あなたがさっき触ったトコよ。"
+        }
+    ],
+    "awake_from_slumber": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_snake_hanmianchuxing_cacha_001.aac",
+            "text": "長い夢を見たの。幸せを追い求める夢よ。生まれ……変わる夢。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_snake_hanmianchuxing_levelup_002.aac",
+            "text": "うーん……もう少し寝かせてぇ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_snake_hanmianchuxing_greeting_001.aac",
+            "text": "ふぁ……もう春？すぐに起きるから……もうすぐ……あと2分……"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_snake_hanmianchuxing_head_001.aac",
+            "text": "あなたの手……相変わらず温かいのね……"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_snake_hanmianchuxing_body_001.aac",
+            "text": "布団がすごくすごく温かいわぁ……局長が一緒に寝てくれたら……もっと幸せなのに……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_snake_hanmianchuxing_body_002.aac",
+            "text": "この楽しいお祭りには、私が欠かせないの……ただ、もう少し準備する時間が必要ね……"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_snake_hanmianchuxing_hand_001.aac",
+            "text": "どんな小悪魔にも、私とふと……ふとんを……私と局長を引き離すことはできないわ……ふふ……うふふっ……"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_snake_hanmianchuxing_leg_001.aac",
+            "text": "うーん……大掃除？でも、私の所は結構キレイでしょ。それとも……手伝ってくれるのかしら？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_snake_hanmianchuxing_idle_001.aac",
+            "text": "うう……外から聞こえる花火の音……睡眠妨害よ……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_snake_hanmianchuxing_specialattention_001.aac",
+            "text": "あらぁ、もうすぐ着替え終わるわよ。これ以上急かすと……あなたを噛んじゃうから！"
+        }
+    ],
+    "source_of_happiness": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_snake_kuailezhiyuan_cacha_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_snake_kuailezhiyuan_levelup_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_snake_kuailezhiyuan_greeting_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_snake_kuailezhiyuan_talk_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_snake_kuailezhiyuan_talk_002.aac",
+            "text": "＊"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_snake_kuailezhiyuan_idle_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_snake_kuailezhiyuan_clicking_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_snake_kuailezhiyuan_specialattention_001.aac",
+            "text": "＊"
+        }
+    ],
+    "elixir_of_euphoria": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_snake_mizhimoyao_cacha_001.aac",
+            "text": "私の店もとうとう有名になったみたいねぇ。幸せをもたらす魔法薬を探しに、ミノスの局長までわざわざ足を運んでくれるなんて。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_snake_mizhimoyao_levelup_001.aac",
+            "text": "う～ん……いい出来～"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_snake_mizhimoyao_greeting_001.aac",
+            "text": "また来たの？局長ちゃ～ん、そんなにいっぱい買ってくれるなら……いっそ私の店に泊まったらどうかしら？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_snake_mizhimoyao_talk_001.aac",
+            "text": "目の下のクマがまたひどくなってるわ。「魔法のサボリ薬」を試してみない？それを飲めば、一瞬でぷにぷにのアヒル人形や、もふもふのぬいぐるみになれるわよぉ……え？いらない？あなたはサボって休めるし、私もあなたで遊んで……お世話できるのに！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_snake_mizhimoyao_talk_002.aac",
+            "text": "私の店では、魔法薬の他にキャンディーも売ってるのよ。それはピーチやオレンジの味かもしれないし……もちろんマスタードや洗剤の味かもしれないわぁ。局長、試してみない？こういう未知へのチャレンジも、一種の幸せよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_snake_mizhimoyao_idle_001.aac",
+            "text": "沈香、アンズ、ヤグルマギク、カナダケシ、カルダモン……これだけ加えれば十分よね？うーん……色があまり良くないわ。サンザシとサフランも入れて色を調整しなきゃ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_snake_mizhimoyao_clicking_001.aac",
+            "text": "ふふ、店のオーナーは売り物じゃないわよぉ。勝手に触ったら食べられちゃうんだから～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_snake_mizhimoyao_specialattention_001.aac",
+            "text": "そう、そのまま私を見つめていて。あなたの眼差しが、この魔法薬を完成させる最後のステップなんだから。"
+        }
+    ]
+}

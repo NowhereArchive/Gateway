@@ -1,0 +1,163 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_hitomi_cacha_001.aac",
+            "text": "瞳よ。お互い助け合いましょ!"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_hitomi_promotion_001.aac",
+            "text": "まだまだ! これからよ!"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_hitomi_promotion2_001.aac",
+            "text": "調子がいいわ! 成功間違いなしね!"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_hitomi_battlebegin_001.aac",
+            "text": "用心しながらいくわよ!"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_hitomi_battlewin_001.aac",
+            "text": "私たちって、最強のチームじゃない？"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_hitomi_battlelose_001.aac",
+            "text": "このままじゃ終われないわ。次こそ、必ず!"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_hitomi_uniqueskill_001.aac",
+            "text": "さぁついて来れる？"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_hitomi_dead_001.aac",
+            "text": "みんな…ごめん…。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hitomi_greeting_001.aac",
+            "text": "いい調子! 感覚が研ぎ澄まされたみたい。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_hitomi_talk1_001.aac",
+            "text": "元気そうね。何か良いことでもあった？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_hitomi_talk1_002.aac",
+            "text": "私たちって、最強のチームじゃない？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_hitomi_talk1_003.aac",
+            "text": "私に任せて。うまくやってみせる!"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_hitomi_talk2_001.aac",
+            "text": "息が合ってきたかしら？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_hitomi_talk2_002.aac",
+            "text": "あなたといると退屈しないわ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_hitomi_talk2_003.aac",
+            "text": "用心しながらいくわよ!"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_hitomi_obeyfull_001.aac",
+            "text": "私のこと少しは信用できた？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hitomi_idle_001.aac",
+            "text": "ずっと待ってるのも退屈ね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hitomi_clicking_001.aac",
+            "text": "んもう! しつこいんだから!"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hitomi_specialattention_001.aac",
+            "text": "ありがとう。あなたの期待に応えるわ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_hitomi_dispatch_001.aac",
+            "text": "私に任せて。うまくやってみせる!"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_hitomi_dispatch2_001.aac",
+            "text": "ただいま! 期待に応えられたかしら？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hitomi_levelup_002.aac",
+            "text": "いい調子! 感覚が研ぎ澄まされたみたい。"
+        }
+    ],
+    "kisugi_hitomi_-_rank_up": [
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hitomi_head_001.aac",
+            "text": "どうしたの？ 何か頼み事？"
+        }
+    ],
+    "neon_raindrops": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hitomi_yumunihong_cacha_001.aac",
+            "text": "似合ってる？黙ってないで何か言ってよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hitomi_yumunihong_levelup_001.aac",
+            "text": "信じて。私の力を。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hitomi_yumunihong_greeting_001.aac",
+            "text": "待ってたわ。今日は何をすればいいかしら？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hitomi_yumunihong_talk_001.aac",
+            "text": "わぁ…。見て、綺麗……。昔、パパと一緒に見た景色を思い出すわ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hitomi_yumunihong_talk_002.aac",
+            "text": "ねぇ聞いて! 実はすごく良いことがあったの!"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hitomi_yumunihong_idle_001.aac",
+            "text": "ふーん。私を放っておくほど忙しいのね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hitomi_yumunihong_clicking_001.aac",
+            "text": "もう…からかってるの？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hitomi_yumunihong_specialattention_001.aac",
+            "text": "…ありがと。でもちょっと照れるな。"
+        }
+    ]
+}

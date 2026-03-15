@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_lanli_cacha_001.aac",
+            "text": "자기 상관에게 수갑을 채우다니… 초짜, 간땡이가 부었네. 이리 와봐, 나 좀 보자, 나의 어떤 약점을 잡았는지도 궁금하고."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_lanli_promotion_001.aac",
+            "text": "조심해~! 누군가 널 조준하고 있어."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_lanli_promotion2_001.aac",
+            "text": "하수구의 잡것들은 햇볕을 쬘 자격이 없지!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_lanli_battlebegin_001.aac",
+            "text": "너희들이 참패하여 도망치는 모양 좀 구경해야겠군."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_lanli_battlewin_001.aac",
+            "text": "잘했어, 돌아가서 축하하자."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_lanli_battlelose_001.aac",
+            "text": "후퇴해, 부하의 소중한 목숨을 이곳에 버릴 수는 없지."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_lanli_uniqueskill_001.aac",
+            "text": "Time to die."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_lanli_dead_001.aac",
+            "text": "누군가는… 이 의지를 계승할 거야…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_lanli_greeting_001.aac",
+            "text": "늦었어, 초짜. 뭐 새로운 진척이라도 있나?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_lanli_talk1_001.aac",
+            "text": "내 지팡이가 마음에 들어? 빌려줄까? 하지만 조심해야 해, 그 속에 많은 것들이 숨겨져 있으니까… 자신을 다치게 하면 안 되잖아."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_lanli_talk1_002.aac",
+            "text": "어둠 속에 깊숙이 파고들어가 피로 물들인다… 내 부하는 정의 따위는 필요 없다, 충성만이 최고의 미덕이지."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_lanli_talk1_003.aac",
+            "text": "그 사람들은 제 9대대가 그림자 속의 거미, 냉혈한 대장이라던데? 음… 마음에 들어. 그들의 증오는 공포에서 나오는 거지. 그리고 공포는… 스파이의 최애 무기지."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_lanli_talk2_001.aac",
+            "text": "규칙이니 뭐니 하는 것들은 네가 걱정할 문제가 아니야, 하고 싶은 거 마음껏 해봐, 넌 내 사람이야, 자신감을 가져."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_lanli_talk2_002.aac",
+            "text": "내 소망은… 세계의 평화야. 믿냐?"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_lanli_talk2_003.aac",
+            "text": "내 관자놀이 위에 있는 액세서리가 궁금해? 어디서 난건지 알 필요 없어, 그냥… 나도 가끔 예뻐지고 싶은 마음이 있을 뿐이니까."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_lanli_obeyfull_001.aac",
+            "text": "나에게 진실을 갈구하지 마, 초짜. 어떤 진실은 선혈로만 바꿀 수 있단다. 언젠가 난 그들을 무덤 속으로 데려갈 거야, 하지만 넌… 살아갈 거야, 난 너를 살아가게 할 거다, 나의 도시와 함께, 어둠을 넘어 여명을 맞이할 거야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_lanli_idle_001.aac",
+            "text": "다음은… 허, 누굴 정리해야 하나…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_lanli_clicking_001.aac",
+            "text": "생각 잘해, 일자리를 잃든 목숨을 잃든, 좋은 일은 아닐 테니까."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_lanli_specialattention_001.aac",
+            "text": "날 뚫어져라 쳐다봐도 네가 얻고자 하는 정보는 없어. 어때? 초짜, 고문 기술 좀 가르쳐줄까?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_lanli_dispatch_001.aac",
+            "text": "어라? 내가 친히 출전하길 바란다고."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_lanli_dispatch2_001.aac",
+            "text": "따끈따끈한 정보 자료를 원한다고? 오늘 저녁 내 사무실로 가지러 와."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_lanli_levelup_002.aac",
+            "text": "타겟 록업~"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_lanli_head_001.aac",
+            "text": "이 모자를 써 보고 싶은 거야, 아니면 내 총알을 맛보고 싶은 거야?"
+        }
+    ],
+    "banquet_guest": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_lanli_yeyanlaike_cacha_001.aac",
+            "text": "모든 게 순조롭게 흘러가고 있어. 하지만 꼭 말해줘야겠지, 네가 온 덕에… 파티가 한층 더 즐거워졌다고."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_lanli_yeyanlaike_levelup_001.aac",
+            "text": "파티를 더 즐겨보도록 하지."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_lanli_yeyanlaike_greeting_001.aac",
+            "text": "네 보고는 듣고 싶지 않으니 그건 내일로 미루도록 하지. 마음 편히 파티를 즐겨. 지금은 그게 가장 중요한 임무야."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_lanli_yeyanlaike_head_001.aac",
+            "text": "리시안셔스, 아이리스, 동백… 네가 보기엔 어느 꽃이 내게 가장 잘 어울릴 것 같아?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_lanli_yeyanlaike_leg_001.aac",
+            "text": "너무 일찍 왔군, 초짜. 나를 신뢰하지 않는 건가? 아니면… 내가 임무를 완수하는 모습을 직접 보고 싶은 건가? 네 답이 후자이길 바라지."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_lanli_yeyanlaike_body_001.aac",
+            "text": "맑아 보이지만 자극적이야. 이게 바로 야나기 켄이치가 자랑하는 '달콤한 승리'의 특징이지. 신디케이트의 갱단처럼 겉으로는 평범해 보이지만, 속에는 비수를 숨기고 있어. 그렇게 생각하지 않나, 초짜?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_lanli_yeyanlaike_hand_001.aac",
+            "text": "어떤 진실들은 피로만 얻어낼 수 있지. 그런데 이번은… 너무 과한 움직임을 보이고 싶진 않군."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_lanli_yeyanlaike_leg_002.aac",
+            "text": "긴장하지마, 초짜. 그렇게 심각한 얼굴로는 정보를 '낚을' 수 없어… 이쪽으로 와서 앉아, 나와 한잔하지. 잘 즐기는 것이 이 파티를… 그리고 이 파티의 주최자를 존중하는 방법이지."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_lanli_yeyanlaike_idle_001.aac",
+            "text": "내 파트너에게 오렌지 주스를 한 잔 부탁하지… 이 녀석은 이렇게 자극적인 음료는 마시지 못하거든."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_lanli_yeyanlaike_specialattention_001.aac",
+            "text": "모든 정보는 이곳에 모여 있어. 원한다면… 파티가 끝난 후에 나랑 조금 더 있어 주겠나? 물론 정보를 정리하기 위해서 말이야."
+        }
+    ],
+    "madame_maelstrom": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_lanli_ehainvjue_cacha_001.aac",
+            "text": "보아하니 패혈증도 널 쓰러뜨리지 못한 모양이군. 역시 나의 일등 항해사야. 그럼 모두 자리로 돌아가 닻을 올리고, 밧줄을 당겨 돛을 펼쳐라. '오션 데몬'호, 다시 출항이다!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_lanli_ehainvjue_levelup_001.aac",
+            "text": "이 배에 화력을 더해준다면 언제든 환영이야."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_lanli_ehainvjue_greeting_001.aac",
+            "text": "일어났군, 일등 항해사. 아직도 어제의 축제를 곱씹고 있는 건가? 두려워하지 마. 널 탓하는 게 아니야. 명령에 복종하되, 마음껏 즐기고, 실컷 싸운다… 이게 바로 '오션 데몬'호의 규칙이니까."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_lanli_ehainvjue_head_001.aac",
+            "text": "좋아, 상어 밥으로 던져주지."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_lanli_ehainvjue_body_001.aac",
+            "text": "도시… 특수 공작원 기관… 제9대대? 무슨 헛소리야? 요리사, 저 통에 있는 데킬라가 문제 인가 봐, 전부 다 바다에 갖다 버려."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_lanli_ehainvjue_body_002.aac",
+            "text": "폭풍우가 곧 닥칠 거야. 일등 항해사, 선원들에게 방향을 돌려 가장 가까운 항구로 향하도록 지시해… 용기는 적과 싸울 때나 필요한 거야. 바다에 맞설 생각은 하지 마… 그래봐야 남는 건 부러진 돛대뿐일 테니까."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_lanli_ehainvjue_righthand_001.aac",
+            "text": "낙원? 걱정하지 마. 그들이 날 귀찮게 할 일은 없을 테니까. …그들과 나의 관계가 궁금해? 하하, 이 비밀을 아는 사람은 왕좌에 있거나 바다 밑에 있는데, 넌 어느 쪽이 되고 싶어?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_lanli_ehainvjue_lefthand_001.aac",
+            "text": "언젠가 이 모자를 배와 함께 너에게 물려줄 생각이야. 그전까지 넌 너의 가치를 충분히 증명해야 해. 알겠어?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_lanli_ehainvjue_idle_001.aac",
+            "text": "감히 선장 앞에서 게으름을 피우고 졸고 있다니. 우리 일등 항해사가 겁을 상실했나 봐?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_lanli_ehainvjue_specialattention_001.aac",
+            "text": "나의 일등 항해사, 돌아온 걸 환영해. 저 섬의 상황은 어때? 몇 명이나 주둔 중이지? 화포 개수는? 정찰 업무를 훌륭하게 해냈군. 머지않아 우리의 사냥감이 약점을 드러내겠어."
+        }
+    ]
+}

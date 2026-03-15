@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_zephyr_cacha_001.aac",
+            "text": "コンビクト情報登録フォーム？何それ？ああ、あの紙ね。さっき何かしてた時に使ったかも——ってか、どうでもいいっしょ。局長、あーしらもう知り合いじゃんか。そんな神経質にならないでよ。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_zephyr_promotion_001.aac",
+            "text": "飛行機を後ろ向きに5キロ飛ばせるくらい絶好調よ！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_zephyr_promotion2_001.aac",
+            "text": "もう一度高度1万メートルまで飛べるなら、あーしが連れてってあげよっか？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_zephyr_battlebegin_001.aac",
+            "text": "3、2、1！ゼファー号、離陸！シューー！"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_zephyr_battlewin_001.aac",
+            "text": "やった！今夜は打ち上げよ！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_zephyr_battlelose_001.aac",
+            "text": "そんなに落ち込まないで、チャンスがないわけじゃないんだから。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_zephyr_uniqueskill_001.aac",
+            "text": "敵タワーの妨害成功！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_zephyr_dead_001.aac",
+            "text": "メーデー……メーデー……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_zephyr_greeting_001.aac",
+            "text": "ハ～イ、局長。今日はあーしとお出かけしない？何をするかって？ん～分かんない。出てから考えよ！"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_zephyr_talk1_001.aac",
+            "text": "「もしもし？もしもーし、聞こえるー？」ねぇ局長、隣のFACの内部放送に接続できるかな？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_zephyr_talk1_002.aac",
+            "text": "何で執務室に紙飛行機飛ばしちゃダメなわけ？忙しい仕事の合間に、こんな素敵な方法でメッセージ受け取れるとか、最高のサプライズじゃんか！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_zephyr_talk1_003.aac",
+            "text": "飲み屋で酔う理由って人それぞれよね。真面目なふりしてる時よりずっと面白いし、みんなで一緒に暴れる方がずっと楽しい～"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_zephyr_talk2_001.aac",
+            "text": "あーしはパイロットになったことを後悔してない。そのせいで墜落事故に遭ったって思われてるけど、自由な空しか覚えてないわ。それと同じく、あんたと一緒にMBCCに来たことも後悔してない。友達は自由がなくなるって言ってたけどさ、あいつらは知らないのよ。ここで、外では見られない景色をいっぱい見られるってことを。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_zephyr_talk2_002.aac",
+            "text": "ゼファーは不運で視野が狭い、ゼファーの人生はめちゃくちゃだって言ってくるつまんない人間がよくいるのよね。へへ！あーしは自分が楽しめればそれでいいの。今日が楽しかったとしても、明日には怪獣がやって来て街を丸ごと吹き飛ばすかもしれないじゃんか。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_zephyr_talk2_003.aac",
+            "text": "もう二度と二人で空へ行けないかもしれないけどさ、あーしはあの時のことずっと忘れない——雲を抜けて、心に秘めた感情を大声で吐き出して、上空1万メートルからディスの街を見下ろしたあの瞬間を。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_zephyr_obeyfull_001.aac",
+            "text": "あーしの能力であんたと新しい冒険ができるなら、あんたのために管理局にちょっといてあげてもいいわよ。でも約束して。あんたの高い理想が実現したら、誰にも言わずにあーしと駆け落ちしよ。高い所の景色を見せてあげる。どう？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_zephyr_idle_001.aac",
+            "text": "ハ～イ、局長。あーしは今、飛行機の中よ。これから遊びに行くの。メッセージを残しておくけど、あんまり寂しがらないでね～！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_zephyr_clicking_001.aac",
+            "text": "暇？じゃあ、あーしと一緒に行こ！出かけよ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_zephyr_specialattention_001.aac",
+            "text": "専用チャンネルを設定したわ。あーしを呼ぶ電波を受信したら、すぐに雲を突き抜けて飛行機を飛ばしてくるから～"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_zephyr_dispatch_001.aac",
+            "text": "はぁ……あんたから逃げてみよっかな？だってこの仕事、超退屈そう。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_zephyr_dispatch2_001.aac",
+            "text": "終わり～！飲みに行ってくるから、あんまり寂しがらないでね～！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_zephyr_levelup_002.aac",
+            "text": "ん？何これ！ウケる！もう1回、もう1回！"
+        }
+    ]
+}

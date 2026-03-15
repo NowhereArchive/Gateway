@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_milly_cacha_001.aac",
+            "text": "앗, 아직 준비가 안 됐어! 여긴 스포트라이트도 없고, 와인이나 꽃도 없네. 내가 상상했던 분위기랑은 너무 달라. 난 당신과 가장 특별한 만남을 갖길 바랐거든."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_milly_promotion_001.aac",
+            "text": "조금은 날 편애한다고 생각해도 되는 걸까? 정말 기뻐."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_milly_promotion2_001.aac",
+            "text": "당신이 내 곁에 있을 때는 아름다운 것만 느끼고, 달콤함만 간직한 채 행복하고 즐거웠으면 해. 아침이 밝을 때까지."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_milly_battlebegin_001.aac",
+            "text": "좋아, 밀리. 긴장하지 마. 그 사람에게 멋진 모습을 보여주는 거야!"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_milly_battlewin_001.aac",
+            "text": "화려하게 막을 내렸네~ 국장, 이번 공연 어땠어? 행복하고 즐거웠어?"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_milly_battlelose_001.aac",
+            "text": "흑… 보지 마, 너무 창피해. 당신 앞에서만큼은 실패하고 싶지 않았는데…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_milly_uniqueskill_001.aac",
+            "text": "가장 진실한 사랑을 줄게~"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_milly_dead_001.aac",
+            "text": "내가 기다렸던 사람은… 오지 않을 거야…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_milly_greeting_001.aac",
+            "text": "달콤한 포옹은 이미 준비됐어. 이리 와서 안아줄래?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_milly_talk1_001.aac",
+            "text": "난 다른 사람들의 사랑 이야기를 듣는 게 좋아. 특히 밤에는 그 속삭임이 달콤한 꿀처럼 느껴져. 말해줄 수 있어? 당신은 어떤 사람을 사랑하고 싶은지, 또 어떤 사람이… 당신을 사랑해 주길 바라는지."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_milly_talk1_002.aac",
+            "text": "사람들은 모두 흔들리지 않을 거라고, 절대 사랑에 빠지지 않을 거라고 말하지만… 과연 그럴까? 사랑은 마치 운명처럼, 마음대로 할 수 없는 거거든."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_milly_talk1_003.aac",
+            "text": "책에서 그러는데 사랑이란 온 마음과 온 눈이 오직 그 한 사람으로 가득 차는 거래. 정말 그런 것 같아. 내 마음속엔 이미 다른 사람이 들어올 자리가 없거든… 좀 더 가까이 와서 보여줘. 당신의 눈에 누구의 모습이 비치는지. 당신의 눈에도 분명 오직 한 사람뿐이겠지? 그렇지?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_milly_talk2_001.aac",
+            "text": "진정한 사랑은 셀로판지에 싸인 사탕 같아. 포장을 벗겨내야만 안에 있는 사탕을 볼 수 있지. 그런데 어떤 사람은 스스로 포장을 벗기려 하지 않고, 또 어떤 사람은 포장을 벗겨 놓고도 자기가 좋아한다는 걸 인정하지 않아. 그러다 주변에 아무도 없을 때, 슬쩍 한 입 핥아보지만… 그때는 이미 사탕이 상해버린 뒤야."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_milly_talk2_002.aac",
+            "text": "꿀벌은 침을 쏘면 자기의 온몸이 찢겨 나간다는 걸 알면서도 사랑하는 이를 위해서라면 망설임 없이 적을 찌른대. 그 마음, 알 수 있을 것 같아."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_milly_talk2_003.aac",
+            "text": "사랑은 인생에서 가장 밝은 빛이야. 마치 칠흑같이 어두운 밤하늘에서 별처럼 반짝이는 눈동자를 마주한 것처럼, 오직 그것만이 빛나고 따스해서, 그걸 바라보고 있으면 계속 달려 나갈 용기가 생겨. 헤헤, 바보 같다고 놀리진 마. 결국 난 그 빛을 따라잡았고, 지금은 내 별과 다시 만났잖아?"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_milly_obeyfull_001.aac",
+            "text": "내가 당신을 좋아하는 건, 당신이 무언가를 해서가 아니라 당신 덕분에 내가 더 나은 사람이 되고 싶기 때문이야. 난 다른 사람들처럼 똑똑하거나 완벽하진 않지만, 당신과 함께 빛을 향해 달려가려고 열심히 노력하고 있어… 그리고 믿어줘. 내가 주는 사랑이 모두 진심이라는 걸."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_milly_idle_001.aac",
+            "text": "난 기다리는 거 잘해. 별로 어렵지도 않아. 혼자 기다리면서 생각하는 거지… 언젠가는 당신이 나타날 거라고 믿으면서…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_milly_clicking_001.aac",
+            "text": "하하~ 나 이거 뭔지 알아! 이거 연인끼리 자주 하는 게임 맞지?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_milly_specialattention_001.aac",
+            "text": "당신과 마주 보는 게 이런 기분이었구나… 이 밤이 다 가기 전까지, 계속 이렇게 날 바라봐 줄래?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_milly_dispatch_001.aac",
+            "text": "섬 밖으로 나가는 게 오랜만이라 조금 떨리네… 조금만 더 네게 가까이 가도 될까?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_milly_dispatch2_001.aac",
+            "text": "달콤한 이야기도 많이 듣고, 예쁜 선물도 많이 받았어… 전부 당신에게 주고 싶어…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_milly_levelup_002.aac",
+            "text": "당신이 내게 준비한 선물이야말로 세상에서 가장 소중한 선물이야."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_milly_head_001.aac",
+            "text": "내 금발 머리, 마음에 들어? 다행이야! 이걸 좋아하는 사람은 많았지만… 당신처럼 다정한 사람은 없었거든."
+        }
+    ],
+    "timeless_silhouette": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_milly_liuguanghuaying_cacha_001.aac",
+            "text": "이게 바로 동방 대륙의 사진관이야? 내가 본 것들과는 완전히 달라! 가장 예쁜 옷에, 가장 특별한 촬영까지~ 자기야, 디스에서의 내 첫 데뷔를 응원하러 꼭 와줄 거지?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_milly_liuguanghuaying_levelup_001.aac",
+            "text": "한 장만 더 찍자, 네가 해준 칭찬처럼, 많으면 많을수록 좋은 거니까~"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_milly_liuguanghuaying_greeting_001.aac",
+            "text": "밀리의 프라이빗 스튜디오에 온 걸 환영해~ 오늘 현장에 온 사람이 정말 많네, 하지만 내가 가장 기대했던 건… 너였어."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_milly_liuguanghuaying_head_001.aac",
+            "text": "헤헤, 스타일 체크 완료~ 오늘 밤, 내가 네 렌즈 속에 담길 가장 빛나는 달링이 될 수 있을까?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_milly_liuguanghuaying_body_001.aac",
+            "text": "수많은 플래시와 카메라의 시선 속에서도, 시선이 오직 한 사람만을 쫓게 되는 경험, 해본 적 있어? 헤헤, 난 자주 그렇게… 너를 쳐다봤는데?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_milly_liuguanghuaying_body_002.aac",
+            "text": "난 사진이 좋아. 사람의 가장 아름다운 순간을 남길 수 있으니까. 아무리 멀리 떨어져 있어도, 연인들은 그걸로 그리움을 조금이나마 달랠 수 있잖아… 그때도 난 이렇게 너를 바라보며, 네 생각을 했어… 자기야, 내가 곁에 없을 때 너도 사진을 보며 날 그리워해 줄 거야?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_milly_liuguanghuaying_leg_001.aac",
+            "text": "예쁘지? 헤헤, 이 드레스는 동방 대륙에서 가져온 거래. 그곳의 인기 많은 스타는 다 이렇게 입는대~! 그럼… 이 드레스를 입은 나도 네 마음속에서 반짝반짝 빛나고 있겠지?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_milly_liuguanghuaying_background_001.aac",
+            "text": "여긴 모든 게 옛날 화보에서 걸어 나온 것 같아. 예전에도 나처럼 전화기 옆을 지키던 사람이 있었을까? 밤낮으로 애타게 기다리며… 언젠가 사랑하는 사람의 목소리를 들을 수 있기만을 바라면서."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_milly_liuguanghuaying_idle_001.aac",
+            "text": "음… 포즈를 너무 많이 취해서 힘들어… 누가 와서 안아주면 좋을 텐데~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_milly_liuguanghuaying_specialattention_001.aac",
+            "text": "서두르지 마~ 촬영은 금방 끝나. 그다음은, 우리 둘만의 '프라이빗 타임'이야."
+        }
+    ]
+}

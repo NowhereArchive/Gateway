@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_synex_cacha_001.aac",
+            "text": "嘶，枷锁绑得这么紧，是怕我又挣脱逃走吗？放心吧，你是我的新“主人”了——至少现在还是。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_synex_promotion_001.aac",
+            "text": "我都这么努力了，不该多给我些奖励吗？"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_synex_promotion2_001.aac",
+            "text": "扯碎镣铐，在这具身躯彻底损毁前，来跟我大闹一场吧！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_synex_battlebegin_001.aac",
+            "text": "我看见了，猎物在发抖呢~"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_synex_battlewin_001.aac",
+            "text": "哎呀，游戏结束得太快，我还没玩尽兴呢。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_synex_battlelose_001.aac",
+            "text": "真可惜，明明只差半步就能咬住他们的喉咙……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_synex_uniqueskill_001.aac",
+            "text": "哈哈，抓到你了！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_synex_dead_001.aac",
+            "text": "我们都在……一步步走向毁灭……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_synex_greeting_001.aac",
+            "text": "要给我指派什么任务？混乱总是让人兴奋，今天我们要去搅哪滩混水？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_synex_talk1_001.aac",
+            "text": "坎贝尔暗卫的工作跟你那可爱小副官也没什么区别。端茶送水，处理杂物，偶尔来点娱乐，顺便也帮上面处理些小小的“麻烦”。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_synex_talk1_002.aac",
+            "text": "猎人与猎物只差一线之隔。你说，我们之间……到底谁才是被盯上的那一个呢？"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_synex_talk1_003.aac",
+            "text": "我闻到了同类的味道，那种在黑暗中诞生的，非人非兽的怪物……嘿，看来你们狄斯的管理局也藏着不少东西呢。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_synex_talk2_001.aac",
+            "text": "狩猎的秘诀是不要心急，屏住呼吸慢慢靠近，然后——咔嚓！别怕，我还没试过真咬人脖子呢。你要来当第一个吗？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_synex_talk2_002.aac",
+            "text": "秘金的锁链收紧，在皮肤上烙下痕迹……没错，只要这颗心脏仍在跳动、血液仍在沸腾，疼痛就永远不会结束……"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_synex_talk2_003.aac",
+            "text": "再正直不屈的家伙，被逼到不得不扔下所有原则道义、彻底变为野兽时，你就会发现……其实，每个人……都是怪物！哈哈哈哈！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_synex_obeyfull_001.aac",
+            "text": "我愿意为你献上忠诚，成为你游走在阴影中的利爪，为你撕裂一切。但如果哪天，你也变得像那些贵族老爷一样无趣……那被套上锁链的恶犬，或许也会将獠牙噬向主人。来吧，扯紧你手上的枷锁，尽情使用我吧。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_synex_idle_001.aac",
+            "text": "咔哒、咔哒，这么多脚步声走来走去，却没听到最期待的那个。亲爱的局长，你什么时候才能走向我呢？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_synex_clicking_001.aac",
+            "text": "别相信野兽示弱的样子，说不定他们下一秒，就会扑上来咬断猎物的脖子。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_synex_specialattention_001.aac",
+            "text": "哎呀，终于发现我了？我明明在这里看你看了那么久……当然，如果你想，我可以再走近一点，继续看着你。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_synex_dispatch_001.aac",
+            "text": "为你效劳，我的荣幸。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_synex_dispatch2_001.aac",
+            "text": "锵锵~喜欢我给你带回来的礼物吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_synex_levelup_002.aac",
+            "text": "嗯？对我这么好呀？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_synex_head_001.aac",
+            "text": "新项圈？那可要好好给我带上，别碰到什么不该碰的地方……"
+        }
+    ],
+    "street_striker": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_synex_jietoueba_cacha_001.aac",
+            "text": "哟吼~这不是咱们局长吗？漫漫长夜一个人度过多无聊啊，不如跟我来整点刺激的——街机对战，决战到天明。如何？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_synex_jietoueba_levelup_001.aac",
+            "text": "叮——感谢投币。怎么样，咱们再开一盘？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_synex_jietoueba_greeting_001.aac",
+            "text": "距离打烊的时间还早，你这会儿来，正好……陪我打一局？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_synex_jietoueba_head_001.aac",
+            "text": "对战中禁止干扰对方选手，想摸？看来为了赢……小局长也是会不择手段的呀？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_synex_jietoueba_body_001.aac",
+            "text": "别看了，今天这场子里只有我俩。那些不长眼睛的家伙总想凑上来打扰，我只好拜托亲爱的“伙伴们”清了清场呀！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_synex_jietoueba_body_002.aac",
+            "text": "“下前下前拳”，这可是独门秘籍，而我在那基础上又发明了一套新招数，出手更快，效果更好……想学吗？那要不，来求求我？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_synex_jietoueba_leg_001.aac",
+            "text": "有人不服气我能用尾巴打出七段连招，非要约我当面对战。真小气，都是身体的一部分，他要是能打出来，就算用头我也不介意啊~"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_synex_jietoueba_background_001.aac",
+            "text": "“秘金怪兽大战电子幽灵”——嘿，这名字看着就贼带感。我刚刷到第九关，要不要来替我打BOSS？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_synex_jietoueba_idle_001.aac",
+            "text": "喂——回神啦，不会有人要挂机吧？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_synex_jietoueba_specialattention_001.aac",
+            "text": "盯我这么久，终于想通加入对战了？来吧，专门给你留了座，双人模式，地狱难度——今晚你可别想提前溜。"
+        }
+    ]
+}

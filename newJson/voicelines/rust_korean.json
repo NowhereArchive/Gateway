@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_rust_cacha_001.aac",
+            "text": "드디어 직접 만나게 되었군요, 서구의 영웅님… 이 호칭이 마음에 들지 않으시다고요? 그럼 어떻게 불러드릴까요?"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_rust_promotion_001.aac",
+            "text": "이걸 보니… 블랙링에서의 나날들이 생각나는군요."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_rust_promotion2_001.aac",
+            "text": "육체와 기억은 빼앗길지언정, 정신과 의식은 절대 사라지지 않습니다… 저 눈 부신 빛이 살을 가르고 스며들 때, 마주하게 될 존재는 과연 어느 쪽의 저일까요…?"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_rust_battlebegin_001.aac",
+            "text": "임무를 시작하겠습니다."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_rust_battlewin_001.aac",
+            "text": "목표는 완벽히 처리했습니다. 함께 한잔하러 가실까요?"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_rust_battlelose_001.aac",
+            "text": "목표를 이루려면 우회로를 택해야 할 것 같군요."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_rust_uniqueskill_001.aac",
+            "text": "움직이지 마세요, 친구."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_rust_dead_001.aac",
+            "text": "이제 영원히… 눈을 감을 수 있겠군요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_rust_greeting_001.aac",
+            "text": "오늘의 임무 목표를 확인해 볼까요… 음, 마침 그 사람이 저를 바라보고 있네요, 컨디션이 꽤 좋아 보입니다."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_rust_talk1_001.aac",
+            "text": "탄알은 훌륭한 협상 도구입니다, 다만 소리가 좀 크다는 게 문제지만요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_rust_talk1_002.aac",
+            "text": "저는 운명 같은 건 믿지 않습니다… 왜냐하면 저는 언제나 그런 것들을 바꿀 수 있으니까요."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_rust_talk1_003.aac",
+            "text": "예전에 멀찍이서 당신을 본 적이 있습니다. 그때 저는 무척 궁금했었죠, 군단의 지도자가 그토록 마음에 두고 있는 사람이 대체 어떤 사람일까 하고요… 이제 당신은 제 곁에 있으니… 당신을 제대로 '알아보도록' 하죠."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_rust_talk2_001.aac",
+            "text": "제게는 블랙링 속에서 살아 나오는 것쯤은 그리 어려운 일이 아니었습니다. 정말 어려웠던 것은… 이런 모습으로 변해버린 자신을, 평생 어떻게 견뎌내고 받아들일 것인가 하는 문제였습니다."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_rust_talk2_002.aac",
+            "text": "'링'은 제 혈육을 앗아가고, 뼈를 부러뜨렸으며, 끝내 타인의 육체를 삼켜 생존할 수밖에 없게 만들었습니다… 이 모든 것은 제 것이면서도 제 것이 아니지요. 오직 이 심장이 뛰는 소리만이, 제가 계속 존재해 왔음을 증명해 주죠."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_rust_talk2_003.aac",
+            "text": "블랙링처럼 거대한 적을 마주하는 길에서, 제 곁을 지켜주는 이들이 이렇게나 많다는 게 참으로 다행입니다. 무엇보다… 당신이 함께해 주어서 정말 기쁩니다."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_rust_obeyfull_001.aac",
+            "text": "보시다시피, 제 껍데기 아래에는 그저 혼돈과 허공만이 있을 뿐입니다. 그 속엔 제가 골라낸, 타인의 것이지만 제 목적을 위해 쓰일 기억들이 담겨 있죠… 하지만 당신을 만난 후, 이제는 저만의 기억을 가질 수 있지 않을까 생각하게 되었어요. 당신과 저 사이의 소중한 순간들처럼, 결코 잊고 싶지 않은 것들을 간직할 수 있는 오직 나만의 기억 말이에요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_rust_idle_001.aac",
+            "text": "서두르지 마세요. 당신을 기다리는 공백쯤은, 마티니 한 잔이나 소설 한 권이면 충분하니까요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_rust_clicking_001.aac",
+            "text": "그렇게 귀한 시간을 낭비해 가며 저를 이리저리 만지작거려 주시다니, 참으로 영광입니다."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_rust_specialattention_001.aac",
+            "text": "그저 바라보는 것만으로는 저를 '붙잡아' 둘 수 없습니다. 저를 얽어매려면 훨씬 더 단단한 것을 쓰셔야지요. 피와 살, 뼈, 혹은… 당신의 족쇄라든가."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_rust_dispatch_001.aac",
+            "text": "당신의 지시를 따르겠습니다."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_rust_dispatch2_001.aac",
+            "text": "어떻습니까? 획득한 물건이 마음에 드시나요?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_rust_levelup_002.aac",
+            "text": "힘이 제 몸에 스며드는 이 느낌, 잘 알고 있습니다."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_rust_head_001.aac",
+            "text": "헤어스타일은 신사에게 가장 중요한 장비입니다, 눈으로만 보시고 손대지는 마세요."
+        }
+    ]
+}

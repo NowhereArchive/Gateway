@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_etti_cacha_001.aac",
+            "text": "행동 판정 성공, 축하하라, 용사여. 나를 데려가도 좋다."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_etti_promotion_001.aac",
+            "text": "흠흠, 이제야 '게임 마스터'에 걸맞다고 할 수 있겠네!"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_etti_promotion2_001.aac",
+            "text": "오늘부터 게임 규칙은 내가 정한다!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_etti_battlebegin_001.aac",
+            "text": "게임 시작! 운명의 룰렛을 돌릴 방법을 선택해 봐!"
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_etti_battlewin_001.aac",
+            "text": "클리어 축하~ 용사들이여~ 얼른 보물을 열어보아라~"
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_etti_battlelose_001.aac",
+            "text": "어우… 아파라. 냅다 들이박는 애들하곤 플레이하기 힘들다고 했잖아…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_etti_uniqueskill_001.aac",
+            "text": "내 규칙에 따라라!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_etti_dead_001.aac",
+            "text": "모든 게… 찢기고 말았어…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_etti_greeting_001.aac",
+            "text": "어둠의 힘이 곧 세상에 강림한다… 용사여, 어서 여정에 올라라~!"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_etti_talk1_001.aac",
+            "text": "무서워하지 말고 다음엔 어떤 작전을 펼치고 싶은지 말해봐."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_etti_talk1_002.aac",
+            "text": "이 세상의 모든 '재미'는 다 '상상'에서 나오는 거니까 내 앞에선 스스로를 구속하고 있을 필요 없어. 알겠지~?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_etti_talk1_003.aac",
+            "text": "내 게임은 아무나 클리어할 수 없어~ 그런데 너… 엄청난 잠재력이 있는 것 같은데 한번 해 볼래?"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_etti_talk2_001.aac",
+            "text": "'선', '중립', '악', 난 어디에 속해 있는 것 같아…? 아니면, 내가 어디에 속해 있으면 좋겠어?"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_etti_talk2_002.aac",
+            "text": "다들 용은 이기적이고 탐욕스럽다고 하지만… 그건 아무도 용과 친해지려 하지 않았기 때문이라 생각해…"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_etti_talk2_003.aac",
+            "text": "용을 죽이는 창이 부러져 버렸다고 하더라도, 네가 쥐면 정의를 대표하게 돼. 그럼… 사악한 용인 나에게 넌 뭐라고 말하고 싶니?"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_etti_obeyfull_001.aac",
+            "text": "난 어둡고 자극적인 상상에 빠져 있지만 그곳의 차가움과 고독함이 무섭기도 해… 날 이겨줘서 고마워. 함께 있어줘서… 고마워."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_etti_idle_001.aac",
+            "text": "'세계'도 가끔은 게으름 피우고 싶은 법이야~ 쉬어, 쉬어~"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_etti_clicking_001.aac",
+            "text": "판정도 없이 제멋대로 행동하면… 이 세계가 너에게 벌을 줄 거야."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_etti_specialattention_001.aac",
+            "text": "내 눈 속에~ 네가 쫓고 있는 보물이 있는 거야?"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_etti_dispatch_001.aac",
+            "text": "봄 소풍단 출발~"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_etti_dispatch2_001.aac",
+            "text": "아이템을 많이 얻었네~? 안에 뭐가 있는지 한번 볼래? 내가 있으니 무슨 일이 나진 않을 거야~"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_etti_levelup_002.aac",
+            "text": "기본 속성은 갖거나 버리거나, 선택할 수 있어야 더 재밌는 법이지."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_etti_head_001.aac",
+            "text": "너도 내 뿔이 좋아? 그럼 이 뿔의 내력을 말해주도록 하지! 이건 어느 추운 겨울날에… 야! 어디 가!"
+        }
+    ],
+    "noctivagation": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_etti_guiyeqilv_cacha_001.aac",
+            "text": "어둠이 내리고, 희미한 등불이 밝아오네요. 비밀과 보물을 위해 선발된 두려움을 모르는 용사들이여! 오랫동안 굳게 닫혀있던 드래곤 고성의 문이 열렸습니다… 헤헤, 어때? 이제 좀 몰입이 돼?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_etti_guiyeqilv_levelup_001.aac",
+            "text": "악마의 눈빛 효과 발동, 행운치+1~"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_etti_guiyeqilv_greeting_001.aac",
+            "text": "자정의 종소리가 울렸습니다. 지금 바로 떠나야 합니다! 어서 잊혀버린 땅에서 온 밤의 악마… 큼, 그러니까 너의 가이드인 나를 말하는 거야. 자, 날 따라와! 함께 새로운 모험의 여정을 떠나보자!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_etti_guiyeqilv_talk1_001.aac",
+            "text": "…이 호박들이 너무 귀엽다고? 으… 네 말을 들어보니 또 그렇긴 한데… 아니야, 아냐! 우리가 오늘 할 게임은 공포 장르야! 이 호박들은 완전 끔찍하다고! 어떻게 귀여울 수가 있겠어?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_etti_guiyeqilv_talk1_002.aac",
+            "text": "응? …사탕? 너, 너 겨우 그 사탕 두 개로 날 매수할 수 있다고 생각하지 마! 내 설정은 악마라고! 악마라면 말썽을 피워야지, 설마 모르는 건 아니겠지?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_etti_guiyeqilv_idle_001.aac",
+            "text": "친애하는 모험가님, 경계를 늦추지 마세요. 자갈길에는 유혹과 함정이 가득합니다. 빨간 날개의 악마도 결국 드래곤의 발톱을 드러낼 것입니다~"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_etti_guiyeqilv_clicking_001.aac",
+            "text": "아! 내 꼬리 잡아당기지 마! 규칙을 어기고 제멋대로 행동하면 페널티를 받게 될 거야! 내가 네 가이드여도 이건 용서할 수 없어! …어떤 페널티를 받게 되냐고? 흥흥, 어디 한번 맞춰 봐~"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_etti_guiyeqilv_specialattention_001.aac",
+            "text": "뭘 보고만 있어? 빨리 따라와… 어라? 진짜 놀란 건 아니지? 안심해, 진짜 위험한 상황이 오면 내가 널 위해 특별히 조금 더 도움을 줄게… 하지만 이건 절대 다른 사람한테 말하면 안 돼!"
+        }
+    ],
+    "dances_&_dragons": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_etti_longyuyuanwuqu_cacha_001.aac",
+            "text": "나는 군림의 드래곤이야. 빼앗은 금은보화가 동굴에 산더미처럼 쌓여있고, 으리으리한 궁전을 내 것으로 삼았지. 탐욕스러운 괴물처럼 하루 종일 먹고 마시며, 즐거움을 갈망하는 저주에 걸린 것처럼 쉬지 않고 춤을 췄어… 드래곤을 무찌르러 온 수많은 자들의 검이 내 날카로운 발톱에 부러졌지. 그러나… 난 항상 알고 있었어. 언젠가는 예언 속 용사가 검을 들고 내 곁에 와서 나와 함께 춤출 거라는걸~"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_etti_longyuyuanwuqu_levelup_001.aac",
+            "text": "치맛자락을 휘날리며, 더 빠르게 돌아보자~!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_etti_longyuyuanwuqu_greeting_001.aac",
+            "text": "어, 벌써 다음 파트너가 왔잖아?! 갑옷 씨, 이 곡이 끝나면 당신의 역할은 끝이랍니다!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_etti_longyuyuanwuqu_body_001.aac",
+            "text": "난 드래곤의 발에 짓밟힌 용사들이 좋아. 그들은 겁에 질려 몸을 떨면서도 다른 이들을 지키기 위해 드래곤에게 칼을 겨누는 고귀한 영혼을 가졌거든. 너한테도 그런 냄새가 나! 흠… 네 냄새는 용사의 것인지, 아니면 사악한 드래곤의 것인지 맞춰 봐."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_etti_longyuyuanwuqu_body_002.aac",
+            "text": "빙 돌고, 흔들고, 다시 쓱 미끄러지는 거야~ 잘 추네… 에이, 서두를 것 없어, 칼이랑 총은 우선 넣어둬. 누군가 날 찾아온 건 몇백 년 만이라 그동안 너무 심심했다고. 싸우기 전에 춤부터 실컷 추면 안 될까? 예언 속 용사님?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_etti_longyuyuanwuqu_idle_001.aac",
+            "text": "자는 거야? 히히, 그거 알아~? 나한테 경계를 풀지 않는 게 좋을 거야. 싸울 때든, 춤출 때든 난 항상 너의… 적이니까~"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_etti_longyuyuanwuqu_clicking_001.aac",
+            "text": "내 드래곤 뿔 예쁘지?! 멋지지?! 그렇게 마음에 들면 너도 하나 다는 게 어때?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_etti_longyuyuanwuqu_specialattention_001.aac",
+            "text": "날 바라보는 네 눈빛이 좋아, 마치 날 잉태한 그 용암과 같아… 어쩌면 그 예언의 뒷부분이 이루어질지도 몰라. 네 동공이 세로로 일그러지고, 등에 날개가 돋치며, 팔이 날카로운 발톱으로 변해, 배에서 뜨거운 불이 솟아나는 거야… 드래곤을 죽이러 온 자가 영원히 멈추지 않는 춤사위와 함께 사악한 드래곤이 되는 거지…"
+        }
+    ]
+}

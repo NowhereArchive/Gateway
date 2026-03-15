@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_ai_cacha_001.aac",
+            "text": "愛だよ!メカのことなら、ボクに任せてね!"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_ai_promotion_001.aac",
+            "text": "システムのアップグレード完了! これで、もっとすごい発明ができちゃうかも!"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_ai_promotion2_001.aac",
+            "text": "もっともーっと格好良い武器開発しちゃうよ!"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_ai_battlebegin_001.aac",
+            "text": "ふーん面白そうな場所じゃん。ハッキングできそうなシステムはあるかな？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_ai_battlewin_001.aac",
+            "text": "言ったでしょ？　こんなの楽勝だって!"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_ai_battlelose_001.aac",
+            "text": "うーん…! 次は絶対うまくいくよ!"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_ai_uniqueskill_001.aac",
+            "text": "じゃーん! ボクの発明を見せてあげる!"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_ai_dead_001.aac",
+            "text": "え、 オーバーヒート!? なんで!?"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_ai_greeting_001.aac",
+            "text": "おはよう!　朝ごはん一緒に食べよー!"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_ai_talk1_001.aac",
+            "text": "最近いい発明を思いついたんだよね!"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_ai_talk1_002.aac",
+            "text": "お腹へったー!! ねぇ何かつくって!"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_ai_talk1_003.aac",
+            "text": "なんか面白いことないかなぁ…"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_ai_talk2_001.aac",
+            "text": "気が合って嬉しいよ!"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_ai_talk2_002.aac",
+            "text": "キミと一緒にいると、新しいアイデアが浮かんでくるんだ!"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_ai_talk2_003.aac",
+            "text": "一緒に発明品のテストを手伝ってくれない？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_ai_obeyfull_001.aac",
+            "text": "楽しくやれそうだね"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_ai_idle_001.aac",
+            "text": "ふあーあ。早く寝なさいって泪姉に怒られちゃった"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_ai_clicking_001.aac",
+            "text": "子供じゃないよ!  でもホッとするや!"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_ai_specialattention_001.aac",
+            "text": "え、ボクがいいの？ しょうがないなぁ〜。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_ai_dispatch_001.aac",
+            "text": "いってきまーす!"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_ai_dispatch2_001.aac",
+            "text": "バッチリやってきたよ!"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_ai_levelup_002.aac",
+            "text": "よーし! はりきっていくぞー!"
+        }
+    ],
+    "tender_signal": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_ai_aiyiyinxun_cacha_001.aac",
+            "text": "あは! 新しい衣装! 性能だけじゃなくて見た目も大事だよね!"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_ai_aiyiyinxun_levelup_001.aac",
+            "text": "よーし! がんばるぞー!"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_ai_aiyiyinxun_greeting_001.aac",
+            "text": "おはよう! 今日はどんな面白い事があるかな!"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_ai_aiyiyinxun_body_001.aac",
+            "text": "ボクだけパパの顔見た事ないんだ…。会いたいな"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_ai_aiyiyinxun_body_002.aac",
+            "text": "ボクにだって、姉さんたちに負けない魅力があるもん!\n…なんてね!"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_ai_aiyiyinxun_idle_001.aac",
+            "text": "この場所、静かで落ち着くなぁ!すごく集中できるや。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_ai_aiyiyinxun_clicking_001.aac",
+            "text": "えへへ……そんなに気になる？ まぁ気分は悪くないよ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_ai_aiyiyinxun_specialattention_001.aac",
+            "text": "大丈夫!? 仕事放ってボクのところに来ちゃって。でも嬉しいな。"
+        }
+    ]
+}

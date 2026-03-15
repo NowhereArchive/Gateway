@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_jiekuilin_cacha_001.aac",
+            "text": "放して！放してよ！うちはディスシティ一番の悪党なんだ！逮捕するなんて許さないぞ！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_jiekuilin_promotion_001.aac",
+            "text": "この先もきっとまだまだ楽しい冒険が待ってるんだ！"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_jiekuilin_promotion2_001.aac",
+            "text": "うっそ！これがうち？もう上庭で畑仕事ができるんじゃない！？"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_jiekuilin_battlebegin_001.aac",
+            "text": "今度の冒険地はどこだ？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_jiekuilin_battlewin_001.aac",
+            "text": "勝ったあ！お祝いだお祝い！コーラが飲みたいな！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_jiekuilin_battlelose_001.aac",
+            "text": "コホン……わざと逃がしただけだ！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_jiekuilin_uniqueskill_001.aac",
+            "text": "これでも喰らえ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_jiekuilin_dead_001.aac",
+            "text": "うっ……まだ遊び足りない……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jiekuilin_greeting_001.aac",
+            "text": "ヤッホー、局長！うちらと一緒に悪いことしないか？なぁ、はやく～つまんないんだって。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_jiekuilin_talk1_001.aac",
+            "text": "局長！コーラが飲みたいな！お願い……ちゃんと歯磨きするから！"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_jiekuilin_talk1_002.aac",
+            "text": "毎日ケンカしてればうまいものが食べれるなんて、管理局っていいとこだなあ——ん？……ちょっと待って！サボリも悪いことだったよな？やった！うちって、ほんとディスシティいちの悪党だな！"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_jiekuilin_talk1_003.aac",
+            "text": "じいちゃんは小さい頃カウボーイになって街に出て冒険するのが夢だったんだって。でも結局ずっと地元で畑仕事をしてる……だから、じいちゃんの願いを叶えるために、こっそり帽子を盗んできた！あははっ！"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_jiekuilin_talk2_001.aac",
+            "text": "ディスシティって大きいな。三時間走っても端が見えない。地元だったら、全ての畑を耕しても三時間はかからないよ？…………で、いつになったら上庭で畑仕事ができるの？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_jiekuilin_talk2_002.aac",
+            "text": "なあ、局長！悪い人にあったら、このペッパーの名前を出すといいよ。役には立たないかもしれないけど、勇気が出るから！"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_jiekuilin_talk2_003.aac",
+            "text": "最近任務が忙しくて悪いことをする暇もないなー。このままじゃ、ディスシティでのうちの悪名が忘れられちゃうかも。うーん……決めた！今日は徹夜する！"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_jiekuilin_obeyfull_001.aac",
+            "text": "局長！畑仕事をしよう！宝探ししよう！変な生き物と戦おう！もう待ちきれないよ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jiekuilin_idle_001.aac",
+            "text": "ふわぁ～——いつ出発するの？眠くなってきた……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jiekuilin_clicking_001.aac",
+            "text": "なになに？服になんかついてる？どこにもついてないじゃん！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jiekuilin_specialattention_001.aac",
+            "text": "何か新しい計画があるのか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_jiekuilin_dispatch_001.aac",
+            "text": "ディスに出発！いざ、冒険の旅へ！"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_jiekuilin_dispatch2_001.aac",
+            "text": "仕事終わったー！褒めて褒めて！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jiekuilin_levelup_002.aac",
+            "text": "走れ走れ～！"
+        }
+    ],
+    "peppy_shepherdess": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_cacha_001.aac",
+            "text": "ヤッホー、局長！見て見て、うちの子羊たち。雲みたいに白くてふわふわでしょ？一緒に放牧しに行こうよ～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_levelup_001.aac",
+            "text": "羊の——お世話——マニュアル？おお～なるほど！こうやって子羊をお世話すればいいのか！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_greeting_001.aac",
+            "text": "局長、こっちこっち！ここは日差しも風も子羊も全部ふわふわであったかいんだ～すっごくいい感じ！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_body_001.aac",
+            "text": "えっと、今日の仕事は……子羊を新しい牧草地に連れてって……羊小屋の掃除をして……あ、そうだ！朝搾ったばっかのミルクを市場に持って行かないと！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_body_002.aac",
+            "text": "ディスシティ一番の悪党をやめたのかって？そんなわけないじゃん！悪党は牧羊しちゃいけないっていうのか！？ふん、あれもダメ、これもダメって言うなら、羊の糞の玉を投げるぞ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_idle_001.aac",
+            "text": "羊が1匹……羊が2匹……羊が3匹……ダメだ！これ以上数えたら寝ちゃう！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_clicking_001.aac",
+            "text": "う、むぐ、うちの顔が羊の毛みたいにふわふわだって？子羊の方がふわふわで可愛いよ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jiekuilin_xiaogaoyang_specialattention_001.aac",
+            "text": "へへ、局長も牧場の景色が気に入ったみたいだな！家を出てから、こんな大自然と触れ合うのは久しぶりだよ～局長、ここに連れて来てくれてありがとう！局長の仕事が終わるまでここで待ってるよ！"
+        }
+    ]
+}

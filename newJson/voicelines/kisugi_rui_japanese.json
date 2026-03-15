@@ -1,0 +1,163 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_rui_cacha_001.aac",
+            "text": "泪よ。やっと迎えに来てくれたのね。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_rui_promotion_001.aac",
+            "text": "ちょっとずつ、見えてきたわね。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_rui_promotion2_001.aac",
+            "text": "良いプランを思いついたわ! 私の指示に従って!"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_rui_battlebegin_001.aac",
+            "text": "無理は禁物よ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_rui_battlewin_001.aac",
+            "text": "やったわね。みんな怪我はないかしら。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_rui_battlelose_001.aac",
+            "text": "残念ね。もう一度練り直しね。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_rui_uniqueskill_001.aac",
+            "text": "順調ね。計画通りに進んでるわ。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_rui_dead_001.aac",
+            "text": "お願いするわ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_rui_greeting_001.aac",
+            "text": "ちょっとずつ、見えてきたわね。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_rui_talk1_001.aac",
+            "text": "楽しそうね。何か……いいことでもあったのかしら？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_rui_talk1_002.aac",
+            "text": "良いプランを思いついたわ!"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_rui_talk1_003.aac",
+            "text": "私の指示に従って!"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_rui_talk2_001.aac",
+            "text": "順調ね。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_rui_talk2_002.aac",
+            "text": "計画通りに進んでるわ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_rui_talk2_003.aac",
+            "text": "冴え渡ってきたわ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_rui_obeyfull_001.aac",
+            "text": "あら、意外とぐいぐいくるのね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_rui_idle_001.aac",
+            "text": "やっと迎えに来てくれたのね。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_rui_clicking_001.aac",
+            "text": "私の事がそんなに気になる？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_rui_specialattention_001.aac",
+            "text": "光栄ね。あなたの気持ちに応えるわ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_rui_dispatch_001.aac",
+            "text": "いいわよ。ちょうど退屈してたところなの。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_rui_dispatch2_001.aac",
+            "text": "手に入れたわ。あとはどう使うか…あなた次第ね。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_rui_levelup_002.aac",
+            "text": "ふふ。冴え渡ってきたわ。"
+        }
+    ],
+    "kisugi_rui_-_rank_up": [
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_rui_head_001.aac",
+            "text": "あら……相手が違うんじゃなくて？"
+        }
+    ],
+    "tipsy_nocturne": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_rui_weixunyese_cacha_001.aac",
+            "text": "……どう？ 似合ってるかしら。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_rui_weixunyese_levelup_001.aac",
+            "text": "がっかりさせないわよ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_rui_weixunyese_greeting_001.aac",
+            "text": "ふふ。来てくれて嬉しいわ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_rui_weixunyese_talk_001.aac",
+            "text": "ねぇ、見てるだけでは、わからないわよ？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_rui_weixunyese_talk_002.aac",
+            "text": "聞こえてる？　……ふふ、そう……可愛いわね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_rui_weixunyese_idle_001.aac",
+            "text": "退屈な夜になると思っていたけど…悪くないわ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_rui_weixunyese_clicking_001.aac",
+            "text": "ふふ……どこまでが冗談なのかしら？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_rui_weixunyese_specialattention_001.aac",
+            "text": "これで、わたしとあなたの距離も縮んだわね。"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_letta_cacha_001.aac",
+            "text": "呼啊~老~师~好~我是……莱塔·德文希尔，链接梦与现实之人……唔嗯……没有其他问题的话，我就坐下了……"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_letta_promotion_001.aac",
+            "text": "嗯~这样我就可以去更多更有趣的地方了吧！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_letta_promotion2_001.aac",
+            "text": "嘿嘿，我可不是什么天真的淑女哦……局·长·大·人。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_letta_battlebegin_001.aac",
+            "text": "大雾深处……到底会有什么呢？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_letta_battlewin_001.aac",
+            "text": "嘿嘿……真是愉快的探险。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_letta_battlelose_001.aac",
+            "text": "唔……头晕晕的……要赶快离开危险的地方才行……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_letta_uniqueskill_001.aac",
+            "text": "照亮……这无尽的雾霭吧。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_letta_dead_001.aac",
+            "text": "我好想……回家……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_letta_greeting_001.aac",
+            "text": "嗯~希望您能有……美好的一天……嘿嘿……"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_letta_talk1_001.aac",
+            "text": "抱歉，我总是会梦游……要是我做了什么奇怪的事，请一定要把我叫醒，一定哦！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_letta_talk1_002.aac",
+            "text": "唔呣……卧室……我的卧室……嗯，到了到了……啊！这、这里是您的卧室？抱歉呀~希望没有打扰到您~"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_letta_talk1_003.aac",
+            "text": "这些瓶子里的东西是……蔬菜？诶？它们没有坏掉么？那它们的颜色怎么……诶？！月底的时候有些禁闭者就靠这些东西过日子？还……还真是新奇的食物呢……"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_letta_talk2_001.aac",
+            "text": "什么时候……能变成大人呢？不被他人干涉……只做自己想做的事情……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_letta_talk2_002.aac",
+            "text": "您已经……知道了？关于我假装梦游的事？果然还是瞒不住您……不过，您应该早就知道了吧？嘿嘿，真是个坏人呢。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_letta_talk2_003.aac",
+            "text": "和您在一起的时候，我感受到了真正的、无拘无束的自由和快乐……那，我们约好了！下次的新城冒险，请一定要带上我！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_letta_obeyfull_001.aac",
+            "text": "这里也去过了，那里也去过了……接下来，我们要去什么地方玩呢？嘿嘿，不管去哪里，就算是我去过的地方，只要你能陪着我，也一定会有最新奇的体验！……还有工作？唔……那好吧，我等您！毕竟……夜还很长嘛！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_letta_idle_001.aac",
+            "text": "我吃不下那么多啦……嘿嘿……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_letta_clicking_001.aac",
+            "text": "诶？哎呀~！小猫咪，不要乱踩啦……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_letta_specialattention_001.aac",
+            "text": "嘘~今晚是要和我一起，去狄斯城的大雾中寻找快乐吗？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_letta_dispatch_001.aac",
+            "text": "嗯……我出门啦，不用担心我哦……不会走丢的。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_letta_dispatch2_001.aac",
+            "text": "嘿嘿……这次也去了有趣的地方。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_letta_levelup_002.aac",
+            "text": "灯火，更温暖了……"
+        }
+    ],
+    "spectral_shenanigans": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_letta_gubaoyouying_cacha_001.aac",
+            "text": "唔呣……又有前来探险的旅人了吗……既然吵醒了沉睡的主人，那不如……来陪我做个游戏吧！要是你不愿意的话……就永远别想出去啦~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_letta_gubaoyouying_levelup_001.aac",
+            "text": "哼哼，我现在精神可好着呢，能陪你玩上一整夜~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_letta_gubaoyouying_greeting_001.aac",
+            "text": "来，跟随我的提灯，追寻我的踪迹吧……只要你能坚持到底，那这场游戏，就算你赢了~"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_letta_gubaoyouying_talk_001.aac",
+            "text": "嘿嘿，你这就被我吓到了？接下来还有更加刺激的，你这么一惊一乍的可不行哦……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_letta_gubaoyouying_talk_002.aac",
+            "text": "住着魂灵的画像、随时坠落的吊灯、忽明忽灭的烛火……这座古堡里什么古怪的事物都有。所以，小心不要被吓到输掉我的游戏哦～"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_letta_gubaoyouying_idle_001.aac",
+            "text": "一只白色的小幽灵，在迷雾中游荡……数着不灭的蜡烛，盼着迷路的人儿……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_letta_gubaoyouying_clicking_001.aac",
+            "text": "哎呀，不要扯我的绷带……别担心，我才不会作弊呢～"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_letta_gubaoyouying_specialattention_001.aac",
+            "text": "嘿嘿，这么专注地盯着我，看来你也认真起来了呢~那就好好看着吧……否则，当心被我穿墙逃走~"
+        }
+    ]
+}

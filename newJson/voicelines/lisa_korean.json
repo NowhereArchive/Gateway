@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_monalisa_cacha_001.aac",
+            "text": "증거도 없이 사람을 잡다니, 아주 대~단하시네. 뭐, 예술적 분위기라고는 하나도 없는 이 척박한 곳과는 아주 잘 어울리네요."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_monalisa_promotion_001.aac",
+            "text": "예술과 무관한 일로 나를 귀찮게 하지 말라고요."
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_monalisa_promotion2_001.aac",
+            "text": "환술이 아무리 강해도, 결국 실제의 붓으로 그린 그림을 대체할 수는 없지."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_monalisa_battlebegin_001.aac",
+            "text": "알아서 잘 따라와요, 놓치면 난 기다려주지 않을 거니까."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_monalisa_battlewin_001.aac",
+            "text": "내 환각의 향연을 볼 수 있는 걸 영광으로 생각하세요."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_monalisa_battlelose_001.aac",
+            "text": "실패작이야…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_monalisa_uniqueskill_001.aac",
+            "text": "촌스러워, 없애버려야 해."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_monalisa_dead_001.aac",
+            "text": "아름다움이란, 항상 이리도 짧은 건가?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_monalisa_greeting_001.aac",
+            "text": "국장님, 오늘은 또 어떤 방식으로 가치 없이 생명을 낭비할 생각인가요? 아, 굳이 답해줄 필요는 없어요. 궁금하지 않거든요. 예의상 물어본 거예요."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_monalisa_talk1_001.aac",
+            "text": "내가 교통사고를 당했을 때, 신성의 예술권 사람들 반이 몰래 환호하고 있었어요. 이 촌스러워 빠진 녀석들은 화가인 내가 그들의 장사를 가로챘다고만 생각할 줄 알지, 평론가인 내가 그들의 명성을 바닥으로 실추시킬 수 있다는 것은 모르나 봐요."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_monalisa_talk1_002.aac",
+            "text": "그 생각이 없는 그림들이 당신의 목덜미에 붙어 있는 그 머리통과 무슨 차이가 있죠?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_monalisa_talk1_003.aac",
+            "text": "예술적 표현은 원래 권위의 기준이 존재하지 않아요. 불과 몇 백만 디스달러로 한 작품의 가치를 정의하려고 하는 건가? 하, 신성의 벼락부자들은 당신보다 더 천박하군요."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_monalisa_talk2_001.aac",
+            "text": "혹시 아트포럼 계정이 있으세요? 그럼 좀 빌려주세요. 내가 방금 댓글을 하나 쓰려는데 게시하려고 하니까 계정이 막혔더라고요."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_monalisa_talk2_002.aac",
+            "text": "내가 항상 당신을 아무 쓸모 없는 것처럼 말한다고 해서 자포자기하지 마세요. 당신도 좋은 점이 있으니까요. 예를 들면… 어… 당신은 아주 착해요!"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_monalisa_talk2_003.aac",
+            "text": "예술계의 산업 정화에 크게 기여한 평론가인 나를 독설가라고 하다니? 그래, 그 무능한 바보들을 정신 차리게 할 수 있다면, 독설가쯤은 내가 해주지."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_monalisa_obeyfull_001.aac",
+            "text": "당신의 이목구비를 자세히 보니까 꽤 멋지네요… 안타깝게도 우리가 너무 늦게 알게 되어서 당신을 초상화로 남겨둘 기회는 없겠네요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_monalisa_idle_001.aac",
+            "text": "아이, 또 삐뚤어졌잖아! 내 손이 드디어 이제는 이런 직선도 그리지 못하게 되었어…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_monalisa_clicking_001.aac",
+            "text": "당신은 정말이지! …평범하기 짝이 없군요."
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_monalisa_specialattention_001.aac",
+            "text": "당신이 갑자기 예술에 눈을 떠서, <레베카>라는 그림의 색채가 정서표현에 미치는 작용에 대해 이야기를 할 것이 아니라면, 방해하지 마요. 나는 지금 써야 할 평론이 몇 편이나 남아서 당신이랑 노닥거릴 시간 따위는 없으니까."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_monalisa_dispatch_001.aac",
+            "text": "적어도, 너무 촌스러운 곳에는 보내지 마요."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_monalisa_dispatch2_001.aac",
+            "text": "여기서 계속 기다렸어요? 보아하니 국장이라는 자리는 꽤 한가한 것 같네요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_monalisa_levelup_002.aac",
+            "text": "고마워요… 왜 그러시죠? 내가 고맙다고 하는 게 이상해요?"
+        }
+    ],
+    "trail_of_butterfly": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_lisa_tingjiandieying_cacha_001.aac",
+            "text": "절 보고 놀란 건 아니죠? 여기는 주변 환경도 좋고 조용한 데다, 방해받을 걱정도 안 해도 돼서 평론에 집중하기 딱 좋아요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_lisa_tingjiandieying_levelup_001.aac",
+            "text": "리뷰 발송 완료, 다음 작품은 어떠려나…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_lisa_tingjiandieying_greeting_001.aac",
+            "text": "처참하게 평가받는 게 두렵지 않다면, 맞은 편에 의자가 있으니 가서 앉아요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_lisa_tingjiandieying_talk_001.aac",
+            "text": "가지에서 겨울을 보낸 번데기는 나비가 됐고, 말라 죽었던 히아신스에도 새싹이 피어났죠… 온실에는 항상 이렇게 기적이 가득한데… 그럼… 생명은 어떨까요?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_lisa_tingjiandieying_talk_002.aac",
+            "text": "하, 제가 질투를 한다고요? 돈 버는 거 말고는 아무것도 할 줄 모르는 투기꾼들한테 제가 질투를? 아무리 요란스럽게 홍보를 해도, 자기 작품이 쓰레기라는 사실은 숨길 수 없어요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_lisa_tingjiandieying_idle_001.aac",
+            "text": "창의적인 시도는 보이는데… 색채 활용이 너무 단조로워… 좀 더 과감할 필요가 있겠어…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_lisa_tingjiandieying_clicking_001.aac",
+            "text": "이 식물들에 비료를 좀 비축해야 할 것 같은데… 꽤 적극적이시군요?"
+        },
+        {
+            "title": "특별 주목",
+            "filename": "File:vo_lisa_tingjiandieying_specialattention_001.aac",
+            "text": "국장님은 절 쳐다보는 거 말고는 할 일이 없나 봐요? 심심하면 식물에 물 좀 줄래요? 저기, 물조리개는 저기 있어요."
+        }
+    ]
+}

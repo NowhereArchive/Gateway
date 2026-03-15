@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_augustus_cacha_001.aac",
+            "text": "你可真难抓，我的人忙活了几个月都没能把你绑回去，所以我只能自己来了。局长，你是跟我走呢，还是请我留下，在你家里扎个营？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_augustus_promotion_001.aac",
+            "text": "我发现在追求力量这件事上，你比我狂热多了。真不错。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_augustus_promotion2_001.aac",
+            "text": "这把剑曾把人推上顶峰，也把他们砍下王座。即使如此，你也愿意把后背交给它么？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_augustus_battlebegin_001.aac",
+            "text": "精英小队，秘密行动，这就是管理局的风格对吗？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_augustus_battlewin_001.aac",
+            "text": "赢一场就这么高兴啊？真可爱。走吧，以后你还会赢一千场一万场，早点习惯。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_augustus_battlelose_001.aac",
+            "text": "战术性撤退，别急，这场仗还没完，胜利女神只是迟到一会儿，但总会来到你身边。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_augustus_uniqueskill_001.aac",
+            "text": "荡平他们！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_augustus_dead_001.aac",
+            "text": "死得其所……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_augustus_greeting_001.aac",
+            "text": "能在这儿见到局长，看来又是和平的一天，无聊的一天……想出去走走吗？宴会或是战场，我都能找点刺激。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_augustus_talk1_001.aac",
+            "text": "现在还有人提起“狄斯军队”吗？不是FAC那群废物，是敢对人举枪、杀穿无数战场的真正的士兵。呵，究竟是忘记了，还是不敢提起呢……见我回来，他们该不会害怕了吧。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_augustus_talk1_002.aac",
+            "text": "以前，城邦部队里也不全是战争狂人狄斯信徒，还有很多“精明人”。那么庞大的军费，随便腾挪一下都够养好几个家族。对，我们安多哈尔家也在其中，看得出来吗？我也来自腐朽豪门。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_augustus_talk1_003.aac",
+            "text": "听说战争结束后，最勇猛的士兵如果没迎接光荣的牺牲，就会变成活着的亡灵。他们被和平放逐，受困于杀戮的战场，变成兵器……我所驾驭的，正是这样一群最强刀刃。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_augustus_talk2_001.aac",
+            "text": "入夜前有一幅名画，描绘某将军骑马翻山的景象，威风极了。可惜我四处征战也没找到一匹活马，狄斯城就更不用说。儿时的英雄梦想不知不觉就碎掉了，唉。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_augustus_talk2_002.aac",
+            "text": "想听听总司令年轻时的糗事吗？或者你那位特务长官的秘闻？反正闲着，多聊聊。作为交换，你可以谈谈……在你背后那几个上庭人，说说他们有多器重你。我很想听。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_augustus_talk2_003.aac",
+            "text": "我观摩过很多葬礼，积累经验，终于给自己设计了最完美的方案，执行人就选定你了。嗯？你当然会比我活得长。有我在，绝不会让你死在我前面。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_augustus_obeyfull_001.aac",
+            "text": "我从未脱离过战争，也没想象过战争结束的样子。只是在遇到你后，那画面才逐渐清晰起来——大概就是眼前有你在的光景吧，好像也很值得期待。那以后我们得更努力才行，努力结束这场仗，还有，努力活着，别死了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_augustus_idle_001.aac",
+            "text": "离我这么近，还敢走神，放松警惕……局长，你太没戒心了，真不怕我做些什么吗？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_augustus_clicking_001.aac",
+            "text": "嗬——我穿礼裙时不见你动手动脚，现在倒挺来劲。怎么，你只好制服这口么？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_augustus_specialattention_001.aac",
+            "text": "又有大人物要你多盯着我吗？哈哈放心，我对不敢冒头的懦夫脑袋没有兴趣。我是来见你的，现在这样就很好。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_augustus_dispatch_001.aac",
+            "text": "行动要求0伤亡，很有挑战。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_augustus_dispatch2_001.aac",
+            "text": "任务完成，局长该来表彰我的功勋了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_augustus_levelup_002.aac",
+            "text": "不错，又找回些当年的感觉。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_augustus_head_001.aac",
+            "text": "帽子上是原狄斯军队的徽记，已经很少见了。要摘下来，换成你MBCC的logo吗？"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_garofano_cacha_001.aac",
+            "text": "初めまして、局長。まぁ、つれないですね。ブラウン夫人なんて呼ばないでください……もう過去のことですから。ガロファノとお呼びくださいな。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_garofano_promotion_001.aac",
+            "text": "私は全力であなたを守ります。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_garofano_promotion2_001.aac",
+            "text": "これで、あなたは二度と私から離れない……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_garofano_battlebegin_001.aac",
+            "text": "身の程知らずはどこの誰？……私の持ち物に手を出すつもり？"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_garofano_battlewin_001.aac",
+            "text": "もう大丈夫ですよ。あなたはまだ、私の傍にいます。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_garofano_battlelose_001.aac",
+            "text": "……嫌！もう……何も失いたくない！"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_garofano_uniqueskill_001.aac",
+            "text": "奪わないでーー！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_garofano_dead_001.aac",
+            "text": "ああ、私はやっと……あなたたちと一緒にいられる……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_garofano_greeting_001.aac",
+            "text": "何か悩み事ですか？ 仕事が上手くいかないとか、服のサイズが合わないとか……私に何でも話してくださいな。一緒に解決しましょう。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_garofano_talk1_001.aac",
+            "text": "まぁ、誰かの面倒を見るのに慣れているだけかもしれませんが、私は人に頼られる感覚を楽しんでいるのです……だって、みんな私から離れられなくなるでしょう？"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_garofano_talk1_002.aac",
+            "text": "あら、袖のボタンが取れていますね。縫ってあげましょうか？しーっ、動かないで……私はプロの仕立て屋です。心配しなくても、傷つけたりしませんよ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_garofano_talk1_003.aac",
+            "text": "ん？そんなに顔を赤くして、メジャーがきつくて息ができないのですか？少しだけ我慢してくださいな。最も正確なサイズを測るには、この方法しかないのです……もっと身体に合ったシャツが欲しいと言ったのはあなたでしょう？"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_garofano_talk2_001.aac",
+            "text": "あなたといるといつも温かな親しみを覚えます。知り合って間もないのに、まるで懐かしい人に再会したような……あなたの傍で、久しぶりに喜びを感じました。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_garofano_talk2_002.aac",
+            "text": "嬉しかったことも、悲しかったことも、私にとっては全て大切なこと。けれど、人は思い出だけでは生きていけないでしょう？だから私は……目の前にあるものを、もっと大切にしたいです。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_garofano_talk2_003.aac",
+            "text": "ボタンは特殊な装飾品です。体温を感知し、感情を一つにすることができる。だから血縁者のボタンはいつも大切に、最も心臓に近い場所に隠してきました……ご覧になりますか？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_garofano_obeyfull_001.aac",
+            "text": "ボタンのようにあなたを自分の服に縫い付けて、永遠に私のものにしたい……あ、ごめんなさい。つまり聞きたいのは、私のものになってくれる？ってこと。私はあなたを愛し、守り、絶対に誰にも奪わせないから！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_garofano_idle_001.aac",
+            "text": "寝ている時のあなたはなんて可愛いんでしょう……ずっと抱き締めていたいくらいにね、局長……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_garofano_clicking_001.aac",
+            "text": "私と距離を縮めたいなら、直接そう言ってくださいな。慌てないで……私の身体にある針があなたに刺さらないか心配です。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_garofano_specialattention_001.aac",
+            "text": "あなたも私が欲しい。そうですよね？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_garofano_dispatch_001.aac",
+            "text": "自宅に出向いて仕立てる必要があるオーダーが入ったのですか？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_garofano_dispatch2_001.aac",
+            "text": "ご安心を。オーダーはスムーズに完了しました。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_garofano_levelup_002.aac",
+            "text": "あなたが与えてくれる全てを、しっかり受け止めます。"
+        }
+    ],
+    "in_the_veiled_grove": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_garofano_yuyewulin_cacha_001.aac",
+            "text": "見てください。今、私たちはくっついていますね……まるで、この雨の線でしっかりと縫い合わされたように。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_garofano_yuyewulin_levelup_001.aac",
+            "text": "雨に濡れると、香りがより濃く感じますね。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_garofano_yuyewulin_greeting_001.aac",
+            "text": "もう少し近くに来てくださいな、局長。風雨から守ってあげますから。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_garofano_yuyewulin_head_001.aac",
+            "text": "あなたの手でさしてくれたこのカーネーションは、雨が上がっても私の大切な宝物です。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_garofano_yuyewulin_body_001.aac",
+            "text": "気を付けて！動かないでください……服の袖が枝に引っかかっていますよ。もがくと、どんどんきつくなりますからね。心配はいりません。私に任せてください。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_garofano_yuyewulin_body_002.aac",
+            "text": "疲れたら、私を枕にして少し休んでくださいな。安心してください。私はいつでもあなたの傍にいますよ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_garofano_yuyewulin_hand_001.aac",
+            "text": "あら、指先が少し冷たいですね……緊張しないでください。あなたの手を温めてあげたいだけですから。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_garofano_yuyewulin_background_001.aac",
+            "text": "あなたが近づいてくるその姿……まるで今すぐにでも私の持ち物になりたいと言っているようですね……ふふ、分かっています。あなたはただ、この雨の夜でも体温を失わないようにしているだけですよね？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_garofano_yuyewulin_idle_001.aac",
+            "text": "あなたから与えられた任務は完了しました。今は雨が止むまで、一時的な小さなシェルターへ避難するように……一緒にここにいましょう。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_garofano_yuyewulin_specialattention_001.aac",
+            "text": "あなたの眼差しは、雨の夜の温かい灯りのように、無視することができません……"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_bianca_cacha_001.aac",
+            "text": "視聴者の皆さん、今ご覧いただいているのは私がMBCCに捕らえられる完全映像です！ほら、局長。カメラ見て～——3、2、1、チーズ！"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_bianca_promotion_001.aac",
+            "text": "毎日カメラを持ってると、本当に身体が鍛えられるんだよ！アタシのミニ上腕二頭筋を見て見て！可愛いでしょ？"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_bianca_promotion2_001.aac",
+            "text": "暗がりに潜む悪人どもよ、真の姿を画面の前にさらけ出せ。局長の名において命じる——カメラを見よ！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_bianca_battlebegin_001.aac",
+            "text": "カメラの準備完了！さぁ、笑って～"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_bianca_battlewin_001.aac",
+            "text": "何を撮ったと思う？ジャジャ～ン——敵が爆発でドロドロに吹き飛んだ瞬間！カッコいいよね～額に入れてベッドの上に飾ろうっと！"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_bianca_battlelose_001.aac",
+            "text": "は、ず、か、し、い……さっきの消して。おねが～い。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_bianca_uniqueskill_001.aac",
+            "text": "ニュースの時間だよ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_bianca_dead_001.aac",
+            "text": "カメラ、任せたね……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_bianca_greeting_001.aac",
+            "text": "はじめましての皆さんも、そうじゃない皆さんもこんにちは！あなたの最高の記者、ビアンカです！そして私の隣にいるのは、あの有名なミノス危機管理局の局長で～す！ほら局長、恥ずかしがってないで皆さんにご挨拶して～"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_bianca_talk1_001.aac",
+            "text": "ねぇ、聞いて。さっき、デスクにプレスリリースを催促される悪夢を見たの！怖かった……今は無職でよかったよ。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_bianca_talk1_002.aac",
+            "text": "隠し撮りされ、正義の記者に暴露され、首を切られて脳みそパーン！市民の害を排除した～ラララ～"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_bianca_talk1_003.aac",
+            "text": "過去の代償を払わなきゃいけないって分かってた。管理局に来た最初の日には覚悟決めてたよ。アタシを罰して。何でも受け入れる！……でもその前に、録画ボタン押してほしいな～ありがとう～"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_bianca_talk2_001.aac",
+            "text": "リンゴジュースは罪を清め、心を洗い流し、すべての憂鬱を払うことができる。これは本来禁じられたものであり、真理の脱構築であり、次のインタビューのインスピレーションに繋がるものなのだ。っていうのは全部アタシのでっち上げだけど、とにかく……一緒に一杯どう？"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_bianca_talk2_002.aac",
+            "text": "ニュースのない日々なんてすっごい退屈——局長、一緒にペット飼わない？手癖が悪い奴らを閉じ込めて、滑車に乗せて、走って走って走りまくるのを眺めて、怠けてたら電気バットで脅すの！黒い泥を吐くだけの悪い奴らなんだから、うっかり殺しちゃっても世のためになるよね～"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_bianca_talk2_003.aac",
+            "text": "セレブのスキャンダルなんか撮っても全然すごくないよ。アタシが一番好きなのは、光も見えない汚くて気持ち悪い場所に行って、法律をすり抜けられたと思い込んで道徳を弄び、側溝に隠れて黒い泥を得意げに吐き出してるカメムシを尾行すること。そいつを下水道で捕まえて、明るい太陽の下に引きずり出して、干からびるまで晒すんだ！カリカリの標本になるのを想像するだけですっごい達成感だよ！"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_bianca_obeyfull_001.aac",
+            "text": "局長に直撃インタビュー！今後の恋愛について展望はありますか？理想のタイプは？お好みは優しい人？それとも活発な人？高い位置でポニーテールにして、毎日カメラ片手に走り回ってるような人はどう？つまり、アタシのこと……どう思う？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_bianca_idle_001.aac",
+            "text": "リンゴジュース万歳！乾杯！……うーん、局長？キミもいたんだ……でもどうしてそんなに分身してるの？局長が一人、二人、三人……へへ、み～んなアタシのもの。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_bianca_clicking_001.aac",
+            "text": "ななな何！？まさかアタシに何かする気じゃ……ダメダメ～！こんなの放送できないよ～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_bianca_specialattention_001.aac",
+            "text": "遂に、この感動的な瞬間がやってきました。今年のベストニュース賞の受賞者に盛大な拍手を。発表します——ダララララララ～ダン！MBCCの記者、ビアンカです！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_bianca_dispatch_001.aac",
+            "text": "来た来た、リップ塗るから待ってて……えっ、中継車もう行っちゃったの！？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_bianca_dispatch2_001.aac",
+            "text": "これはキミにプレゼント。あとこれも……あれ、なんか仕事が無駄になった気がするんだけど？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_bianca_levelup_002.aac",
+            "text": "もっともっと爆発的なニュースを探し続けられるように、アタシを励ましてくれてるんだよね？やーん、超感動……うう……"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_bianca_head_001.aac",
+            "text": "この動き、アタシが犯行現場で撮影した時のことを思い出したよ。容疑者は相手の首に手をかけて——ボキッ！高画質動画も保存してあるから一緒に見る？"
+        }
+    ],
+    "in-cider_scoop": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_cacha_001.aac",
+            "text": "えへへ～局長、二人で力を合わせれば、き……きっとこの晩餐会で衝撃的なニュースを掘り出せるよ！それにしても、う……ここのリンゴジュースが、こ～んなに美味しいなんて思わなかったな～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_levelup_002.aac",
+            "text": "イェ～イ、もう一本！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_greeting_001.aac",
+            "text": "わぁ～局長、来たんだね！もう一杯飲もう！これはリンゴ味の高級発酵飲料だよ。うっぷ。さすがニューシティの晩餐会が特別に提供する高級品だぁ～！"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_head_001.aac",
+            "text": "うっ……頭が、アタシの頭はどうしちゃったの！？あ！もしかして！リンゴの苗が生えた？えへへ……じゃあ、キミは……うっぷ、土をほぐして水やりして～"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_talk1_001.aac",
+            "text": "こういう富裕層や権力者が集うパーティーでは、見栄や華やかさは見せかけだよ。違法行為や闇取引——それこそ我々の目的なのだ！アタシの目は高性能のレンズであり、いかなるゴミも正義の記者の暴露からは逃れられない！"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_talk1_002.aac",
+            "text": "アタシだってジュースばっかり飲んでるわけじゃないよ。興味深い裏情報もたっぷり入手したんだから……局長、もっとこっちに来て。独占情報をこっそり教えてあげる～"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_hand_001.aac",
+            "text": "ああ、真っ赤な誘惑、禁断の果実、知恵の結晶、欲望の鍵……それがどんな味か興味ある？それならひと口かじってみて。ひと口でいいから～"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_leg_001.aac",
+            "text": "うわぁ！もうダメだ～転んじゃって起き上がれないよぉ～ああ、友よ。アタシはこの邪悪なソファに封印されてしまった……アタシを救うビッグニュースがない限り、起き上がることはできないのだ！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_idle_001.aac",
+            "text": "ぴ～か～ぴ～か～ひ～か～る～カメラのライトはどこ照らす～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_specialattention_001.aac",
+            "text": "わぁ、カメラだ！皆さん、私をご覧ください。ディスで最も偉大な記者・ビアンカが今日の晩餐会のビッグニュースをお届けいたします！"
+        }
+    ],
+    "bouncing_toccata": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",
+            "text": "ちょっと見せて……うわぁ～人がいっぱい！客席は超満員だね！ふふん、偉大なる記者ビアンカは、キーボードで会場を盛り上げるだけじゃなく、この音楽の祭典を自ら記録するのだ！完全独占レポートだよ！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_bianca_tantiaotuokata_levelup_001.aac",
+            "text": "ニューシティで最も輝くクロスオーバーミュージシャンの出番だよ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_bianca_tantiaotuokata_greeting_001.aac",
+            "text": "あっ、ちょうどいいとこに来たね！今、新曲ができたばっかりなんだ。名付けて——『ミス・リンゴの正義のハートクラブ』。早く聴いてみて！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_bianca_tantiaotuokata_talk1_001.aac",
+            "text": "偉大な記者っていうのはね、最前線に突っ込むし、ステージにも立つし、カメラをしっかり構えて、キーボードを力強く弾くんだよ～"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_bianca_tantiaotuokata_talk1_002.aac",
+            "text": "この雰囲気、この歓声、このライティング！超最高！今、アタシの血の中には音楽の電流が流れてる！ライブ後の打ち上げは、絶対特大サイズのお酒のボトルを開けなきゃ！思いっきり飲まなきゃこの熱い夜に申し訳ない！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_bianca_tantiaotuokata_idle_001.aac",
+            "text": "……このサビには、どんなコードを合わせたら映えるかな？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_bianca_tantiaotuokata_clicking_001.aac",
+            "text": "そこのお客さん！演奏中のミュージシャンにちょっかいをかけるのはおやめください。ソロでミスったら大惨事なんだから！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_bianca_tantiaotuokata_specialattention_001.aac",
+            "text": "えへへ、すごいでしょ？驚いたでしょ？アタシのことちょっと見直した？でも驚くのはまだ早いよ。これから目を丸くする瞬間がたくさん待ってるんだから！アタシと「ライトニングホワイトキーボード」は、まだ真の能力を発揮してない——驚く準備をしておいて！"
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_heli_cacha_001.aac",
+            "text": "时机已经成熟，所以，我来见你了，我亲爱的……同谋。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_heli_promotion_001.aac",
+            "text": "力量是达成目的的捷径，不过……也不是唯一的手段。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_heli_promotion2_001.aac",
+            "text": "我已经到达顶点，这里的风景……能满足你的期望吗？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_heli_battlebegin_001.aac",
+            "text": "这里能给我什么惊喜呢。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_heli_battlewin_001.aac",
+            "text": "一切都在计划之中。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_heli_battlelose_001.aac",
+            "text": "我都快忘了，失败原来是这种滋味。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_heli_uniqueskill_001.aac",
+            "text": "湮灭吧！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_heli_dead_001.aac",
+            "text": "我不能……倒在这里……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_heli_greeting_001.aac",
+            "text": "剧变将至，今天的你会采取什么行动呢？我很期待，局长。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_heli_talk1_001.aac",
+            "text": "你可以“监管”我，也可以选择合作……想想看，局长，奎恩集团能提供给你的不只是金钱，还有更多你想象不到的东西。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_heli_talk1_002.aac",
+            "text": "我喜欢下棋。在棋盘上，我们眼中只有彼此，穷尽智慧将对方赶尽杀绝——这是多么纯粹的快乐。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_heli_talk1_003.aac",
+            "text": "我知道，你是个坦率的人。不过，也别把什么想法都写在脸上，让你的行为变得更加……不可预测一些吧。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_heli_talk2_001.aac",
+            "text": "狄斯城真是个美妙的地方，是世界的中心，也是人类的未来……她是否愿意接纳我呢？"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_heli_talk2_002.aac",
+            "text": "金钱和地位、信任和友谊，又或者恐惧和威胁……这些都是换取忠诚的筹码，而我能让这笔交易永远持续下去。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_heli_talk2_003.aac",
+            "text": "我不想与你厮杀，但……如果那一天真的到来，希望你能给我一场最酣畅的对决。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_heli_obeyfull_001.aac",
+            "text": "你……属于我，我的棋子，我的珍藏，我全部秘密的分享者。不要背叛我……没人能背叛我。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_heli_idle_001.aac",
+            "text": "和我下局棋吧……不要拒绝得这么快，这次我会让着你一点。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_heli_clicking_001.aac",
+            "text": "你有什么欲求，坦率告诉我吧。我们之间不需要这种游戏。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_heli_specialattention_001.aac",
+            "text": "一个挑战者，一个谈判对象，或者……一位亲密的朋友……你是以哪一种身份来见我？无论怎样，我都感到高兴。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_heli_dispatch_001.aac",
+            "text": "呵呵，让我看看，你都在计划些什么。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_heli_dispatch2_001.aac",
+            "text": "事情办完了，你要如何支付我的报酬呢？不如就用我眼前看到的这位来……呵呵……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_heli_levelup_002.aac",
+            "text": "可供驱使的力量，无论何时都不会嫌多。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_heli_head_001.aac",
+            "text": "真怀念，曾经也有人这样亲昵地对我，只可惜……他们都已经离开这个世界了。"
+        }
+    ],
+    "seaside_sunrise": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_heli_haiyuchenguang_cacha_001.aac",
+            "text": "无论潮起潮落，都能尽收眼底——如此绝佳的观景位置，局长，还不落座吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_heli_haiyuchenguang_levelup_001.aac",
+            "text": "度假从来都是胜者的特权，只有那些无法把控时局的人，才需要一直绷紧神经。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_heli_haiyuchenguang_greeting_001.aac",
+            "text": "你来得正是时候，此时此景，最适合与宿命中的敌手对弈一局。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_heli_haiyuchenguang_head_001.aac",
+            "text": "嗯？我可不会轻易放过对手的挑衅，就罚你——在这儿陪我一起看海吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_heli_haiyuchenguang_leg_001.aac",
+            "text": "看似平静的海面下暗潮汹涌，随时会掀起巨浪……不过，对我而言，“危险”只是生意之余的调剂罢了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_heli_haiyuchenguang_leg_002.aac",
+            "text": "日出的风景不尽相同，人们却总是傲慢地笃定，自己看见的一直是同一个太阳……多亏他们的愚蠢，才有今日的奎恩。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_heli_haiyuchenguang_hand_001.aac",
+            "text": "致我们共同缔造的黎明，Cheers~"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_heli_haiyuchenguang_body_001.aac",
+            "text": "你很喜欢这件泳衣领口的设计吗？别小看了它，软布之下既是令人沉溺的温柔乡，也是能叫人一败涂地的杀器。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_heli_haiyuchenguang_idle_001.aac",
+            "text": "难得有这样悠闲独处的机会，趁我微醺，一起做些下棋之外的事吧？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_heli_haiyuchenguang_specialattention_001.aac",
+            "text": "你欣赏的究竟是海滨的日出，还是别的“美景”？不用移开视线，我并不介意。"
+        }
+    ],
+    "daughter_of_fraser_city": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_heli_feishazhinv_cacha_001.aac",
+            "text": "你是谁？！……你的眼神看上去不像我亲爱的哥哥姐姐们派来的人，所以……你是来找我合作的？那么你有一分钟的时间，展示你的诚意吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_heli_feishazhinv_levelup_001.aac",
+            "text": "没人会嫌弃自己手牌太多，我也不例外。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_heli_feishazhinv_greeting_001.aac",
+            "text": "希望你离开的这段时间，是去提升自己的能力了，我不希望站在我身边的合作者，跟不上我的思路。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_heli_feishazhinv_talk_001.aac",
+            "text": "我的对手都是坎贝尔家嫡出的子女。与他们相比，我可以说是一无所有。就算如此，你还要同我站在一边吗？呵呵，有意思，我开始怀疑起你的动机了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_heli_feishazhinv_talk_002.aac",
+            "text": "父亲不会插手我们之间的争斗。证明自己的优秀是坎贝尔子嗣的义务。获胜者得到一切，出局者失去所有。这就是游戏规则。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_heli_feishazhinv_idle_001.aac",
+            "text": "这里的人一直都这么悠闲吗？呵呵，坎贝尔家族的人在这个年纪可没有休息的资格。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_heli_feishazhinv_clicking_001.aac",
+            "text": "呵，这就是你来找我合作的动机，是吗？这种手段，从我祖母那一辈开始就不用了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_heli_feishazhinv_specialattention_001.aac",
+            "text": "好，先待在我身边吧，我会慢慢告诉你详细计划的。"
+        }
+    ],
+    "veil_of_flame": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_heli_yanseweisheng_cacha_001.aac",
+            "text": "别被烟火和香槟迷惑了，所谓宴会不过是另一种形式的角斗场。每一次交杯，每一声谈笑，都藏着杀意和机遇——你准备好和我并肩入局了吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_heli_yanseweisheng_levelup_001.aac",
+            "text": "明智的投资，cheers。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_heli_yanseweisheng_greeting_001.aac",
+            "text": "这是一场为胜者加冕的晚宴，欢迎你来见证，我的贵客。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_heli_yanseweisheng_talk_001.aac",
+            "text": "挑选礼服也是一项重要谈判技巧，精巧的装扮能帮我吸引目光、抓住破绽。就比如刚刚……你的视线在我身上停留了多久？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_heli_yanseweisheng_talk_002.aac",
+            "text": "如果你是我，会怎么利用今晚这场盛宴？驯服一条忠犬？收编一个家族？还是，策反一位对手？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_heli_yanseweisheng_idle_001.aac",
+            "text": "热闹的晚宴里唯独你安静得像个局外人。没关系，我一向愿意给聪明人多一点思考的空间。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_heli_yanseweisheng_clicking_001.aac",
+            "text": "我并不讨厌身体接触，只是希望它发生在双方都清楚后果的时候，那么局长——你想清楚了吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_heli_yanseweisheng_specialattention_001.aac",
+            "text": "只盯着我是没法好好享受这场宴会的，不如多关注一下舞池，那里有更多的“猎物”。"
+        }
+    ]
+}

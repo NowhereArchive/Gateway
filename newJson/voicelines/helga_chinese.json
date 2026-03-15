@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_heerjia_cacha_001.aac",
+            "text": "哎哟，小伙子穿这身可真精神，你也是费沙上面派来的？找我这个老婆子有什么话要说呀？不着急的话，先坐下来喝杯茶吧！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_heerjia_promotion_001.aac",
+            "text": "鬣狗从不挑食。谁该咬，就咬谁。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_heerjia_promotion2_001.aac",
+            "text": "既然大伙儿都叫我一声奶奶，那我这把老骨头就得顶在最前头。谁要是想欺负他们，先问过我手里的枪！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_heerjia_battlebegin_001.aac",
+            "text": "被鬣狗盯上的猎物，跑不掉。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_heerjia_battlewin_001.aac",
+            "text": "清除完毕，收工。现在回去，还赶得上给娃娃们做个点心。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_heerjia_battlelose_001.aac",
+            "text": "*的，一帮躲在背后耍阴招的臭老鼠，迟早一枪送你们上路。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_heerjia_uniqueskill_001.aac",
+            "text": "枪响为号！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_heerjia_dead_001.aac",
+            "text": "终于……又可以见到你们了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_heerjia_greeting_001.aac",
+            "text": "你回来了？正好，我这儿炖了点汤，先歇口气再忙活，工作再急也得养好身子。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_heerjia_talk1_001.aac",
+            "text": "我就喜欢修东西，老电扇、旧收音机、破玩具……折腾半天能让它们重新转起来、响起来，就觉得心里特踏实。咱们这些老家伙啊，能再动起来一回，本身就是一件挺有意义的事。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_heerjia_talk1_002.aac",
+            "text": "说实话，我年轻那会儿最怕动脑子，一听说要谋划算计就头大。后来没辙了，才慢慢学着看书、找人问……呵呵，从前最头疼的东西，一路摔摔打打的，倒也全都学会了。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_heerjia_talk1_003.aac",
+            "text": "别人看远处只见一片黑，我却能瞧清楚目标怎么呼吸、怎么挪动。干咱们狙击这行，枪准不算什么，心稳、眼毒、手快，才是真本事。要是慢上那么半秒，最后倒下的可就不是敌人喽。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_heerjia_talk2_001.aac",
+            "text": "小鬼，你比组织里的那帮崽子省心多了，至少不会为了晚饭的最后一块饼子争得鸡飞狗跳……可话说回来，能吵能闹才更像一家人。咱这伙人，关键时候都是能交心托命的。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_heerjia_talk2_002.aac",
+            "text": "我这人不算多念旧，可每年到了这天，总得去坟前陪他们喝上一杯。现在有你在边上，也算是替他们听我唠叨几句，他们肯定高兴得很。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_heerjia_talk2_003.aac",
+            "text": "箱子和枪托上的贴纸是孩子们给的信物，我都好好存着。要是哪天你也来留一张……那可就新鲜了，到时候我得拿出去显摆显摆，告诉他们，连堂堂局长都认我这个“奶奶”。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_heerjia_obeyfull_001.aac",
+            "text": "我这双眼睛，可没有随着年龄而变得浑浊，所以我看得出，你是个好孩子。等哪一天，我扛不动枪也修不动东西了，你会接过我的枪，替我守护好这些安稳过日子的普通人……哈哈，我一定会安心地阖上双眼吧。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_heerjia_idle_001.aac",
+            "text": "别磨蹭了，干活要利索——就像扣扳机一样，别给自己留退路。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_heerjia_clicking_001.aac",
+            "text": "哎？手怎么回事？没大没小的……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_heerjia_specialattention_001.aac",
+            "text": "放心吧，天再黑，奶奶也能看得清你，不会让你出事的。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_heerjia_dispatch_001.aac",
+            "text": "东街阀门又漏水了？正好，我带上箱子去修修……顺手处理个碍事的家伙。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_heerjia_dispatch2_001.aac",
+            "text": "管子修通了，目标也解决了。顺道还打探了点新消息，这一趟收获满满。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_heerjia_levelup_002.aac",
+            "text": "我这老胳膊老腿都还顶用吧？"
+        }
+    ]
+}
