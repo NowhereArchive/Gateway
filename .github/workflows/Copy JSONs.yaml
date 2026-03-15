@@ -1,0 +1,37 @@
+name: Copy JSONs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  rename:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Clone NowhereDev2 repo
+        run: |
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
+
+      - name: Copy to NowhereDev2
+        run: |
+          cp -ra newJson/. NowhereDev2/
+
+      - name: Push files to NowhereDev2
+        run: |
+          cd NowhereDev2
+          git config user.name  "NowhereArchive"
+          git config user.email "178385478+NowhereArchive@users.noreply.github.com"
+          
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
+          
+          git add . 
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore: update JSONs from workflow"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
