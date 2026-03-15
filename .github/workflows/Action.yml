@@ -34,7 +34,7 @@ jobs:
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
           # Set remote to your destination repo
-          git remote add origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios4.git
+          git remote add set-url https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios4.git
           git add .
           # Check if there are changes before committing to avoid errors
           if [ -n "$(git status --porcelain)" ]; then
