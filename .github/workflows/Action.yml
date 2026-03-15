@@ -22,9 +22,8 @@ jobs:
       - name: Add files to destination repo
         shell: pwsh
         run: |
-          md voicelines
-          cp -r NowhereAudios/audio voicelines
-          cp -r NowhereDev/CharactersJson voicelines
+          cp -r NowhereAudios/audio NowhereAudios4
+          cp -r NowhereDev/CharactersJson NowhereAudios4
 
       - name: Repush
         shell: bash
