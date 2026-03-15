@@ -47,12 +47,11 @@ jobs:
           cd NowhereDev2
           git config user.name  "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
-          # Push to dev repo, not the real one — verify here before touching NowhereAudios4
           git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
           git add audio/
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "chore: rename audio files and folders to match updated voiceline JSONs"
-            git push dev main
+            git push origin main
           else
             echo "No changes to commit"
           fi
