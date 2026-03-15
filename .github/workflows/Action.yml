@@ -16,6 +16,8 @@ jobs:
       - name: Clone repo
         run: git clone https://github.com/NowhereArchive/NowhereDev.git
 
+      - name: Clone repo
+
       - name: Add files to destination repo
         shell: pwsh
         run: |
@@ -26,13 +28,13 @@ jobs:
       - name: Repush
         shell: bash
         run: |
-          cd voicelines
+          cd NowhereAudios4
           git init
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
           # Set remote to your destination repo
-          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios4.git
+          git remote add origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios4.git
           git add .
           # Check if there are changes before committing to avoid errors
           if [ -n "$(git status --porcelain)" ]; then
