@@ -12,6 +12,8 @@ jobs:
 
       - name: Clone destination repo
         run: git clone https://github.com/NowhereArchive/NowhereAudios.git
+
+      - name: Clone repo
         run: git clone https://github.com/NowhereArchive/NowhereDev.git
 
       - name: Add files to destination repo
