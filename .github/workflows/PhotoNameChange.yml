@@ -22,13 +22,13 @@ jobs:
           Rename-Item .\NowhereImages\prison\vautour\vautour.png vautour_bleu.png
           Rename-Item .\NowhereImages\prison\vautour vautour_bleu
 
-          Rename-Item .\NowhereImages\prison\chelsea.png countess_chelsea.png
+          Rename-Item .\NowhereImages\prison\chelsea\chelsea.png countess_chelsea.png
           Rename-Item .\NowhereImages\prison\chelsea countess_chelsea
 
-          Rename-Item .\NowhereImages\prison\weatherforecast.png weather_forecast.png
+          Rename-Item .\NowhereImages\prison\weatherforecast\weatherforecast.png weather_forecast.png
           Rename-Item .\NowhereImages\prison\weatherforecast weather_forecast
 
-          Rename-Item .\NowhereImages\prison\mrfox.png mr_fox.png
+          Rename-Item .\NowhereImages\prison\mrfox\mrfox.png mr_fox.png
           Rename-Item .\NowhereImages\prison\mrfox mr_fox
 
       - name: Push files to NowhereImages
