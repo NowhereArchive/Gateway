@@ -19,6 +19,7 @@ jobs:
       - name: Make changes to NowhereImages
         shell: pwsh
         run: |
+          ls
           Rename-Item ".\NowhereImages\prison\hellsp\hellsp.png" "necrestahella.png"
           
           Rename-Item ".\NowhereImages\prison\hellsp" "necrestahella"
