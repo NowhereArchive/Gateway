@@ -1,0 +1,38 @@
+name: Copy JSONs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  rename:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Clone NowhereImages repo
+        run: |
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereImages.git
+
+      - name: Make changes to NowhereImages
+        run: |
+          rename-item prison/hellsp necrestahella
+          rename-item prison/hellsp/hellsp.png necrestahella.png
+
+      - name: Push files to NowhereImages
+        run: |
+          cd NowhereImages
+          git config user.name  "NowhereArchive"
+          git config user.email "178385478+NowhereArchive@users.noreply.github.com"
+          
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereImages.git
+          
+          git add . 
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Updates"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
