@@ -1,4 +1,4 @@
-name: Rename Photos
+name: Photos
 
 on:
   workflow_dispatch:
@@ -8,8 +8,8 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      # - name: Checkout this repo
-      #   uses: actions/checkout@v4
+      - name: Checkout this repo
+        uses: actions/checkout@v4
 
       - name: Clone NowhereImages repo
         shell: pwsh
@@ -19,17 +19,9 @@ jobs:
       - name: Make changes to NowhereImages
         shell: pwsh
         run: |
-          Rename-Item .\NowhereImages\prison\vautour\vautour.png vautour_bleu.png
-          Rename-Item .\NowhereImages\prison\vautour vautour_bleu
-
-          Rename-Item .\NowhereImages\prison\chelsea\chelsea.png countess_chelsea.png
-          Rename-Item .\NowhereImages\prison\chelsea countess_chelsea
-
-          Rename-Item .\NowhereImages\prison\weatherforecast\weatherforecast.png weather_forecast.png
-          Rename-Item .\NowhereImages\prison\weatherforecast weather_forecast
-
-          Rename-Item .\NowhereImages\prison\mrfox\mrfox.png mr_fox.png
-          Rename-Item .\NowhereImages\prison\mrfox mr_fox
+          copy-item -recurse -force kisugi_ai .\NowhereImages\prison\
+          copy-item -recurse -force asimov_hitomi .\NowhereImages\prison\
+          copy-item -recurse -force asimov_rui .\NowhereImages\prison\
 
       - name: Push files to NowhereImages
         shell: pwsh
