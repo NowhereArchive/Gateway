@@ -8,8 +8,8 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout this repo
-        uses: actions/checkout@v4
+      # - name: Checkout this repo
+      #   uses: actions/checkout@v4
 
       - name: Clone NowhereImages repo
         shell: pwsh
