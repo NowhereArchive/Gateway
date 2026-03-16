@@ -20,8 +20,8 @@ jobs:
         shell: pwsh
         run: |
           copy-item -recurse -force kisugi_ai .\NowhereImages\prison\
-          copy-item -recurse -force asimov_hitomi .\NowhereImages\prison\
-          copy-item -recurse -force asimov_rui .\NowhereImages\prison\
+          copy-item -recurse -force kisugi_hitomi .\NowhereImages\prison\
+          copy-item -recurse -force kisugi_rui .\NowhereImages\prison\
 
       - name: Push files to NowhereImages
         shell: pwsh
