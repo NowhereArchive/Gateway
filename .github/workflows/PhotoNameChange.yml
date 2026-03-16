@@ -20,9 +20,9 @@ jobs:
         shell: pwsh
         run: |
           ls
-          Rename-Item ".\NowhereImages\prison\hellsp\hellsp.png" "necrestahella.png"
+          Rename-Item ".\NowhereImages\prison\hellasp\hellasp.png" "necrestahella.png"
           
-          Rename-Item ".\NowhereImages\prison\hellsp" "necrestahella"
+          Rename-Item ".\NowhereImages\prison\hellasp" "necrestahella"
 
       - name: Push files to NowhereImages
         shell: pwsh
