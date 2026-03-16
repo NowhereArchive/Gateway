@@ -109,9 +109,7 @@
             "title": "レベルアップ",
             "filename": "File:vo_graves_levelup_002.aac",
             "text": "これはあなたが贈ってくれた証なの？"
-        }
-    ],
-    "graves_-_rank_up": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_graves_head_001.aac",
