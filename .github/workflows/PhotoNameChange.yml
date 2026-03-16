@@ -1,4 +1,4 @@
-name: Copy JSONs
+name: Rename Photos
 
 on:
   workflow_dispatch:
@@ -12,27 +12,30 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Clone NowhereImages repo
+        shell: pwsh
         run: |
           git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereImages.git
 
       - name: Make changes to NowhereImages
+        shell: pwsh
         run: |
-          rename-item .\NowhereImages\prison\hellsp necrestahella
-          rename-item .\NowhereImages\prison\hellsp\hellsp.png necrestahella.png
+          Rename-Item ".\NowhereImages\prison\hellsp\hellsp.png" "necrestahella.png"
+          
+          Rename-Item ".\NowhereImages\prison\hellsp" "necrestahella"
 
       - name: Push files to NowhereImages
+        shell: pwsh
         run: |
           cd NowhereImages
-          git config user.name  "NowhereArchive"
+          git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
-          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereImages.git
+          git add .
           
-          git add . 
-          
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Updates"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+          $status = git status --porcelain
+          if ($status) {
+              git commit -m "Updates"
+              git push origin main
+          } else {
+              Write-Host "No changes to commit"
+          }
