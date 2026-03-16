@@ -17,8 +17,8 @@ jobs:
 
       - name: Make changes to NowhereImages
         run: |
-          rename-item prison/hellsp necrestahella
-          rename-item prison/hellsp/hellsp.png necrestahella.png
+          rename-item NowhereImages/prison/hellsp necrestahella
+          rename-item NowhereImages/prison/hellsp/hellsp.png necrestahella.png
 
       - name: Push files to NowhereImages
         run: |
