@@ -20,7 +20,7 @@ jobs:
       - name: Make changes to NowhereDev
         shell: pwsh
         run: |
-          cp -r -force NowhereAudios\* .\NowhereAudiosBak
+          cp -r -force NowhereAudios\audio .\NowhereAudiosBak
 
       - name: Push files to NowhereAudiosBak
         shell: pwsh
