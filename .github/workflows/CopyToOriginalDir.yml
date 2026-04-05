@@ -14,14 +14,15 @@ jobs:
       - name: Clone repos
         shell: pwsh
         run: |
-          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios2.git
           git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios.git
 
       - name: Make changes to NowhereAudios
         shell: pwsh
         run: |
-          rm -r -force NowhereAudios\audio
-          cp -r -force NowhereDev2\audio .\NowhereAudios
+          rm -r -force NowhereAudios\*
+          md NowhereAudios\audio
+          cp -r -force NowhereAudios2\* .\NowhereAudios\audio
 
       - name: Push files to NowhereAudios
         shell: pwsh
