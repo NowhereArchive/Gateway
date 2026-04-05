@@ -20,9 +20,13 @@ jobs:
       - name: Make changes to NowhereAudios
         shell: pwsh
         run: |
-          rm -r -force NowhereAudios\audio
+          Get-ChildItem -Path NowhereAudios\ -Recurse | ForEach-Object {
+            if ($_.FullName -notlike "*.git*") {
+              rm -r -force $_.FullName
+            }
+          }
           md NowhereAudios\audio
-          Get-ChildItem -Path NowhereAudios2\* -Recurse -Dir | ForEach-Object {
+          Get-ChildItem -Path NowhereAudios2\ -Dir | ForEach-Object {
               if ($_.FullName -notlike "*.git*") {
                 cp -r -force $_.FullName .\NowhereAudios\audio
               }
