@@ -1,4 +1,4 @@
-name: Copy to Dev
+name: Audios
 
 on:
   workflow_dispatch:
@@ -11,21 +11,21 @@ jobs:
       - name: Checkout this repo
         uses: actions/checkout@v4
 
-      - name: Clone NowhereDec repo
+      - name: Clone repos
         shell: pwsh
         run: |
-          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev.git
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios.git
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudiosBak.git
 
       - name: Make changes to NowhereDev
         shell: pwsh
         run: |
-          cp -r newJson\voicelines .\NowhereDev\
-          cp newJson\characters.json .\NowhereDev\
+          cp -r -force NowhereAudios\* .\NowhereAudiosBak
 
-      - name: Push files to NowhereDev
+      - name: Push files to NowhereAudiosBak
         shell: pwsh
         run: |
-          cd NowhereDev
+          cd NowhereAudiosBak
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
