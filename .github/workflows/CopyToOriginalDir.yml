@@ -15,18 +15,18 @@ jobs:
         shell: pwsh
         run: |
           git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
-          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudio.git
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios.git
 
-      - name: Make changes to NowhereAudio
+      - name: Make changes to NowhereAudios
         shell: pwsh
         run: |
-          rm -r -force NowhereAudio\audio
-          cp -r -force NowhereDev2\audio .\NowhereAudio
+          rm -r -force NowhereAudios\audio
+          cp -r -force NowhereDev2\audio .\NowhereAudios
 
-      - name: Push files to NowhereAudio
+      - name: Push files to NowhereAudios
         shell: pwsh
         run: |
-          cd NowhereAudio
+          cd NowhereAudios
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
