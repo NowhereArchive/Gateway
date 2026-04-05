@@ -14,18 +14,19 @@ jobs:
       - name: Clone repos
         shell: pwsh
         run: |
-          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudios.git
-          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudiosBak.git
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev2.git
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereAudio.git
 
-      - name: Make changes to NowhereDev
+      - name: Make changes to NowhereAudio
         shell: pwsh
         run: |
-          cp -r -force NowhereAudios\audio .\NowhereAudiosBak
+          rm -r -force NowhereAudio\audio
+          cp -r -force NowhereDev2\audio .\NowhereAudio
 
-      - name: Push files to NowhereAudiosBak
+      - name: Push files to NowhereAudio
         shell: pwsh
         run: |
-          cd NowhereAudiosBak
+          cd NowhereAudio
           git config user.name "NowhereArchive"
           git config user.email "178385478+NowhereArchive@users.noreply.github.com"
           
