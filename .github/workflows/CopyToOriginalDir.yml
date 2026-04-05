@@ -1,0 +1,40 @@
+name: Copy to Dev
+
+on:
+  workflow_dispatch:
+
+jobs:
+  rename:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Clone NowhereDec repo
+        shell: pwsh
+        run: |
+          git clone https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/NowhereArchive/NowhereDev.git
+
+      - name: Make changes to NowhereDev
+        shell: pwsh
+        run: |
+          cp -r newJson\voicelines .\NowhereDev\
+          cp newJson\characters.json .\NowhereDev\
+
+      - name: Push files to NowhereDev
+        shell: pwsh
+        run: |
+          cd NowhereDev
+          git config user.name "NowhereArchive"
+          git config user.email "178385478+NowhereArchive@users.noreply.github.com"
+          
+          git add .
+          
+          $status = git status --porcelain
+          if ($status) {
+              git commit -m "Updates"
+              git push origin main
+          } else {
+              Write-Host "No changes to commit"
+          }

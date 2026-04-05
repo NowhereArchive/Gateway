@@ -280,21 +280,6 @@
             ]
         },
         {
-            "name": "jotaro",
-            "slug": "kujo_jotaro",
-            "displayName": "Kujo Jotaro",
-            "rank": "S",
-            "libram": "INFINITE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
             "name": "jasmine",
             "slug": "jasmine",
             "displayName": "Jasmine",
@@ -475,21 +460,6 @@
                 {
                     "name": "thunder_beat",
                     "displayName": "Thunder Beat"
-                }
-            ]
-        },
-        {
-            "name": "jolyne",
-            "slug": "jolyne_cujoh",
-            "displayName": "Jolyne Cujoh",
-            "rank": "S",
-            "libram": "INFINITE",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
                 }
             ]
         },
@@ -1448,21 +1418,6 @@
             ]
         },
         {
-            "name": "anasui",
-            "slug": "narciso_anastasia",
-            "displayName": "Narciso Anastasia",
-            "rank": "A",
-            "libram": "INFINITE",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
             "name": "luminita",
             "slug": "luminita",
             "displayName": "Luminita",
@@ -1700,21 +1655,6 @@
             "displayName": "Mira",
             "rank": "A",
             "libram": "FAMINE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "ermes",
-            "slug": "ermes_costello",
-            "displayName": "Ermes Costello",
-            "rank": "S",
-            "libram": "INFINITE",
             "tendency": "Fury",
             "category": "Sinners",
             "attires": [
@@ -2060,21 +2000,6 @@
             ]
         },
         {
-            "name": "ff",
-            "slug": "ff",
-            "displayName": "F.F.",
-            "rank": "A",
-            "libram": "INFINITE",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
             "name": "jane",
             "slug": "jane",
             "displayName": "Jane",
@@ -2292,21 +2217,6 @@
                 {
                     "name": "echo_-_initial",
                     "displayName": "Echo - Initial"
-                }
-            ]
-        },
-        {
-            "name": "weather",
-            "slug": "weather_forecast",
-            "displayName": "Weather Forecast",
-            "rank": "A",
-            "libram": "INFINITE",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
                 }
             ]
         },
