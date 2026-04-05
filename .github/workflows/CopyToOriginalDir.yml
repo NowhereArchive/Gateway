@@ -20,9 +20,13 @@ jobs:
       - name: Make changes to NowhereAudios
         shell: pwsh
         run: |
-          rm -r -force NowhereAudios\*
+          rm -r -force NowhereAudios\audio
           md NowhereAudios\audio
-          cp -r -force NowhereAudios2\* .\NowhereAudios\audio
+          Get-ChildItem -Path NowhereAudios2\* -Recurse -Dir | ForEach-Object {
+              if ($_.FullName -notlike "*.git*") {
+                cp -r -force $_.FullName .\NowhereAudios\audio
+              }
+          }
 
       - name: Push files to NowhereAudios
         shell: pwsh
